@@ -5,8 +5,20 @@
 
 - [어떤 저장소인가요?](#어떤-저장소인가요?)
 - [개발자 커뮤니티](#개발자-커뮤니티)
+  - [기술 커뮤니티](#기술-커뮤니티)
+  - [교육 커뮤니티](#교육-커뮤니티)
+  - [학습](#학습)
 - [공식 문서](#공식-문서)
+  - [Web & Frontend](#Web-&-Frontend)
+  - [Javascript Framework](#Javascript-Framework)
+  - [Backend Framework](#Backend-Framework)
+  - [App](#App)
+  - [Database](#Database)
+  - [Server](#Server)
 - [도구](#도구)
+  - [API](#API)
+  - [정규 표현식](#정규-표현식)
+  - [IDE](#IDE)
 
 ## 어떤 저장소인가요?
 - 개발자가 참고하면 좋은 대표적인 사이트를 모아놓은 북마크 저장소입니다. 한 분 한 분에게 도움이 되었으면 좋겠습니다. 🙏🏾
