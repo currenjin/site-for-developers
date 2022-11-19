@@ -1,8 +1,6 @@
 
 [![author](https://img.shields.io/badge/author-currenjin-green.svg?style=flat-square)](https://currenjin.github.io/resume)
 
-<a href="https://github.com/currenjin/site-for-developers/graphs/contributors"><img src="https://opencollective.com/site-for-developers/contributors.svg?width=720"></a>
-
 ## 목차
 
 - [개발자 커뮤니티](#개발자-커뮤니티)
