@@ -64,6 +64,9 @@
 - [infoQ](https://www.infoq.com/) - 최신 기술의 뉴스 및 공유
 - [techcrunch](https://techcrunch.com/) - 각종 과학 기술 뉴스
 
+### 문제풀이
+- [Baekjoon Online Judge](https://www.acmicpc.net/) - 백준 프로그래밍 문제풀이
+
 ## 학습
 - [Opentutorials](https://opentutorials.org/) - 기초 프로그래밍 입문 강좌
 - [W3schools](https://www.w3schools.com/) - WEB 개발 학습
