@@ -57,6 +57,7 @@
 - [Inflearn](https://www.inflearn.com/) - 온라인 프로그래밍 강좌(무료/유료)
 - [swexpertacademy](https://swexpertacademy.com/main/learn/course/courseList.do) - 삼성의 프로그래밍 역량 강화 학습 컨텐츠
 - [nomadcoders](https://nomadcoders.co/) - 온라인 프로그래밍 강좌(무료/유료)
+- [NEXTSTEP](https://edu.nextstep.camp/) - 온라인 프로그래밍 강좌(유료)
 
 ### 뉴스
 - [Dzone](https://dzone.com/) - 세계 최대 개발자 뉴스 사이트
