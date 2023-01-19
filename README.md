@@ -9,6 +9,7 @@
   - [기술 커뮤니티](#기술-커뮤니티)
   - [교육 커뮤니티](#교육-커뮤니티)
   - [학습](#학습)
+  - [문제풀이](#문제풀이)
 - [공식 문서](#공식-문서)
   - [Web & Frontend](#Web-&-Frontend)
   - [Javascript Framework](#Javascript-Framework)
@@ -64,14 +65,14 @@
 - [infoQ](https://www.infoq.com/) - 최신 기술의 뉴스 및 공유
 - [techcrunch](https://techcrunch.com/) - 각종 과학 기술 뉴스
 
-### 문제풀이
-- [Baekjoon Online Judge](https://www.acmicpc.net/) - 백준 프로그래밍 문제풀이
-
-## 학습
+### 학습
 - [Opentutorials](https://opentutorials.org/) - 기초 프로그래밍 입문 강좌
 - [W3schools](https://www.w3schools.com/) - WEB 개발 학습
 - [Codecademy](https://www.codecademy.com/) - 프로그래밍 학습 플랫폼
 - [Udemy](https://www.udemy.com/) - 세계 최대 온라인 강좌
+
+### 문제풀이
+- [Baekjoon Online Judge](https://www.acmicpc.net/) - 백준 프로그래밍 문제풀이
 
 ## 공식 문서
 
