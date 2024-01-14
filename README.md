@@ -50,6 +50,7 @@
 - [laravel](https://laravel.kr/) - 라라벨 코리아 커뮤니티
 - [hashcode](https://hashcode.co.kr/) - 개발자를 위한 질의응답 커뮤니티
 - [devstu](https://devstu.co.kr/howto) - 개발자를 위한 질의응답 커뮤니티
+- [careerly](https://careerly.co.kr/) - 개발자를 위한 질의응답 및 지식 공유 커뮤니티
 
 #### Other
 - [Stack Exchange](https://stackexchange.com/) - 1위 질의응답 커뮤니티
@@ -62,6 +63,7 @@
 - [swexpertacademy](https://swexpertacademy.com/main/learn/course/courseList.do) - 삼성의 프로그래밍 역량 강화 학습 컨텐츠
 - [nomadcoders](https://nomadcoders.co/) - 온라인 프로그래밍 강좌 (무료/유료)
 - [NEXTSTEP](https://edu.nextstep.camp/) - 온라인 프로그래밍 강좌 (유료)
+- [Udemy](https://www.udemy.com/) - 온라인 프로그래밍 강좌 (무료/유료)
 
 ### 뉴스
 - [Dzone](https://dzone.com/) - 세계 최대 개발자 뉴스 사이트
@@ -76,6 +78,7 @@
 
 ### 문제풀이
 - [Baekjoon Online Judge](https://www.acmicpc.net/) - 백준 프로그래밍 문제풀이
+- [Codeforces](https://codeforces.com/) - 프로그래밍 대회 플랫폼
 
 ## 문서 📃
 
