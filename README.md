@@ -23,7 +23,7 @@
   - [API](#API)
   - [정규 표현식](#정규-표현식)
   - [IDE](#IDE)
-  
+
 
 ## 어떤 저장소인가요?
 - 개발자가 참고하면 좋은 대표적인 사이트를 모아놓은 북마크 저장소입니다. 한 분 한 분에게 도움이 되었으면 좋겠습니다. 🙏🏾
@@ -35,6 +35,7 @@
 - [wikidocs](https://wikidocs.net/) - 우수한 프로그래밍 서적 번역
 - [visualgo](https://visualgo.net/en) - 최고의 알고리즘 시각화 학습 라이브러리
 - [roadmap](https://roadmap.sh/) - 초보자에서 마스터로 가는 학습 로드맵
+- [free-for dev](https://free-for.dev/#/) - 개발자를 위한 무료 리소스 모음
 
 ## 개발자 커뮤니티
 
@@ -84,7 +85,7 @@
 - [Python 3 Docs(kr)](https://docs.python.org/ko/3/) - 파이썬3 공식 문서(한국어)
 
 ### WEB & Frontend
-- [MDN Docs(kr)](https://developer.mozilla.org/ko/docs/Web/HTML) - MDN(HTML, CSS, Javascript) 공식 문서(한국어) 
+- [MDN Docs(kr)](https://developer.mozilla.org/ko/docs/Web/HTML) - MDN(HTML, CSS, Javascript) 공식 문서(한국어)
 - [Bootstrap Docs](https://getbootstrap.com/docs/5.1/getting-started/introduction/) - 부트스트랩 공식 문서
 - [javascript.info(kr)](https://ko.javascript.info/) - 모던 자바스크립트 튜토리얼(한국어)
 
@@ -155,3 +156,6 @@
 - [WebStorm](https://www.jetbrains.com/ko-kr/webstorm/) - 젯브레인즈에서 개발한 통합 개발 환경(주로 Javascript)
 - [Atom](https://flight-manual.atom.io/getting-started/sections/installing-atom/) - 오픈 소스 형태의 문서 및 소스 코드 편집기
 - [PyCharm](https://www.jetbrains.com/ko-kr/pycharm/download/#section=mac) - 젯브레인즈에서 개발한 통합 개발 환경(주로 Python)
+
+### AI plugin
+- [Cody AI](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai) - 무료 VS Code AI 플러그인
