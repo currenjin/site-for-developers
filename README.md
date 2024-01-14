@@ -1,16 +1,13 @@
-
-[![author](https://img.shields.io/badge/author-currenjin-green.svg?style=flat-square)](https://currenjin.github.io/resume)
-
 ## 목차
 
 - [어떤 저장소인가요?](#어떤-저장소인가요?)
 - [추천](#추천)
-- [개발자 커뮤니티](#개발자-커뮤니티)
+- [커뮤니티](#커뮤니티)
   - [기술 커뮤니티](#기술-커뮤니티)
   - [교육 커뮤니티](#교육-커뮤니티)
   - [학습](#학습)
   - [문제풀이](#문제풀이)
-- [공식 문서](#공식-문서)
+- [문서](#문서)
   - [Web & Frontend](#Web-&-Frontend)
   - [Javascript Framework](#Javascript-Framework)
   - [Backend Framework](#Backend-Framework)
@@ -30,14 +27,16 @@
 - 개발자가 참고하면 좋은 대표적인 사이트를 모아놓은 북마크 저장소입니다. 한 분 한 분에게 도움이 되었으면 좋겠습니다. 🙏🏾
 - 또한, 참고하면 좋겠다고 생각되는 사이트는 `Pull Request` 로 참여해 주시면 감사하겠습니다! -> [How to contribute](./HOW-TO-CONTRIBUTE.md)
 
+  [![author](https://img.shields.io/badge/author-currenjin-green.svg?style=flat-square)](https://currenjin.github.io/resume)
 
-## 추천
+
+## 추천 👍
 - [Stack Overflow](https://stackoverflow.com/) - 세계 최대 기술 질의 응답 커뮤니티
 - [wikidocs](https://wikidocs.net/) - 우수한 프로그래밍 서적 번역
 - [visualgo](https://visualgo.net/en) - 최고의 알고리즘 시각화 학습 라이브러리
 - [roadmap](https://roadmap.sh/) - 초보자에서 마스터로 가는 학습 로드맵
 
-## 개발자 커뮤니티
+## 커뮤니티 💬
 
 ### 기술 커뮤니티
 
@@ -77,7 +76,7 @@
 ### 문제풀이
 - [Baekjoon Online Judge](https://www.acmicpc.net/) - 백준 프로그래밍 문제풀이
 
-## 공식 문서
+## 문서 📃
 
 - [Kotlin Docs](https://kotlinlang.org/docs/home.html) - 코틀린 공식 문서
 - [Java Docs](https://docs.oracle.com/en/java/) - 자바 공식 문서
@@ -104,7 +103,7 @@
 - [ExpressJS(kr)](https://expressjs.com/ko/) - ExpressJS 공식 홈페이지 (한국어)
 - [Ruby On Rails Guide](https://guides.rubyonrails.org/) - 루비 온 레일즈 공식 가이드
 
-### App
+### Mobile
 - [Android Guide(kr)](https://developer.android.com/docs?hl=ko) - 안드로이드 공식 가이드(한국어)
 - [iOS(kr)](https://developer.apple.com/kr/) - iOS 공식 개발자 홈페이지 (한국어)
 - [React Native Docs](https://reactnative.dev/docs/getting-started) - 리액트 네이티브 공식 문서
@@ -130,7 +129,7 @@
 ### API
 - [Slack API](https://api.slack.com/) - 슬랙 API 공식 문서
 
-## 도구
+## 도구 🔨
 
 - [my ip address](https://whatismyipaddress.com/ip-lookup) - IP 주소 조회
 - [TTSMaker](https://ttsmaker.com/ko) - 텍스트 음성 변환 도구
