@@ -1,26 +1,27 @@
 ## 목차
 
-- [어떤 저장소인가요?](#어떤-저장소인가요?)
-- [추천](#추천-👍)
-- [커뮤니티](#커뮤니티-💬)
+- [어떤 저장소인가요?](#어떤-저장소인가요)
+- [추천](#추천-)
+- [커뮤니티](#커뮤니티-)
   - [기술 커뮤니티](#기술-커뮤니티)
   - [교육 커뮤니티](#교육-커뮤니티)
   - [학습](#학습)
   - [문제풀이](#문제풀이)
-- [문서](#문서-📃)
-  - [Web & Frontend](#Web-&-Frontend)
-  - [Javascript Framework](#Javascript-Framework)
-  - [Backend Framework](#Backend-Framework)
-  - [App](#App)
-  - [Database](#Database)
+- [문서](#문서-)
+  - [Web & Frontend](#web--frontend)
+  - [Javascript Framework](#javascript-framework)
+  - [Backend Framework](#backend-framework)
+  - [App](#mobile)
+  - [Database](#database)
   - [Linux](#linux)
-  - [Server](#Server)
-  - [API](#API)
-- [도구](#도구-🔨)
-  - [No Code](#No-Code)
-  - [API](#API)
+  - [Server](#server)
+  - [API](#api)
+- [도구](#도구-)
+  - [No Code](#no-code)
+  - [API](#api-request)
   - [정규 표현식](#정규-표현식)
-  - [IDE](#IDE)
+  - [IDE](#ide)
+  - [AI plugin](#ai-plugin)
 
 
 ## 어떤 저장소인가요?
@@ -140,7 +141,7 @@
 ### No Code
 - [Bubble](https://bubble.io/how-to-build) - 노코드 툴 Bubble 빌드 가이드
 
-### API
+### API Request
 - [Postman](https://www.postman.com/downloads/) - API 디버그 도구
 
 ### JSON
