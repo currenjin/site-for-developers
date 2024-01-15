@@ -78,7 +78,6 @@
 ### 문제풀이
 - [Baekjoon Online Judge](https://www.acmicpc.net/) - 백준 프로그래밍 문제풀이
 - [Codeforces](https://codeforces.com/) - 프로그래밍 대회 플랫폼
-- []
 
 ## 문서 📃
 
