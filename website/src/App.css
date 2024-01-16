@@ -1,1 +1,10 @@
 @import url('https://cdn.jsdelivr.net/gh/hyeonho2010/hyeonho2010/font.css');
+
+h2 {
+    font-weight: bold;
+    margin-top: 1.5rem;
+}
+
+h3 {
+    margin-top: 1.5rem;
+}
