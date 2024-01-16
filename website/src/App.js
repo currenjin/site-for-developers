@@ -1,27 +1,19 @@
-import ReactMarkdown from 'react-markdown';
-import style from './markdown-styles.module.css';
 import './App.css';
+import { useState, React } from 'react';
+import { marked } from 'marked';
 import axios from 'axios';
-import { useState } from 'react';
-import remarkGfm from 'remark-gfm'
 
 const App = () => {
   const [users, setUsers] = useState([]);
 
   axios.get('https://cdn.jsdelivr.net/gh/currenjin/site-for-developers/README.md')
     .then(response => {
-      console.log(response.data);
-      setUsers(response.data);
+      console.log(marked.parse(response.data));
+      setUsers(marked.parse(response.data));
     });
   return (
-    <div className="App">
-      <ReactMarkdown remarkPlugins={[remarkGfm]} className={style.reactMarkDown}>
-        {"'"+
-
-        users
-
-        +"'"}
-      </ReactMarkdown>
+    <div className="ml-4 mr-4 mb-4 p-4 rounded-lg bg-slate-200">
+      {users}
     </div>
   );
 }
