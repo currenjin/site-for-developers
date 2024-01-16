@@ -8,11 +8,12 @@
   - [학습](#학습)
   - [문제풀이](#문제풀이)
 - [문서](#문서-)
-  - [Web & Frontend](#web--frontend)
+  - [Web & Frontend & Design](#web--frontend--design)
   - [Javascript Framework](#javascript-framework)
   - [Backend Framework](#backend-framework)
   - [App](#mobile)
   - [Database](#database)
+  - [Search](#search)
   - [Linux](#linux)
   - [Server](#server)
   - [API](#api)
@@ -36,7 +37,7 @@
 - [wikidocs](https://wikidocs.net/) - 우수한 프로그래밍 서적 번역
 - [visualgo](https://visualgo.net/en) - 최고의 알고리즘 시각화 학습 라이브러리
 - [roadmap](https://roadmap.sh/) - 초보자에서 마스터로 가는 학습 로드맵
-- [free-for dev](https://free-for.dev/#/) - 개발자를 위한 무료 리소스 모음
+- [Free for Developers](https://free-for.dev/#/) - 개발자를 위한 무료 리소스 모음
 
 ## 커뮤니티 💬
 
@@ -48,7 +49,7 @@
 - [okky](https://okky.kr/) - 국내 최대 개발자 커뮤니티
 - [cikorea](https://www.cikorea.net/) - CodeIgniter 한국 사용자 포럼 (기술 퀴즈 많음)
 - [jsdev](https://jsdev.kr/) - Javascript 개발자 포럼
-- [laravel](https://laravel.kr/) - 라라벨 코리아 커뮤니티
+- [laravel](https://laravel.kr/) - Laravel 코리아 커뮤니티
 - [hashcode](https://hashcode.co.kr/) - 개발자를 위한 질의응답 커뮤니티
 - [devstu](https://devstu.co.kr/howto) - 개발자를 위한 질의응답 커뮤니티
 - [careerly](https://careerly.co.kr/) - 개발자를 위한 질의응답 및 지식 공유 커뮤니티
@@ -60,9 +61,9 @@
 - [Coderanch](https://coderanch.com/) - Java 원스톱 학습 강좌
 
 ### 교육 커뮤니티
-- [Inflearn](https://www.inflearn.com/) - 온라인 프로그래밍 강좌 (무료/유료)
+- [Inflearn](https://www.inflearn.com/) - 온라인 프로그래밍 강좌 (유/무료)
 - [swexpertacademy](https://swexpertacademy.com/main/learn/course/courseList.do) - 삼성의 프로그래밍 역량 강화 학습 컨텐츠
-- [nomadcoders](https://nomadcoders.co/) - 온라인 프로그래밍 강좌 (무료/유료)
+- [nomadcoders](https://nomadcoders.co/) - 온라인 프로그래밍 강좌 (유/무료)
 - [NEXTSTEP](https://edu.nextstep.camp/) - 온라인 프로그래밍 강좌 (유료)
 
 ### 뉴스
@@ -83,14 +84,17 @@
 ## 문서 📃
 
 - [Kotlin Docs](https://kotlinlang.org/docs/home.html) - 코틀린 공식 문서
-- [Java Docs](https://docs.oracle.com/en/java/) - 자바 공식 문서
-- [Google Docs](https://developers.google.com/) - 구글 개발자 공식 문서
-- [Python 3 Docs(kr)](https://docs.python.org/ko/3/) - 파이썬3 공식 문서 (한국어)
+- [Java Docs](https://docs.oracle.com/en/java/) - Java 공식 문서
+- [Google Developers Docs](https://developers.google.com/) - 구글 개발자 공식 문서
+- [Python 3 Docs(kr)](https://docs.python.org/ko/3/) - Python3 공식 문서 (한국어)
 
-### WEB & Frontend
+### Web & Frontend & Design
+#### Web
 - [MDN Docs(kr)](https://developer.mozilla.org/ko/docs/Web/HTML) - MDN(HTML, CSS, Javascript) 공식 문서 (한국어)
-- [Bootstrap Docs](https://getbootstrap.com/docs/5.1/getting-started/introduction/) - 부트스트랩 공식 문서
 - [javascript.info(kr)](https://ko.javascript.info/) - 모던 자바스크립트 튜토리얼 (한국어)
+
+#### Design
+- [Bootstrap Docs](https://getbootstrap.com/docs/5.1/getting-started/introduction/) - Bootstrap 공식 문서
 
 ### Javascript Framework
 - [NodeJS Docs](https://nodejs.org/en/docs/) - NodeJS 공식 문서
@@ -100,38 +104,41 @@
 - [ExpressJS(kr)](https://expressjs.com/ko/) - ExpressJS 공식 홈페이지 (한국어)
 
 ### Backend Framework
-- [Spring Boot Docs](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/) - 스프링부트 공식 문서
-- [Spring Docs](https://docs.spring.io/spring-framework/docs/current/reference/html/) - 스프링 공식 문서
-- [Django Docs(kr)](https://docs.djangoproject.com/ko/4.0/intro/) - 장고 공식 문서(한국어
-- [Flask Docs(kr)](https://flask-docs-kr.readthedocs.io/ko/latest/) - 플라스크 공식 문서(한국어)
+- [Spring Boot Docs](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/) - Spring Boot 공식 문서
+- [Spring Docs](https://docs.spring.io/spring-framework/docs/current/reference/html/) - Spring 공식 문서
+- [Django Docs(kr)](https://docs.djangoproject.com/ko/4.0/intro/) - Django 공식 문서 (한국어)
+- [Flask Docs(kr)](https://flask-docs-kr.readthedocs.io/ko/latest/) - Flask 공식 문서(한국어)
 - [ExpressJS(kr)](https://expressjs.com/ko/) - ExpressJS 공식 홈페이지 (한국어)
-- [Ruby On Rails Guide](https://guides.rubyonrails.org/) - 루비 온 레일즈 공식 가이드
+- [Ruby On Rails Guide](https://guides.rubyonrails.org/) - Ruby On Rails 공식 가이드
 
 ### Mobile
-- [Android Guide(kr)](https://developer.android.com/docs?hl=ko) - 안드로이드 공식 가이드(한국어)
+- [Android Guide(kr)](https://developer.android.com/docs?hl=ko) - Android 공식 가이드(한국어)
 - [iOS(kr)](https://developer.apple.com/kr/) - iOS 공식 개발자 홈페이지 (한국어)
-- [React Native Docs](https://reactnative.dev/docs/getting-started) - 리액트 네이티브 공식 문서
-- [Flutter Docs(kr)](https://flutter-ko.dev/docs) - 플러터 공식 문서 (한국어)
+- [React Native Docs](https://reactnative.dev/docs/getting-started) - React Native 공식 문서
+- [Flutter Docs(kr)](https://flutter-ko.dev/docs) - Flutter 공식 문서 (한국어)
 
 ### Database
-- [Oracle(kr)](https://www.oracle.com/kr/) - 오라클 공식 홈페이지 (한국어)
+- [Oracle(kr)](https://www.oracle.com/kr/) - Oracle 공식 홈페이지 (한국어)
 - [MySQL Docs](https://dev.mysql.com/doc/) - MySQL 공식 문서
-- [MongoDB Docs](https://www.mongodb.com/docs/) - 몽고DB 공식 문서
+- [MongoDB Docs](https://www.mongodb.com/docs/) - MongoDB 공식 문서
 - [PostgreSQL Docs](https://www.postgresql.org/docs/) - PostgreSQL 공식 문서
-- [Redis Docs](https://redis.io/docs/) - 레디스 공식 문서
-- [Elasticsearch Docs](https://www.elastic.co/guide/en/elasticsearch/reference/current/docs.html#docs) - 엘라스틱서치 공식 문서
+- [Redis Docs](https://redis.io/docs/) - Redis 공식 문서
+
+### Search
+- [Elasticsearch Docs](https://www.elastic.co/guide/en/elasticsearch/reference/current/docs.html#docs) - Elasticsearch 공식 문서
+- [Algolia](https://www.algolia.com/doc/) - Algolia 공식 문서
 
 ### Linux
-- [Ubuntu(kr)](https://ubuntu-kr.org/) - 우분투 리눅스 공식 홈페이지 (한국어)
-- [Debian(kr)](https://www.debian.org/index.ko.html) - 데비안 리눅스 공식 홈페이지(한국어)
+- [Ubuntu(kr)](https://ubuntu-kr.org/) - Ubuntu 공식 홈페이지 (한국어)
+- [Debian(kr)](https://www.debian.org/index.ko.html) - Debian 공식 홈페이지 (한국어)
+- [CentOS Docs](https://wiki.centos.org/Documentation) - CentOS 공식 문서
 
 ### Server
-- [CentOS Docs](https://wiki.centos.org/Documentation) - 센트OS 공식 문서
-- [Kubernetes Docs(kr)](https://kubernetes.io/ko/docs/home/) - 쿠버네티스 공식 문서(한국어)
-- [Docker Docs](https://docs.docker.com/) - 도커 공식 문서
+- [Kubernetes Docs(kr)](https://kubernetes.io/ko/docs/home/) - kubernetes 공식 문서 (한국어)
+- [Docker Docs](https://docs.docker.com/) - Docker 공식 문서
 
 ### API
-- [Slack API](https://api.slack.com/) - 슬랙 API 공식 문서
+- [Slack API](https://api.slack.com/) - Slack API 공식 문서
 
 ## 도구 🔨
 
@@ -173,4 +180,4 @@
 - [Eclipse](https://www.eclipse.org/) - 자바 기반의 통합 개발 환경
 
 ### AI plugin
-- [Cody AI](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai) - 무료 VS Code AI 플러그인
+- [Cody AI](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai) - Visual Studio Code AI 플러그인 (무료)
