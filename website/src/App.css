@@ -1,0 +1,14 @@
+@import url('https://cdn.jsdelivr.net/gh/hyeonho2010/hyeonho2010/font.css');
+
+h2 {
+    font-weight: bold;
+    font-size: 1.4rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid rgb(185, 185, 185);
+}
+
+h3 {
+    margin-top: 1.5rem;
+    font-size: 1.1rem;
+}
