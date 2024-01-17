@@ -10,7 +10,7 @@ root.render(
       <div className="flex-none">
       </div>
       <div className="flex-1">
-        <a className="btn btn-ghost text-xl suit">💎 Site for developers</a>
+        <div className="btn btn-ghost text-xl suit">💎 Site for developers</div>
       </div>
       <div className="flex-none">
       </div>
