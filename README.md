@@ -87,6 +87,7 @@
 - [Java Docs](https://docs.oracle.com/en/java/) - Java 공식 문서
 - [Google Developers Docs](https://developers.google.com/) - 구글 개발자 공식 문서
 - [Python 3 Docs(kr)](https://docs.python.org/ko/3/) - Python3 공식 문서 (한국어)
+- [Git](https://git-scm.com/) - Git 공식 문서
 
 ### Web & Frontend & Design
 #### Web
@@ -95,6 +96,7 @@
 
 #### Design
 - [Bootstrap Docs](https://getbootstrap.com/docs/5.1/getting-started/introduction/) - Bootstrap 공식 문서
+- [Flexbox Froggy](https://flexboxfroggy.com/#ko) - Flex 연습 페이지
 
 ### Javascript Framework
 - [NodeJS Docs](https://nodejs.org/en/docs/) - NodeJS 공식 문서
