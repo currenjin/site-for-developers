@@ -1,19 +1,12 @@
-import "./App.css";
-import { useState, React } from "react";
-import { IoClose } from "react-icons/io5";
-import { marked } from "marked";
-import axios from "axios";
+import "./css/App.css";
+import { React } from "react";
+import { IoClose, IoMenu } from "react-icons/io5";
+import { Route, Routes, Link } from "react-router-dom";
+import Home from "./pages/Home";
+import About from "./pages/About";
+import Contribute from "./pages/Contribute";
 
 const App = () => {
-  const [mdData, setmdData] = useState([]);
-
-  axios
-    .get("https://cdn.jsdelivr.net/gh/currenjin/site-for-developers/README.md")
-    .then((response) => {
-      console.log(marked.parse(response.data));
-      setmdData(marked.parse(response.data));
-    });
-
   function closeBanner() {
     var banner = document.getElementById("banner");
     banner.style.display = "none";
@@ -45,12 +38,33 @@ const App = () => {
             💎 Site for developers
           </div>
         </div>
-        <div className="flex-none"></div>
+        <div className="flex-none">
+          <div className="dropdown dropdown-hover dropdown-bottom dropdown-end">
+            <div tabIndex={0} role="button" className="p-2">
+              <IoMenu size={40} />
+            </div>
+            <ul
+              tabIndex={0}
+              className="dropdown-content z-[1] menu p-1 shadow bg-base-100 rounded-box w-52 suit text-base"
+            >
+              <li>
+                <Link to="/">홈</Link>
+              </li>
+              <li>
+                <Link to="/about">소개</Link>
+              </li>
+              <li>
+                <Link to="/contribute">기여</Link>
+              </li>
+            </ul>
+          </div>
+        </div>
       </div>
-      <div
-        className="ml-4 mr-4 mb-4 p-4 rounded-lg bg-gray-200 pretendard"
-        dangerouslySetInnerHTML={{ __html: mdData }}
-      ></div>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/contribute" element={<Contribute />} />
+      </Routes>
     </>
   );
 };
