@@ -25,16 +25,16 @@ const App = () => {
         id="banner"
       >
         <div className="justify-start">
-          목차를 클릭하였을 때 정상적으로 작동하지 않는 오류가 있어요. 자세한
-          내용을 보려면{" "}
+          현재 목차를 클릭하였을 때 정상적으로 작동하지 않는 오류가 있어요.
+          자세한 내용을 보려면{" "}
           <a href="https://github.com/currenjin/site-for-developers/issues/9">
             여기
           </a>
           를 클릭하세요.
         </div>
         <div className="justify-end">
-          <button className="bg-gray-400 p-2 rounded-lg" onClick={closeBanner}>
-            <IoClose size={26} />
+          <button className="bg-gray-300 p-2 rounded-lg" onClick={closeBanner}>
+            <IoClose size={22} />
           </button>
         </div>
       </div>
