@@ -1,6 +1,8 @@
-@import url('https://cdn.jsdelivr.net/gh/hyeonho2010/hyeonho2010/font.css');
+.mddata a {
+    @apply underline text-blue-600 hover:text-blue-800 visited:text-purple-600
+}
 
-h2 {
+.mddata h2 {
     font-weight: bold;
     font-size: 1.4rem;
     margin-top: 1rem;
@@ -8,7 +10,7 @@ h2 {
     border-bottom: 1px solid rgb(185, 185, 185);
 }
 
-h3 {
+.mddata h3 {
     margin-top: 1.5rem;
     font-size: 1.1rem;
 }
