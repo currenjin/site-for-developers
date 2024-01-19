@@ -80,6 +80,7 @@
 ### 문제풀이
 - [Baekjoon Online Judge](https://www.acmicpc.net/) - 백준 프로그래밍 문제풀이
 - [Codeforces](https://codeforces.com/) - 프로그래밍 대회 플랫폼
+- [Programmers](https://school.programmers.co.kr/learn/challenges) - 코딩 테스트 문제풀이
 
 ## 문서 📃
 
@@ -104,6 +105,7 @@
 - [NextJS Docs](https://nextjs.org/docs/getting-started) - NextJS 공식 문서
 - [VueJS Guide](https://vuejs.org/guide/introduction.html) - VueJS 공식 가이드
 - [ExpressJS(kr)](https://expressjs.com/ko/) - ExpressJS 공식 홈페이지 (한국어)
+- [NestJS](https://docs.nestjs.com/) - NestJS 공식 문서
 
 ### Backend Framework
 - [Spring Boot Docs](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/) - Spring Boot 공식 문서
@@ -112,6 +114,7 @@
 - [Flask Docs(kr)](https://flask-docs-kr.readthedocs.io/ko/latest/) - Flask 공식 문서(한국어)
 - [ExpressJS(kr)](https://expressjs.com/ko/) - ExpressJS 공식 홈페이지 (한국어)
 - [Ruby On Rails Guide](https://guides.rubyonrails.org/) - Ruby On Rails 공식 가이드
+- [NestJS](https://docs.nestjs.com/) - NestJS 공식 문서
 
 ### Mobile
 - [Android Guide(kr)](https://developer.android.com/docs?hl=ko) - Android 공식 가이드(한국어)
@@ -141,6 +144,11 @@
 
 ### API
 - [Slack API](https://api.slack.com/) - Slack API 공식 문서
+- [Discord API](https://discord.com/developers/docs/intro) - Discord API 공식 문서
+- [Github App API](https://docs.github.com/ko/apps) - 깃허브 애플리케이션 API 공식 문서
+- [Github REST API](https://docs.github.com/ko/rest?apiVersion=2022-11-28) - 깃허브 REST API 공식 문서
+- [Github GraphQL API](https://docs.github.com/ko/graphql) - 깃허브 GraphQL API 공식 문서
+- [Github Webhook](https://docs.github.com/ko/webhooks) - 깃허브 Webhook 공식 문서
 
 ## 도구 🔨
 
