@@ -76,11 +76,14 @@
 - [W3schools](https://www.w3schools.com/) - WEB 개발 학습
 - [Codecademy](https://www.codecademy.com/) - 프로그래밍 학습 플랫폼
 - [Udemy](https://www.udemy.com/) - 세계 최대 온라인 강좌
+- [edwith](https://www.edwith.org/?validMobileApp=true) - 네이버커넥트 재단의 공개강좌 플랫폼
 
 ### 문제풀이
 - [Baekjoon Online Judge](https://www.acmicpc.net/) - 백준 프로그래밍 문제풀이
 - [Codeforces](https://codeforces.com/) - 프로그래밍 대회 플랫폼
 - [Programmers](https://school.programmers.co.kr/learn/challenges) - 코딩 테스트 문제풀이
+- [코딩도장](https://codingdojang.com/) - 코딩도장 문제풀이
+- 
 
 ## 문서 📃
 
@@ -96,6 +99,7 @@
 - [javascript.info(kr)](https://ko.javascript.info/) - 모던 자바스크립트 튜토리얼 (한국어)
 - [HTML DOM](https://phuoc.ng/collection/html-dom/) - HTML DOM 마스터하기
 - [Rspack](https://www.rspack.dev/) - Rspack(Rust 기반 번들러)
+- [Thymeleaf](https://www.thymeleaf.org/) - Server-side Java Template Engine
 
 #### Design
 - [Bootstrap Docs](https://getbootstrap.com/docs/5.1/getting-started/introduction/) - Bootstrap 공식 문서
@@ -161,6 +165,11 @@
 - [online gdb](https://www.onlinegdb.com/) - 온라인 컴파일러 및 디버거 도구
 - [Draw io](https://app.diagrams.net/) - 다이어그램 작성 도구
 - [DGM](https://dgm.sh/home/) - 다이어그램 작성 도구(제작자가 한국인)
+- [Spring Initializr](https://start.spring.io/) - Spring Project Generator
+- [Pexels](https://www.pexels.com/ko-kr/) - 고화질 무료이미지 모음
+- [Canva](https://www.canva.com/ko_kr/) - 무료 디자인 툴
+- [Emojipedia](https://emojipedia.org/) - 세계 최대 이모지 저장소
+- [내도메인.한국](https://xn--220b31d95hq8o.xn--3e0b707e/) - 무료 한국 도메인 발급
 
 ### No Code
 - [Bubble](https://bubble.io/how-to-build) - 노코드 툴 Bubble 빌드 가이드
