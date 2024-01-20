@@ -59,6 +59,7 @@
 - [Hashnode](https://hashnode.com/) - 개발자를 위한 질의응답 커뮤니티
 - [Producthunt](https://www.producthunt.com/) - 세계 최대 인터넷 제품 수집 커뮤니티
 - [Coderanch](https://coderanch.com/) - Java 원스톱 학습 강좌
+- [Stack Overflow](https://stackoverflow.com/) - 세계 최대 질의응답 커뮤니티
 
 ### 교육 커뮤니티
 - [Inflearn](https://www.inflearn.com/) - 온라인 프로그래밍 강좌 (유/무료)
