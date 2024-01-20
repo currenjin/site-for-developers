@@ -1,10 +1,20 @@
 import '../css/pages.home.css';
 import { marked } from "marked";
+import { gfmHeadingId } from "marked-gfm-heading-id";
 import axios from "axios";
 import { useState, React } from "react";
 
 const Home = () => {
   const [mdData, setmdData] = useState([]);
+
+  const options = {
+    prefix: "",
+  };
+
+  marked.use({
+    gfm: true,
+  },
+  gfmHeadingId(options),);
 
   axios
     .get("https://cdn.jsdelivr.net/gh/currenjin/site-for-developers/README.md")
@@ -12,6 +22,8 @@ const Home = () => {
       console.log(marked.parse(response.data));
       setmdData(marked.parse(response.data));
     });
+
+    console.log(mdData);
   return (
     <div>
       <div
