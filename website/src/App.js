@@ -12,9 +12,11 @@ const App = () => {
       <div className="navbar bg-base-100">
         <div className="flex-none"></div>
         <div className="flex-1">
-          <div className="btn btn-ghost text-xl suit">
-            💎 Site for developers
-          </div>
+          <Link to="/">
+            <div className="btn btn-ghost text-xl suit">
+              💎 Site for developers
+            </div>
+          </Link>
         </div>
         <div className="flex-none">
           <div className="dropdown dropdown-hover dropdown-bottom dropdown-end">

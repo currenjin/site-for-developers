@@ -1,7 +1,7 @@
 import '../css/pages.home.css';
+import axios from "axios";
 import { marked } from "marked";
 import { gfmHeadingId } from "marked-gfm-heading-id";
-import axios from "axios";
 import { useState, React } from "react";
 
 const Home = () => {
@@ -17,9 +17,9 @@ const Home = () => {
   gfmHeadingId(options),);
 
   axios
-    .get("https://cdn.jsdelivr.net/gh/currenjin/site-for-developers/README.md")
+    .get("https://raw.githubusercontent.com/corydalis2010/site-for-developers/main/README.md")
     .then((response) => {
-      console.log(marked.parse(response.data));
+      console.log(response.data);
       setmdData(marked.parse(response.data));
     });
 
@@ -27,7 +27,7 @@ const Home = () => {
   return (
     <div>
       <div
-        className="mddata ml-4 mr-4 mb-4 p-4 rounded-lg bg-gray-200 pretendard"
+        className="mddata ml-4 mr-4 mb-4 p-4 rounded-lg bg-gray-100 pretendard"
         dangerouslySetInnerHTML={{ __html: mdData }}
       ></div>
     </div>

@@ -10,7 +10,12 @@
     border-bottom: 1px solid rgb(185, 185, 185);
 }
 
+.mddata h2:first-of-type {
+    margin-top: 0;
+}
+
 .mddata h3 {
+    font-weight: bold;
     margin-top: 1.5rem;
     font-size: 1.1rem;
 }
