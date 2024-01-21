@@ -174,6 +174,7 @@
 - [Canva](https://www.canva.com/ko_kr/) - 무료 디자인 툴
 - [Emojipedia](https://emojipedia.org/) - 세계 최대 이모지 저장소
 - [내도메인.한국](https://xn--220b31d95hq8o.xn--3e0b707e/) - 무료 한국 도메인 발급
+- [Colab](https://colab.research.google.com/?hl=ko#) - 호스팅된 Jupyter 노트북 서비스로, 설정하지 않고 사용 가능하며 GPU를 포함한 컴퓨팅 리소스를 무료로 사용
 
 ### No Code
 - [Bubble](https://bubble.io/how-to-build) - 노코드 툴 Bubble 빌드 가이드
