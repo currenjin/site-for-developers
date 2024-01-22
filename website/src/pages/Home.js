@@ -1,4 +1,4 @@
-import '../css/pages.home.css';
+import '../components/css/pages.home.css';
 import axios from "axios";
 import { marked } from "marked";
 import { gfmHeadingId } from "marked-gfm-heading-id";
@@ -17,7 +17,7 @@ const Home = () => {
   gfmHeadingId(options),);
 
   axios
-    .get("https://raw.githubusercontent.com/corydalis2010/site-for-developers/main/README.md")
+    .get("https://raw.githubusercontent.com/currenjin/site-for-developers/main/README.md")
     .then((response) => {
       console.log(response.data);
       setmdData(marked.parse(response.data));
@@ -27,7 +27,7 @@ const Home = () => {
   return (
     <div>
       <div
-        className="mddata ml-4 mr-4 mb-4 p-4 rounded-lg bg-gray-100 pretendard"
+        className="mddata ml-4 mr-4 mb-4 p-4 rounded-lg bg-gray-100 pretendard text-wrap"
         dangerouslySetInnerHTML={{ __html: mdData }}
       ></div>
     </div>

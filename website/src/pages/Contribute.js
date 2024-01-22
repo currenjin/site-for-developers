@@ -1,4 +1,4 @@
-import "../css/pages.contribute.css";
+import "../components/css/pages.contribute.css";
 import { marked } from "marked";
 import { gfmHeadingId } from "marked-gfm-heading-id";
 import axios from "axios";
@@ -20,7 +20,7 @@ const Home = () => {
 
   axios
     .get(
-      "https://raw.githubusercontent.com/corydalis2010/site-for-developers/main/HOW-TO-CONTRIBUTE.md"
+      "https://raw.githubusercontent.com/currenjin/site-for-developers/main/HOW-TO-CONTRIBUTE.md"
     )
     .then((response) => {
       console.log(response.data);
@@ -31,7 +31,7 @@ const Home = () => {
   return (
     <div>
       <div
-        className="mddatacontribute ml-4 mr-4 mb-4 p-4 rounded-lg bg-gray-100 pretendard"
+        className="mddatacontribute ml-4 mr-4 mb-4 p-4 rounded-lg bg-gray-100 pretendard text-wrap"
         dangerouslySetInnerHTML={{ __html: mdDataContribute }}
       ></div>
     </div>

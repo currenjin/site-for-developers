@@ -1,4 +1,4 @@
-package com.corydallis2010.sitefordevelopers
+package com.rivercory.sitefordevelopers
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

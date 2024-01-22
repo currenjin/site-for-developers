@@ -1,4 +1,4 @@
-package com.corydallis2010.sitefordevelopers
+package com.rivercory.sitefordevelopers
 
 import org.junit.Test
 

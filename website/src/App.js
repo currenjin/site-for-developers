@@ -1,4 +1,4 @@
-import "./css/App.css";
+import "./components/css/App.css";
 import { React } from "react";
 import { IoMenu } from "react-icons/io5";
 import { Route, Routes, Link } from "react-router-dom";
