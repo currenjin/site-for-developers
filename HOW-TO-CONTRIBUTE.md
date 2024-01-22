@@ -14,7 +14,7 @@ $ git clone https://github.com/currenjin/site-for-developers
 $ cd site-for-developers
 ```
 
-### 3. Commit your
+### 3. Commit your changes
 ```
 $ git add .
 $ git commit -m "[your description]"
