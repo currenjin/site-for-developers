@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-.idea/
-.DS_Store
-website
-android
-=======
 /node_modules
 /.pnp
 .pnp.js
@@ -19,4 +13,3 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 package-lock.json
->>>>>>> 633950e (Initial commit)
