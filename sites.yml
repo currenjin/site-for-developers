@@ -1,10 +1,3 @@
-- name: Stack Overflow
-  link: https://stackoverflow.com
-  description: 세계 최대 기술 질의 응답 커뮤니티
-  category:
-    - community
-    - other
-
 - name: wikidocs
   link: https://wikidocs.net
   description: 우수한 프로그래밍 서적 번역
@@ -543,6 +536,7 @@
     - database
 
 - name: Elasticsearch Docs
+  link: https://www.elastic.co/guide/en/elasticsearch/reference/current/docs.html#docs
   description: Elasticsearch 공식 문서
   categories:
     - docs
@@ -564,6 +558,11 @@
 
 - name: Fedora (KR)
   link: https://docs.fedoraproject.org/ko/docs) Fedora 공식 문서 (한국어)
+  description: Fedora 공식 문서 (한국어)
+  categories:
+    - docs
+    - linux
+
 - name: Debian (KR)
   link: https://www.debian.org/index.ko.html
   description: Debian 공식 문서 (한국어)
@@ -833,6 +832,7 @@
 
 - name: Rider
   link: https://www.jetbrains.com/ko-kr/rider/
+  description: Jetbrains에서 개발한 통합 개발 환경 (C#, .NET)
   categories:
     - tool
     - ide
