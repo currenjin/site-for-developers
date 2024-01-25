@@ -1,4 +1,4 @@
-name: Convert YAML to Markdown
+name: Update README
 
 on:
   push:
@@ -6,20 +6,20 @@ on:
       - develop-yml
 
 jobs:
-  convert:
+  update-readme:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: Install Node.js
+      - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '20'
 
-      - name: Install YAML to Markdown Converter
-        run: npm install -g yaml-to-md
+      - name: Install Dependencies
+        run: npm install
 
-      - name: Convert YAML to Markdown
-        run: yaml-to-md -i sites.yml -o sites.md
+      - name: Run Update Script
+        run: node convert-yml-to-md.js
