@@ -23,3 +23,11 @@ jobs:
 
       - name: Run Update Script
         run: node .github/workflows/convert-yml-to-md.js
+
+      - name: Commit README.md
+        run: |
+          git config --global user.email "hyun0524e@naver.com"
+          git config --global user.name "currenjin"
+          git add README.md
+          git commit -m "<Action> Docs: README.md"
+          git push origin develop-yml
