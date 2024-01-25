@@ -1,9 +1,9 @@
 const fs = require('fs');
 
 function generateMarkdown(categories, sites) {
-  let markdown = '## 문서\n';
+  let markdown = '';
   categories.forEach(category => {
-    markdown += `### ${category.text}\n`;
+    markdown += `## ${category.text}\n`;
     const categorySites = sites.filter(site => site.categories.includes(category.category));
     categorySites.forEach(site => {
       markdown += `- [${site.name}](${site.link}) - ${site.description}\n`;
