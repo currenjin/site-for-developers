@@ -18,5 +18,8 @@ jobs:
         with:
           node-version: '20'
 
+      - name: Install Dependencies
+        run: npm install js-yaml
+
       - name: Run Update Script
         run: node .github/workflows/convert-yml-to-md.js
