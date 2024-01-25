@@ -12,8 +12,8 @@ function generateMarkdown(categories, sites) {
   return markdown;
 }
 
-const categories = require('./categories.yml');
-const sites = require('./sites.yml');
+const categories = require('/categories.yml');
+const sites = require('/sites.yml');
 
 const readmeContent = generateMarkdown(categories, sites);
 fs.writeFileSync('README.md', readmeContent);
