@@ -23,3 +23,9 @@ jobs:
 
       - name: Run Update Script
         run: node .github/workflows/convert-yml-to-md.js
+
+      - name: Commit README
+        run: |
+          git add README.md
+          git commit -m "Docs: README.md"
+        if: always()
