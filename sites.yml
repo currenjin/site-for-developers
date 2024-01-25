@@ -1,0 +1,940 @@
+- name: Stack Overflow
+  link: https://stackoverflow.com
+  description: 세계 최대 기술 질의 응답 커뮤니티
+  category:
+    - community
+    - other
+
+- name: wikidocs
+  link: https://wikidocs.net
+  description: 우수한 프로그래밍 서적 번역
+  categories:
+    - docs
+    - book
+
+- name: visualgo
+  link: https://visualgo.net/en
+  description: 최고의 알고리즘 시각화 학습 라이브러리
+  categories:
+    - tool
+    - ai-plugin
+
+- name: roadmap
+  link: https://roadmap.sh
+  description: 초보자에서 마스터로 가는 학습 로드맵
+  categories:
+    - docs
+
+- name: Free for Developers
+  link: https://free-for.dev
+  description: 개발자를 위한 무료 리소스 모음
+  categories:
+    - docs
+
+- name: velog
+  link: https://velog.io
+  description: 개발자 기술 공유 블로그
+  categories:
+    - community
+    - tech
+    - korea
+
+- name: disquiet
+  link: https://disquiet.io
+  description: IT 서비스 메이커들의 소셜 네트워크
+  categories:
+    - community
+    - tech
+    - korea
+
+- name: okky
+  link: https://okky.kr
+  description: 국내 최대 개발자 커뮤니티
+  categories:
+    - community
+    - tech
+    - korea
+
+- name: cikorea
+  link: https://www.cikorea.net
+  description: CodeIgniter 한국 사용자 포럼 (기술 퀴즈 많음)
+  categories:
+    - community
+    - tech
+    - korea
+
+- name: jsdev
+  link: https://jsdev.kr
+  description: Javascript 개발자 포럼
+  categories:
+    - community
+    - tech
+    - korea
+
+- name: laravel
+  link: https://laravel.kr/
+  description: Laravel 코리아 커뮤니티
+  categories:
+    - community
+    - tech
+    - korea
+
+- name: hashcode
+  link: https://hashcode.co.kr
+  description: 개발자를 위한 질의응답 커뮤니티
+  categories:
+    - community
+    - tech
+    - korea
+
+- name: devstu
+  link: https://devstu.co.kr/howto
+  description: 개발자를 위한 질의응답 커뮤니티
+  categories:
+    - community
+    - tech
+    - korea
+
+- name: careerly
+  link: https://careerly.co.kr
+  description: 개발자를 위한 질의응답 및 지식 공유 커뮤니티
+  categories:
+    - community
+    - tech
+    - korea
+
+- name: Hashnode
+  link: https://hashnode.com
+  description: 개발자를 위한 질의응답 커뮤니티
+  categories:
+    - community
+    - tech
+    - other
+
+- name: Producthunt
+  link: https://www.producthunt.com
+  description: 세계 최대 인터넷 제품 수집 커뮤니티
+  categories:
+    - community
+    - tech
+    - other
+
+- name: Coderanch
+  link: https://coderanch.com
+  description: Java 원스톱 학습 강좌
+  categories:
+    - community
+    - tech
+    - other
+
+- name: Stack Overflow
+  link: https://stackoverflow.com
+  description: 세계 최대 질의응답 커뮤니티
+  categories:
+    - community
+    - tech
+    - other
+
+- name: Inflearn
+  link: https://www.inflearn.com
+  description: 온라인 프로그래밍 강좌 (유/무료)
+  categories:
+    - community
+    - lecture
+
+- name: swexpertacademy
+  link: https://swexpertacademy.com/main/learn/course/courseList.do
+  description: 삼성의 프로그래밍 역량 강화 학습 컨텐츠
+  categories:
+    - community
+    - lecture
+
+- name: nomadcoders
+  link: https://nomadcoders.co
+  description: 온라인 프로그래밍 강좌 (유/무료)
+  categories:
+    - community
+    - lecture
+
+- name: NEXTSTEP
+  link: https://edu.nextstep.camp
+  description: 온라인 프로그래밍 강좌 (유료)
+  categories:
+    - community
+    - lecture
+
+- name: Dzone
+  link: https://dzone.com
+  description: 세계 최대 개발자 뉴스 사이트
+  categories:
+    - community
+    - news
+
+- name: infoQ
+  link: https://www.infoq.com
+  description: 최신 기술의 뉴스 및 공유
+  categories:
+    - community
+    - news
+
+- name: techcrunch
+  link: https://techcrunch.com
+  description: 각종 과학 기술 뉴스
+  categories:
+    - community
+    - news
+
+- name: Opentutorials
+  link: https://opentutorials.org
+  description: 기초 프로그래밍 입문 강좌
+  categories:
+    - community
+    - learning
+
+- name: W3schools
+  link: https://www.w3schools.com
+  description: WEB 개발 학습
+  categories:
+    - community
+    - learning
+
+- name: Codecademy
+  link: https://www.codecademy.com
+  description: 프로그래밍 학습 플랫폼
+  categories:
+    - community
+    - learning
+
+- name: Udemy
+  link: https://www.udemy.com
+  description: 세계 최대 온라인 강좌
+  categories:
+    - community
+    - learning
+
+- name: edwith
+  link: https://www.edwith.org/?validMobileApp=true
+  description: 네이버커넥트 재단의 공개강좌 플랫폼
+  categories:
+    - community
+    - learning
+
+- name: TCP School(Java)
+  link: https://www.tcpschool.com/java/intro
+  description: 자바 기초
+  categories:
+    - community
+    - learning
+
+- name: Baekjoon Online Judge
+  link: https://www.acmicpc.net
+  description: 백준 프로그래밍 문제풀이
+  categories:
+    - community
+    - coding-test
+
+- name: Codeforces
+  link: https://codeforces.com
+  description: 프로그래밍 대회 플랫폼
+  categories:
+    - community
+    - coding-test
+
+- name: Programmers
+  link: https://school.programmers.co.kr/learn/challenges
+  description: 코딩 테스트 문제풀이
+  categories:
+    - community
+    - coding-test
+
+- name: 코딩도장
+  link: https://codingdojang.com
+  description: 코딩도장 문제풀이
+  categories:
+    - community
+    - coding-test
+
+- name: Google Developers Docs
+  link: https://developers.google.com
+  description: 구글 개발자 공식 문서
+  categories:
+    - docs
+
+- name: MDN Docs (KR)
+  link: https://developer.mozilla.org/ko/docs/Web/HTML
+  description: MDN(HTML, CSS, Javascript) 공식 문서 (한국어)
+  categories:
+    - docs
+    - frontend
+    - web
+
+- name: javascript.info (KR)
+  link: https://ko.javascript.info
+  description: 모던 자바스크립트 튜토리얼 (한국어)
+  categories:
+    - docs
+    - frontend
+    - web
+
+- name: HTML DOM
+  link: https://phuoc.ng/collection/html-dom
+  description: HTML DOM 마스터하기
+  categories:
+    - docs
+    - frontend
+    - web
+
+- name: Rspack
+  link: https://www.rspack.dev
+  description: Rspack(Rust 기반 번들러)
+  categories:
+    - docs
+    - frontend
+    - web
+
+- name: Thymeleaf
+  link: https://www.thymeleaf.org
+  description: Server-side Java Template Engine
+  categories:
+    - docs
+    - frontend
+    - web
+
+- name: Bootstrap Docs
+  link: https://getbootstrap.com/docs/5.1/getting-started/introduction
+  description: Bootstrap 공식 문서
+  categories:
+    - docs
+    - frontend
+    - design
+
+- name: Flexbox Froggy
+  description: Flex 연습 페이지
+  categories:
+    - docs
+    - frontend
+    - design
+
+- name: StyleX
+  link: https://stylexjs.com/blog/introducing-stylex
+  description: Introducing StyleX
+  categories:
+    - docs
+    - frontend
+    - design
+
+- name: Tailwind CSS Docs
+  link: https://tailwindcss.com
+  description: Tailwind CSS 공식 문서
+  categories:
+    - docs
+    - frontend
+    - design
+    - tailwind
+
+- name: daisyUI
+  link: https://daisyui.com
+  description: daisyUI 공식 문서
+  categories:
+    - docs
+    - frontend
+    - design
+    - tailwind
+
+- name: Flowbite
+  link: https://flowbite.com
+  description: Flowbite 공식 문서
+  categories:
+    - docs
+    - frontend
+    - design
+    - tailwind
+
+- name: Headless UI
+  link: https://headlessui.com
+  description: Headless UI 공식 문서
+  categories:
+    - docs
+    - frontend
+    - design
+    - tailwind
+
+- name: Kotlin Docs
+  link: https://kotlinlang.org/docs/home.html
+  description: 코틀린 공식 문서
+  categories:
+    - docs
+    - language
+
+- name: Java Docs
+  link: https://docs.oracle.com/en/java
+  description: Java 공식 문서
+  categories:
+    - docs
+    - language
+
+- name: Python 3 Docs (KR)
+  link: https://docs.python.org/ko/3
+  description: Python3 공식 문서 (한국어)
+  categories:
+    - docs
+    - language
+
+
+- name: NodeJS Docs
+  link: https://nodejs.org/en/docs
+  description: NodeJS 공식 문서
+  categories:
+    - docs
+    - javascript-framework
+
+- name: ReactJS (KR)
+  link: https://ko.reactjs.org
+  description: ReactJS 공식 홈페이지 (한국어)
+  categories:
+    - docs
+    - javascript-framework
+
+- name: NextJS Docs
+  link: https://nextjs.org/docs/getting-started
+  description: NextJS 공식 문서
+  categories:
+    - docs
+    - javascript-framework
+
+- name: VueJS Guide
+  link: https://vuejs.org/guide/introduction.html
+  description: VueJS 공식 가이드
+  categories:
+    - docs
+    - javascript-framework
+
+- name: ExpressJS (KR)
+  link: https://expressjs.com/ko
+  description: ExpressJS 공식 홈페이지 (한국어)
+  categories:
+    - docs
+    - javascript-framework
+
+- name: NestJS
+  link: https://docs.nestjs.co/
+  description: NestJS 공식 문서
+  categories:
+    - docs
+    - javascript-framework
+
+- name: Spring Boot Docs
+  link: https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle
+  description: Spring Boot 공식 문서
+  categories:
+    - docs
+    - backend-framework
+
+- name: Spring Docs
+  link: https://docs.spring.io/spring-framework/docs/current/reference/html
+  description: Spring 공식 문서
+  categories:
+    - docs
+    - backend-framework
+
+- name: Django Docs (KR)
+  link: https://docs.djangoproject.com/ko/4.0/intro
+  description: Django 공식 문서 (한국어)
+  categories:
+    - docs
+    - backend-framework
+
+- name: Spring Guides
+  link: https://github.com/spring-guides
+  description: Spring 튜토리얼 예제
+  categories:
+    - docs
+    - backend-framework
+
+- name: Flask Docs (KR)
+  link: https://flask-docs-kr.readthedocs.io/ko/latest
+  description: Flask 공식 문서(한국어)
+  categories:
+    - docs
+    - backend-framework
+
+- name: ExpressJS (KR)
+  link: https://expressjs.com/ko
+  description: ExpressJS 공식 홈페이지 (한국어)
+  categories:
+    - docs
+    - backend-framework
+
+- name: Ruby On Rails Guide
+  link: https://guides.rubyonrails.org
+  description: Ruby On Rails 공식 가이드
+  categories:
+    - docs
+    - backend-framework
+
+- name: NestJS
+  link: https://docs.nestjs.com/
+  description: NestJS 공식 문서
+  categories:
+    - docs
+    - backend-framework
+
+- name: Android Guide (KR)
+  link: https://developer.android.com/docs?hl=ko
+  description: Android 공식 가이드(한국어)
+  categories:
+    - docs
+    - mobile
+
+- name: iOS (KR)
+  link: https://developer.apple.com/kr
+  description: iOS 공식 개발자 홈페이지 (한국어)
+  categories:
+    - docs
+    - mobile
+
+- name: React Native Docs
+  link: https://reactnative.dev/docs/getting-started
+  description: React Native 공식 문서
+  categories:
+    - docs
+    - mobile
+
+- name: Flutter Docs (KR)
+  link: https://flutter-ko.dev/docs
+  description: Flutter 공식 문서 (한국어)
+  categories:
+    - docs
+    - mobile
+
+- name: Oracle (KR)
+  link: https://www.oracle.com/kr
+  description: Oracle 공식 홈페이지 (한국어)
+  categories:
+    - docs
+    - database
+
+- name: MySQL Docs
+  link: https://dev.mysql.com/doc
+  description: MySQL 공식 문서
+  categories:
+    - docs
+    - database
+
+- name: MongoDB Docs
+  link: https://www.mongodb.com/docs
+  description: MongoDB 공식 문서
+  categories:
+    - docs
+    - database
+
+- name: PostgreSQL Docs
+  link: https://www.postgresql.org/docs
+  description: PostgreSQL 공식 문서
+  categories:
+    - docs
+    - database
+
+- name: Redis Docs
+  link: https://redis.io/docs
+  description: Redis 공식 문서
+  categories:
+    - docs
+    - database
+
+- name: Elasticsearch Docs
+  description: Elasticsearch 공식 문서
+  categories:
+    - docs
+    - search
+
+- name: Algolia
+  link: https://www.algolia.com/doc
+  description: Algolia 공식 문서
+  categories:
+    - docs
+    - search
+
+- name: Ubuntu (KR)
+  link: https://ubuntu-kr.org
+  description: Ubuntu 공식 문서 (한국어)
+  categories:
+    - docs
+    - linux
+
+- name: Fedora (KR)
+  link: https://docs.fedoraproject.org/ko/docs) Fedora 공식 문서 (한국어)
+- name: Debian (KR)
+  link: https://www.debian.org/index.ko.html
+  description: Debian 공식 문서 (한국어)
+  categories:
+    - docs
+    - linux
+
+- name: CentOS Docs
+  link: https://wiki.centos.org/Documentation
+  description: CentOS 공식 문서
+  categories:
+    - docs
+    - linux
+
+- name: Kubernetes Docs (KR)
+  link: https://kubernetes.io/ko/docs/home
+  description: kubernetes 공식 문서 (한국어)
+  categories:
+    - docs
+    - infra
+
+- name: Docker Docs
+  link: https://docs.docker.com
+  description: Docker 공식 문서
+  categories:
+    - docs
+    - infra
+
+- name: Slack API
+  link: https://api.slack.com
+  description: Slack API 공식 문서
+  categories:
+    - docs
+    - api
+
+- name: Discord API
+  link: https://discord.com/developers/docs/intro
+  description: Discord API 공식 문서
+  categories:
+    - docs
+    - api
+
+- name: Git
+  link: https://git-scm.com
+  description: Git 공식 문서
+  categories:
+    - docs
+    - git
+
+- name: Github App API
+  link: https://docs.github.com/ko/apps
+  description: 깃허브 애플리케이션 API 공식 문서
+  categories:
+    - docs
+    - git
+
+- name: GitHub REST API
+  link: https://docs.github.com/ko/rest?apiVersion=2022-11-28
+  description: 깃허브 REST API 공식 문서
+  categories:
+    - docs
+    - git
+
+- name: GitHub GraphQL API
+  link: https://docs.github.com/ko/graphql
+  description: 깃허브 GraphQL API 공식 문서
+  categories:
+    - docs
+    - git
+
+- name: GitHub Webhook
+  link: https://docs.github.com/ko/webhooks
+  description: 깃허브 Webhook 공식 문서
+  categories:
+    - docs
+    - git
+
+- name: my ip address
+  link: https://whatismyipaddress.com/ip-lookup
+  description: IP 주소 조회
+  categories:
+    - tool
+    - network
+
+- name: 내도메인.한국
+  link: https://xn--220b31d95hq8o.xn--3e0b707e
+  description: 무료 한국 도메인 발급
+  categories:
+    - tool
+    - network
+
+- name: Gitmoji
+  link: https://gitmoji.dev
+  description: 깃 커밋 이모지 모음
+  categories:
+    - tool
+    - git
+
+- name: GitHub
+  link: https://github.com
+  description: 세계 최대의 Git 플랫폼
+  categories:
+    - tool
+    - git
+
+- name: Bubble
+  link: https://bubble.io/how-to-build
+  description: 노코드 툴 Bubble 빌드 가이드
+  categories:
+    - tool
+    - no-code
+
+- name: Flutterflow
+  link: https://docs.flutterflow.io
+  description: 노코드 툴 Flutterflow 공식 문서
+  categories:
+    - tool
+    - no-code
+
+- name: Postman
+  link: https://www.postman.com/downloads
+  description: API 디버그 도구
+  categories:
+    - tool
+    - api
+
+- name: formatter
+  link: https://formatter.org/json-formatter
+  description: CSS/JSON/HTML 포맷 도구
+  categories:
+    - tool
+    - json
+
+- name: jsonformatter
+  link: https://jsonformatter.curiousconcept.com
+  description: JSON 포맷 도구
+  categories:
+    - tool
+    - json
+
+- name: regex101
+  link: https://regex101.com
+  description: 온라인 정규 표현식 학습 및 테스트
+  categories:
+    - tool
+    - regex
+
+- name: regexr
+  link: https://regexr.com
+  description: 온라인 정규 표현식 도구
+  categories:
+    - tool
+    - regex
+
+- name: Figma
+  link: https://figma.com
+  description: UI/UX 디자인 및 프로토타이핑 도구
+  categories:
+    - tool
+    - design
+
+- name: draw.io
+  link: https://app.diagrams.net
+  description: 다이어그램 작성 도구
+  categories:
+    - tool
+    - design
+
+- name: Canva
+  link: https://www.canva.com/ko_kr
+  description: 무료 디자인 툴
+  categories:
+    - tool
+    - design
+
+- name: DGM
+  link: https://dgm.sh/home
+  description: 다이어그램 작성 도구(제작자가 한국인)
+  categories:
+    - tool
+    - design
+
+- name: Pexels
+  link: https://www.pexels.com/ko-kr
+  description: 고화질 무료이미지 모음
+  categories:
+    - tool
+    - design
+
+- name: Emojipedia
+  link: https://emojipedia.org
+  description: 세계 최대 이모지 저장소
+  categories:
+    - tool
+    - design
+
+- name: Spring Initializr
+  link: https://start.spring.io
+  description: Spring Project Generator
+  categories:
+    - tool
+    - backend-framework
+
+- name: Fleet
+  link: https://www.jetbrains.com/ko-kr/fleet
+  description: Jetbrains에서 개발한 텍스트 에디터
+  categories:
+    - tool
+    - ide
+    - jetbrains
+
+- name: IntelliJ IDEA
+  link: https://www.jetbrains.com/ko-kr/idea
+  description: Jetbrains에서 개발한 통합 개발 환경 (Java, Kotlin)
+  categories:
+    - tool
+    - ide
+    - jetbrains
+
+- name: CLion
+  link: https://www.jetbrains.com/ko-kr/clion
+  description: Jetbrains에서 개발한 통합 개발 환경 (C, C++)
+  categories:
+    - tool
+    - ide
+    - jetbrains
+
+- name: DataGrip
+  link: https://www.jetbrains.com/ko-kr/datagrip
+  description: Jetbrains에서 개발한 통합 개발 환경 (SQL)
+  categories:
+    - tool
+    - ide
+    - jetbrains
+
+- name: DataSpell
+  link: https://www.jetbrains.com/ko-kr/dataspell
+  description: Jetbrains에서 개발한 통합 개발 환경 (SQL)
+  categories:
+    - tool
+    - ide
+    - jetbrains
+
+- name: WebStorm
+  link: https://www.jetbrains.com/ko-kr/webstorm
+  description: Jetbrains에서 개발한 통합 개발 환경 (JavaScript)
+  categories:
+    - tool
+    - ide
+    - jetbrains
+
+- name: PyCharm
+  link: https://www.jetbrains.com/ko-kr/pycharm
+  description: Jetbrains에서 개발한 통합 개발 환경 (Python)
+  categories:
+    - tool
+    - ide
+    - jetbrains
+
+- name: RubyMine
+  link: https://www.jetbrains.com/ko-kr/ruby
+  description: Jetbrains에서 개발한 통합 개발 환경 (Ruby)
+  categories:
+    - tool
+    - ide
+    - jetbrains
+
+- name: Rider
+  link: https://www.jetbrains.com/ko-kr/rider/
+  categories:
+    - tool
+    - ide
+    - jetbrains
+
+- name: Writerside
+  link: https://www.jetbrains.com/ko-kr/writerside
+  description: Jetbrains에서 개발한 통합 개발 환경 (Document)
+  categories:
+    - tool
+    - ide
+    - jetbrains
+
+- name: RustRover
+  link: https://www.jetbrains.com/ko-kr/rust
+  description: Jetbrains에서 개발한 통합 개발 환경 (Rust)
+  categories:
+    - tool
+    - ide
+    - jetbrains
+
+- name: GoLand
+  link: https://www.jetbrains.com/ko-kr/go
+  description: Jetbrains에서 개발한 통합 개발 환경 (Go)
+  categories:
+    - tool
+    - ide
+    - jetbrains
+
+- name: Aqua
+  link: https://www.jetbrains.com/ko-kr/aqua
+  description: Jetbrains에서 개발한 통합 개발 환경 (Testing)
+  categories:
+    - tool
+    - ide
+    - jetbrains
+
+- name: Android Studio
+  link: https://developer.android.com/studio?hl=ko
+  description: Jetbrains에서 개발한 통합 개발 환경 (Android)
+  categories:
+    - tool
+    - ide
+    - jetbrains
+
+- name: Visual Studio Code
+  link: https://code.visualstudio.com
+  description: Microsoft에서 개발한 텍스트 에디터
+  categories:
+    - tool
+    - ide
+    - other
+
+- name: Visual Studio
+  link: https://visualstudio.microsoft.com/ko
+  description: Microsoft에서 개발한 통합 개발 환경
+  categories:
+    - tool
+    - ide
+    - other
+
+- name: Eclipse
+  link: https://www.eclipse.org
+  description: 자바 기반의 통합 개발 환경
+  categories:
+    - tool
+    - ide
+    - other
+
+- name: Colab
+  description: 호스팅된 Jupyter 노트북 서비스로, 설정하지 않고 사용 가능하며 GPU를 포함한 컴퓨팅 리소스를 무료로 사용
+  categories:
+    - tool
+    - ide
+    - other
+
+- name: Xcode
+  link: https://developer.apple.com/kr/xcode/
+  description: Apple에서 개발한 통합 개발 환경
+  categories:
+    - tool
+    - ide
+    - other
+
+- name: online gdb
+  link: https://www.onlinegdb.com
+  description: 온라인 컴파일러 및 디버거 도구
+  categories:
+    - tool
+    - ide
+    - other
+
+- name: Cody AI
+  link: https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai
+  description: Visual Studio Code AI 플러그인 (무료)
+  categories:
+    - tool
+    - ai-plugin
+
+- name: TTSMaker
+  link: https://ttsmaker.com/ko
+  description: 텍스트 음성 변환 도구
+  categories:
+    - tool
+    - other

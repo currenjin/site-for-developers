@@ -1,0 +1,92 @@
+- category: community
+  text: 커뮤니티
+
+- category: tech
+  text: 기술
+
+- category: korea
+  text: 국내
+
+- category: other
+  text: 그 외
+
+- category: study
+  text: 공부
+
+- category: news
+  text: 뉴스
+
+- category: learning
+  text: 학습
+
+- category: coding-test
+  text: 문제풀이
+
+- category: docs
+  text: 문서
+
+- category: frontend
+  text: 프론트엔드
+
+- category: web
+  text: 웹
+
+- category: design
+  text: 디자인
+
+- category: tailwind
+  text: tailwind
+
+- category: language
+  text: 언어
+
+- category: javascript-framework
+  text: 자바스크립트 프레임워크
+
+- category: backend-framework
+  text: 백엔드 프레임워크
+
+- category: mobile
+  text: 모바일
+
+- category: database
+  text: 데이터베이스
+
+- category: search
+  text: 검색
+
+- category: linux
+  text: 리눅스
+
+- category: infra
+  text: 인프라
+
+- category: api
+  text: API
+
+- category: git
+  text: 깃
+
+- category: tool
+  text: 도구
+
+- category: network
+  text: 네트워크
+
+- category: no-code
+  text: 노코드
+
+- category: json
+  text: JSON
+
+- category: regex
+  text: 정규표현식
+
+- category: ide
+  text: IDE
+
+- category: jetbrains
+  text: JetBrains
+
+- category: ai-plugin
+  text: AI-플러그인
