@@ -16,22 +16,13 @@ const initContent = `
 
 function generateMarkdown(categories, sites) {
   let markdown = initContent;
-
-  categories.forEach((category, index) => {
-    const categoryName = category.text;
-    const depth = index + 2;
-
-    markdown += `${'#'.repeat(depth)} ${categoryName}\n`;
-
+  categories.forEach(category => {
     const categorySites = sites.filter(site => site.categories.includes(category.category));
+    markdown += `## ${category.text}\n`;
     categorySites.forEach(site => {
-      const { name, link, description } = site;
-      markdown += `${'#'.repeat(depth + 1)} [${name}](${link}) - ${description}\n`;
+      markdown += `- [${site.name}](${site.link}) - ${site.description}\n`;
     });
-
-    markdown += '\n';
   });
-
   return markdown;
 }
 
@@ -41,7 +32,5 @@ const categories = yaml.load(categoriesContent);
 const sitesContent = fs.readFileSync('./sites.yml', 'utf-8');
 const sites = yaml.load(sitesContent);
 
-const generatedMarkdown = generateMarkdown(categories, sites);
-
-fs.writeFileSync('./README.md', generatedMarkdown, 'utf8');
-
+const readmeContent = generateMarkdown(categories, sites);
+fs.writeFileSync('./README.md', readmeContent);
