@@ -13,11 +13,11 @@ const App = () => {
   }, [])
   return (
     <>
-      <div className="navbar bg-base-100">
+      <div className="navbar sticky top-0 z-50 bg-base-100">
         <div className="flex-none"></div>
         <div className="flex-1">
           <Link to="/">
-            <div className="btn btn-ghost text-xl suit">
+            <div className="btn btn-ghost text-xl pretendard">
               💎 Site for developers
             </div>
           </Link>
