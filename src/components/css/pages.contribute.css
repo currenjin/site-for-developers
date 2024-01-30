@@ -1,0 +1,25 @@
+.mddatacontribute a {
+    @apply underline text-blue-600 hover:text-blue-800 visited:text-purple-600
+}
+
+.mddatacontribute h1,h2 {
+    font-weight: bold;
+    font-size: 1.4rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid rgb(185, 185, 185);
+}
+
+.mddatacontribute h1:first-of-type {
+    margin-top: 0;
+}
+
+.mddatacontribute h3 {
+    font-weight: bold;
+    margin-top: 1.5rem;
+    font-size: 1.1rem;
+}
+
+.mddatacontribute pre {
+    @apply bg-base-300 p-2 rounded text-wrap
+}
