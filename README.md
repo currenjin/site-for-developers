@@ -38,7 +38,9 @@
   - [VCS](#vcs-1)
   - [No Code](#no-code)
   - [API](#api-request)
+  - [JSON](#json)
   - [정규 표현식](#정규-표현식)
+  - [Code Formatter](#code-formatter)
   - [IDE](#ide)
   - [AI plugin](#ai-plugin)
   - [Other](#other-3)
@@ -219,7 +221,7 @@
 ### Backend Framework
 - [Spring Initializr](https://start.spring.io) - Spring Project Generator
 
-### Formatter
+### Code Formatter
 - [Ktlint](https://pinterest.github.io/ktlint/latest/) - 코틀린 코드 포매터(린터)
 - [Prettier](https://prettier.io/) - 대표적인 코드 포매터(린터)
 
