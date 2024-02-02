@@ -43,7 +43,7 @@
   - [Code Formatter](#code-formatter)
   - [IDE](#ide)
   - [AI plugin](#ai-plugin)
-  - [Other](#other)
+  - [Other](#other-3)
 
 
 ## 추천 👍
