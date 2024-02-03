@@ -33,6 +33,9 @@
   - [Infra](#infra)
   - [API](#api)
   - [VCS](#vcs)
+- [블로그](#블로그-)
+  - [Korea](#korea-1)
+  - [Global](#global)
 - [도구](#도구-)
   - [Network](#network)
   - [VCS](#vcs-1)
@@ -85,6 +88,7 @@
 - [Dzone](https://dzone.com) - 세계 최대 개발자 뉴스 사이트
 - [infoQ](https://www.infoq.com) - 최신 기술의 뉴스 및 공유
 - [techcrunch](https://techcrunch.com) - 각종 과학 기술 뉴스
+- [개발자스럽다](https://blog.gaerae.com/) - 월간 뉴스레터 발행
 
 ### 학습
 - [Opentutorials](https://opentutorials.org) - 기초 프로그래밍 입문 강좌
@@ -184,6 +188,43 @@
 - [GitHub REST API](https://docs.github.com/ko/rest?apiVersion=2022-11-28) - 깃허브 REST API 공식 문서
 - [GitHub GraphQL API](https://docs.github.com/ko/graphql) - 깃허브 GraphQL API 공식 문서
 - [GitHub Webhook](https://docs.github.com/ko/webhooks) - 깃허브 Webhook 공식 문서
+
+## 블로그 📚
+### Korea
+- [우아한형제들 기술블로그](https://techblog.woowahan.com/)
+- [카카오 기술블로그](https://tech.kakao.com/blog/)
+- [쿠팡 기술블로그](https://medium.com/@coupang-engineering-kr)
+- [왓챠 팀블로그](https://medium.com/watcha)
+- [컬리 기술블로그](https://helloworld.kurly.com/)
+- [뱅크샐러드 기술블로그](https://blog.banksalad.com/tech/)
+- [NHN 클라우드 밋업](https://meetup.nhncloud.com/)
+- [하이퍼커넥트 기술블로그](https://hyperconnect.github.io/)
+- [당근마켓 기술블로그](https://medium.com/daangn/development/home)
+- [강남언니 기술블로그](https://blog.gangnamunni.com/blog/tech/)
+- [요기요 기술블로그](https://techblog.yogiyo.co.kr/)
+- [플랫팜 기술블로그](https://medium.com/platfarm/technology/home)
+- [스포카 기술블로그](https://spoqa.github.io/)
+- [라인 기술블로그](https://techblog.lycorp.co.jp/ko)
+- [쏘카 기술블로그](https://tech.socarcorp.kr/)
+- [리디 기술블로그](https://ridicorp.com/story-category/tech-blog/)
+
+### Global
+- [Engineering at Meta](https://engineering.fb.com/)
+- [Amazon Alexa Blogs](https://developer.amazon.com/en-US/blogs/alexa)
+- [Apple Developer](https://developer.apple.com/)
+- [The Netflix Tech Blog](https://netflixtechblog.com/)
+- [Google Developer Blog](https://developers.googleblog.com/)
+- [Linkedin Engineering Blog](https://www.linkedin.com/blog/engineering)
+- [Slack Engineering](https://slack.engineering/)
+- [The Airbnb Tech Blog](https://medium.com/airbnb-engineering)
+- [Zoom Developer Blog](https://medium.com/zoom-developer-blog)
+- [RiotGames Tech Blog](https://technology.riotgames.com/)
+- [Pinterest Engineering](https://medium.com/@Pinterest_Engineering)
+- [PayPal Tech Blog](https://medium.com/paypal-tech)
+- [Ebay Tech Blog](https://innovation.ebayinc.com/tech/)
+- [X(Twitter) Engineering](https://blog.twitter.com/engineering/en_us)
+- [GooglePlay Engineering](https://medium.com/googleplaydev)
+- [Dropbox Tech Blog](https://dropbox.tech/)
 
 ## 도구 🔨
 ### Network
