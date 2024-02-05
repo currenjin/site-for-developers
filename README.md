@@ -207,6 +207,7 @@
 - [라인 기술블로그](https://techblog.lycorp.co.jp/ko)
 - [쏘카 기술블로그](https://tech.socarcorp.kr/)
 - [리디 기술블로그](https://ridicorp.com/story-category/tech-blog/)
+- [아이들나라 기술블로그](https://i-nara.oopy.io/techblog)
 
 ### Global
 - [Engineering at Meta](https://engineering.fb.com/)
