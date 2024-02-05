@@ -5,7 +5,7 @@
 ## 어떤 저장소인가요?
 - 개발자가 참고하면 좋은 대표적인 사이트를 모아놓은 북마크 저장소입니다. 한 분 한 분에게 도움이 되었으면 좋겠습니다. 🙏🏾
 - 또한, 참고하면 좋겠다고 생각되는 사이트는 `Pull Request` 로 참여해 주시면 감사하겠습니다! -> [How to contribute](./HOW-TO-CONTRIBUTE.md)
-- **시작하기에 앞서 이 기호들을 참고하시면 문서 열람에 도움이 됩니다.<br/>오픈소스: <sub>Ο</sub>&nbsp;&nbsp; 무료: <sub>F</sub>&nbsp;&nbsp; 유료: <sub>P</sub>&nbsp;&nbsp; 부분적 무료: <sub>F&P</sub>&nbsp;&nbsp; 한국어: <sub>KR</sub>&nbsp;&nbsp; 영어: <sub>US</sub>**
+- **시작하기에 앞서 이 기호들을 참고하시면 문서 열람에 도움이 됩니다.<br/>오픈소스: <sub>Ο</sub>&nbsp;&nbsp; 무료: <sub>F</sub>&nbsp;&nbsp; 유료 혹은 부분적 유료: <sub>$</sub>&nbsp;&nbsp; 한국어: <sub>KR</sub>&nbsp;&nbsp; 영어: <sub>EN</sub>**
 
 ## 기여자
 [![author](https://img.shields.io/badge/author-currenjin-green.svg?style=flat-square)](https://currenjin.github.io/resume)
@@ -84,10 +84,10 @@
 - [Stack Overflow](https://stackoverflow.com) - 세계 최대 질의응답 커뮤니티
 
 ### 교육 커뮤니티
-- [Inflearn <sub>F&P</sub>](https://www.inflearn.com) - 온라인 프로그래밍 강좌
+- [Inflearn <sub>$</sub>](https://www.inflearn.com) - 온라인 프로그래밍 강좌
 - [swexpertacademy](https://swexpertacademy.com/main/learn/course/courseList.do) - 삼성의 프로그래밍 역량 강화 학습 컨텐츠
-- [nomadcoders <sub>F&P</sub>](https://nomadcoders.co) - 온라인 프로그래밍 강좌
-- [NEXTSTEP <sub>P</sub>](https://edu.nextstep.camp) - 온라인 프로그래밍 강좌
+- [nomadcoders <sub>$</sub>](https://nomadcoders.co) - 온라인 프로그래밍 강좌
+- [NEXTSTEP <sub>$</sub>](https://edu.nextstep.camp) - 온라인 프로그래밍 강좌
 
 ### 뉴스
 - [Dzone](https://dzone.com) - 세계 최대 개발자 뉴스 사이트
@@ -175,10 +175,10 @@
 - [Ubuntu <sub>KR</sub>](https://ubuntu-kr.org) - Ubuntu 공식 문서
 - [Fedora <sub>KR</sub>](https://docs.fedoraproject.org/ko/docs) Fedora 공식 문서
 - [Debian <sub>KR</sub>](https://www.debian.org/index.ko.html) - Debian 공식 문서
-- [openSUSE <sub>US</sub>](https://doc.opensuse.org/) - openSUSE 공식 문서
-- [Manjaro Linux <sub>US</sub>](https://docs.manjaro.org/) - Manjaro Linux 공식 문서
-- [Rocky Linux <sub>US</sub>](https://docs.rockylinux.org/) - Rocky Linux 공식 문서
-- [CentOS Docs <sub>US</sub>](https://wiki.centos.org/) - CentOS 공식 문서
+- [openSUSE <sub>EN</sub>](https://doc.opensuse.org/) - openSUSE 공식 문서
+- [Manjaro Linux <sub>EN</sub>](https://docs.manjaro.org/) - Manjaro Linux 공식 문서
+- [Rocky Linux <sub>EN</sub>](https://docs.rockylinux.org/) - Rocky Linux 공식 문서
+- [CentOS Docs <sub>EN</sub>](https://wiki.centos.org/) - CentOS 공식 문서
 
 ### Infra
 - [Kubernetes Docs <sub>KR</sub>](https://kubernetes.io/ko/docs/home) - kubernetes 공식 문서
@@ -259,8 +259,8 @@
 
 ### AI plugin
 - [Cody AI <sub>F</sub>](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai) - Visual Studio Code AI 플러그인
-- [GitHub Copilot <sub>F&P</sub>](https://github.com/features/copilot) - GitHub에서 개발한 프로그래밍 AI
-- [Tabnine <sub>F&P</sub>](https://www.tabnine.com/) - Tabnine에서 개발한 프로그래밍 AI
+- [GitHub Copilot <sub>$</sub>](https://github.com/features/copilot) - GitHub에서 개발한 프로그래밍 AI
+- [Tabnine <sub>$</sub>](https://www.tabnine.com/) - Tabnine에서 개발한 프로그래밍 AI
 
 ### Other
 - [TTSMaker](https://ttsmaker.com/ko) - 텍스트 음성 변환 도구
