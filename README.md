@@ -39,19 +39,24 @@
   - [Infra](#infra)
   - [API](#api)
   - [VCS](#vcs)
-	- [Git](#git)
+  	- [Git](#git)
+- [블로그](#블로그-)
+  - [Korea](#korea-1)
+  - [Global](#global)
 - [도구](#도구-)
   - [Network](#network)
   - [VCS](#vcs-1)
 	- [Git](#git-1)
   - [No Code](#no-code)
   - [API](#api-request)
+  - [JSON](#json)
   - [정규 표현식](#정규-표현식)
+  - [Code Formatter](#code-formatter)
   - [IDE](#ide)
 	- [Jetbrains](#jetbrains)
 	- [Other](#other-2)
   - [AI plugin](#ai-plugin)
-  - [Other](#other-3)
+  - [Other](#other-2)
 
 
 ## 추천 👍
@@ -93,6 +98,7 @@
 - [Dzone](https://dzone.com) - 세계 최대 개발자 뉴스 사이트
 - [infoQ](https://www.infoq.com) - 최신 기술의 뉴스 및 공유
 - [techcrunch](https://techcrunch.com) - 각종 과학 기술 뉴스
+- [개발자스럽다](https://blog.gaerae.com/) - 월간 뉴스레터 발행
 
 ### 학습
 - [Opentutorials](https://opentutorials.org) - 기초 프로그래밍 입문 강좌
@@ -196,6 +202,44 @@
 - [GitHub GraphQL API](https://docs.github.com/ko/graphql) - 깃허브 GraphQL API 공식 문서
 - [GitHub Webhook](https://docs.github.com/ko/webhooks) - 깃허브 Webhook 공식 문서
 
+## 블로그 📚
+### Korea
+- [우아한형제들 기술블로그 <sub>KR</sub>](https://techblog.woowahan.com/)
+- [카카오 기술블로그 <sub>KR</sub>](https://tech.kakao.com/blog/)
+- [쿠팡 기술블로그 <sub>KR</sub>](https://medium.com/@coupang-engineering-kr)
+- [왓챠 팀블로그 <sub>KR</sub>](https://medium.com/watcha)
+- [컬리 기술블로그 <sub>KR</sub>](https://helloworld.kurly.com/)
+- [뱅크샐러드 기술블로그 <sub>KR</sub>](https://blog.banksalad.com/tech/)
+- [NHN 클라우드 밋업 <sub>KR</sub>](https://meetup.nhncloud.com/)
+- [하이퍼커넥트 기술블로그 <sub>KR</sub>](https://hyperconnect.github.io/)
+- [당근마켓 기술블로그 <sub>KR</sub>](https://medium.com/daangn/development/home)
+- [강남언니 기술블로그 <sub>KR</sub>](https://blog.gangnamunni.com/blog/tech/)
+- [요기요 기술블로그 <sub>KR</sub>](https://techblog.yogiyo.co.kr/)
+- [플랫팜 기술블로그 <sub>KR</sub>](https://medium.com/platfarm/technology/home)
+- [스포카 기술블로그 <sub>KR</sub>](https://spoqa.github.io/)
+- [라인 기술블로그 <sub>KR</sub>](https://techblog.lycorp.co.jp/ko)
+- [쏘카 기술블로그 <sub>KR</sub>](https://tech.socarcorp.kr/)
+- [리디 기술블로그 <sub>KR</sub>](https://ridicorp.com/story-category/tech-blog/)
+- [아이들나라 기술블로그 <sub>KR</sub>](https://i-nara.oopy.io/techblog)
+
+### Global
+- [Engineering at Meta <sub>EN</sub>](https://engineering.fb.com/)
+- [Amazon Alexa Blogs <sub>EN</sub>](https://developer.amazon.com/en-US/blogs/alexa)
+- [Apple Developer <sub>EN</sub>](https://developer.apple.com/)
+- [The Netflix Tech Blog <sub>EN</sub>](https://netflixtechblog.com/)
+- [Google Developer Blog <sub>EN</sub>](https://developers.googleblog.com/)
+- [Linkedin Engineering Blog <sub>EN</sub>](https://www.linkedin.com/blog/engineering)
+- [Slack Engineering <sub>EN</sub>](https://slack.engineering/)
+- [The Airbnb Tech Blog <sub>EN</sub>](https://medium.com/airbnb-engineering)
+- [Zoom Developer Blog <sub>EN</sub>](https://medium.com/zoom-developer-blog)
+- [RiotGames Tech Blog <sub>EN</sub>](https://technology.riotgames.com/)
+- [Pinterest Engineering <sub>EN</sub>](https://medium.com/@Pinterest_Engineering)
+- [PayPal Tech Blog <sub>EN</sub>](https://medium.com/paypal-tech)
+- [Ebay Tech Blog <sub>EN</sub>](https://innovation.ebayinc.com/tech/)
+- [X(Twitter) Engineering <sub>EN</sub>](https://blog.twitter.com/engineering/en_us)
+- [GooglePlay Engineering <sub>EN</sub>](https://medium.com/googleplaydev)
+- [Dropbox Tech Blog <sub>EN</sub>](https://dropbox.tech/)
+
 ## 도구 🔨
 ### Network
 - [my ip address](https://whatismyipaddress.com/ip-lookup) - IP 주소 조회
@@ -231,6 +275,10 @@
 
 ### Backend Framework
 - [Spring Initializr](https://start.spring.io) - Spring Project Generator
+
+### Code Formatter
+- [Ktlint](https://pinterest.github.io/ktlint/latest/) - 코틀린 코드 포매터(린터)
+- [Prettier](https://prettier.io/) - 대표적인 코드 포매터(린터)
 
 ### IDE
 #### Jetbrains
