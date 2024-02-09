@@ -162,7 +162,7 @@
 - [NestJS](https://docs.nestjs.com/) - NestJS 공식 문서
 
 ### Public Cloud
-- [AWS Documentation <sub>KR</sub>]([https://docs.aws.amazon.com/](https://docs.aws.amazon.com/ko_kr/)) - AWS 공식 문서
+- [AWS Documentation <sub>KR</sub>](https://docs.aws.amazon.com/ko_kr/) - AWS 공식 문서
 - [Azure Documentation <sub>KR</sub>](https://learn.microsoft.com/ko-kr/azure/?product=popular) - Azure 공식문서
 
 ### Mobile
