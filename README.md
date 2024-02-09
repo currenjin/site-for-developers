@@ -32,6 +32,7 @@
   - [Programming Language](#programming-language)
   - [Javascript Framework](#javascript-framework)
   - [Backend Framework](#backend-framework)
+  - [Public Cloud](#public-cloud)
   - [App](#mobile)
   - [Database](#database)
   - [Search](#search)
@@ -159,6 +160,10 @@
 - [ExpressJS <sub>KR</sub>](https://expressjs.com/ko) - ExpressJS 공식 홈페이지
 - [Ruby On Rails Guide](https://guides.rubyonrails.org) - Ruby On Rails 공식 가이드
 - [NestJS](https://docs.nestjs.com/) - NestJS 공식 문서
+
+### Public Cloud
+- [AWS Documentation <sub>KR</sub>]([https://docs.aws.amazon.com/](https://docs.aws.amazon.com/ko_kr/)) - AWS 공식 문서
+- [Azure Documentation <sub>KR</sub>](https://learn.microsoft.com/ko-kr/azure/?product=popular) - Azure 공식문서
 
 ### Mobile
 - [Android Guide <sub>KR</sub>](https://developer.android.com/docs?hl=ko) - Android 공식 가이드
