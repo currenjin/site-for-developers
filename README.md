@@ -164,6 +164,8 @@
 ### Public Cloud
 - [AWS Documentation <sub>KR</sub>](https://docs.aws.amazon.com/ko_kr/) - AWS 공식 문서
 - [Azure Documentation <sub>KR</sub>](https://learn.microsoft.com/ko-kr/azure/?product=popular) - Azure 공식문서
+- [GCP Documentation <sub>KR</sub>](https://cloud.google.com/docs?hl=ko) - GCP 공식문서
+- [NCP(Naver Cloud Platform Guide <sub>KR</sub>](https://guide.ncloud-docs.com/docs/home) - Naver Cloud Platform 사용가이드
 
 ### Mobile
 - [Android Guide <sub>KR</sub>](https://developer.android.com/docs?hl=ko) - Android 공식 가이드
