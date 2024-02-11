@@ -197,6 +197,7 @@
 - [Kubernetes Docs <sub>KR</sub>](https://kubernetes.io/ko/docs/home) - kubernetes 공식 문서
 - [Docker Docs](https://docs.docker.com) - Docker 공식 문서
 - [Argo CD Docs](https://argo-cd.readthedocs.io/en/stable/) - Argo CD 공식 문서
+- [Vagrant Docs](https://developer.hashicorp.com/vagrant/docs) - Vagrant 공식 문서
 
 ### API
 - [Slack API](https://api.slack.com) - Slack API 공식 문서
