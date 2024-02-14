@@ -100,6 +100,7 @@
 - [infoQ](https://www.infoq.com) - 최신 기술의 뉴스 및 공유
 - [techcrunch](https://techcrunch.com) - 각종 과학 기술 뉴스
 - [개발자스럽다](https://blog.gaerae.com/) - 월간 뉴스레터 발행
+- [요즘IT](https://yozm.wishket.com/magazine/list/develop/) - 요즘IT 개발 매거진
 
 ### 학습
 - [Opentutorials](https://opentutorials.org) - 기초 프로그래밍 입문 강좌
