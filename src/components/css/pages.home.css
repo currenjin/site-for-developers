@@ -4,7 +4,7 @@
 
 .mddata h2 {
     font-weight: bold;
-    font-size: 1.4rem;
+    font-size: 1.6rem;
     margin-top: 1rem;
     margin-bottom: 1rem;
     border-bottom: 1px solid rgb(185, 185, 185);
@@ -17,5 +17,13 @@
 .mddata h3 {
     font-weight: bold;
     margin-top: 1.5rem;
+    font-size: 1.4rem;
+}
+
+.mddata h4 {
+    font-size: 1.2rem;
+}
+
+.mddata h5 {
     font-size: 1.1rem;
 }

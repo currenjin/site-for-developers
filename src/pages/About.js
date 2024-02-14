@@ -13,7 +13,7 @@ const About = () => {
     });
 
   return (
-    <div className="repositorydata m-4 p-4 rounded-lg bg-base-200 pretendard text-wrap">
+    <div className="suit repositorydata">
       <span>이름: {repositoryData.full_name}</span>
       <br />
       <span>소개: {repositoryData.description}</span>

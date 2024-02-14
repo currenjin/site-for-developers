@@ -27,7 +27,7 @@ const Home = () => {
   return (
     <div>
       <div
-        className="mddata m-4 p-4 rounded-lg bg-base-200 pretendard text-wrap"
+        className="suit mddata"
         dangerouslySetInnerHTML={{ __html: mdData }}
       ></div>
     </div>
