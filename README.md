@@ -1,10 +1,10 @@
 <div align="middle">
-  <img src="https://i.ibb.co/1X7KFxT/site-for-developers-github.png" height="200" />
+  <img src="https://i.ibb.co/59gFyXw/site-for-developers-github.jpg" height="250" />
 </div>
 
 ## 어떤 저장소인가요?
 - 개발자가 참고하면 좋은 대표적인 사이트를 모아놓은 북마크 저장소입니다. 한 분 한 분에게 도움이 되었으면 좋겠습니다. 🙏🏾
-- 또한, 참고하면 좋겠다고 생각되는 사이트는 `Pull Request` 로 참여해 주시면 감사하겠습니다! -> [How to contribute](./HOW-TO-CONTRIBUTE.md)
+- 또한, 참고하면 좋겠다고 생각되는 사이트는 `Pull Request` 로 참여해 주시면 감사하겠습니다! -> [기여하는법](./HOW-TO-CONTRIBUTE.md)
 - **시작하기에 앞서 이 기호들을 참고하시면 문서 열람에 도움이 됩니다.<br/>오픈소스: <sub>Ο</sub>&nbsp;&nbsp; 무료: <sub>F</sub>&nbsp;&nbsp; 유료 혹은 부분적 유료: <sub>$</sub>&nbsp;&nbsp; 한국어: <sub>KR</sub>&nbsp;&nbsp; 영어: <sub>EN</sub>**
 
 ## 기여자
@@ -44,6 +44,8 @@
 - [블로그](#블로그-)
   - [Korea](#korea-1)
   - [Global](#global)
+- [리스트](#리스트-)
+  - [Awesome](#awesome)
 - [도구](#도구-)
   - [Network](#network)
   - [VCS](#vcs-1)
@@ -68,9 +70,7 @@
 - [Free for Developers](https://free-for.dev) - 개발자를 위한 무료 리소스 모음
 
 ## 커뮤니티 💬
-
 ### 기술 커뮤니티
-
 #### Korea
 - [velog <sub>KR</sub>](https://velog.io) - 개발자 기술 공유 블로그
 - [disquiet <sub>KR</sub>](https://disquiet.io) - IT 서비스 메이커들의 소셜 네트워크
@@ -250,6 +250,15 @@
 - [X(Twitter) Engineering <sub>EN</sub>](https://blog.twitter.com/engineering/en_us)
 - [GooglePlay Engineering <sub>EN</sub>](https://medium.com/googleplaydev)
 - [Dropbox Tech Blog <sub>EN</sub>](https://dropbox.tech/)
+
+## 리스트 🧾
+### Awesome
+- [awesome <sub>EN</sub>](https://github.com/sindresorhus/awesome) - 프로그래밍 관련 리스트
+- [awesome vue <sub>EN</sub>](https://github.com/vuejs/awesome-vue) - Vue.js 관련 리스트 (awesome 계열)
+- [awesome svelte <sub>EN</sub>](https://github.com/TheComputerM/awesome-svelte) - Svelte 관련 리스트 (awesome 계열)
+- [awesome angular](https://github.com/PatrickJS/awesome-angular) - Angular 관련 리스트 (awesome 계열)
+
+### Other
 
 ## 도구 🔨
 ### Network
