@@ -13,7 +13,6 @@
 <a href="https://github.com/currenjin/site-for-developers/graphs/contributors"><img src="https://opencollective.com/site-for-developers/contributors.svg?width=720"></a>
 
 ## 목차
-
 - [어떤 저장소인가요?](#어떤-저장소인가요)
 - [기여자](#기여자)
 - [추천](#추천-)
@@ -63,8 +62,8 @@
 
 
 ## 추천 👍
-- [Stack Overflow](https://stackoverflow.com) - 세계 최대 기술 질의 응답 커뮤니티
-- [wikidocs](https://wikidocs.net) - 우수한 프로그래밍 서적 번역
+- [Stack Overflow <sub>EN</sub>](https://stackoverflow.com) - 세계 최대 프로그래밍 질의 응답 커뮤니티
+- [wikidocs <sub>KR</sub>](https://wikidocs.net) - 우수한 프로그래밍 서적 번역
 - [visualgo](https://visualgo.net/en) - 최고의 알고리즘 시각화 학습 라이브러리
 - [roadmap](https://roadmap.sh) - 초보자에서 마스터로 가는 학습 로드맵
 - [Free for Developers](https://free-for.dev) - 개발자를 위한 무료 리소스 모음
@@ -99,8 +98,8 @@
 - [Dzone](https://dzone.com) - 세계 최대 개발자 뉴스 사이트
 - [infoQ](https://www.infoq.com) - 최신 기술의 뉴스 및 공유
 - [techcrunch](https://techcrunch.com) - 각종 과학 기술 뉴스
-- [개발자스럽다](https://blog.gaerae.com/) - 월간 뉴스레터 발행
-- [요즘IT](https://yozm.wishket.com/magazine/list/develop/) - 요즘IT 개발 매거진
+- [개발자스럽다 <sub>KR</sub>](https://blog.gaerae.com/) - 월간 뉴스레터 발행
+- [요즘IT <sub>KR</sub>](https://yozm.wishket.com/magazine/list/develop/) - 요즘IT 개발 매거진
 
 ### 학습
 - [Opentutorials](https://opentutorials.org) - 기초 프로그래밍 입문 강좌
@@ -111,10 +110,10 @@
 - [TCP School (Java)](https://www.tcpschool.com/java/intro) - 자바 기초
 
 ### 문제풀이
-- [Baekjoon Online Judge](https://www.acmicpc.net) - 백준 프로그래밍 문제풀이
-- [Codeforces](https://codeforces.com) - 프로그래밍 대회 플랫폼
-- [Programmers](https://school.programmers.co.kr/learn/challenges) - 코딩 테스트 문제풀이
-- [코딩도장](https://codingdojang.com) - 코딩도장 문제풀이
+- [Baekjoon Online Judge <sub>KR</sub>](https://www.acmicpc.net) - 백준 프로그래밍 문제풀이
+- [Codeforces <sub>EN</sub>](https://codeforces.com) - 프로그래밍 대회 플랫폼
+- [Programmers <sub>KR</sub>](https://school.programmers.co.kr/learn/challenges) - 코딩 테스트 문제풀이
+- [코딩도장 <sub>KR</sub>](https://codingdojang.com) - 코딩도장 문제풀이
 
 
 ## 문서 📃
@@ -146,16 +145,16 @@
 - [Python 3 Docs <sub>KR</sub>](https://docs.python.org/ko/3) - Python3 공식 문서
 
 ### Javascript Framework
-- [NodeJS Docs](https://nodejs.org/en/docs) - NodeJS 공식 문서
-- [ReactJS <sub>KR</sub>](https://ko.reactjs.org) - ReactJS 공식 홈페이지
-- [NextJS Docs](https://nextjs.org/docs/getting-started) - NextJS 공식 문서
-- [VueJS Guide](https://vuejs.org/guide/introduction.html) - VueJS 공식 가이드
-- [ExpressJS <sub>KR</sub>](https://expressjs.com/ko) - ExpressJS 공식 홈페이지
+- [Node.js Docs](https://nodejs.org/en/docs) - Node.js 공식 문서
+- [React <sub>KR</sub>](https://ko.reactjs.org) - React 공식 홈페이지
+- [Next.js Docs](https://nextjs.org/docs/getting-started) - Next.js 공식 문서
+- [Vuejs Guide](https://vuejs.org/guide/introduction.html) - Vuejs 공식 가이드
+- [Express.js <sub>KR</sub>](https://expressjs.com/ko) - Express.js 공식 홈페이지
 - [NestJS](https://docs.nestjs.co/) - NestJS 공식 문서
 
 ### Backend Framework
-- [Spring Boot Docs](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle) - Spring Boot 공식 문서
-- [Spring Docs](https://docs.spring.io/spring-framework/docs/current/reference/html) - Spring 공식 문서
+- [Spring Boot Docs <sub>EN</sub>](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle) - Spring Boot 공식 문서
+- [Spring Docs <sub>EN</sub>](https://docs.spring.io/spring-framework/docs/current/reference/html) - Spring 공식 문서
 - [Django Docs <sub>KR</sub>](https://docs.djangoproject.com/ko/4.0/intro) - Django 공식 문서 
 - [Spring Guides](https://github.com/spring-guides) - Spring 튜토리얼 예제
 - [Flask Docs <sub>KR</sub>](https://flask-docs-kr.readthedocs.io/ko/latest) - Flask 공식 문서
@@ -184,15 +183,15 @@
 
 ### Search
 - [Elasticsearch Docs](https://www.elastic.co/guide/en/elasticsearch/reference/current/docs.html#docs) - Elasticsearch 공식 문서
-- [Algolia](https://www.algolia.com/doc) - Algolia 공식 문서
+- [Algolia Docs](https://www.algolia.com/doc) - Algolia 공식 문서
 
 ### Linux
-- [Ubuntu <sub>KR</sub>](https://ubuntu-kr.org) - Ubuntu 공식 문서
-- [Fedora <sub>KR</sub>](https://docs.fedoraproject.org/ko/docs) Fedora 공식 문서
-- [Debian <sub>KR</sub>](https://www.debian.org/index.ko.html) - Debian 공식 문서
-- [openSUSE <sub>EN</sub>](https://doc.opensuse.org/) - openSUSE 공식 문서
-- [Manjaro Linux <sub>EN</sub>](https://docs.manjaro.org/) - Manjaro Linux 공식 문서
-- [Rocky Linux <sub>EN</sub>](https://docs.rockylinux.org/) - Rocky Linux 공식 문서
+- [Ubuntu Docs <sub>KR</sub>](https://ubuntu-kr.org) - Ubuntu 공식 문서
+- [Fedora Docs <sub>KR</sub>](https://docs.fedoraproject.org/ko/docs) Fedora 공식 문서
+- [Debian Docs <sub>KR</sub>](https://www.debian.org/index.ko.html) - Debian 공식 문서
+- [openSUSE Docs <sub>EN</sub>](https://doc.opensuse.org/) - openSUSE 공식 문서
+- [Manjaro Linux Docs <sub>EN</sub>](https://docs.manjaro.org/) - Manjaro Linux 공식 문서
+- [Rocky Linux Docs <sub>EN</sub>](https://docs.rockylinux.org/) - Rocky Linux 공식 문서
 - [CentOS Docs <sub>EN</sub>](https://wiki.centos.org/) - CentOS 공식 문서
 
 ### Infra
@@ -202,8 +201,10 @@
 - [Vagrant Docs](https://developer.hashicorp.com/vagrant/docs) - Vagrant 공식 문서
 
 ### API
-- [Slack API](https://api.slack.com) - Slack API 공식 문서
-- [Discord API](https://discord.com/developers/docs/intro) - Discord API 공식 문서
+- [Slack API <sub>EN</sub>](https://api.slack.com) - Slack API 공식 문서
+- [Discord API <sub>EN</sub>](https://discord.com/developers/docs/intro) - Discord API 공식 문서
+- [GitHub REST API <sub>EN</sub>](https://docs.github.com/en/rest?apiVersion=2022-11-28) - GitHub REST API 공식 문서
+- [GitHub REST API <sub>KR</sub>](https://docs.github.com/ko/rest) - GitHub REST API 공식 문서 
 
 ### VCS
 #### Git
@@ -215,60 +216,62 @@
 
 ## 블로그 📚
 ### Korea
-- [우아한형제들 기술블로그 <sub>KR</sub>](https://techblog.woowahan.com/)
-- [카카오 기술블로그 <sub>KR</sub>](https://tech.kakao.com/blog/)
-- [쿠팡 기술블로그 <sub>KR</sub>](https://medium.com/@coupang-engineering-kr)
-- [왓챠 팀블로그 <sub>KR</sub>](https://medium.com/watcha)
-- [컬리 기술블로그 <sub>KR</sub>](https://helloworld.kurly.com/)
-- [뱅크샐러드 기술블로그 <sub>KR</sub>](https://blog.banksalad.com/tech/)
-- [NHN 클라우드 밋업 <sub>KR</sub>](https://meetup.nhncloud.com/)
-- [하이퍼커넥트 기술블로그 <sub>KR</sub>](https://hyperconnect.github.io/)
-- [당근마켓 기술블로그 <sub>KR</sub>](https://medium.com/daangn/development/home)
-- [강남언니 기술블로그 <sub>KR</sub>](https://blog.gangnamunni.com/blog/tech/)
-- [요기요 기술블로그 <sub>KR</sub>](https://techblog.yogiyo.co.kr/)
-- [플랫팜 기술블로그 <sub>KR</sub>](https://medium.com/platfarm/technology/home)
-- [스포카 기술블로그 <sub>KR</sub>](https://spoqa.github.io/)
-- [라인 기술블로그 <sub>KR</sub>](https://techblog.lycorp.co.jp/ko)
-- [쏘카 기술블로그 <sub>KR</sub>](https://tech.socarcorp.kr/)
-- [리디 기술블로그 <sub>KR</sub>](https://ridicorp.com/story-category/tech-blog/)
-- [아이들나라 기술블로그 <sub>KR</sub>](https://i-nara.oopy.io/techblog)
+- [우아한형제들 기술블로그 <sub>KR</sub>](https://techblog.woowahan.com/) - 우아한형제들 기술블로그
+- [카카오 기술블로그 <sub>KR</sub>](https://tech.kakao.com/blog/) - 카카오 기술블로그
+- [쿠팡 기술블로그 <sub>KR</sub>](https://medium.com/@coupang-engineering-kr) - 쿠팡 기술블로그
+- [왓챠 팀블로그 <sub>KR</sub>](https://medium.com/watcha) - 왓챠 팀블로그
+- [컬리 기술블로그 <sub>KR</sub>](https://helloworld.kurly.com/) - 컬리 기술블로그
+- [뱅크샐러드 기술블로그 <sub>KR</sub>](https://blog.banksalad.com/tech/) - 뱅크샐러드 기술블로그
+- [NHN 클라우드 밋업 <sub>KR</sub>](https://meetup.nhncloud.com/) - NHN 클라우드 밋업
+- [하이퍼커넥트 기술블로그 <sub>KR</sub>](https://hyperconnect.github.io/) - 하이퍼커넥트 기술블로그
+- [당근마켓 기술블로그 <sub>KR</sub>](https://medium.com/daangn/development/home) - 당근마켓 기술블로그
+- [강남언니 기술블로그 <sub>KR</sub>](https://blog.gangnamunni.com/blog/tech/) - 강남언니 기술블로그
+- [요기요 기술블로그 <sub>KR</sub>](https://techblog.yogiyo.co.kr/) - 요기요 기술블로그
+- [플랫팜 기술블로그 <sub>KR</sub>](https://medium.com/platfarm/technology/home) - 플랫팜 기술블로그
+- [스포카 기술블로그 <sub>KR</sub>](https://spoqa.github.io/) - 스포카 기술블로그
+- [라인 기술블로그 <sub>KR</sub>](https://techblog.lycorp.co.jp/ko) - 라인 기술플로그
+- [쏘카 기술블로그 <sub>KR</sub>](https://tech.socarcorp.kr/) - 쏘카 기술블로그
+- [리디 기술블로그 <sub>KR</sub>](https://ridicorp.com/story-category/tech-blog/) - 리디 기술블로그
+- [아이들나라 기술블로그 <sub>KR</sub>](https://i-nara.oopy.io/techblog) - 아이들나라 기술블로그
 
 ### Global
-- [Engineering at Meta <sub>EN</sub>](https://engineering.fb.com/)
-- [Amazon Alexa Blogs <sub>EN</sub>](https://developer.amazon.com/en-US/blogs/alexa)
-- [Apple Developer <sub>EN</sub>](https://developer.apple.com/)
-- [The Netflix Tech Blog <sub>EN</sub>](https://netflixtechblog.com/)
-- [Google Developer Blog <sub>EN</sub>](https://developers.googleblog.com/)
-- [Linkedin Engineering Blog <sub>EN</sub>](https://www.linkedin.com/blog/engineering)
-- [Slack Engineering <sub>EN</sub>](https://slack.engineering/)
-- [The Airbnb Tech Blog <sub>EN</sub>](https://medium.com/airbnb-engineering)
-- [Zoom Developer Blog <sub>EN</sub>](https://medium.com/zoom-developer-blog)
-- [RiotGames Tech Blog <sub>EN</sub>](https://technology.riotgames.com/)
-- [Pinterest Engineering <sub>EN</sub>](https://medium.com/@Pinterest_Engineering)
-- [PayPal Tech Blog <sub>EN</sub>](https://medium.com/paypal-tech)
-- [Ebay Tech Blog <sub>EN</sub>](https://innovation.ebayinc.com/tech/)
-- [X(Twitter) Engineering <sub>EN</sub>](https://blog.twitter.com/engineering/en_us)
-- [GooglePlay Engineering <sub>EN</sub>](https://medium.com/googleplaydev)
-- [Dropbox Tech Blog <sub>EN</sub>](https://dropbox.tech/)
+- [Engineering at Meta <sub>EN</sub>](https://engineering.fb.com/) - 메타 엔지니어링 블로그
+- [Amazon Alexa Blogs <sub>EN</sub>](https://developer.amazon.com/en-US/blogs/alexa) - 아마존 알렉사 블로그
+- [Apple Developer <sub>EN</sub>](https://developer.apple.com/) - 애플 개발자 블로그
+- [Netflix Tech Blog <sub>EN</sub>](https://netflixtechblog.com/) - 넷플릭스 기술블로그
+- [Google Developer Blog <sub>EN</sub>](https://developers.googleblog.com/) - 구글 개발자 블로그
+- [Linkedin Engineering Blog <sub>EN</sub>](https://www.linkedin.com/blog/engineering) - 링크드인 엔지니어링 블로그
+- [Slack Engineering <sub>EN</sub>](https://slack.engineering/) - 슬랙 엔지니어링 블로그
+- [The Airbnb Tech Blog <sub>EN</sub>](https://medium.com/airbnb-engineering) - 에어비앤비 기술블로그
+- [Zoom Developer Blog <sub>EN</sub>](https://medium.com/zoom-developer-blog) - 줌 개발자 블로그
+- [RiotGames Tech Blog <sub>EN</sub>](https://technology.riotgames.com/) - 라이엇 게임즈 기술블로그
+- [Pinterest Engineering <sub>EN</sub>](https://medium.com/@Pinterest_Engineering) - 핀터레스트 엔지니어링 블로그
+- [PayPal Tech Blog <sub>EN</sub>](https://medium.com/paypal-tech) - 페이팔 기술블로그
+- [Ebay Tech Blog <sub>EN</sub>](https://innovation.ebayinc.com/tech/) - 이베이 기술블로그
+- [X (구 Twitter) Engineering <sub>EN</sub>](https://blog.twitter.com/engineering/en_us) X (구 Twitter) 엔지니어링 블로그
+- [GooglePlay Engineering <sub>EN</sub>](https://medium.com/googleplaydev) - 구글 플레이 엔지니어링 블로그
+- [Dropbox Tech Blog <sub>EN</sub>](https://dropbox.tech/) - Dropbox 기술블로그
 
-## 리스트 🧾
+## 자료모음 🧾
 ### Awesome
-- [awesome <sub>EN</sub>](https://github.com/sindresorhus/awesome) - 프로그래밍 관련 리스트
-- [awesome vue <sub>EN</sub>](https://github.com/vuejs/awesome-vue) - Vue.js 관련 리스트 (awesome 계열)
-- [awesome svelte <sub>EN</sub>](https://github.com/TheComputerM/awesome-svelte) - Svelte 관련 리스트 (awesome 계열)
-- [awesome angular](https://github.com/PatrickJS/awesome-angular) - Angular 관련 리스트 (awesome 계열)
-
-### Other
+- [Awesome <sub>EN</sub>](https://github.com/sindresorhus/awesome) - 프로그래밍 관련 자료모음
+- [Awesome Vue <sub>EN</sub>](https://github.com/vuejs/awesome-vue) - Vue.js 관련 자료모음 (Awesome 계열)
+- [Awesome Svelte <sub>EN</sub>](https://github.com/TheComputerM/awesome-svelte) - Svelte 관련 자료모음 (Awesome 계열)
+- [Awesome Angular <sub>EN</sub>](https://github.com/PatrickJS/awesome-angular) - Angular 관련 자료모음 (Awesome 계열)
+- [Awesome Tailwind CSS <sub>EN</sub>](https://github.com/aniftyco/awesome-tailwindcss) - Tailwind CSS 관련 자료모음 (Awesome 계열)
+- [Awesome Next.js <sub>EN</sub>](https://github.com/unicodeveloper/awesome-nextjs) - Next.js 관련 자료모음 (Awesome 계열)
 
 ## 도구 🔨
 ### Network
 - [my ip address](https://whatismyipaddress.com/ip-lookup) - IP 주소 조회
 - [내도메인.한국](https://xn--220b31d95hq8o.xn--3e0b707e) - 무료 한국 도메인 발급
+- [fast.com](https://fast.com/ko/) - 넷플릭스에서 제공하는 인터넷 속도 측정기 (브라우저)
 
 ### VCS
 #### Git
 - [Gitmoji](https://gitmoji.dev) - 깃 커밋 이모지 모음
 - [GitHub](https://github.com) - 세계 최대의 Git 플랫폼
+- [GitLab](https://about.gitlab.com/) - Git 플랫폼 (GitHub와 유사)
 
 ### No Code
 - [Bubble](https://bubble.io/how-to-build) - 노코드 툴 Bubble 빌드 가이드
@@ -295,11 +298,13 @@
 - [Emojipedia](https://emojipedia.org) - 세계 최대 이모지 저장소
 
 ### Backend Framework
-- [Spring Initializr](https://start.spring.io) - Spring Project Generator
+- [Spring Initializr](https://start.spring.io) - Spring 프로젝트 생성기
+- [Ktor Project Generator](https://start.ktor.io/#/settings) - Ktor 프로젝트 생성기
 
-### Code Formatter
-- [Ktlint](https://pinterest.github.io/ktlint/latest/) - 코틀린 코드 포매터(린터)
-- [Prettier](https://prettier.io/) - 대표적인 코드 포매터(린터)
+### Code Formatter & Linter
+- [Ktlint](https://pinterest.github.io/ktlint/latest/) - 코틀린 코드 포메터
+- [Prettier](https://prettier.io/) - 대표적인 코드 포매터
+- [ESLint]() - 자바스크립트 린터
 
 ### IDE
 #### Jetbrains
