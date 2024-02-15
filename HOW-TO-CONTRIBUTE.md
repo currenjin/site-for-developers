@@ -22,11 +22,12 @@ $ cd site-for-developers
 ```
 $ git add .
 $ git commit -m "[your description]"
-$ git push origin main
 ```
 
 ### 4. Push your commit
 커밋을 Fork된 Repository로 Push해 주세요.
+
+⚠ 이 명령어에서 'origin'은 당신이 포크한 레포지토리여야 합니다.
 
 ```
 $ git push origin main
@@ -34,6 +35,9 @@ $ git push origin main
 
 ### 5. Register pull request for your commit
 Pull Request를 등록해 주세요. [Pull Request 등록하는법](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
+
+### 6. Pull request has been approved
+🎉 관리자에 의하여 당신의 Pull Request가 승인되면 당신은 기여자 명단에 올라가게 됩니다 🎉
 
 ## Website
 
@@ -61,7 +65,7 @@ $ npm install
 해당 웹사이트를 실행해보세요.
 
 ```
-$ npm run start
+$ npm start
 ```
 
 ### 5. Commit your changes
@@ -70,11 +74,12 @@ $ npm run start
 ```
 $ git add .
 $ git commit -m "[your description]"
-$ git push origin main
 ```
 
 ### 6. Push your commit
-커밋을 Fork된 Repository로 Push해 주세요.
+커밋을 포크한 레포지토리로 Push해 주세요.
+
+⚠ 이 명령어에서 'origin'은 당신이 포크한 레포지토리의 리모트여야 합니다.
 
 ```
 $ git push origin website
@@ -83,4 +88,43 @@ $ git push origin website
 ### 7. Register pull request for your commit
 Pull Request를 등록해 주세요. [Pull Request 등록하는법](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
 
-## Style Guide
+### 8. Pull request has been approved
+🎉 관리자에 의하여 당신의 Pull Request가 승인되면 당신은 기여자 명단에 올라가게 됩니다 🎉
+
+
+## Android
+
+### 1. Fork this repository
+이 Repository를 Fork해 주세요. [Fork 하는법](https://ittrue.tistory.com/90)
+
+⚠ 주의: Fork 과정에서 "Copy the main branch only"의 체크박스을 해제해주세요.
+
+### 2. Open Android Studio
+Android Studio를 실행해 주세요. [Android Studio 설치하는법](https://ineedtoprogramandweb.tistory.com/entry/AndroidStudio-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-%EC%B5%9C%EC%8B%A0),
+[Android Studio 실행하는법](https://bbmsk2.tistory.com/25)
+
+### 3. Start android
+해당 Android app을 실행해보세요. [Android app 실행하는법](https://ju-hy.tistory.com/21)
+
+### 4. Commit your changes
+현재까지 아무런 문제가 없다면 변경사항을 만들고 커밋해주세요.
+
+```
+$ git add .
+$ git commit -m "[your description]"
+```
+
+### 5. Push yout commit
+커밋을 포크한 레포지토리로 Push해 주세요.
+
+⚠ 이 명령어에서 'origin'은 당신이 포크한 레포지토리의 리모트여야 합니다.
+
+```
+$ git push origin android
+```
+
+### 6. Register pull requerst for your commit
+Pull Request를 등록해 주세요. [Pull Request 등록하는법](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
+
+### 7. Pull request has been approved
+🎉 관리자에 의하여 당신의 Pull Request가 승인되면 당신은 기여자 명단에 올라가게 됩니다 🎉
