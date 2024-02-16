@@ -1,5 +1,5 @@
 <div align="middle">
-  <img src="./resources/header_base/264x157/header_base.svg" height="264" />
+  <img src="https://cdn.jsdelivr.net/gh/currenjin/site-for-developers/resources/header_base/264x157/header_base.svg" height="264" />
 </div>
 
 ## 어떤 저장소인가요?
