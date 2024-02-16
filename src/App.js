@@ -1,7 +1,7 @@
 import "./components/css/App.css";
 import { React } from "react";
 import { Navbar } from "flowbite-react";
-import { Route, Routes, Link } from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import Contribute from "./pages/Contribute";
@@ -12,8 +12,8 @@ const App = () => {
       <Navbar fluid rounded className="suit">
         <Navbar.Brand href="/">
           <img
-            src="https://i.ibb.co/x5rw85r/site-for-developers-icon.png"
-            className="mr-1 h-9"
+            src="https://cdn.jsdelivr.net/gh/currenjin/site-for-developers/resources/icon_transparent/128x128/icon_transparent.svg"
+            className="mr-1 h-8"
             alt="Flowbite React Logo"
           />
           <span className="suit self-center whitespace-nowrap text-xl font-semibold dark:text-white">
