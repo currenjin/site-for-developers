@@ -2,5 +2,14 @@
 <resources>
     <color name="black">#000000</color>
     <color name="white">#FFFFFF</color>
-    <color name="primarycolor">#51A8F5</color>
+    <color name="primary_000">#edf2ff</color>
+    <color name="primary_100">#dbe4ff</color>
+    <color name="primary_200">#bac8ff</color>
+    <color name="primary_300">#91a7ff</color>
+    <color name="primary_400">#748ffc</color>
+    <color name="primary_500">#5c7cfa</color>
+    <color name="primary_600">#4c6ef5</color>
+    <color name="primary_700">#4263eb</color>
+    <color name="primary_800">#3b5bdb</color>
+    <color name="primary_900">#364fc7</color>
 </resources>
