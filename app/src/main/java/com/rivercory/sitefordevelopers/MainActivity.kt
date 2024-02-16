@@ -9,12 +9,11 @@ import androidx.swiperefreshlayout.widget.SwipeRefreshLayout
 
 
 class MainActivity : AppCompatActivity() {
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        val myWeb = findViewById<WebView>(R.id.webview)
-        val layoutswiperefresh = findViewById<SwipeRefreshLayout>(R.id.layout_swipe_refresh)
+        var myWeb = findViewById<WebView>(R.id.webview)
+        var layoutswiperefresh = findViewById<SwipeRefreshLayout>(R.id.layout_swipe_refresh)
 
         myWeb.webViewClient = WebViewClient()
         myWeb.getSettings().setSupportZoom(true);
@@ -31,7 +30,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         layoutswiperefresh.setColorSchemeResources(
-            R.color.primarycolor
+            R.color.primary_500
         );
 
         layoutswiperefresh.setOnRefreshListener(SwipeRefreshLayout.OnRefreshListener {
