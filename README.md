@@ -19,6 +19,8 @@
   - [기술 커뮤니티](#기술-커뮤니티)
 	  - [Korea](#korea)
 	  - [Other](#other)
+	  - [Korea](#korea)
+	  - [Other](#other)
   - [교육 커뮤니티](#교육-커뮤니티)
   - [학습](#학습)
   - [문제풀이](#문제풀이)
@@ -84,9 +86,12 @@
 
 #### Other
 - [Stack Exchange](https://stackexchange.com) - 질의응답 커뮤니티
+- [Stack Exchange](https://stackexchange.com) - 질의응답 커뮤니티
 - [Hashnode](https://hashnode.com) - 개발자를 위한 질의응답 커뮤니티
 - [Producthunt](https://www.producthunt.com) - 인터넷 제품 수집 커뮤니티
+- [Producthunt](https://www.producthunt.com) - 인터넷 제품 수집 커뮤니티
 - [Coderanch](https://coderanch.com) - Java 원스톱 학습 강좌
+- [Stack Overflow](https://stackoverflow.com) - 질의응답 커뮤니티
 - [Stack Overflow](https://stackoverflow.com) - 질의응답 커뮤니티
 
 ### 교육 커뮤니티
@@ -126,6 +131,7 @@
 - [MDN Docs <sub>KR</sub>](https://developer.mozilla.org/ko/docs/Web/HTML) - MDN(HTML, CSS, Javascript) 공식 문서
 - [Javascript.info <sub>KR</sub>](https://ko.javascript.info) - 모던 자바스크립트 튜토리얼 (한국어)
 - [HTML DOM](https://phuoc.ng/collection/html-dom) - HTML DOM 마스터하기
+- [Rspack](https://www.rspack.dev) - Rspack (Rust 기반 번들러)
 - [Rspack](https://www.rspack.dev) - Rspack (Rust 기반 번들러)
 - [Thymeleaf](https://www.thymeleaf.org) - Server-side Java Template Engine
 - [Mustache](https://mustache.github.io/) - Template Engine
@@ -219,6 +225,9 @@
 ### Other
 - [Google Developers Docs](https://developers.google.com) - 구글 개발자 공식 문서
 
+### Other
+- [Google Developers Docs](https://developers.google.com) - 구글 개발자 공식 문서
+
 ## 블로그 📚
 ### Korea
 - [우아한형제들 기술블로그 <sub>KR</sub>](https://techblog.woowahan.com/) - 우아한형제들 기술블로그
@@ -302,6 +311,13 @@
 - [Softr](https://softr.io/) - 노코드 툴 Softr
 - [Adalo](https://adalo.com/) - 노코드 툴 Adalo
 - [Glide](https://www.glideapps.com/) - 노코드 툴 Glide
+- [Bubble](https://bubble.io) - 노코드 툴 Bubble
+- [Flutterflow](https://flutterflow.io) - 노코드 툴 Flutterflow
+- [Waveon](https://www.waveon.io) - 노코드 툴 Waveon
+- [Webflow](https://webflow.com/) - 노코드 툴 Webflow
+- [Softr](https://softr.io/) - 노코드 툴 Softr
+- [Adalo](https://adalo.com/) - 노코드 툴 Adalo
+- [Glide](https://www.glideapps.com/) - 노코드 툴 Glide
 
 ### API Request
 - [Postman](https://www.postman.com/downloads) - API 디버그 도구
@@ -320,7 +336,9 @@
 - [Draw.io](https://app.diagrams.net) - 다이어그램 작성 도구
 - [Canva](https://www.canva.com/ko_kr) - 무료 디자인 툴
 - [DGM](https://dgm.sh/home) - 다이어그램 작성 도구
+- [DGM](https://dgm.sh/home) - 다이어그램 작성 도구
 - [Pexels](https://www.pexels.com/ko-kr) - 고화질 무료이미지 모음
+- [Emojipedia](https://emojipedia.org) - 이모지 저장소
 - [Emojipedia](https://emojipedia.org) - 이모지 저장소
 
 ### Backend Framework
@@ -331,9 +349,24 @@
 - [Ktlint](https://pinterest.github.io/ktlint/latest/) - 코틀린 코드 포메터
 - [Prettier](https://prettier.io/) - 대표적인 코드 포매터
 - [ESLint](https://eslint.org/) - 자바스크립트 린터
+- [ESLint](https://eslint.org/) - 자바스크립트 린터
 
 ### IDE
 #### Jetbrains
+- [Fleet <sub>$</sub>](https://www.jetbrains.com/ko-kr/fleet) - Jetbrains에서 개발한 텍스트 에디터
+- [IntelliJ IDEA <sub>$</sub>](https://www.jetbrains.com/ko-kr/idea) - Jetbrains에서 개발한 통합 개발 환경 (Java, Kotlin)
+- [CLion <sub>$</sub>](https://www.jetbrains.com/ko-kr/clion) - Jetbrains에서 개발한 통합 개발 환경 (C, C++)
+- [DataGrip <sub>$</sub>](https://www.jetbrains.com/ko-kr/datagrip) - Jetbrains에서 개발한 통합 개발 환경 (SQL)
+- [DataSpell <sub>$</sub>](https://www.jetbrains.com/ko-kr/dataspell) - Jetbrains에서 개발한 통합 개발 환경 (SQL)
+- [WebStorm <sub>$</sub>](https://www.jetbrains.com/ko-kr/webstorm) - Jetbrains에서 개발한 통합 개발 환경 (JavaScript)
+- [PyCharm <sub>$</sub>](https://www.jetbrains.com/ko-kr/pycharm) - Jetbrains에서 개발한 통합 개발 환경 (Python)
+- [RubyMine <sub>$</sub>](https://www.jetbrains.com/ko-kr/ruby) - Jetbrains에서 개발한 통합 개발 환경 (Ruby)
+- [Rider <sub>$</sub>](https://www.jetbrains.com/ko-kr/rider/) - Jetbrains에서 개발한 통합 개발 환경 (C#, .NET)
+- [Writerside <sub>$</sub>](https://www.jetbrains.com/ko-kr/writerside) - Jetbrains에서 개발한 통합 개발 환경 (Document)
+- [RustRover <sub>$</sub>](https://www.jetbrains.com/ko-kr/rust) - Jetbrains에서 개발한 통합 개발 환경 (Rust)
+- [GoLand <sub>$</sub>](https://www.jetbrains.com/ko-kr/go) - Jetbrains에서 개발한 통합 개발 환경 (Go)
+- [Aqua <sub>$</sub>](https://www.jetbrains.com/ko-kr/aqua) - Jetbrains에서 개발한 통합 개발 환경 (Testing)
+- [Android Studio <sub>F</sub>](https://developer.android.com/studio?hl=ko) - Jetbrains에서 개발한 통합 개발 환경 (Android)
 - [Fleet <sub>$</sub>](https://www.jetbrains.com/ko-kr/fleet) - Jetbrains에서 개발한 텍스트 에디터
 - [IntelliJ IDEA <sub>$</sub>](https://www.jetbrains.com/ko-kr/idea) - Jetbrains에서 개발한 통합 개발 환경 (Java, Kotlin)
 - [CLion <sub>$</sub>](https://www.jetbrains.com/ko-kr/clion) - Jetbrains에서 개발한 통합 개발 환경 (C, C++)
