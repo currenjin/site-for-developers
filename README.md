@@ -18,8 +18,8 @@
 - [추천](#추천-)
 - [커뮤니티](#커뮤니티-)
   - [기술 커뮤니티](#기술-커뮤니티)
-	- [Korea](#korea)
-	- [Other](#other)
+	  - [Korea](#korea)
+	  - [Other](#other)
   - [교육 커뮤니티](#교육-커뮤니티)
   - [학습](#학습)
   - [문제풀이](#문제풀이)
@@ -40,12 +40,14 @@
   - [API](#api)
   - [VCS](#vcs)
   	- [Git](#git)
+  - [Other](#other-1)
 - [블로그](#블로그-)
   - [Korea](#korea-1)
   - [Global](#global)
 - [자료모음](#자료모음-)
   - [Awesome](#awesome)
 - [도구](#도구-)
+  - [Search](#search)
   - [Network](#network)
   - [VCS](#vcs-1)
 	- [Git](#git-1)
@@ -58,13 +60,13 @@
 	- [Jetbrains](#jetbrains)
 	- [Other](#other-2)
   - [AI plugin](#ai-plugin)
-  - [Other](#other-2)
+  - [Other](#other-3)
 
 
 ## 추천 👍
-- [Stack Overflow <sub>EN</sub>](https://stackoverflow.com) - 세계 최대 프로그래밍 질의응답 커뮤니티
+- [Stack Overflow <sub>EN</sub>](https://stackoverflow.com) - 프로그래밍 질의응답 커뮤니티
 - [wikidocs <sub>KR</sub>](https://wikidocs.net) - 우수한 프로그래밍 서적 번역
-- [visualgo](https://visualgo.net/en) - 최고의 알고리즘 시각화 학습 라이브러리
+- [visualgo](https://visualgo.net/en) - 알고리즘 시각화 학습 라이브러리
 - [roadmap](https://roadmap.sh) - 초보자에서 마스터로 가는 학습 로드맵
 - [Free for Developers](https://free-for.dev) - 개발자를 위한 무료 리소스 모음
 
@@ -73,7 +75,7 @@
 #### Korea
 - [velog <sub>KR</sub>](https://velog.io) - 개발자 기술 공유 블로그
 - [disquiet <sub>KR</sub>](https://disquiet.io) - IT 서비스 메이커들의 소셜 네트워크
-- [okky <sub>KR</sub>](https://okky.kr) - 국내 최대 개발자 커뮤니티
+- [okky <sub>KR</sub>](https://okky.kr) - 개발자 커뮤니티
 - [cikorea <sub>KR</sub>](https://www.cikorea.net) - CodeIgniter 한국 사용자 포럼 (기술 퀴즈 많음)
 - [jsdev <sub>KR</sub>](https://jsdev.kr) - Javascript 개발자 포럼
 - [laravel <sub>KR</sub>](https://laravel.kr/) - Laravel 코리아 커뮤니티
@@ -82,20 +84,23 @@
 - [careerly <sub>KR</sub>](https://careerly.co.kr) - 개발자를 위한 질의응답 및 지식 공유 커뮤니티
 
 #### Other
-- [Stack Exchange](https://stackexchange.com) - 1위 질의응답 커뮤니티
+- [Stack Exchange](https://stackexchange.com) - 질의응답 커뮤니티
 - [Hashnode](https://hashnode.com) - 개발자를 위한 질의응답 커뮤니티
-- [Producthunt](https://www.producthunt.com) - 세계 최대 인터넷 제품 수집 커뮤니티
+- [Producthunt](https://www.producthunt.com) - 인터넷 제품 수집 커뮤니티
 - [Coderanch](https://coderanch.com) - Java 원스톱 학습 강좌
-- [Stack Overflow](https://stackoverflow.com) - 세계 최대 질의응답 커뮤니티
+- [Stack Overflow](https://stackoverflow.com) - 질의응답 커뮤니티
 
 ### 교육 커뮤니티
-- [Inflearn <sub>$</sub>](https://www.inflearn.com) - 온라인 프로그래밍 강좌
+- [Inflearn <sub>$, KR</sub>](https://www.inflearn.com) - 온라인 프로그래밍 강좌
+- [코딩애플 <sub>$, KR</sub>](https://codingapple.com/) - 온라인 프로그래밍 강좌
 - [swexpertacademy](https://swexpertacademy.com/main/learn/course/courseList.do) - 삼성의 프로그래밍 역량 강화 학습 콘텐츠
 - [nomadcoders <sub>$</sub>](https://nomadcoders.co) - 온라인 프로그래밍 강좌
 - [NEXTSTEP <sub>$</sub>](https://edu.nextstep.camp) - 온라인 프로그래밍 강좌
 
 ### 뉴스
-- [Dzone](https://dzone.com) - 세계 최대 개발자 뉴스 사이트
+- [Dzone](https://dzone.com) - 개발자 뉴스 사이트
+- [ZDNet <sub>EN</sub>](https://www.zdnet.com/) - IT 관련 뉴스
+- [ZDNet <sub>KR</sub>](https://zdnet.co.kr/) - IT 관련 뉴스
 - [infoQ](https://www.infoq.com) - 최신 기술의 뉴스 및 공유
 - [techcrunch](https://techcrunch.com) - 각종 과학 기술 뉴스
 - [개발자스럽다 <sub>KR</sub>](https://blog.gaerae.com/) - 월간 뉴스레터 발행
@@ -105,7 +110,7 @@
 - [Opentutorials](https://opentutorials.org) - 기초 프로그래밍 입문 강좌
 - [W3schools](https://www.w3schools.com) - WEB 개발 학습
 - [Codecademy](https://www.codecademy.com) - 프로그래밍 학습 플랫폼
-- [Udemy](https://www.udemy.com) - 세계 최대 온라인 강좌
+- [Udemy](https://www.udemy.com) - 온라인 강좌
 - [edwith](https://www.edwith.org/?validMobileApp=true) - 네이버커넥트 재단의 공개강좌 플랫폼
 - [TCP School (Java)](https://www.tcpschool.com/java/intro) - 자바 기초
 
@@ -117,14 +122,12 @@
 
 
 ## 문서 📃
-- [Google Developers Docs](https://developers.google.com) - 구글 개발자 공식 문서
-
 ### Web & Frontend & Design
 #### Web
-- [MDN Docs <sub>KR</sub>](https://developer.mozilla.org/ko/docs/Web/HTML) - MDN(HTML, CSS, Javascript) 공식 문서 (한국어)
+- [MDN Docs <sub>KR</sub>](https://developer.mozilla.org/ko/docs/Web/HTML) - MDN(HTML, CSS, Javascript) 공식 문서
 - [javascript.info <sub>KR</sub>](https://ko.javascript.info) - 모던 자바스크립트 튜토리얼 (한국어)
 - [HTML DOM](https://phuoc.ng/collection/html-dom) - HTML DOM 마스터하기
-- [Rspack](https://www.rspack.dev) - Rspack(Rust 기반 번들러)
+- [Rspack](https://www.rspack.dev) - Rspack (Rust 기반 번들러)
 - [Thymeleaf](https://www.thymeleaf.org) - Server-side Java Template Engine
 - [Mustache](https://mustache.github.io/) - Template Engine
 
@@ -214,6 +217,9 @@
 - [GitHub GraphQL API](https://docs.github.com/ko/graphql) - 깃허브 GraphQL API 공식 문서
 - [GitHub Webhook](https://docs.github.com/ko/webhooks) - 깃허브 Webhook 공식 문서
 
+### Other
+- [Google Developers Docs](https://developers.google.com) - 구글 개발자 공식 문서
+
 ## 블로그 📚
 ### Korea
 - [우아한형제들 기술블로그 <sub>KR</sub>](https://techblog.woowahan.com/) - 우아한형제들 기술블로그
@@ -255,13 +261,26 @@
 ## 자료모음 🧾
 ### Awesome
 - [Awesome <sub>EN</sub>](https://github.com/sindresorhus/awesome) - 프로그래밍 관련 자료모음
+- [Awesome Node.js <sub>EN</sub>](https://github.com/sindresorhus/awesome-nodejs) - Node.js 관련 자료모음 (Awesome 계열)
 - [Awesome Vue <sub>EN</sub>](https://github.com/vuejs/awesome-vue) - Vue.js 관련 자료모음 (Awesome 계열)
 - [Awesome Svelte <sub>EN</sub>](https://github.com/TheComputerM/awesome-svelte) - Svelte 관련 자료모음 (Awesome 계열)
 - [Awesome Angular <sub>EN</sub>](https://github.com/PatrickJS/awesome-angular) - Angular 관련 자료모음 (Awesome 계열)
-- [Awesome Tailwind CSS <sub>EN</sub>](https://github.com/aniftyco/awesome-tailwindcss) - Tailwind CSS 관련 자료모음 (Awesome 계열)
 - [Awesome Next.js <sub>EN</sub>](https://github.com/unicodeveloper/awesome-nextjs) - Next.js 관련 자료모음 (Awesome 계열)
+- [Awesome Ruby <sub>EN</sub>](https://github.com/markets/awesome-ruby) - Ruby 관련 자료모음 (Awesome 계열)
+- [Awesome C++ <sub>EN</sub>](https://github.com/fffaraz/awesome-cpp) - C++ 관련 자료모음 (Awesome 계열)
+- [Awesome .NET <sub>EN</sub>](https://github.com/quozd/awesome-dotnet) - .NET 관련 자료모음 (Awesome 계열)
+- [Awesome .NET Core <sub>EN</sub>](https://github.com/thangchung/awesome-dotnet-core) - .NET Core 관련 자료모음 (Awesome 계열)
+- [Awesome CSS <sub>EN</sub>](https://github.com/awesome-css-group/awesome-css) - CSS 관련 자료모음 (Awesome 계열)
+- [Awesome Bootstrap <sub>EN</sub>](https://github.com/awesome-bootstrap-org/awesome-bootstrap) - Bootstrap 관련 자료모음 (Awesome 계열)
+- [Awesome Tailwind CSS <sub>EN</sub>](https://github.com/aniftyco/awesome-tailwindcss) - Tailwind CSS 관련 자료모음 (Awesome 계열)
+- [Awesome Fonts <sub>EN</sub>](https://github.com/brabadu/awesome-fonts) - 폰트 관련 자료모음 (Awesome 계열)
+- [Awesome Icons <sub>EN</sub>](https://github.com/notlmn/awesome-icons) - 아이콘 관련 자료모음 (Awesome 계열)
+- [Awesome Web Icons <sub>EN</sub>](https://github.com/vkarampinis/awesome-icons) - 웹 아이콘 관련 자료모음 (Awesome 계열)
 
 ## 도구 🔨
+### Search
+- [Google](https://www.google.com/) - 검색 엔진
+
 ### Network
 - [my ip address](https://whatismyipaddress.com/ip-lookup) - IP 주소 조회
 - [내도메인.한국](https://xn--220b31d95hq8o.xn--3e0b707e) - 무료 한국 도메인 발급
@@ -270,12 +289,17 @@
 ### VCS
 #### Git
 - [Gitmoji](https://gitmoji.dev) - 깃 커밋 이모지 모음
-- [GitHub](https://github.com) - 세계 최대의 Git 플랫폼
+- [GitHub](https://github.com) - Git 플랫폼
 - [GitLab](https://about.gitlab.com/) - Git 플랫폼 (GitHub와 유사)
 
 ### No Code
-- [Bubble](https://bubble.io/how-to-build) - 노코드 툴 Bubble 빌드 가이드
-- [Flutterflow](https://docs.flutterflow.io) - 노코드 툴 Flutterflow 공식 문서
+- [Bubble](https://bubble.io) - 노코드 툴 Bubble
+- [Flutterflow](https://flutterflow.io) - 노코드 툴 Flutterflow
+- [Waveon](https://www.waveon.io) - 노코드 툴 Waveon
+- [Webflow](https://webflow.com/) - 노코드 툴 Webflow
+- [Softr](https://softr.io/) - 노코드 툴 Softr
+- [Adalo](https://adalo.com/) - 노코드 툴 Adalo
+- [Glide](https://www.glideapps.com/) - 노코드 툴 Glide
 
 ### API Request
 - [Postman](https://www.postman.com/downloads) - API 디버그 도구
@@ -290,12 +314,12 @@
 - [regexr](https://regexr.com) - 온라인 정규 표현식 도구
 
 ### Design
-- [Figma](https://figma.com) - UI/UX 디자인 및 프로토타이핑 도구
+- [Figma <sub>$</sub>](https://figma.com) - UI/UX 디자인 및 프로토타이핑 도구
 - [draw.io](https://app.diagrams.net) - 다이어그램 작성 도구
 - [Canva](https://www.canva.com/ko_kr) - 무료 디자인 툴
-- [DGM](https://dgm.sh/home) - 다이어그램 작성 도구(제작자가 한국인)
+- [DGM](https://dgm.sh/home) - 다이어그램 작성 도구
 - [Pexels](https://www.pexels.com/ko-kr) - 고화질 무료이미지 모음
-- [Emojipedia](https://emojipedia.org) - 세계 최대 이모지 저장소
+- [Emojipedia](https://emojipedia.org) - 이모지 저장소
 
 ### Backend Framework
 - [Spring Initializr](https://start.spring.io) - Spring 프로젝트 생성기
@@ -304,28 +328,31 @@
 ### Code Formatter & Linter
 - [Ktlint](https://pinterest.github.io/ktlint/latest/) - 코틀린 코드 포메터
 - [Prettier](https://prettier.io/) - 대표적인 코드 포매터
-- [ESLint]() - 자바스크립트 린터
+- [ESLint](https://eslint.org/) - 자바스크립트 린터
 
 ### IDE
 #### Jetbrains
-- [Fleet](https://www.jetbrains.com/ko-kr/fleet) - Jetbrains에서 개발한 텍스트 에디터
-- [IntelliJ IDEA](https://www.jetbrains.com/ko-kr/idea) - Jetbrains에서 개발한 통합 개발 환경 (Java, Kotlin)
-- [CLion](https://www.jetbrains.com/ko-kr/clion) - Jetbrains에서 개발한 통합 개발 환경 (C, C++)
-- [DataGrip](https://www.jetbrains.com/ko-kr/datagrip) - Jetbrains에서 개발한 통합 개발 환경 (SQL)
-- [DataSpell](https://www.jetbrains.com/ko-kr/dataspell) - Jetbrains에서 개발한 통합 개발 환경 (SQL)
-- [WebStorm](https://www.jetbrains.com/ko-kr/webstorm) - Jetbrains에서 개발한 통합 개발 환경 (JavaScript)
-- [PyCharm](https://www.jetbrains.com/ko-kr/pycharm) - Jetbrains에서 개발한 통합 개발 환경 (Python)
-- [RubyMine](https://www.jetbrains.com/ko-kr/ruby) - Jetbrains에서 개발한 통합 개발 환경 (Ruby)
-- [Rider](https://www.jetbrains.com/ko-kr/rider/) - Jetbrains에서 개발한 통합 개발 환경 (C#, .NET)
-- [Writerside](https://www.jetbrains.com/ko-kr/writerside) - Jetbrains에서 개발한 통합 개발 환경 (Document)
-- [RustRover](https://www.jetbrains.com/ko-kr/rust) - Jetbrains에서 개발한 통합 개발 환경 (Rust)
-- [GoLand](https://www.jetbrains.com/ko-kr/go) - Jetbrains에서 개발한 통합 개발 환경 (Go)
-- [Aqua](https://www.jetbrains.com/ko-kr/aqua) - Jetbrains에서 개발한 통합 개발 환경 (Testing)
-- [Android Studio](https://developer.android.com/studio?hl=ko) - Jetbrains에서 개발한 통합 개발 환경 (Android)
+- [Fleet <sub>$</sub>](https://www.jetbrains.com/ko-kr/fleet) - Jetbrains에서 개발한 텍스트 에디터
+- [IntelliJ IDEA <sub>$</sub>](https://www.jetbrains.com/ko-kr/idea) - Jetbrains에서 개발한 통합 개발 환경 (Java, Kotlin)
+- [CLion <sub>$</sub>](https://www.jetbrains.com/ko-kr/clion) - Jetbrains에서 개발한 통합 개발 환경 (C, C++)
+- [DataGrip <sub>$</sub>](https://www.jetbrains.com/ko-kr/datagrip) - Jetbrains에서 개발한 통합 개발 환경 (SQL)
+- [DataSpell <sub>$</sub>](https://www.jetbrains.com/ko-kr/dataspell) - Jetbrains에서 개발한 통합 개발 환경 (SQL)
+- [WebStorm <sub>$</sub>](https://www.jetbrains.com/ko-kr/webstorm) - Jetbrains에서 개발한 통합 개발 환경 (JavaScript)
+- [PyCharm <sub>$</sub>](https://www.jetbrains.com/ko-kr/pycharm) - Jetbrains에서 개발한 통합 개발 환경 (Python)
+- [RubyMine <sub>$</sub>](https://www.jetbrains.com/ko-kr/ruby) - Jetbrains에서 개발한 통합 개발 환경 (Ruby)
+- [Rider <sub>$</sub>](https://www.jetbrains.com/ko-kr/rider/) - Jetbrains에서 개발한 통합 개발 환경 (C#, .NET)
+- [Writerside <sub>$</sub>](https://www.jetbrains.com/ko-kr/writerside) - Jetbrains에서 개발한 통합 개발 환경 (Document)
+- [RustRover <sub>$</sub>](https://www.jetbrains.com/ko-kr/rust) - Jetbrains에서 개발한 통합 개발 환경 (Rust)
+- [GoLand <sub>$</sub>](https://www.jetbrains.com/ko-kr/go) - Jetbrains에서 개발한 통합 개발 환경 (Go)
+- [Aqua <sub>$</sub>](https://www.jetbrains.com/ko-kr/aqua) - Jetbrains에서 개발한 통합 개발 환경 (Testing)
+- [Android Studio <sub>F</sub>](https://developer.android.com/studio?hl=ko) - Jetbrains에서 개발한 통합 개발 환경 (Android)
 
 #### Other
-- [Visual Studio Code](https://code.visualstudio.com) - Microsoft에서 개발한 텍스트 에디터
-- [Visual Studio](https://visualstudio.microsoft.com/ko) - Microsoft에서 개발한 통합 개발 환경
+- [Visual Studio Code <sub>O, F</sub>](https://code.visualstudio.com) - Microsoft에서 개발한 텍스트 에디터
+- [Visual Studio <sub>$</sub>](https://visualstudio.microsoft.com/ko) - Microsoft에서 개발한 통합 개발 환경
+- [Geany <sub>O, F</sub>](https://www.geany.org/) - 빠르고 가벼운 통합 개발 환경
+- [Sublime Text <sub>$</sub>](https://www.sublimetext.com/) - 크로스 플랫폼의 텍스트 에디터
+- [Notepad++ <sub>O, F</sub>](https://notepad-plus-plus.org/) - 윈도우 전용 텍스트 에디터
 - [Eclipse](https://www.eclipse.org) - 자바 기반의 통합 개발 환경
 - [Colab](https://colab.research.google.com/?hl=ko#) - 호스팅된 Jupyter 노트북 서비스로, 설정하지 않고 사용 가능하며 GPU를 포함한 컴퓨팅 리소스를 무료로 사용
 - [Xcode](https://developer.apple.com/kr/xcode/) - Apple에서 개발한 통합 개발 환경
