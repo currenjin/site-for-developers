@@ -348,20 +348,6 @@
 - [GoLand <sub>$</sub>](https://www.jetbrains.com/ko-kr/go) - Jetbrains에서 개발한 통합 개발 환경 (Go)
 - [Aqua <sub>$</sub>](https://www.jetbrains.com/ko-kr/aqua) - Jetbrains에서 개발한 통합 개발 환경 (Testing)
 - [Android Studio <sub>F</sub>](https://developer.android.com/studio?hl=ko) - Jetbrains에서 개발한 통합 개발 환경 (Android)
-- [Fleet <sub>$</sub>](https://www.jetbrains.com/ko-kr/fleet) - Jetbrains에서 개발한 텍스트 에디터
-- [IntelliJ IDEA <sub>$</sub>](https://www.jetbrains.com/ko-kr/idea) - Jetbrains에서 개발한 통합 개발 환경 (Java, Kotlin)
-- [CLion <sub>$</sub>](https://www.jetbrains.com/ko-kr/clion) - Jetbrains에서 개발한 통합 개발 환경 (C, C++)
-- [DataGrip <sub>$</sub>](https://www.jetbrains.com/ko-kr/datagrip) - Jetbrains에서 개발한 통합 개발 환경 (SQL)
-- [DataSpell <sub>$</sub>](https://www.jetbrains.com/ko-kr/dataspell) - Jetbrains에서 개발한 통합 개발 환경 (SQL)
-- [WebStorm <sub>$</sub>](https://www.jetbrains.com/ko-kr/webstorm) - Jetbrains에서 개발한 통합 개발 환경 (JavaScript)
-- [PyCharm <sub>$</sub>](https://www.jetbrains.com/ko-kr/pycharm) - Jetbrains에서 개발한 통합 개발 환경 (Python)
-- [RubyMine <sub>$</sub>](https://www.jetbrains.com/ko-kr/ruby) - Jetbrains에서 개발한 통합 개발 환경 (Ruby)
-- [Rider <sub>$</sub>](https://www.jetbrains.com/ko-kr/rider/) - Jetbrains에서 개발한 통합 개발 환경 (C#, .NET)
-- [Writerside <sub>$</sub>](https://www.jetbrains.com/ko-kr/writerside) - Jetbrains에서 개발한 통합 개발 환경 (Document)
-- [RustRover <sub>$</sub>](https://www.jetbrains.com/ko-kr/rust) - Jetbrains에서 개발한 통합 개발 환경 (Rust)
-- [GoLand <sub>$</sub>](https://www.jetbrains.com/ko-kr/go) - Jetbrains에서 개발한 통합 개발 환경 (Go)
-- [Aqua <sub>$</sub>](https://www.jetbrains.com/ko-kr/aqua) - Jetbrains에서 개발한 통합 개발 환경 (Testing)
-- [Android Studio <sub>F</sub>](https://developer.android.com/studio?hl=ko) - Jetbrains에서 개발한 통합 개발 환경 (Android)
 
 #### Other
 - [Visual Studio Code <sub>O, F</sub>](https://code.visualstudio.com) - Microsoft에서 개발한 텍스트 에디터
