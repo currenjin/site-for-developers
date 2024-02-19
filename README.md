@@ -5,7 +5,8 @@
 ## 어떤 저장소인가요?
 - 개발자가 참고하면 좋은 대표적인 사이트를 모아놓은 북마크 저장소입니다. 한 분 한 분에게 도움이 되었으면 좋겠습니다. 🙏🏾
 - 또한, 참고하면 좋겠다고 생각되는 사이트는 `Pull Request` 로 참여해 주시면 감사하겠습니다! -> [기여하는 법](https://github.com/currenjin/site-for-developers/blob/main/HOW-TO-CONTRIBUTE.md)
-- **시작하기에 앞서 이 기호들을 참고하시면 문서 열람에 도움이 됩니다.<br/>오픈소스: <sub>Ο</sub>&nbsp;&nbsp; 무료: <sub>F</sub>&nbsp;&nbsp; 유료 혹은 부분적 유료: <sub>$</sub>&nbsp;&nbsp; 한국어: <sub>KR</sub>&nbsp;&nbsp; 영어: <sub>EN</sub>**
+- **시작하기에 앞서 이 기호들을 참고하시면 문서 열람에 도움이 됩니다.<br/>
+오픈소스: <sub>Ο</sub>&nbsp;&nbsp; 무료: <sub>F</sub>&nbsp;&nbsp; 유료 혹은 부분적 유료: <sub>$</sub>&nbsp;&nbsp; 한국어: <sub>KR</sub>&nbsp;&nbsp; 영어: <sub>EN</sub>**
 
 ## 기여자
 <img src="https://img.shields.io/badge/author-currenjin-5c7cfa" width="130" />
