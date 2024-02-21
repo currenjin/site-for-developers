@@ -360,6 +360,7 @@
 - [Colab](https://colab.research.google.com/?hl=ko#) - 호스팅된 Jupyter 노트북 서비스로, 설정하지 않고 사용 가능하며 GPU를 포함한 컴퓨팅 리소스를 무료로 사용
 - [Xcode](https://developer.apple.com/kr/xcode/) - Apple에서 개발한 통합 개발 환경
 - [online gdb](https://www.onlinegdb.com) - 온라인 컴파일러 및 디버거 도구
+- [URL Encode and Decode](https://www.urlencoder.org/) - 온라인 url 인코더/디코더
 
 ### AI
 - [Cody AI <sub>F</sub>](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai) - Visual Studio Code AI 플러그인
