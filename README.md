@@ -129,9 +129,9 @@
 - [Mustache](https://mustache.github.io/) - Template Engine
 
 #### Design
-- [Bootstrap Docs](https://getbootstrap.com/docs/5.1/getting-started/introduction) - Bootstrap 공식 문서
-- [Flexbox Froggy](https://flexboxfroggy.com/#ko) - Flex 연습 페이지
-- [StyleX](https://stylexjs.com/blog/introducing-stylex) - Introducing StyleX
+- [Bootstrap Docs <sub>EN</sub>](https://getbootstrap.com/docs/5.1/getting-started/introduction) - Bootstrap 공식 문서
+- [Flexbox Froggy <sub>EN</sub>](https://flexboxfroggy.com/#ko) - Flex 연습 페이지
+- [StyleX <sub>EN</sub>](https://stylexjs.com/blog/introducing-stylex) - Introducing StyleX
 
 ##### Tailwind CSS
 - [Tailwind CSS Docs](https://tailwindcss.com) - Tailwind CSS 공식 문서
