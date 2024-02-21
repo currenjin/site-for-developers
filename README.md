@@ -2,11 +2,15 @@
   <img src="https://cdn.jsdelivr.net/gh/currenjin/site-for-developers/resources/header_base/264x157/header_base.svg" height="264" />
 </div>
 
+**⚠ 현재 우리는 대규모로 데이터를 수정, 추가하고 있습니다. 잘못된 정보가 존재할 수 있으니 참고 바랍니다.**
+
 ## 어떤 저장소인가요?
-- 개발자가 참고하면 좋은 대표적인 사이트를 모아놓은 북마크 저장소입니다. 한 분 한 분에게 도움이 되었으면 좋겠습니다. 🙏🏾
-- 또한, 참고하면 좋겠다고 생각되는 사이트는 `Pull Request` 로 참여해 주시면 감사하겠습니다! -> [기여하는 법](https://github.com/currenjin/site-for-developers/blob/main/HOW-TO-CONTRIBUTE.md)
-- **시작하기에 앞서 이 기호들을 참고하시면 문서 열람에 도움이 됩니다.<br/>
-오픈소스: <sub>Ο</sub>&nbsp;&nbsp; 무료: <sub>F</sub>&nbsp;&nbsp; 유료 혹은 부분적 유료: <sub>$</sub>&nbsp;&nbsp; 한국어: <sub>KR</sub>&nbsp;&nbsp; 영어: <sub>EN</sub>**
+- 개발자가 참고하면 좋은 대표적인 웹사이트를 모아놓은 북마크 저장소입니다. 많은 분들에게 도움이 되었으면 좋겠습니다. 🙏🏾
+- 또한, 참고하면 좋겠다고 생각되는 웹사이트는 Pull Request 로 참여해 주시면 감사하겠습니다! -> [기여하는 법](https://github.com/currenjin/site-for-developers/blob/main/HOW-TO-CONTRIBUTE.md)
+- **설명은 사이트의 meta description에서 가져온 것입니다.**
+- **또한 영어로 작성되어있는 웹사이트들의 설명은 번역이 다소 어색할 수 있습니다.**
+- **시작하기에 앞서 이 기호들을 참고하시면 문서 열람에 도움이 됩니다.
+<br/>오픈소스: <sub>Ο</sub>&nbsp;&nbsp; 무료: <sub>F</sub>&nbsp;&nbsp; 유료 혹은 부분적 유료: <sub>$</sub>&nbsp;&nbsp; 한국어: <sub>KR</sub>&nbsp;&nbsp; 영어: <sub>EN</sub>**
 
 ## 기여자
 <img src="https://img.shields.io/badge/author-currenjin-5c7cfa" width="130" />
@@ -18,8 +22,6 @@
 - [추천 👍](#추천-)
 - [커뮤니티 💬](#커뮤니티-)
   - [기술 커뮤니티](#기술-커뮤니티)
-	  - [Korea](#korea)
-	  - [Other](#other)
   - [교육 커뮤니티](#교육-커뮤니티)
   - [학습](#학습)
   - [문제풀이](#문제풀이)
@@ -42,8 +44,6 @@
   	- [Git](#git)
   - [Other](#other-1)
 - [블로그 📚](#블로그-)
-  - [Korea](#korea-1)
-  - [Global](#global)
 - [자료모음 🧾](#자료모음-)
   - [Awesome](#awesome)
 - [도구 🔨](#도구-)
@@ -64,55 +64,53 @@
 
 
 ## 추천 👍
-- [Stack Overflow <sub>EN</sub>](https://stackoverflow.com) - 프로그래밍 질의응답 커뮤니티
-- [Wikidocs <sub>KR</sub>](https://wikidocs.net) - 우수한 프로그래밍 서적 번역
-- [Visualgo](https://visualgo.net/en) - 알고리즘 시각화 학습 라이브러리
-- [Roadmap](https://roadmap.sh) - 초보자에서 마스터로 가는 학습 로드맵
-- [Free for Developers](https://free-for.dev) - 개발자를 위한 무료 리소스 모음
+- [<img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196" height="18" /> Stack Overflow <sub>EN</sub>](https://stackoverflow.com) - Stack Overflow는 개발자가 학습하고 프로그래밍 지식을 공유하며 경력을 쌓을 수 있는 가장 큰 신뢰할 수 있는 온라인 커뮤니티입니다.
+- [<img src="https://wikidocs.net/static/img/favicon.ico" height="18" /> Wikidocs <sub>KR</sub>](https://wikidocs.net) - 온라인 책을 제작 공유하는 플랫폼 서비스.
+- [<img src="https://visualgo.net/img/favicon.png" height="18" /> Visualgo <sub>EN</sub>](https://visualgo.net/en) - Visualgo는 2011년 Steven Halim 박사에 의해 학생들이 스스로 그리고 그들만의 속도로 기본적인 것을 배울 수 있도록 함으로써 학생들이 데이터 구조와 알고리즘을 더 잘 이해할 수 있도록 돕는 도구로 개념화되었습니다.
+- [<img src="https://roadmap.sh/manifest/favicon.ico" height="18" /> Roadmap <sub>EN. O</sub>](https://roadmap.sh) - 개발자들이 경력에서 성장할 수 있도록 커뮤니티 기반 로드맵.
+- [<img src="https://free-for.dev/logo.webp" height="18" />  Free for Developers <sub>EN</sub>](https://free-for.dev) - 개발자들과 오픈 소스 저자들은 이제 무료 계층을 제공하는 엄청난 양의 서비스를 제공하고 있지만, 정보에 입각한 의사 결정을 내리기 위해 이들을 모두 찾기는 어려울 수 있습니다.
 
 ## 커뮤니티 💬
 ### 기술 커뮤니티
-#### Korea
-- [Velog <sub>KR</sub>](https://velog.io) - 개발자 기술 공유 블로그
-- [Disquiet <sub>KR</sub>](https://disquiet.io) - IT 서비스 메이커들의 소셜 네트워크
-- [Okky <sub>KR</sub>](https://okky.kr) - 개발자 커뮤니티
-- [Cikorea <sub>KR</sub>](https://www.cikorea.net) - CodeIgniter 한국 사용자 포럼 (기술 퀴즈 많음)
-- [Jsdev <sub>KR</sub>](https://jsdev.kr) - Javascript 개발자 포럼
-- [Laravel <sub>KR</sub>](https://laravel.kr/) - Laravel 코리아 커뮤니티
-- [Hashcode <sub>KR</sub>](https://hashcode.co.kr) - 개발자를 위한 질의응답 커뮤니티
-- [Devstu <sub>KR</sub>](https://devstu.co.kr/howto) - 개발자를 위한 질의응답 커뮤니티
-- [Careerly <sub>KR</sub>](https://careerly.co.kr) - 개발자를 위한 질의응답 및 지식 공유 커뮤니티
-
-#### Other
-- [Stack Exchange](https://stackexchange.com) - 질의응답 커뮤니티
-- [Hashnode](https://hashnode.com) - 개발자를 위한 질의응답 커뮤니티
-- [Producthunt](https://www.producthunt.com) - 인터넷 제품 수집 커뮤니티
-- [Coderanch](https://coderanch.com) - Java 원스톱 학습 강좌
-- [Stack Overflow](https://stackoverflow.com) - 질의응답 커뮤니티
+- [<img src="https://velog.io/favicon.ico" height="18" /> Velog <sub>KR</sub>](https://velog.io) - 개발자들을 위한 블로그 서비스.
+- [<img src="https://disquiet.io/favicon.ico" height="18" /> Disquiet <sub>KR</sub>](https://disquiet.io) - IT 서비스 메이커들의 소셜 네트워크.
+- [<img src="https://okky.kr/favicon.ico" height="18" /> Okky <sub>KR</sub>](https://okky.kr) - OKKY는 국내 최대 개발자 지식공유 플랫폼입니다.
+- [<img src="https://www.cikorea.net/favicon_cikorea.ico" height="18" /> Cikorea <sub>KR</sub>](https://www.cikorea.net) - CodeIgniter 한국사용자포럼, PHP Framework.
+- [<img src="https://jsdevkr.s3.dualstack.ap-northeast-2.amazonaws.com/optimized/2X/d/d76be3c1cbdb094fdde69ef2025c5ffe2ce0f259_2_32x32.png" height="18" /> Jsdev <sub>KR</sub>](https://jsdev.kr) - 자바스크립트 개발자 포럼.
+- [<img src="https://laravel.kr/favicon-16x16.png" height="18" /> Laravel <sub>KR</sub>](https://laravel.kr/) - laravel korea community 라라벨 코리아 커뮤니티 - 한글 매뉴얼.
+- [<img src="https://qna.programmers.co.kr/assets/programmers-favicon/favicon-40b78633b6556a68c3da8e2125c31512fbd01d09906ab76c8a8ff289e494cadb.png" height="18" /> 프로그래머스 <sub>EN</sub>](https://qna.programmers.co.kr/) - 프로그래머스 QnA는 프로그래밍 문제해결을 위한 QnA서비스입니다.
+- [<img src="https://devstu.co.kr/favicon.ico" height="18" /> Devstu <sub>KR</sub>](https://devstu.co.kr/howto) - 모두가 함께하는, 지식을 지식으로 갚아나가는 한국 개발 커뮤니티입니다.
+- [<img src="https://careerly.co.kr/favicon.png" height="18" /> Careerly <sub>KR</sub>](https://careerly.co.kr) - 개발 트렌드, Q&A, 탑 개발자들과의 네트워킹까지.
+- [<img src="https://cdn.sstatic.net/Sites/stackexchange/Img/favicon.ico" height="18" /> Stack Exchange <sub>EN</sub>](https://stackexchange.com) - Stack Overflow 및 170개 이상의 커뮤니티 기반 Q&A 사이트를 만듭니다.
+- [<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611242187756/TRTNYp32O.png" height="18" /> Hashnode <sub>EN</sub>](https://hashnode.com) - Hashnode는 무료 개발자 블로그 플랫폼으로 자신의 도메인에 기사를 게시할 수 있으며 글로벌 개발자 커뮤니티와 연결될 수 있도록 도와줍니다.
+- [<img src="https://ph-static.imgix.net/ph-favicon-coral.ico" height="18" /> Product Hunt <sub>EN</sub>](https://www.producthunt.com) - Product Hunt는 매일 최고의 신제품을 큐레이션하는 것입니다.
+- [<img src="https://coderanch.com/favicon.ico" height="18" /> Coderanch <sub>EN</sub>](https://coderanch.com) - 그린혼을 프로그래밍하는 친근한 장소인 Coderanch!
+- [<img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196" height="18" /> Stack Overflow <sub>EN</sub>](https://stackoverflow.com) - Stack Overflow는 개발자가 학습하고 프로그래밍 지식을 공유하며 경력을 쌓을 수 있는 가장 큰 신뢰할 수 있는 온라인 커뮤니티입니다.
 
 ### 교육 커뮤니티
-- [Inflearn <sub>$, KR</sub>](https://www.inflearn.com) - 온라인 프로그래밍 강좌
-- [코딩애플 <sub>$, KR</sub>](https://codingapple.com/) - 온라인 프로그래밍 강좌
-- [Swexpertacademy](https://swexpertacademy.com/main/learn/course/courseList.do) - 삼성의 프로그래밍 역량 강화 학습 콘텐츠
-- [Nomadcoders <sub>$</sub>](https://nomadcoders.co) - 온라인 프로그래밍 강좌
-- [NEXTSTEP <sub>$</sub>](https://edu.nextstep.camp) - 온라인 프로그래밍 강좌
+- [<img src="https://cdn.inflearn.com/dist/icon-512x512.png" height="18" /> Inflearn <sub>$, KR</sub>](https://www.inflearn.com) - 프로그래밍, 인공지능, 데이터, 마케팅, 디자인, 엑셀 실무 등 입문부터 실전까지 업계 최고 선배들에게 배울 수 있는 곳.
+- [<img src="https://codingapple.com/wp-content/uploads/2023/06/favicon.png" height="18" /> 코딩애플 <sub>$, KR</sub>](https://codingapple.com/) - 포트폴리오 완성까지 책임지는
+Online 프로그래밍 강좌.
+- [<img src="https://swexpertacademy.com/main/favicon.ico" height="18" /> Swexpertacademy <sub>KR</sub>](https://swexpertacademy.com/main/learn/course/courseList.do) - SW 프로그래밍 역량 강화에 도움이 되는 다양한 학습 컨텐츠를 확인하세요!
+- [<img src="https://nomadcoders.co/m.png" height="18" /> Nomadcoders <sub>$</sub>](https://nomadcoders.co) - 실제 구현되어 있는 서비스를 한땀 한땀 따라 만들면서 코딩을 배우세요!
+- [<img src="https://edu.nextstep.camp/favicon.ico" height="18" /> NEXTSTEP <sub>$</sub>](https://edu.nextstep.camp) - NEXTSTEP에서 개발자들을 위해 디자인된 강의를 수강해보세요.
 
 ### 뉴스
-- [Dzone](https://dzone.com) - 개발자 뉴스 사이트
-- [ZDNet <sub>EN</sub>](https://www.zdnet.com/) - IT 관련 뉴스
-- [ZDNet <sub>KR</sub>](https://zdnet.co.kr/) - IT 관련 뉴스
-- [InfoQ](https://www.infoq.com) - 최신 기술의 뉴스 및 공유
-- [Techcrunch](https://techcrunch.com) - 각종 과학 기술 뉴스
-- [개발자스럽다 <sub>KR</sub>](https://blog.gaerae.com/) - 월간 뉴스레터 발행
-- [요즘IT <sub>KR</sub>](https://yozm.wishket.com/magazine/list/develop/) - 요즘IT 개발 매거진
+- [<img src="https://dz2cdn1.dzone.com/themes/dz20/images/favicon.png" height="18" /> Dzone <sub>EN</sub>](https://dzone.com) - 프로그래밍, 웹 개발 및 DevOps 뉴스, 초보자부터 전문가를 위한 튜토리얼 및 도구.
+- [<img src="https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png" height="18" /> ZDNet <sub>EN</sub>](https://www.zdnet.com/) - ZDNET 뉴스와 조언을 통해 전문가들은 혁신을 수용하고 더 나은 미래를 구축할 준비가 되어 있습니다.
+- [<img src="https://zdnet.co.kr/favicon.ico?ver=20220902" height="18" /> ZDNet <sub>KR</sub>](https://zdnet.co.kr/) - 국가대표 테크미디어 지디넷코리아
+- [<img src="https://cdn.infoq.com/statics_s2_20240220072222/favicon.ico" height="18" /> InfoQ <sub>EN</sub>](https://www.infoq.com) - 개발 팀이 새로운 기술과 관행을 채택할 수 있도록 돕습니다.
+- [<img src="https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32" height="18" /> Techcrunch <sub>EN</sub>](https://techcrunch.com) - TechCrunch | 기술, 스타트업, 벤처캐피탈 펀딩, 실리콘밸리 사업 보고.
+- [<img src="https://blog.gaerae.com/favicon.ico" height="18" /> 개발자스럽다 <sub>KR</sub>](https://blog.gaerae.com/) - 블로그와 SNS에서 주기적으로 기술 정보를 찾고 분류하여 가치를 더해 공유합니다.
+- [<img src="https://yozm.wishket.com/static/renewal/img/news/yozmit-icon-32.png" height="18" /> 요즘IT <sub>KR</sub>](https://yozm.wishket.com/magazine/list/develop/) - 개발을 위한 모든 IT 콘텐츠를 확인해 보세요.
 
 ### 학습
-- [Opentutorials](https://opentutorials.org) - 기초 프로그래밍 입문 강좌
-- [W3schools](https://www.w3schools.com) - WEB 개발 학습
-- [Codecademy](https://www.codecademy.com) - 프로그래밍 학습 플랫폼
-- [Udemy](https://www.udemy.com) - 온라인 강좌
-- [Edwith](https://www.edwith.org/?validMobileApp=true) - 네이버커넥트 재단의 공개강좌 플랫폼
-- [TCP School (Java)](https://www.tcpschool.com/java/intro) - 자바 기초
+- [<img src="https://opentutorials.org/static/img/common/title.png" height="18" /> Opentutorials <sub>KR</sub>](https://opentutorials.org) - 비영리 단체 오픈튜토리얼스는 내가 할 수 있는 것을 남도 할 수 있게, 남이 할 수 있는 것을 나도 할 수 있게 하는 콘텐츠를 담아내는 온라인 서비스인 opentutorials.org를 운영하기 위해서 만들어졌습니다.
+- [<img src="https://www.w3schools.com/favicon-32x32.png" height="18" /> W3schools <sub>EN</sub>](https://www.w3schools.com) - HTML, CSS, JavaScript, SQL, Python, PHP, Bootstrap, Java, XML 등을 사용하는 방법에 대한 많은 예와 함께 잘 구성되어 있고 이해하기 쉽습니다.
+- [<img src="https://www.codecademy.com/favicon.ico" height="18" /> Codecademy <sub>EN</sub>](https://www.codecademy.com) - 원하는 직업을 얻기 위한 기술 기술을 배우세요.
+- [<img src="https://www.udemy.com/staticx/udemy/images/v8/favicon-32x32.png" height="18" /> Udemy <sub>KR</sub>](https://www.udemy.com) - Udemy는 213,000개 이상의 강의와 6천 2백만명 이상의 수강생이 있는 온라인 학습 및 교수 마켓플레이스입니다.
+- [<img src="https://ssl.pstatic.net/static/m/mooc/p/partner/next/favicon.ico" height="18" /> Edwith <sub>KR</sub>](https://www.edwith.org/?validMobileApp=true) - 에드위드(edwith)는 네이버(NAVER)와 네이버 커넥트재단(NAVER Connect)이 제공하는 온라인 강좌(MOOC : Massive Online Open Course) 교육 플랫폼입니다.
+- [<img src="https://www.tcpschool.com/favicon-32x32.png" height="18" /> TCP School (Java) <sub>KR</sub>](https://www.tcpschool.com/java/intro) - 4차산업혁명, 코딩교육, 소프트웨어교육, 코딩기초, SW코딩, 기초코딩부터 자바 파이썬 등
 
 ### 문제풀이
 - [Baekjoon Online Judge <sub>KR</sub>](https://www.acmicpc.net) - 백준 프로그래밍 문제풀이
@@ -221,7 +219,6 @@
 - [Google Developers Docs](https://developers.google.com) - 구글 개발자 공식 문서
 
 ## 블로그 📚
-### Korea
 - [우아한형제들 기술블로그 <sub>KR</sub>](https://techblog.woowahan.com/) - 우아한형제들 기술블로그
 - [카카오 기술블로그 <sub>KR</sub>](https://tech.kakao.com/blog/) - 카카오 기술블로그
 - [쿠팡 기술블로그 <sub>KR</sub>](https://medium.com/@coupang-engineering-kr) - 쿠팡 기술블로그
@@ -239,8 +236,6 @@
 - [쏘카 기술블로그 <sub>KR</sub>](https://tech.socarcorp.kr/) - 쏘카 기술블로그
 - [리디 기술블로그 <sub>KR</sub>](https://ridicorp.com/story-category/tech-blog/) - 리디 기술블로그
 - [아이들나라 기술블로그 <sub>KR</sub>](https://i-nara.oopy.io/techblog) - 아이들나라 기술블로그
-
-### Global
 - [Engineering at Meta <sub>EN</sub>](https://engineering.fb.com/) - 메타 엔지니어링 블로그
 - [Amazon Alexa Blogs <sub>EN</sub>](https://developer.amazon.com/en-US/blogs/alexa) - 아마존 알렉사 블로그
 - [Apple Developer <sub>EN</sub>](https://developer.apple.com/) - 애플 개발자 블로그
