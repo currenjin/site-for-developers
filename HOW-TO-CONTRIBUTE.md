@@ -3,9 +3,38 @@
 Site For Developers는 GitHub README.md, 웹사이트, 안드로이드 앱이 있습니다.<br/>
 지금 기여하셔서 Site For Developers를 더 유익하고 편리한 레포지토리로 만들어 주세요!
 
+## 목차
+- [How to contrubute](#how-to-contribute)
+- [목차](#목차)
+- [README.md](#readmemd)
+  - [1. Fork this repository](#1-fork-this-repository)
+  - [2. Clone forked repository](#2-clone-forked-repository)
+  - [3. Commit your changes](#3-commit-your-changes)
+  - [4. Push your commit](#4-push-your-commit)
+  - [5. Register pull request for your commit](#5-register-pull-request-for-your-commit)
+  - [6. Pull request has been approved](#6-pull-request-has-been-approved)
+- [Website](#website)
+  - [1. Fork this repository](#1-fork-this-repository-1)
+  - [2. Clone forked repository](#2-clone-forked-repository-1)
+  - [3. Install depencies](#3-install-depencies)
+  - [4. Start website](#4-start-website)
+  - [5. Commit your changes](#5-commit-your-changes)
+  - [6. Push your commit](#6-push-your-commit)
+  - [7. Register pull request for your commit](#7-register-pull-request-for-your-commit)
+  - [8. Pull request has been approved](#8-pull-request-has-been-approved)
+- [Android](#android)
+  - [1. Fork this repository](#1-fork-this-repository-2)
+  - [2. Open Android Studio](#2-open-android-studio)
+  - [3. Start android](#3-start-android)
+  - [4. Commit your changes](#4-commit-your-changes)
+  - [5. Push yout commit](#5-push-yout-commit)
+  - [6. Register pull requerst for your commit](#6-register-pull-requerst-for-your-commit)
+  - [7. Pull request has been approved](#7-pull-request-has-been-approved)
+
+
 ## README.md
 
-### 1. Fork this respository
+### 1. Fork this repository
 이 Repository를 Fork해 주세요. [Fork 하는법](https://ittrue.tistory.com/90)
 
 ### 2. Clone forked repository
@@ -18,6 +47,8 @@ $ cd site-for-developers
 
 ### 3. Commit your changes
 변경사항을 만들고 커밋해주세요.
+
+**⚠ 목록을 추가, 변경할때는 설명과 이미지를 작성하지 않으셔도 됩니다.**
 
 ```
 $ git add .
