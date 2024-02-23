@@ -110,39 +110,39 @@ Online 프로그래밍 강좌.
 - [<img src="https://www.codecademy.com/favicon.ico" height="18" /> Codecademy <sub>EN</sub>](https://www.codecademy.com) - 원하는 직업을 얻기 위한 기술 기술을 배우세요.
 - [<img src="https://www.udemy.com/staticx/udemy/images/v8/favicon-32x32.png" height="18" /> Udemy <sub>KR</sub>](https://www.udemy.com) - Udemy는 213,000개 이상의 강의와 6천 2백만명 이상의 수강생이 있는 온라인 학습 및 교수 마켓플레이스입니다.
 - [<img src="https://ssl.pstatic.net/static/m/mooc/p/partner/next/favicon.ico" height="18" /> Edwith <sub>KR</sub>](https://www.edwith.org/?validMobileApp=true) - 에드위드(edwith)는 네이버(NAVER)와 네이버 커넥트재단(NAVER Connect)이 제공하는 온라인 강좌(MOOC : Massive Online Open Course) 교육 플랫폼입니다.
-- [<img src="https://www.tcpschool.com/favicon-32x32.png" height="18" /> TCP School (Java) <sub>KR</sub>](https://www.tcpschool.com/java/intro) - 4차산업혁명, 코딩교육, 소프트웨어교육, 코딩기초, SW코딩, 기초코딩부터 자바 파이썬 등
+- [<img src="https://www.tcpschool.com/favicon-32x32.png" height="18" /> TCP School (Java) <sub>KR</sub>](https://www.tcpschool.com/java/intro) - 4차산업혁명, 코딩교육, 소프트웨어교육, 코딩기초, SW코딩, 기초코딩부터 자바 파이썬 등.
 
 ### 문제풀이
-- [Baekjoon Online Judge <sub>KR</sub>](https://www.acmicpc.net) - 백준 프로그래밍 문제풀이
-- [Codeforces <sub>EN</sub>](https://codeforces.com) - 프로그래밍 대회 플랫폼
-- [Programmers <sub>KR</sub>](https://school.programmers.co.kr/learn/challenges) - 코딩 테스트 문제풀이
-- [코딩도장 <sub>KR</sub>](https://codingdojang.com) - 코딩도장 문제풀이
+- [<img src="https://www.acmicpc.net/favicon-32x32.png" height="18" /> Baekjoon Online Judge <sub>KR, F</sub>](https://www.acmicpc.net) - 프로그래밍 문제를 풀고 온라인으로 채점받을 수 있는 곳입니다.
+- [<img src="https://codeforces.org/s/22015/favicon-96x96.png" height="18" /> Codeforces <sub>EN</sub>](https://codeforces.com) - Codeforces, 프로그래밍 대회 및 경연대회, 프로그래밍 커뮤니티.
+- [<img src="https://school.programmers.co.kr/assets/icons/favicon-ec61d910396b5fc4d7418ea44281693172c34e31d437d074f9ab5470523990fb.png" height="18" /> Programmers <sub>KR</sub>](https://school.programmers.co.kr/learn/challenges) - 개발자 취업의 필수 관문 코딩테스트를 철저하게 연습하고 대비할 수 있는 문제를 총망라!
+- [<img src="https://codingdojang.com/static/img/favicon.ico" height="18" /> 코딩도장 <sub>KR</sub>](https://codingdojang.com) - 프로그래밍 문제풀이를 통해서 코딩 실력을 수련.
 
 
 ## 문서 📃
 ### Web & Frontend & Design
 #### Web
-- [MDN Docs <sub>KR</sub>](https://developer.mozilla.org/ko/docs/Web/HTML) - MDN(HTML, CSS, Javascript) 공식 문서
-- [Javascript.info <sub>KR</sub>](https://ko.javascript.info) - 모던 자바스크립트 튜토리얼 (한국어)
-- [HTML DOM](https://phuoc.ng/collection/html-dom) - HTML DOM 마스터하기
-- [Rspack](https://www.rspack.dev) - Rspack (Rust 기반 번들러)
-- [Thymeleaf](https://www.thymeleaf.org) - Server-side Java Template Engine
-- [Mustache](https://mustache.github.io/) - Template Engine
+- [<img src="https://developer.mozilla.org/favicon-48x48.cbbd161b.png" height="18" /> MDN Docs <sub>KR</sub>](https://developer.mozilla.org/ko/docs/Web/HTML) - MDN Web Docs 사이트는 웹 사이트와 프로그레시브 웹 앱 모두를 위한 HTML, CSS 및 API를 포함한 Open Web 기술에 대한 정보를 제공합니다.
+- [<img src="https://ko.javascript.info/img/favicon/favicon.png" height="18" /> Javascript.info <sub>KR</sub>](https://ko.javascript.info) - 모던 자바스크립트 튜토리얼은 클로저, 문서 객체 모델, 이벤트, 객체 지향 프로그래밍 등의 다양한 주제에 대한 설명과 예시, 과제를 담고 있습니다.
+- [<img src="https://phuoc.ng/assets/avatar.png" height="18" /> HTML DOM](https://phuoc.ng/collection/html-dom) - 바닐라 자바스크립트를 사용한 DOM 조작 마스터링.
+- [<img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/rjhwzy/ljhwZthlaukjlkulzlp/favicon-1714.png" height="18" /> Rspack](https://www.rspack.dev) - 빠른 Rust 기반 웹 번들러입니다.
+- [<img src="https://www.thymeleaf.org/images/favicon.ico" height="18" /> Thymeleaf](https://www.thymeleaf.org) - Thymeleaf는 웹 및 독립형 환경 모두를 위한 최신 Server Side Java 템플릿 엔진입니다.
+- [Mustache](https://mustache.github.io/) - 로직이 없는 템플릿입니다.
 
 #### Design
-- [Bootstrap Docs <sub>EN</sub>](https://getbootstrap.com/docs/5.1/getting-started/introduction) - Bootstrap 공식 문서
-- [Flexbox Froggy <sub>EN</sub>](https://flexboxfroggy.com/#ko) - Flex 연습 페이지
-- [StyleX <sub>EN</sub>](https://stylexjs.com/blog/introducing-stylex) - Introducing StyleX
+- [<img src="https://getbootstrap.com/docs/5.1/assets/img/favicons/favicon-32x32.png" height="18" /> Bootstrap <sub>EN</sub>](https://getbootstrap.com/) - 강력하고 확장 가능하며 기능이 풍부한 프론트엔드 툴킷입니다.
+- [<img src="https://flexboxfroggy.com/favicon.ico" height="18" /> Flexbox Froggy <sub>KR</sub>](https://flexboxfroggy.com/#ko) - CSS Flexbox 학습용 게임입니다.
+- [<img src="https://stylexjs.com/img/favicon.svg" height="18" /> StyleX <sub>EN</sub>](https://stylexjs.com/blog/introducing-stylex) - StyleX는 표현력이 뛰어나고 결정적입니다.
 
 ##### Tailwind CSS
-- [Tailwind CSS Docs](https://tailwindcss.com) - Tailwind CSS 공식 문서
-- [DaisyUI](https://daisyui.com) - daisyUI 공식 문서
-- [Flowbite](https://flowbite.com) - Flowbite 공식 문서
-- [Headless UI](https://headlessui.com) - Headless UI 공식 문서
+- [<img src="https://tailwindcss.com/favicons/favicon.ico?v=3" height="18" /> Tailwind CSS](https://tailwindcss.com) - Tailwind CSS는 HTML을 남기지 않고 최신 웹 사이트를 빠르게 구축하기 위한 유틸리티 우선 CSS 프레임워크입니다.
+- [<img src="https://daisyui.com/images/daisyui-logo/favicon-180.png" height="18" /> DaisyUI](https://daisyui.com) - 최고의 Tailwind Components 라이브러리 - Tailwind CSS용 무료 UI 구성 요소.
+- [<img src="https://flowbite.com/images/logo.svg" height="18" /> Flowbite](https://flowbite.com) - Tailwind CSS의 유틸리티 클래스로 구축되고 Figma로 설계된 600개 이상의 UI 구성 요소, 섹션 및 페이지로 구성된 오픈 소스 라이브러리로 시작합니다.
+- [<img src="https://headlessui.com/favicon-32x32.png" height="18" /> Headless UI](https://headlessui.com) - Tailwind CSS와 아름답게 통합되도록 설계된 완전히 스타일화되지 않은 완전히 액세스 가능한 UI 구성 요소입니다.
 
 ### Programming Language
 - [Kotlin Docs](https://kotlinlang.org/docs/home.html) - 코틀린 공식 문서
-- [Java Docs](https://docs.oracle.com/en/java) - Java 공식 문서
+- [Java Docs <sub>EN</sub>](https://docs.oracle.com/en/java) - Java 공식 문서
 - [Python 3 Docs <sub>KR</sub>](https://docs.python.org/ko/3) - Python3 공식 문서
 
 ### Javascript Framework
