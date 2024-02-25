@@ -9,11 +9,8 @@
 - 또한, 참고하면 좋겠다고 생각되는 웹사이트는 Pull Request 로 참여해 주시면 감사하겠습니다! -> [기여하는 법](https://github.com/currenjin/site-for-developers/blob/main/HOW-TO-CONTRIBUTE.md)
 - **설명은 사이트의 meta description에서 가져온 것입니다.**
 - **또한 영어로 작성되어있는 웹사이트들의 설명은 번역이 다소 어색할 수 있습니다.**
-
-## 시작하기에 앞서
 - **시작하기에 앞서 이 기호들을 참고하시면 문서 열람에 도움이 됩니다.
 <br/>오픈소스: <sub>Ο</sub>&nbsp;&nbsp; 무료: <sub>F</sub>&nbsp;&nbsp; 유료 혹은 부분적 유료: <sub>$</sub>&nbsp;&nbsp; 한국어: <sub>KR</sub>&nbsp;&nbsp; 영어: <sub>EN</sub>**
-- **서비스 이용 중 문제가 발생하였다면 [여기로](https://sitefordevelopers.channel.io) 문의해주세요**
 
 ## 기여자
 <img src="https://img.shields.io/badge/author-currenjin-5c7cfa" width="130" />
@@ -21,7 +18,6 @@
 
 ## 목차
 - [어떤 저장소인가요?](#어떤-저장소인가요)
-- [시작하기에 앞서](#시작하기에-앞서)
 - [기여자](#기여자)
 - [추천 👍](#추천-)
 - [커뮤니티 💬](#커뮤니티-)
@@ -29,8 +25,8 @@
   - [교육 커뮤니티](#교육-커뮤니티)
   - [학습](#학습)
   - [문제풀이](#문제풀이)
-- [문서 & 홈페이지 📃](#문서--홈페이지-📃)
-  - [Web & Design](#web--design)
+- [문서 📃](#문서-)
+  - [Web & Frontend & Design](#web--frontend--design)
 	- [Web](#web)
 	- [Design](#design)
 	  - [Tailwind CSS](#tailwind-css)
@@ -123,8 +119,8 @@ Online 프로그래밍 강좌.
 - [<img src="https://codingdojang.com/static/img/favicon.ico" height="18" /> 코딩도장 <sub>KR</sub>](https://codingdojang.com) - 프로그래밍 문제풀이를 통해서 코딩 실력을 수련.
 
 
-## 문서 & 홈페이지 📃
-### Web & Design
+## 문서 📃
+### Web & Frontend & Design
 #### Web
 - [<img src="https://developer.mozilla.org/favicon-48x48.cbbd161b.png" height="18" /> MDN Docs <sub>KR</sub>](https://developer.mozilla.org/ko/docs/Web/HTML) - MDN Web Docs 사이트는 웹 사이트와 프로그레시브 웹 앱 모두를 위한 HTML, CSS 및 API를 포함한 Open Web 기술에 대한 정보를 제공합니다.
 - [<img src="https://ko.javascript.info/img/favicon/favicon.png" height="18" /> Javascript.info <sub>KR</sub>](https://ko.javascript.info) - 모던 자바스크립트 튜토리얼은 클로저, 문서 객체 모델, 이벤트, 객체 지향 프로그래밍 등의 다양한 주제에 대한 설명과 예시, 과제를 담고 있습니다.
@@ -139,237 +135,236 @@ Online 프로그래밍 강좌.
 - [<img src="https://stylexjs.com/img/favicon.svg" height="18" /> StyleX <sub>EN</sub>](https://stylexjs.com/blog/introducing-stylex) - StyleX는 표현력이 뛰어나고 결정적입니다.
 
 ##### Tailwind CSS
-- [<img src="https://tailwindcss.com/favicons/favicon.ico?v=3" height="18" /> Tailwind CSS <sub>EN</sub>](https://tailwindcss.com) - Tailwind CSS는 HTML을 남기지 않고 최신 웹 사이트를 빠르게 구축하기 위한 유틸리티 우선 CSS 프레임워크입니다.
-- [<img src="https://daisyui.com/images/daisyui-logo/favicon-180.png" height="18" /> DaisyUI <sub>EN</sub>](https://daisyui.com) - 최고의 Tailwind Components 라이브러리 - Tailwind CSS용 무료 UI 구성 요소.
-- [<img src="https://flowbite.com/images/logo.svg" height="18" /> Flowbite <sub>EN</sub>](https://flowbite.com) - Tailwind CSS의 유틸리티 클래스로 구축되고 Figma로 설계된 600개 이상의 UI 구성 요소, 섹션 및 페이지로 구성된 오픈 소스 라이브러리로 시작합니다.
-- [<img src="https://headlessui.com/favicon-32x32.png" height="18" /> Headless UI <sub>EN</sub>](https://headlessui.com) - Tailwind CSS와 아름답게 통합되도록 설계된 완전히 스타일화되지 않은 완전히 액세스 가능한 UI 구성 요소입니다.
+- [<img src="https://tailwindcss.com/favicons/favicon.ico?v=3" height="18" /> Tailwind CSS](https://tailwindcss.com) - Tailwind CSS는 HTML을 남기지 않고 최신 웹 사이트를 빠르게 구축하기 위한 유틸리티 우선 CSS 프레임워크입니다.
+- [<img src="https://daisyui.com/images/daisyui-logo/favicon-180.png" height="18" /> DaisyUI](https://daisyui.com) - 최고의 Tailwind Components 라이브러리 - Tailwind CSS용 무료 UI 구성 요소.
+- [<img src="https://flowbite.com/images/logo.svg" height="18" /> Flowbite](https://flowbite.com) - Tailwind CSS의 유틸리티 클래스로 구축되고 Figma로 설계된 600개 이상의 UI 구성 요소, 섹션 및 페이지로 구성된 오픈 소스 라이브러리로 시작합니다.
+- [<img src="https://headlessui.com/favicon-32x32.png" height="18" /> Headless UI](https://headlessui.com) - Tailwind CSS와 아름답게 통합되도록 설계된 완전히 스타일화되지 않은 완전히 액세스 가능한 UI 구성 요소입니다.
 
 ### Programming Language
-- [<img src="https://kotlinlang.org/assets/images/favicon.svg?v2" height="18" /> Kotlin Docs <sub>EN</sub>](https://kotlinlang.org/docs/home.html) - 코틀린 공식 문서.
-- [<img src="https://docs.oracle.com/sp_common/site-template/ohc-common/img/favicon.ico" height="18" /> Java Docs <sub>EN</sub>](https://docs.oracle.com/en/java) - Java는 거의 모든 유형의 네트워크 애플리케이션의 기반이며 모바일 애플리케이션, 게임, 웹 기반 콘텐츠 및 엔터프라이즈 소프트웨어를 개발하고 제공하기 위한 글로벌 표준입니다.
-- [<img src="https://docs.python.org/3/_static/py.svg" height="18" /> Python 3 Docs <sub>KR</sub>](https://docs.python.org/ko/3) - Python 3.12.2의 공식 문서입니다.
+- [Kotlin Docs](https://kotlinlang.org/docs/home.html) - 코틀린 공식 문서
+- [Java Docs <sub>EN</sub>](https://docs.oracle.com/en/java) - Java 공식 문서
+- [Python 3 Docs <sub>KR</sub>](https://docs.python.org/ko/3) - Python3 공식 문서
 
 ### Javascript Framework
-- [<img src="https://nodejs.org/favicon.ico" height="18" /> Node.js Docs <sub>EN</sub>](https://nodejs.org/en/docs) - Node.js v21.6.2 공식 문서.
-- [<img src="https://ko.legacy.reactjs.org/favicon.ico" height="18" /> React <sub>KR</sub>](https://ko.reactjs.org) - 사용자 인터페이스 구축을 위한 자바스크립트 라이브러리.
-- [<img src="https://nextjs.org/favicon.ico" height="18" /> Next.js Docs <sub>EN</sub>](https://nextjs.org/docs/getting-started) - Next.js Documentation에 오신 것을 환영합니다.
-- [<img src="https://vuejs.org/logo.svg" height="18" /> Vuejs Guide <sub>EN</sub>](https://vuejs.org/guide/introduction.html) - Vue.js - 프로그레시브 자바스크립트 프레임워크.
-- [<img src="https://expressjs.com/images/favicon.png" height="18" /> Express.js <sub>KR</sub>](https://expressjs.com/ko) - Express.js, Node.js를 위한 빠르고 개방적인 간결한 웹 프레임워크.
-- [<img src="https://docs.nestjs.com/favicon.ico" height="18" /> NestJS Docs <sub>EN</sub>](https://docs.nestjs.com/) - 네스트(Nest)는 효율적이고 확장 가능한 Node.js 서버 측 응용 프로그램을 구축하기 위한 프레임워크입니다.
+- [Node.js Docs](https://nodejs.org/en/docs) - Node.js 공식 문서
+- [React <sub>KR</sub>](https://ko.reactjs.org) - React 공식 홈페이지
+- [Next.js Docs](https://nextjs.org/docs/getting-started) - Next.js 공식 문서
+- [Vuejs Guide](https://vuejs.org/guide/introduction.html) - Vuejs 공식 가이드
+- [Express.js <sub>KR</sub>](https://expressjs.com/ko) - Express.js 공식 홈페이지
+- [NestJS](https://docs.nestjs.co/) - NestJS 공식 문서
 
 ### Backend Framework
-- [<img src="https://docs.spring.io/favicon.ico" height="18" /> Spring Boot Docs <sub>EN</sub>](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle) - Spring Boot 참조 설명서.
-- [<img src="https://docs.spring.io/favicon.ico" height="18" /> Spring Docs <sub>EN</sub>](https://docs.spring.io/spring-framework/docs/current/reference/html) - Spring Framework 문서.
-- [<img src="https://static.djangoproject.com/img/favicon.6dbf28c0650e.ico" height="18" /> Django Docs <sub>KR</sub>](https://docs.djangoproject.com/ko/5.0/) - 데드라인이 있는 완벽주의자를 위한 웹 프레임워크입니다.
-- [<img src="https://static.djangoproject.com/img/favicon.6dbf28c0650e.ico" height="18" /> Django Docs <sub>EN</sub>](https://docs.djangoproject.com/en/5.0/) - 데드라인이 있는 완벽주의자를 위한 웹 프레임워크입니다.
-- [<img src="https://flask-docs-kr.readthedocs.io/favicon.ico" height="18" /> Flask Docs <sub>KR</sub>](https://flask-docs-kr.readthedocs.io/ko/latest) - Flask의 세계에 오신것을 환영합니다.
-- [<img src="https://guides.rubyonrails.org/images/favicon.ico" height="18" /> Ruby On Rails Guide <sub>EN</sub>](https://guides.rubyonrails.org) - Ruby On Rails 가이드.
+- [Spring Boot Docs <sub>EN</sub>](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle) - Spring Boot 공식 문서
+- [Spring Docs <sub>EN</sub>](https://docs.spring.io/spring-framework/docs/current/reference/html) - Spring 공식 문서
+- [Django Docs <sub>KR</sub>](https://docs.djangoproject.com/ko/4.0/intro) - Django 공식 문서 
+- [Spring Guides](https://github.com/spring-guides) - Spring 튜토리얼 예제
+- [Flask Docs <sub>KR</sub>](https://flask-docs-kr.readthedocs.io/ko/latest) - Flask 공식 문서
+- [ExpressJS <sub>KR</sub>](https://expressjs.com/ko) - ExpressJS 공식 홈페이지
+- [Ruby On Rails Guide](https://guides.rubyonrails.org) - Ruby On Rails 공식 가이드
+- [NestJS](https://docs.nestjs.com/) - NestJS 공식 문서
 
 ### Public Cloud
-- [<img src="https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico" height="18" /> AWS (Amazon Web Services) <sub>KR</sub>](https://aws.amazon.com/ko/) - Amazon Web Services는 안정성이고 확장 가능하며 저렴한 클라우드 컴퓨팅 서비스를 제공합니다.
-- [<img src="https://docs.aws.amazon.com/assets/r/images/favicon.ico" height="18" /> AWS (Amazon Web Services) Documentation <sub>KR</sub>](https://docs.aws.amazon.com/ko_kr/) - AWS (Amazon Web Services) 설명서에 오신 것을 환영합니다.
-- [<img src="https://docs.aws.amazon.com/assets/r/images/favicon.ico" height="18" /> AWS (Amazon Web Services) Documentation <sub>EN</sub>](https://docs.aws.amazon.com/en_us/) - AWS (Amazon Web Services) 설명서에 오신 것을 환영합니다.
-- [<img src="https://learn.microsoft.com/favicon.ico" height="18" /> Azure Documentation <sub>KR</sub>](https://learn.microsoft.com/ko-kr/azure/?product=popular) - Microsoft Azure cloud service를 사용하여 강력한 애플리케이션을 빌드하고 관리하는 방법을 알아봅니다.
-- [<img src="https://learn.microsoft.com/favicon.ico" height="18" /> Azure Documentation <sub>EN</sub>](hhttps://learn.microsoft.com/en-us/azure/?product=popular) - Microsoft Azure cloud service를 사용하여 강력한 애플리케이션을 빌드하고 관리하는 방법을 알아봅니다.
-- [<img src="https://www.gstatic.com/devrel-devsite/prod/v937c5f592532c0ad2ebbf299686fcceed4f5934a648172aa45e00618ae0982d7/cloud/images/favicons/onecloud/favicon.ico" height="18" /> GCP (Google Cloud Platform) Documentation <sub>KR</sub>](https://cloud.google.com/docs?hl=ko) - Google Cloud 제품 및 서비스 관련 종합적인 문서, 가이드, 리소스.
-- [<img src="https://cdn.document360.io/6998976f-9d95-4df8-b847-d375892b92c2/Images/Documentation/favicon.png?sv=2019-07-07&sig=82asD%2FBLWoacDC%2B%2BYRnAJ1d37WlHgL8YwiUQ0xQ%2F8BU%3D&spr=https%2Chttp&st=2024-02-24T13%3A05%3A08Z&se=2024-02-24T13%3A15%3A08Z&srt=o&ss=b&sp=r" height="18" /> NCP (Naver Cloud Platform) Guide <sub>KR</sub>](https://guide.ncloud-docs.com/docs/home) - Naver Cloud Platform 사용가이드.
+- [AWS Documentation <sub>KR</sub>](https://docs.aws.amazon.com/ko_kr/) - AWS 공식 문서
+- [Azure Documentation <sub>KR</sub>](https://learn.microsoft.com/ko-kr/azure/?product=popular) - Azure 공식문서
+- [GCP Documentation <sub>KR</sub>](https://cloud.google.com/docs?hl=ko) - GCP 공식문서
+- [NCP(Naver Cloud Platform Guide <sub>KR</sub>](https://guide.ncloud-docs.com/docs/home) - Naver Cloud Platform 사용가이드
 
 ### Mobile
-- [<img src="" height="18" /> Android Guide <sub>KR</sub>](https://developer.android.com/docs?hl=ko) - Android 공식 가이드
-- [<img src="" height="18" /> IOS <sub>KR</sub>](https://developer.apple.com/kr) - iOS 공식 개발자 홈페이지
-- [<img src="" height="18" /> React Native Docs](https://reactnative.dev/docs/getting-started) - React Native 공식 문서
-- [<img src="" height="18" /> Flutter Docs <sub>KR</sub>](https://flutter-ko.dev/docs) - Flutter 공식 문서
+- [Android Guide <sub>KR</sub>](https://developer.android.com/docs?hl=ko) - Android 공식 가이드
+- [IOS <sub>KR</sub>](https://developer.apple.com/kr) - iOS 공식 개발자 홈페이지
+- [React Native Docs](https://reactnative.dev/docs/getting-started) - React Native 공식 문서
+- [Flutter Docs <sub>KR</sub>](https://flutter-ko.dev/docs) - Flutter 공식 문서
 
 ### Database
-- [<img src="" height="18" /> Oracle <sub>KR</sub>](https://www.oracle.com/kr) - Oracle 공식 홈페이지
-- [<img src="" height="18" /> MySQL Docs](https://dev.mysql.com/doc) - MySQL 공식 문서
-- [<img src="" height="18" /> MongoDB Docs](https://www.mongodb.com/docs) - MongoDB 공식 문서
-- [<img src="" height="18" /> PostgreSQL Docs](https://www.postgresql.org/docs) - PostgreSQL 공식 문서
-- [<img src="" height="18" /> Redis Docs](https://redis.io/docs) - Redis 공식 문서
+- [Oracle <sub>KR</sub>](https://www.oracle.com/kr) - Oracle 공식 홈페이지
+- [MySQL Docs](https://dev.mysql.com/doc) - MySQL 공식 문서
+- [MongoDB Docs](https://www.mongodb.com/docs) - MongoDB 공식 문서
+- [PostgreSQL Docs](https://www.postgresql.org/docs) - PostgreSQL 공식 문서
+- [Redis Docs](https://redis.io/docs) - Redis 공식 문서
 
 ### Search
-- [<img src="" height="18" /> Elasticsearch Docs](https://www.elastic.co/guide/en/elasticsearch/reference/current/docs.html#docs) - Elasticsearch 공식 문서
-- [<img src="" height="18" /> Algolia Docs](https://www.algolia.com/doc) - Algolia 공식 문서
+- [Elasticsearch Docs](https://www.elastic.co/guide/en/elasticsearch/reference/current/docs.html#docs) - Elasticsearch 공식 문서
+- [Algolia Docs](https://www.algolia.com/doc) - Algolia 공식 문서
 
 ### Linux
-- [<img src="" height="18" /> Ubuntu Docs <sub>KR</sub>](https://ubuntu-kr.org) - Ubuntu 공식 문서
-- [<img src="" height="18" /> Fedora Docs <sub>KR</sub>](https://docs.fedoraproject.org/ko/docs) Fedora 공식 문서
-- [<img src="" height="18" /> Debian Docs <sub>KR</sub>](https://www.debian.org/index.ko.html) - Debian 공식 문서
-- [<img src="" height="18" /> OpenSUSE Docs <sub>EN</sub>](https://doc.opensuse.org/) - openSUSE 공식 문서
-- [<img src="" height="18" /> Manjaro Linux Docs <sub>EN</sub>](https://docs.manjaro.org/) - Manjaro Linux 공식 문서
-- [<img src="https://www.gentoo.org/favicon.ico" height="18" /> Gentoo Linux Wiki <sub>EN</sub>](https://wiki.gentoo.org/wiki/Main_Page) - 소 래리는 여러분에게 젠투 위키를 탐험하라고 손짓합니다!
-- [<img src="" height="18" /> Rocky Linux Docs <sub>EN</sub>](https://docs.rockylinux.org/) - Rocky Linux 공식 문서
-- [<img src="" height="18" /> CentOS Docs <sub>EN</sub>](https://wiki.centos.org/) - CentOS 공식 문서
+- [Ubuntu Docs <sub>KR</sub>](https://ubuntu-kr.org) - Ubuntu 공식 문서
+- [Fedora Docs <sub>KR</sub>](https://docs.fedoraproject.org/ko/docs) Fedora 공식 문서
+- [Debian Docs <sub>KR</sub>](https://www.debian.org/index.ko.html) - Debian 공식 문서
+- [openSUSE Docs <sub>EN</sub>](https://doc.opensuse.org/) - openSUSE 공식 문서
+- [Manjaro Linux Docs <sub>EN</sub>](https://docs.manjaro.org/) - Manjaro Linux 공식 문서
+- [Rocky Linux Docs <sub>EN</sub>](https://docs.rockylinux.org/) - Rocky Linux 공식 문서
+- [CentOS Docs <sub>EN</sub>](https://wiki.centos.org/) - CentOS 공식 문서
 
 ### Infra
-- [<img src="" height="18" /> Kubernetes Docs <sub>KR</sub>](https://kubernetes.io/ko/docs/home) - kubernetes 공식 문서
-- [<img src="" height="18" /> Docker Docs](https://docs.docker.com) - Docker 공식 문서
-- [<img src="" height="18" /> Argo CD Docs](https://argo-cd.readthedocs.io/en/stable/) - Argo CD 공식 문서
-- [<img src="" height="18" /> Vagrant Docs](https://developer.hashicorp.com/vagrant/docs) - Vagrant 공식 문서
+- [Kubernetes Docs <sub>KR</sub>](https://kubernetes.io/ko/docs/home) - kubernetes 공식 문서
+- [Docker Docs](https://docs.docker.com) - Docker 공식 문서
+- [Argo CD Docs](https://argo-cd.readthedocs.io/en/stable/) - Argo CD 공식 문서
+- [Vagrant Docs](https://developer.hashicorp.com/vagrant/docs) - Vagrant 공식 문서
 
 ### API
-- [<img src="" height="18" /> Slack API <sub>EN</sub>](https://api.slack.com) - Slack API 공식 문서
-- [<img src="" height="18" /> Discord API <sub>EN</sub>](https://discord.com/developers/docs/intro) - Discord API 공식 문서
+- [Slack API <sub>EN</sub>](https://api.slack.com) - Slack API 공식 문서
+- [Discord API <sub>EN</sub>](https://discord.com/developers/docs/intro) - Discord API 공식 문서
+- [GitHub REST API <sub>EN</sub>](https://docs.github.com/en/rest?apiVersion=2022-11-28) - GitHub REST API 공식 문서
+- [GitHub REST API <sub>KR</sub>](https://docs.github.com/ko/rest) - GitHub REST API 공식 문서
 
 ### VCS
 #### Git
-- [<img src="" height="18" /> Git](https://git-scm.com) - Git 공식 문서
-- [<img src="" height="18" /> Github App API](https://docs.github.com/ko/apps) - 깃허브 애플리케이션 API 공식 문서
-- [<img src="" height="18" /> GitHub REST API <sub>EN</sub>](https://docs.github.com/en/rest?apiVersion=2022-11-28) - GitHub REST API 공식 문서
-- [<img src="" height="18" /> GitHub REST API <sub>KR</sub>](https://docs.github.com/ko/rest) - GitHub REST API 공식 문서
-- [<img src="" height="18" /> GitHub GraphQL API](https://docs.github.com/ko/graphql) - 깃허브 GraphQL API 공식 문서
-- [<img src="" height="18" /> GitHub Webhook](https://docs.github.com/ko/webhooks) - 깃허브 Webhook 공식 문서
+- [Git](https://git-scm.com) - Git 공식 문서
+- [Github App API](https://docs.github.com/ko/apps) - 깃허브 애플리케이션 API 공식 문서
+- [GitHub REST API](https://docs.github.com/ko/rest?apiVersion=2022-11-28) - 깃허브 REST API 공식 문서
+- [GitHub GraphQL API](https://docs.github.com/ko/graphql) - 깃허브 GraphQL API 공식 문서
+- [GitHub Webhook](https://docs.github.com/ko/webhooks) - 깃허브 Webhook 공식 문서
 
 ### Other
-- [<img src="" height="18" /> Google Developers Docs](https://developers.google.com) - 구글 개발자 공식 문서
+- [Google Developers Docs](https://developers.google.com) - 구글 개발자 공식 문서
 
 ## 블로그 📚
-- [<img src="" height="18" /> 우아한형제들 기술블로그 <sub>KR</sub>](https://techblog.woowahan.com/) - 우아한형제들 기술블로그
-- [<img src="" height="18" /> 카카오 기술블로그 <sub>KR</sub>](https://tech.kakao.com/blog/) - 카카오 기술블로그
-- [<img src="" height="18" /> 쿠팡 기술블로그 <sub>KR</sub>](https://medium.com/@coupang-engineering-kr) - 쿠팡 기술블로그
-- [<img src="" height="18" /> 왓챠 팀블로그 <sub>KR</sub>](https://medium.com/watcha) - 왓챠 팀블로그
-- [<img src="" height="18" /> 컬리 기술블로그 <sub>KR</sub>](https://helloworld.kurly.com/) - 컬리 기술블로그
-- [<img src="" height="18" /> 뱅크샐러드 기술블로그 <sub>KR</sub>](https://blog.banksalad.com/tech/) - 뱅크샐러드 기술블로그
-- [<img src="" height="18" /> NHN 클라우드 밋업 <sub>KR</sub>](https://meetup.nhncloud.com/) - NHN 클라우드 밋업
-- [<img src="" height="18" /> 하이퍼커넥트 기술블로그 <sub>KR</sub>](https://hyperconnect.github.io/) - 하이퍼커넥트 기술블로그
-- [<img src="" height="18" /> 당근마켓 기술블로그 <sub>KR</sub>](https://medium.com/daangn/development/home) - 당근마켓 기술블로그
-- [<img src="" height="18" /> 강남언니 기술블로그 <sub>KR</sub>](https://blog.gangnamunni.com/blog/tech/) - 강남언니 기술블로그
-- [<img src="" height="18" /> 요기요 기술블로그 <sub>KR</sub>](https://techblog.yogiyo.co.kr/) - 요기요 기술블로그
-- [<img src="" height="18" /> 플랫팜 기술블로그 <sub>KR</sub>](https://medium.com/platfarm/technology/home) - 플랫팜 기술블로그
-- [<img src="" height="18" /> 스포카 기술블로그 <sub>KR</sub>](https://spoqa.github.io/) - 스포카 기술블로그
-- [<img src="" height="18" /> 라인 기술블로그 <sub>KR</sub>](https://techblog.lycorp.co.jp/ko) - 라인 기술플로그
-- [<img src="" height="18" /> 쏘카 기술블로그 <sub>KR</sub>](https://tech.socarcorp.kr/) - 쏘카 기술블로그
-- [<img src="" height="18" /> 리디 기술블로그 <sub>KR</sub>](https://ridicorp.com/story-category/tech-blog/) - 리디 기술블로그
-- [<img src="" height="18" /> 아이들나라 기술블로그 <sub>KR</sub>](https://i-nara.oopy.io/techblog) - 아이들나라 기술블로그
-- [<img src="" height="18" /> Engineering at Meta <sub>EN</sub>](https://engineering.fb.com/) - 메타 엔지니어링 블로그
-- [<img src="" height="18" /> Amazon Alexa Blogs <sub>EN</sub>](https://developer.amazon.com/en-US/blogs/alexa) - 아마존 알렉사 블로그
-- [<img src="" height="18" /> Apple Developer <sub>EN</sub>](https://developer.apple.com/) - 애플 개발자 블로그
-- [<img src="" height="18" /> Netflix Tech Blog <sub>EN</sub>](https://netflixtechblog.com/) - 넷플릭스 기술블로그
-- [<img src="" height="18" /> Google Developer Blog <sub>EN</sub>](https://developers.googleblog.com/) - 구글 개발자 블로그
-- [<img src="" height="18" /> Linkedin Engineering Blog <sub>EN</sub>](https://www.linkedin.com/blog/engineering) - 링크드인 엔지니어링 블로그
-- [<img src="" height="18" /> Slack Engineering <sub>EN</sub>](https://slack.engineering/) - 슬랙 엔지니어링 블로그
-- [<img src="" height="18" /> The Airbnb Tech Blog <sub>EN</sub>](https://medium.com/airbnb-engineering) - 에어비앤비 기술블로그
-- [<img src="" height="18" /> Zoom Developer Blog <sub>EN</sub>](https://medium.com/zoom-developer-blog) - 줌 개발자 블로그
-- [<img src="" height="18" /> RiotGames Tech Blog <sub>EN</sub>](https://technology.riotgames.com/) - 라이엇 게임즈 기술블로그
-- [<img src="" height="18" /> Pinterest Engineering <sub>EN</sub>](https://medium.com/@Pinterest_Engineering) - 핀터레스트 엔지니어링 블로그
-- [<img src="" height="18" /> PayPal Tech Blog <sub>EN</sub>](https://medium.com/paypal-tech) - 페이팔 기술블로그
-- [<img src="" height="18" /> Ebay Tech Blog <sub>EN</sub>](https://innovation.ebayinc.com/tech/) - 이베이 기술블로그
-- [<img src="" height="18" /> X (구 Twitter) Engineering <sub>EN</sub>](https://blog.twitter.com/engineering/en_us) X (구 Twitter) 엔지니어링 블로그
-- [<img src="" height="18" /> GooglePlay Engineering <sub>EN</sub>](https://medium.com/googleplaydev) - 구글 플레이 엔지니어링 블로그
-- [<img src="" height="18" /> Dropbox Tech Blog <sub>EN</sub>](https://dropbox.tech/) - Dropbox 기술블로그
+- [우아한형제들 기술블로그 <sub>KR</sub>](https://techblog.woowahan.com/) - 우아한형제들 기술블로그
+- [카카오 기술블로그 <sub>KR</sub>](https://tech.kakao.com/blog/) - 카카오 기술블로그
+- [쿠팡 기술블로그 <sub>KR</sub>](https://medium.com/@coupang-engineering-kr) - 쿠팡 기술블로그
+- [왓챠 팀블로그 <sub>KR</sub>](https://medium.com/watcha) - 왓챠 팀블로그
+- [컬리 기술블로그 <sub>KR</sub>](https://helloworld.kurly.com/) - 컬리 기술블로그
+- [뱅크샐러드 기술블로그 <sub>KR</sub>](https://blog.banksalad.com/tech/) - 뱅크샐러드 기술블로그
+- [NHN 클라우드 밋업 <sub>KR</sub>](https://meetup.nhncloud.com/) - NHN 클라우드 밋업
+- [하이퍼커넥트 기술블로그 <sub>KR</sub>](https://hyperconnect.github.io/) - 하이퍼커넥트 기술블로그
+- [당근마켓 기술블로그 <sub>KR</sub>](https://medium.com/daangn/development/home) - 당근마켓 기술블로그
+- [강남언니 기술블로그 <sub>KR</sub>](https://blog.gangnamunni.com/blog/tech/) - 강남언니 기술블로그
+- [요기요 기술블로그 <sub>KR</sub>](https://techblog.yogiyo.co.kr/) - 요기요 기술블로그
+- [플랫팜 기술블로그 <sub>KR</sub>](https://medium.com/platfarm/technology/home) - 플랫팜 기술블로그
+- [스포카 기술블로그 <sub>KR</sub>](https://spoqa.github.io/) - 스포카 기술블로그
+- [라인 기술블로그 <sub>KR</sub>](https://techblog.lycorp.co.jp/ko) - 라인 기술플로그
+- [쏘카 기술블로그 <sub>KR</sub>](https://tech.socarcorp.kr/) - 쏘카 기술블로그
+- [리디 기술블로그 <sub>KR</sub>](https://ridicorp.com/story-category/tech-blog/) - 리디 기술블로그
+- [아이들나라 기술블로그 <sub>KR</sub>](https://i-nara.oopy.io/techblog) - 아이들나라 기술블로그
+- [Engineering at Meta <sub>EN</sub>](https://engineering.fb.com/) - 메타 엔지니어링 블로그
+- [Amazon Alexa Blogs <sub>EN</sub>](https://developer.amazon.com/en-US/blogs/alexa) - 아마존 알렉사 블로그
+- [Apple Developer <sub>EN</sub>](https://developer.apple.com/) - 애플 개발자 블로그
+- [Netflix Tech Blog <sub>EN</sub>](https://netflixtechblog.com/) - 넷플릭스 기술블로그
+- [Google Developer Blog <sub>EN</sub>](https://developers.googleblog.com/) - 구글 개발자 블로그
+- [Linkedin Engineering Blog <sub>EN</sub>](https://www.linkedin.com/blog/engineering) - 링크드인 엔지니어링 블로그
+- [Slack Engineering <sub>EN</sub>](https://slack.engineering/) - 슬랙 엔지니어링 블로그
+- [The Airbnb Tech Blog <sub>EN</sub>](https://medium.com/airbnb-engineering) - 에어비앤비 기술블로그
+- [Zoom Developer Blog <sub>EN</sub>](https://medium.com/zoom-developer-blog) - 줌 개발자 블로그
+- [RiotGames Tech Blog <sub>EN</sub>](https://technology.riotgames.com/) - 라이엇 게임즈 기술블로그
+- [Pinterest Engineering <sub>EN</sub>](https://medium.com/@Pinterest_Engineering) - 핀터레스트 엔지니어링 블로그
+- [PayPal Tech Blog <sub>EN</sub>](https://medium.com/paypal-tech) - 페이팔 기술블로그
+- [Ebay Tech Blog <sub>EN</sub>](https://innovation.ebayinc.com/tech/) - 이베이 기술블로그
+- [X (구 Twitter) Engineering <sub>EN</sub>](https://blog.twitter.com/engineering/en_us) X (구 Twitter) 엔지니어링 블로그
+- [GooglePlay Engineering <sub>EN</sub>](https://medium.com/googleplaydev) - 구글 플레이 엔지니어링 블로그
+- [Dropbox Tech Blog <sub>EN</sub>](https://dropbox.tech/) - Dropbox 기술블로그
 
 ## 자료모음 🧾
 ### Awesome
-- [<img src="" height="18" /> Awesome <sub>EN, O</sub>](https://github.com/sindresorhus/awesome) - 프로그래밍 관련 자료모음
-- [<img src="" height="18" /> Awesome Node.js <sub>EN, O</sub>](https://github.com/sindresorhus/awesome-nodejs) - Node.js 관련 자료모음 (Awesome 계열)
-- [<img src="" height="18" /> Awesome Vue <sub>EN, O</sub>](https://github.com/vuejs/awesome-vue) - Vue.js 관련 자료모음 (Awesome 계열)
-- [<img src="" height="18" /> Awesome Svelte <sub>EN, O</sub>](https://github.com/TheComputerM/awesome-svelte) - Svelte 관련 자료모음 (Awesome 계열)
-- [<img src="" height="18" /> Awesome Angular <sub>EN, O</sub>](https://github.com/PatrickJS/awesome-angular) - Angular 관련 자료모음 (Awesome 계열)
-- [<img src="" height="18" /> Awesome Next.js <sub>EN, O</sub>](https://github.com/unicodeveloper/awesome-nextjs) - Next.js 관련 자료모음 (Awesome 계열)
-- [<img src="" height="18" /> Awesome Ruby <sub>EN, O</sub>](https://github.com/markets/awesome-ruby) - Ruby 관련 자료모음 (Awesome 계열)
-- [<img src="" height="18" /> Awesome C++ <sub>EN, O</sub>](https://github.com/fffaraz/awesome-cpp) - C++ 관련 자료모음 (Awesome 계열)
-- [<img src="" height="18" /> Awesome .NET <sub>EN, O</sub>](https://github.com/quozd/awesome-dotnet) - .NET 관련 자료모음 (Awesome 계열)
-- [<img src="" height="18" /> Awesome .NET Core <sub>EN, O</sub>](https://github.com/thangchung/awesome-dotnet-core) - .NET Core 관련 자료모음 (Awesome 계열)
-- [<img src="" height="18" /> Awesome CSS <sub>EN, O</sub>](https://github.com/awesome-css-group/awesome-css) - CSS 관련 자료모음 (Awesome 계열)
-- [<img src="" height="18" /> Awesome Bootstrap <sub>EN, O</sub>](https://github.com/awesome-bootstrap-org/awesome-bootstrap) - Bootstrap 관련 자료모음 (Awesome 계열)
-- [<img src="" height="18" /> Awesome Tailwind CSS <sub>EN, O</sub>](https://github.com/aniftyco/awesome-tailwindcss) - Tailwind CSS 관련 자료모음 (Awesome 계열)
-- [<img src="" height="18" /> Awesome Fonts <sub>EN, O</sub>](https://github.com/brabadu/awesome-fonts) - 폰트 관련 자료모음 (Awesome 계열)
-- [<img src="" height="18" /> Awesome Icons <sub>EN, O</sub>](https://github.com/notlmn/awesome-icons) - 아이콘 관련 자료모음 (Awesome 계열)
-- [<img src="" height="18" /> Awesome Web Icons <sub>EN, O</sub>](https://github.com/vkarampinis/awesome-icons) - 웹 아이콘 관련 자료모음 (Awesome 계열)
+- [Awesome <sub>EN, O</sub>](https://github.com/sindresorhus/awesome) - 프로그래밍 관련 자료모음
+- [Awesome Node.js <sub>EN, O</sub>](https://github.com/sindresorhus/awesome-nodejs) - Node.js 관련 자료모음 (Awesome 계열)
+- [Awesome Vue <sub>EN, O</sub>](https://github.com/vuejs/awesome-vue) - Vue.js 관련 자료모음 (Awesome 계열)
+- [Awesome Svelte <sub>EN, O</sub>](https://github.com/TheComputerM/awesome-svelte) - Svelte 관련 자료모음 (Awesome 계열)
+- [Awesome Angular <sub>EN, O</sub>](https://github.com/PatrickJS/awesome-angular) - Angular 관련 자료모음 (Awesome 계열)
+- [Awesome Next.js <sub>EN, O</sub>](https://github.com/unicodeveloper/awesome-nextjs) - Next.js 관련 자료모음 (Awesome 계열)
+- [Awesome Ruby <sub>EN, O</sub>](https://github.com/markets/awesome-ruby) - Ruby 관련 자료모음 (Awesome 계열)
+- [Awesome C++ <sub>EN, O</sub>](https://github.com/fffaraz/awesome-cpp) - C++ 관련 자료모음 (Awesome 계열)
+- [Awesome .NET <sub>EN, O</sub>](https://github.com/quozd/awesome-dotnet) - .NET 관련 자료모음 (Awesome 계열)
+- [Awesome .NET Core <sub>EN, O</sub>](https://github.com/thangchung/awesome-dotnet-core) - .NET Core 관련 자료모음 (Awesome 계열)
+- [Awesome CSS <sub>EN, O</sub>](https://github.com/awesome-css-group/awesome-css) - CSS 관련 자료모음 (Awesome 계열)
+- [Awesome Bootstrap <sub>EN, O</sub>](https://github.com/awesome-bootstrap-org/awesome-bootstrap) - Bootstrap 관련 자료모음 (Awesome 계열)
+- [Awesome Tailwind CSS <sub>EN, O</sub>](https://github.com/aniftyco/awesome-tailwindcss) - Tailwind CSS 관련 자료모음 (Awesome 계열)
+- [Awesome Fonts <sub>EN, O</sub>](https://github.com/brabadu/awesome-fonts) - 폰트 관련 자료모음 (Awesome 계열)
+- [Awesome Icons <sub>EN, O</sub>](https://github.com/notlmn/awesome-icons) - 아이콘 관련 자료모음 (Awesome 계열)
+- [Awesome Web Icons <sub>EN, O</sub>](https://github.com/vkarampinis/awesome-icons) - 웹 아이콘 관련 자료모음 (Awesome 계열)
 
 ## 도구 🔨
 ### Search
-- [<img src="" height="18" /> Google](https://www.google.com/) - 검색 엔진
-- [<img src="" height="18" /> DuckDuckGo](https://duckduckgo.com/) - 개인정보 보호 검색 엔진
-- [<img src="" height="18" /> Naver](https://www.naver.com/) - 국내 검색 엔진
-- [<img src="" height="18" /> Daum](https://www.daum.net/) - 국내 검색 엔진
+- [Google](https://www.google.com/) - 검색 엔진
+- [DuckDuckGo](https://duckduckgo.com/) - 개인정보 보호 검색 엔진
+- [Naver](https://www.naver.com/) - 국내 검색 엔진
+- [Daum](https://www.daum.net/) - 국내 검색 엔진
 
 ### Network
-- [<img src="" height="18" /> My ip address](https://whatismyipaddress.com/ip-lookup) - IP 주소 조회
-- [<img src="" height="18" /> 내도메인.한국](https://xn--220b31d95hq8o.xn--3e0b707e) - 무료 한국 도메인 발급
-- [<img src="" height="18" /> Fast.com <sub>F</sub>](https://fast.com/ko/) - 넷플릭스에서 제공하는 인터넷 속도 측정기 (브라우저)
+- [My ip address](https://whatismyipaddress.com/ip-lookup) - IP 주소 조회
+- [내도메인.한국](https://xn--220b31d95hq8o.xn--3e0b707e) - 무료 한국 도메인 발급
+- [Fast.com <sub>F</sub>](https://fast.com/ko/) - 넷플릭스에서 제공하는 인터넷 속도 측정기 (브라우저)
 
 ### VCS
 #### Git
-- [<img src="" height="18" /> Gitmoji](https://gitmoji.dev) - 깃 커밋 이모지 모음
-- [<img src="" height="18" /> GitHub <sub>$</sub>](https://github.com) - Git 플랫폼
-- [<img src="" height="18" /> GitLab <sub>$</sub>](https://about.gitlab.com/) - Git 플랫폼 (GitHub와 유사)
+- [Gitmoji](https://gitmoji.dev) - 깃 커밋 이모지 모음
+- [GitHub <sub>$</sub>](https://github.com) - Git 플랫폼
+- [GitLab <sub>$</sub>](https://about.gitlab.com/) - Git 플랫폼 (GitHub와 유사)
 
 ### No Code
-- [<img src="" height="18" /> Bubble](https://bubble.io) - 노코드 툴 Bubble
-- [<img src="" height="18" /> Flutterflow](https://flutterflow.io) - 노코드 툴 Flutterflow
-- [<img src="" height="18" /> Waveon](https://www.waveon.io) - 노코드 툴 Waveon
-- [<img src="" height="18" /> Webflow](https://webflow.com/) - 노코드 툴 Webflow
-- [<img src="" height="18" /> Softr](https://softr.io/) - 노코드 툴 Softr
-- [<img src="" height="18" /> Adalo](https://adalo.com/) - 노코드 툴 Adalo
-- [<img src="" height="18" /> Glide](https://www.glideapps.com/) - 노코드 툴 Glide
+- [Bubble](https://bubble.io) - 노코드 툴 Bubble
+- [Flutterflow](https://flutterflow.io) - 노코드 툴 Flutterflow
+- [Waveon](https://www.waveon.io) - 노코드 툴 Waveon
+- [Webflow](https://webflow.com/) - 노코드 툴 Webflow
+- [Softr](https://softr.io/) - 노코드 툴 Softr
+- [Adalo](https://adalo.com/) - 노코드 툴 Adalo
+- [Glide](https://www.glideapps.com/) - 노코드 툴 Glide
 
 ### API Request
-- [<img src="" height="18" /> Postman](https://www.postman.com/downloads) - API 디버그 도구
-- [<img src="" height="18" /> Swagger](https://swagger.io/) - API Documentation 도구
+- [Postman](https://www.postman.com/downloads) - API 디버그 도구
+- [Swagger](https://swagger.io/) - API Documentation 도구
 
 ### JSON
-- [<img src="" height="18" /> Formatter](https://formatter.org/json-formatter) - CSS/JSON/HTML 포맷 도구
-- [<img src="" height="18" /> Jsonformatter](https://jsonformatter.curiousconcept.com) - JSON 포맷 도구
+- [Formatter](https://formatter.org/json-formatter) - CSS/JSON/HTML 포맷 도구
+- [Jsonformatter](https://jsonformatter.curiousconcept.com) - JSON 포맷 도구
 
 ### 정규 표현식
-- [<img src="" height="18" /> Regex101](https://regex101.com) - 온라인 정규 표현식 학습 및 테스트
-- [<img src="" height="18" /> Regexr](https://regexr.com) - 온라인 정규 표현식 도구
+- [Regex101](https://regex101.com) - 온라인 정규 표현식 학습 및 테스트
+- [Regexr](https://regexr.com) - 온라인 정규 표현식 도구
 
 ### Design
-- [<img src="" height="18" /> Figma <sub>$</sub>](https://figma.com) - UI/UX 디자인 및 프로토타이핑 도구
-- [<img src="" height="18" /> Draw.io](https://app.diagrams.net) - 다이어그램 작성 도구
-- [<img src="" height="18" /> Canva](https://www.canva.com/ko_kr) - 무료 디자인 툴
-- [<img src="" height="18" /> DGM](https://dgm.sh/home) - 다이어그램 작성 도구
-- [<img src="" height="18" /> Pexels](https://www.pexels.com/ko-kr) - 고화질 무료이미지 모음
-- [<img src="" height="18" /> Emojipedia](https://emojipedia.org) - 이모지 저장소
+- [Figma <sub>$</sub>](https://figma.com) - UI/UX 디자인 및 프로토타이핑 도구
+- [Draw.io](https://app.diagrams.net) - 다이어그램 작성 도구
+- [Canva](https://www.canva.com/ko_kr) - 무료 디자인 툴
+- [DGM](https://dgm.sh/home) - 다이어그램 작성 도구
+- [Pexels](https://www.pexels.com/ko-kr) - 고화질 무료이미지 모음
+- [Emojipedia](https://emojipedia.org) - 이모지 저장소
 
 ### Backend Framework
-- [<img src="" height="18" /> Spring Initializr](https://start.spring.io) - Spring 프로젝트 생성기
-- [<img src="" height="18" /> Ktor Project Generator](https://start.ktor.io/#/settings) - Ktor 프로젝트 생성기
+- [Spring Initializr](https://start.spring.io) - Spring 프로젝트 생성기
+- [Ktor Project Generator](https://start.ktor.io/#/settings) - Ktor 프로젝트 생성기
 
 ### Code Formatter & Linter
-- [<img src="" height="18" /> Ktlint](https://pinterest.github.io/ktlint/latest/) - 코틀린 코드 포메터
-- [<img src="" height="18" /> Prettier](https://prettier.io/) - 대표적인 코드 포매터
-- [<img src="" height="18" /> ESLint](https://eslint.org/) - 자바스크립트 린터
+- [Ktlint](https://pinterest.github.io/ktlint/latest/) - 코틀린 코드 포메터
+- [Prettier](https://prettier.io/) - 대표적인 코드 포매터
+- [ESLint](https://eslint.org/) - 자바스크립트 린터
 
 ### IDE
 #### Jetbrains
-- [<img src="" height="18" /> Fleet <sub>$</sub>](https://www.jetbrains.com/ko-kr/fleet) - Jetbrains에서 개발한 텍스트 에디터
-- [<img src="" height="18" /> IntelliJ IDEA <sub>$</sub>](https://www.jetbrains.com/ko-kr/idea) - Jetbrains에서 개발한 통합 개발 환경 (Java, Kotlin)
-- [<img src="" height="18" /> CLion <sub>$</sub>](https://www.jetbrains.com/ko-kr/clion) - Jetbrains에서 개발한 통합 개발 환경 (C, C++)
-- [<img src="" height="18" /> DataGrip <sub>$</sub>](https://www.jetbrains.com/ko-kr/datagrip) - Jetbrains에서 개발한 통합 개발 환경 (SQL)
-- [<img src="" height="18" /> DataSpell <sub>$</sub>](https://www.jetbrains.com/ko-kr/dataspell) - Jetbrains에서 개발한 통합 개발 환경 (SQL)
-- [<img src="" height="18" /> WebStorm <sub>$</sub>](https://www.jetbrains.com/ko-kr/webstorm) - Jetbrains에서 개발한 통합 개발 환경 (JavaScript)
-- [<img src="" height="18" /> PyCharm <sub>$</sub>](https://www.jetbrains.com/ko-kr/pycharm) - Jetbrains에서 개발한 통합 개발 환경 (Python)
-- [<img src="" height="18" /> RubyMine <sub>$</sub>](https://www.jetbrains.com/ko-kr/ruby) - Jetbrains에서 개발한 통합 개발 환경 (Ruby)
-- [<img src="" height="18" /> Rider <sub>$</sub>](https://www.jetbrains.com/ko-kr/rider/) - Jetbrains에서 개발한 통합 개발 환경 (C#, .NET)
-- [<img src="" height="18" /> Writerside <sub>$</sub>](https://www.jetbrains.com/ko-kr/writerside) - Jetbrains에서 개발한 통합 개발 환경 (Document)
-- [<img src="" height="18" /> RustRover <sub>$</sub>](https://www.jetbrains.com/ko-kr/rust) - Jetbrains에서 개발한 통합 개발 환경 (Rust)
-- [<img src="" height="18" /> GoLand <sub>$</sub>](https://www.jetbrains.com/ko-kr/go) - Jetbrains에서 개발한 통합 개발 환경 (Go)
-- [<img src="" height="18" /> Aqua <sub>$</sub>](https://www.jetbrains.com/ko-kr/aqua) - Jetbrains에서 개발한 통합 개발 환경 (Testing)
-- [<img src="" height="18" /> Android Studio <sub>F</sub>](https://developer.android.com/studio?hl=ko) - Jetbrains에서 개발한 통합 개발 환경 (Android)
+- [Fleet <sub>$</sub>](https://www.jetbrains.com/ko-kr/fleet) - Jetbrains에서 개발한 텍스트 에디터
+- [IntelliJ IDEA <sub>$</sub>](https://www.jetbrains.com/ko-kr/idea) - Jetbrains에서 개발한 통합 개발 환경 (Java, Kotlin)
+- [CLion <sub>$</sub>](https://www.jetbrains.com/ko-kr/clion) - Jetbrains에서 개발한 통합 개발 환경 (C, C++)
+- [DataGrip <sub>$</sub>](https://www.jetbrains.com/ko-kr/datagrip) - Jetbrains에서 개발한 통합 개발 환경 (SQL)
+- [DataSpell <sub>$</sub>](https://www.jetbrains.com/ko-kr/dataspell) - Jetbrains에서 개발한 통합 개발 환경 (SQL)
+- [WebStorm <sub>$</sub>](https://www.jetbrains.com/ko-kr/webstorm) - Jetbrains에서 개발한 통합 개발 환경 (JavaScript)
+- [PyCharm <sub>$</sub>](https://www.jetbrains.com/ko-kr/pycharm) - Jetbrains에서 개발한 통합 개발 환경 (Python)
+- [RubyMine <sub>$</sub>](https://www.jetbrains.com/ko-kr/ruby) - Jetbrains에서 개발한 통합 개발 환경 (Ruby)
+- [Rider <sub>$</sub>](https://www.jetbrains.com/ko-kr/rider/) - Jetbrains에서 개발한 통합 개발 환경 (C#, .NET)
+- [Writerside <sub>$</sub>](https://www.jetbrains.com/ko-kr/writerside) - Jetbrains에서 개발한 통합 개발 환경 (Document)
+- [RustRover <sub>$</sub>](https://www.jetbrains.com/ko-kr/rust) - Jetbrains에서 개발한 통합 개발 환경 (Rust)
+- [GoLand <sub>$</sub>](https://www.jetbrains.com/ko-kr/go) - Jetbrains에서 개발한 통합 개발 환경 (Go)
+- [Aqua <sub>$</sub>](https://www.jetbrains.com/ko-kr/aqua) - Jetbrains에서 개발한 통합 개발 환경 (Testing)
+- [Android Studio <sub>F</sub>](https://developer.android.com/studio?hl=ko) - Jetbrains에서 개발한 통합 개발 환경 (Android)
 
 #### Other
-- [<img src="" height="18" /> Visual Studio Code <sub>O, F</sub>](https://code.visualstudio.com) - Microsoft에서 개발한 텍스트 에디터
-- [<img src="" height="18" /> Visual Studio <sub>$</sub>](https://visualstudio.microsoft.com/ko) - Microsoft에서 개발한 통합 개발 환경
-- [<img src="" height="18" /> Geany <sub>O, F</sub>](https://www.geany.org/) - 빠르고 가벼운 통합 개발 환경
-- [<img src="" height="18" /> sublime Text <sub>$</sub>](https://www.sublimetext.com/) - 크로스 플랫폼의 텍스트 에디터
-- [<img src="" height="18" /> Notepad++ <sub>O, F</sub>](https://notepad-plus-plus.org/) - 윈도우 전용 텍스트 에디터
-- [<img src="" height="18" /> Eclipse](https://www.eclipse.org) - 자바 기반의 통합 개발 환경
-- [<img src="" height="18" /> Colab](https://colab.research.google.com/?hl=ko#) - 호스팅된 Jupyter 노트북 서비스로, 설정하지 않고 사용 가능하며 GPU를 포함한 컴퓨팅 리소스를 무료로 사용
-- [<img src="" height="18" /> Xcode](https://developer.apple.com/kr/xcode/) - Apple에서 개발한 통합 개발 환경
-- [<img src="" height="18" /> online gdb](https://www.onlinegdb.com) - 온라인 컴파일러 및 디버거 도구
-- [<img src="" height="18" /> URL Encode and Decode](https://www.urlencoder.org/) - 온라인 url 인코더/디코더
+- [Visual Studio Code <sub>O, F</sub>](https://code.visualstudio.com) - Microsoft에서 개발한 텍스트 에디터
+- [Visual Studio <sub>$</sub>](https://visualstudio.microsoft.com/ko) - Microsoft에서 개발한 통합 개발 환경
+- [Geany <sub>O, F</sub>](https://www.geany.org/) - 빠르고 가벼운 통합 개발 환경
+- [sublime Text <sub>$</sub>](https://www.sublimetext.com/) - 크로스 플랫폼의 텍스트 에디터
+- [Notepad++ <sub>O, F</sub>](https://notepad-plus-plus.org/) - 윈도우 전용 텍스트 에디터
+- [Eclipse](https://www.eclipse.org) - 자바 기반의 통합 개발 환경
+- [Colab](https://colab.research.google.com/?hl=ko#) - 호스팅된 Jupyter 노트북 서비스로, 설정하지 않고 사용 가능하며 GPU를 포함한 컴퓨팅 리소스를 무료로 사용
+- [Xcode](https://developer.apple.com/kr/xcode/) - Apple에서 개발한 통합 개발 환경
+- [online gdb](https://www.onlinegdb.com) - 온라인 컴파일러 및 디버거 도구
+- [URL Encode and Decode](https://www.urlencoder.org/) - 온라인 url 인코더/디코더
 
 ### AI
-- [<img src="" height="18" /> Cody AI <sub>F</sub>](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai) - Visual Studio Code AI 플러그인
-- [<img src="" height="18" /> GitHub Copilot <sub>$</sub>](https://github.com/features/copilot) - GitHub에서 개발한 프로그래밍 AI
-- [<img src="" height="18" /> Tabnine <sub>$</sub>](https://www.tabnine.com/) - Tabnine에서 개발한 프로그래밍 AI
-- [<img src="" height="18" /> OpenAI Codex <sub>EN</sub>](https://openai.com/blog/openai-codex) - OpenAI에서 개발한 프로그래밍 AI
-- [<img src="" height="18" /> CodeT5 <sub>O</sub>](https://github.com/salesforce/CodeT5) - Salesforce에서 개발한 프로그래밍 AI
-- [<img src="" height="18" /> Code LMs <sub>O</sub>](https://github.com/VHellendoorn/Code-LMs) - VHellendoorn이 개발한 프로그래밍 AI
-- [<img src="" height="18" /> Codeium <sub>$</sub>](https://codeium.com/) - Codium에서 개발한 프로그래밍 AI
+- [Cody AI <sub>F</sub>](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai) - Visual Studio Code AI 플러그인
+- [GitHub Copilot <sub>$</sub>](https://github.com/features/copilot) - GitHub에서 개발한 프로그래밍 AI
+- [Tabnine <sub>$</sub>](https://www.tabnine.com/) - Tabnine에서 개발한 프로그래밍 AI
+- [OpenAI Codex <sub>EN</sub>](https://openai.com/blog/openai-codex) - OpenAI에서 개발한 프로그래밍 AI
+- [CodeT5 <sub>O</sub>](https://github.com/salesforce/CodeT5) - Salesforce에서 개발한 프로그래밍 AI
+- [Code LMs <sub>O</sub>](https://github.com/VHellendoorn/Code-LMs) - VHellendoorn이 개발한 프로그래밍 AI
+- [Codeium <sub>$</sub>](https://codeium.com/) - Codium에서 개발한 프로그래밍 AI
 
 ### Other
-- [<img src="" height="18" /> TTSMaker](https://ttsmaker.com/ko) - 텍스트 음성 변환 도구
+- [TTSMaker](https://ttsmaker.com/ko) - 텍스트 음성 변환 도구
