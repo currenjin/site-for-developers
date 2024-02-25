@@ -27,3 +27,28 @@
 .mddata h5 {
     font-size: 1.1rem;
 }
+
+h2[id^="추천"] + ul li,
+h3[id*="커뮤니티"] + ul li,
+h3[id="뉴스"] + ul li,
+h3[id="학습"] + ul li,
+h3[id="문제풀이"] + ul li,
+h4[id="web"] + ul li,
+h4[id="design"] + ul li,
+h5[id="tailwind-css"] + ul li {
+  margin-left: 1rem;
+  min-height: 3rem;
+}
+
+h2[id^="추천"] + ul a img,
+h3[id*="커뮤니티"] + ul a img,
+h3[id="뉴스"] + ul a img,
+h3[id="학습"] + ul a img,
+h3[id="문제풀이"] + ul a img,
+h4[id="web"] + ul a img,
+h4[id="design"] + ul a img,
+h5[id="tailwind-css"] + ul a img {
+  float: left;
+  margin-right: 6px;
+  width: 2rem;
+}
