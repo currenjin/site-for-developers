@@ -22,9 +22,15 @@ const App = () => {
         </Navbar.Brand>
         <Navbar.Toggle />
         <Navbar.Collapse>
-          <Navbar.Link href="/" className="rounded-xl">메인</Navbar.Link>
-          <Navbar.Link href="/about" className="rounded-xl">소개</Navbar.Link>
-          <Navbar.Link href="/contribute" className="rounded-xl">기여</Navbar.Link>
+          <Navbar.Link href="/" className="rounded-xl">
+            메인
+          </Navbar.Link>
+          <Navbar.Link href="/about" className="rounded-xl">
+            소개
+          </Navbar.Link>
+          <Navbar.Link href="/contribute" className="rounded-xl">
+            기여
+          </Navbar.Link>
         </Navbar.Collapse>
       </Navbar>
       <div className="m-4">
