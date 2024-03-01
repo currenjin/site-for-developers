@@ -279,6 +279,7 @@
 |     | [쏘카 기술블로그 <sub>KR</sub>](https://tech.socarcorp.kr/)                                  | 쏘카 기술블로그                |
 |     | [리디 기술블로그 <sub>KR</sub>](https://ridicorp.com/story-category/tech-blog/)              | 리디 기술블로그                |
 |     | [아이들나라 기술블로그 <sub>KR</sub>](https://i-nara.oopy.io/techblog)                          | 아이들나라 기술블로그             |
+|     |	[펫프렌즈 기술블로그 <sub>KR</sub>](https://techblog.pet-friends.co.kr/)			| 펫프렌즈 기술블로그		|
 |     | [Engineering at Meta <sub>EN</sub>](https://engineering.fb.com/)                      | 메타 엔지니어링 블로그            |
 |     | [Amazon Alexa Blogs <sub>EN</sub>](https://developer.amazon.com/en-US/blogs/alexa)    | 아마존 알렉사 블로그             |
 |     | [Apple Developer <sub>EN</sub>](https://developer.apple.com/)                         | 애플 개발자 블로그              |
