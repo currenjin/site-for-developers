@@ -84,7 +84,6 @@
 | <img src="https://www.cikorea.net/favicon_cikorea.ico" height="18" />                                                                                           | [Cikorea <sub>KR</sub>](https://www.cikorea.net)          | CodeIgniter 한국사용자포럼, PHP Framework.                                              |                                              
 | <img src="https://jsdevkr.s3.dualstack.ap-northeast-2.amazonaws.com/optimized/2X/d/d76be3c1cbdb094fdde69ef2025c5ffe2ce0f259_2_32x32.png" height="18" />         | [Jsdev <sub>KR</sub>](https://jsdev.kr)                   | 자바스크립트 개발자 포럼.                                                                   |                                                                   
 | <img src="https://laravel.kr/favicon-16x16.png" height="18" />                                                                                                  | [Laravel <sub>KR</sub>](https://laravel.kr/)              | laravel korea community 라라벨 코리아 커뮤니티                                             |
-| <img src="https://qna.programmers.co.kr/assets/programmers-favicon/favicon-40b78633b6556a68c3da8e2125c31512fbd01d09906ab76c8a8ff289e494cadb.png" height="18" /> | [프로그래머스 <sub>EN</sub>](https://qna.programmers.co.kr/)    | 프로그래머스 QnA는 프로그래밍 문제해결을 위한 QnA서비스입니다.                                            |                                            
 | <img src="https://devstu.co.kr/favicon.ico" height="18" />                                                                                                      | [Devstu <sub>KR</sub>](https://devstu.co.kr/howto)        | 모두가 함께하는, 지식을 지식으로 갚아나가는 한국 개발 커뮤니티입니다.                                          |                                          
 | <img src="https://careerly.co.kr/favicon.png" height="18" />                                                                                                    | [Careerly <sub>KR</sub>](https://careerly.co.kr)          | 개발 트렌드, Q&A, 탑 개발자들과의 네트워킹까지.                                                    |                                                    
 | <img src="https://cdn.sstatic.net/Sites/stackexchange/Img/favicon.ico" height="18" />                                                                           | [Stack Exchange <sub>EN</sub>](https://stackexchange.com) | Stack Overflow 및 170개 이상의 커뮤니티 기반 Q&A 사이트를 만듭니다.                                 |                                 
@@ -92,15 +91,16 @@
 | <img src="https://ph-static.imgix.net/ph-favicon-coral.ico" height="18" />                                                                                      | [Product Hunt <sub>EN</sub>](https://www.producthunt.com) | Product Hunt는 매일 최고의 신제품을 큐레이션하는 것입니다.                                           |                                           
 | <img src="https://coderanch.com/favicon.ico" height="18" />                                                                                                     | [Coderanch <sub>EN</sub>](https://coderanch.com)          | 그린혼을 프로그래밍하는 친근한 장소인 Coderanch!                                                  |                                                  
 | <img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196" height="18" />                                                            | [Stack Overflow <sub>EN</sub>](https://stackoverflow.com) | Stack Overflow는 개발자가 학습하고 프로그래밍 지식을 공유하며 경력을 쌓을 수 있는 가장 큰 신뢰할 수 있는 온라인 커뮤니티입니다.  |  
+| <img src="https://qna.programmers.co.kr/assets/programmers-favicon/favicon-40b78633b6556a68c3da8e2125c31512fbd01d09906ab76c8a8ff289e494cadb.png" height="18" /> | [프로그래머스 <sub>EN</sub>](https://qna.programmers.co.kr/)    | 프로그래머스 QnA는 프로그래밍 문제해결을 위한 QnA서비스입니다.                                            |
 
 ### 교육 커뮤니티
 | 이미지                                                                                      | 제목                                                                                           | 설명                                                                   |
 |------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
 | <img src="https://cdn.inflearn.com/dist/icon-512x512.png" height="18" />                 | [Inflearn <sub>$, KR</sub>](https://www.inflearn.com)                                        | 프로그래밍, 인공지능, 데이터, 마케팅, 디자인, 엑셀 실무 등 입문부터 실전까지 업계 최고 선배들에게 배울 수 있는 곳. |
-| <img src="https://codingapple.com/wp-content/uploads/2023/06/favicon.png" height="18" /> | [코딩애플 <sub>$, KR</sub>](https://codingapple.com/)                                            | 포트폴리오 완성까지 책임지는 Online 프로그래밍 강좌.                                     |
 | <img src="https://swexpertacademy.com/main/favicon.ico" height="18" />                   | [Swexpertacademy <sub>KR</sub>](https://swexpertacademy.com/main/learn/course/courseList.do) | SW 프로그래밍 역량 강화에 도움이 되는 다양한 학습 컨텐츠를 확인하세요!                            |
 | <img src="https://nomadcoders.co/m.png" height="18" />                                   | [Nomadcoders <sub>$</sub>](https://nomadcoders.co)                                           | 실제 구현되어 있는 서비스를 한땀 한땀 따라 만들면서 코딩을 배우세요!                              |
 | <img src="https://edu.nextstep.camp/favicon.ico" height="18" />                          | [NEXTSTEP <sub>$</sub>](https://edu.nextstep.camp)                                           | NEXTSTEP에서 개발자들을 위해 디자인된 강의를 수강해보세요.                                 |
+| <img src="https://codingapple.com/wp-content/uploads/2023/06/favicon.png" height="18" /> | [코딩애플 <sub>$, KR</sub>](https://codingapple.com/)                                            | 포트폴리오 완성까지 책임지는 Online 프로그래밍 강좌.                                     |
 
 ### 뉴스
 | 이미지                                                                                                                   | 제목                                                                    | 설명                                                        |
@@ -162,47 +162,45 @@
 ### Programming Language
 | 이미지 | 제목                                                          | 설명            |
 |-----|-------------------------------------------------------------|---------------|
-|     | [Kotlin Docs](https://kotlinlang.org/docs/home.html)        | 코틀린 공식 문서     |
-|     | [Java Docs <sub>EN</sub>](https://docs.oracle.com/en/java)  | Java 공식 문서    |
-|     | [Python 3 Docs <sub>KR</sub>](https://docs.python.org/ko/3) | Python3 공식 문서 |
+|<img src="https://kotlinlang.org/assets/images/favicon.svg?v2" height="18" />     | [Kotlin Docs <sub>EN</sub>](https://kotlinlang.org/docs/home.html)        | 코틀린 1.9.22 문서.     |
+|<img src="https://docs.oracle.com/sp_common/site-template/ohc-common/img/favicon.ico" height="18" />     | [Java Docs <sub>EN</sub>](https://docs.oracle.com/en/java)  | 자바는 거의 모든 종류의 네트워크화된 애플리케이션의 기반이며 모바일 애플리케이션, 게임, 웹 기반 콘텐츠 및 기업용 소프트웨어를 개발하고 제공하기 위한 글로벌 표준입니다.    |
+|<img src="https://docs.python.org/3/_static/py.svg" height="18" />     | [Python Docs <sub>KR</sub>](https://docs.python.org/ko/3) | Python 3.12.2 문서. |
 
 ### Javascript Framework
 | 이미지 | 제목                                                       | 설명                 |
 |-----|----------------------------------------------------------|--------------------|
-|     | [Node.js Docs](https://nodejs.org/en/docs)               | Node.js 공식 문서      |
-|     | [React <sub>KR</sub>](https://ko.reactjs.org)            | React 공식 홈페이지      |
-|     | [Next.js Docs](https://nextjs.org/docs/getting-started)  | Next.js 공식 문서      |
-|     | [Vuejs Guide](https://vuejs.org/guide/introduction.html) | Vuejs 공식 가이드       |
-|     | [Express.js <sub>KR</sub>](https://expressjs.com/ko)     | Express.js 공식 홈페이지 |
-|     | [NestJS](https://docs.nestjs.co/)                        | NestJS 공식 문서       |
+|<img src="https://ko.legacy.reactjs.org/favicon.ico" height="18" />     | [React <sub>KR</sub>](https://ko.reactjs.org)            | 사용자 인터페이스를 만들기 위한 JavaScript 라이브러리.      |
+|<img src="https://expressjs.com/images/favicon.png" height="18" />     | [Express.js <sub>KR</sub>](https://expressjs.com/ko)     | Express.js 공식 홈페이지 |
+|<img src="https://nodejs.org/static/images/favicons/favicon.png" height="18" />     | [Node.js Docs <sub>EN</sub>](https://nodejs.org/en/docs)               | Node.js v21.6.2 문서.      |
+|<img src="https://nextjs.org/favicon.ico" height="18" />     | [Next.js Docs <sub>EN</sub>](https://nextjs.org/docs/getting-started)  | Next.js 문서에 오신 것을 환영합니다.      |
+|<img src="https://docs.nestjs.com/assets/favicons/favicon-32x32.png" height="18" />     | [NestJS Docs <sub>EN</sub>](https://docs.nestjs.com/)                        | NestJS는 효율적이고 확장 가능한 Node.js 서버 측 응용 프로그램을 구축하기 위한 프레임워크입니다.       |
+|<img src="https://vuejs.org/logo.svg" height="18" />     | [Vuejs Guide <sub>EN</sub>](https://vuejs.org/guide/introduction.html) | Vue.js - 프로그레시브 자바스크립트 프레임워크.       |
 
 ### Backend Framework
 | 이미지 | 제목                                                                                                     | 설명                   |
 |-----|--------------------------------------------------------------------------------------------------------|----------------------|
-|     | [Spring Boot Docs <sub>EN</sub>](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle) | Spring Boot 공식 문서    |
-|     | [Spring Docs <sub>EN</sub>](https://docs.spring.io/spring-framework/docs/current/reference/html)       | Spring 공식 문서         |
-|     | [Django Docs <sub>KR</sub>](https://docs.djangoproject.com/ko/4.0/intro)                               | Django 공식 문서         | 
-|     | [Spring Guides](https://github.com/spring-guides)                                                      | Spring 튜토리얼 예제       |
-|     | [Flask Docs <sub>KR</sub>](https://flask-docs-kr.readthedocs.io/ko/latest)                             | Flask 공식 문서          |
-|     | [ExpressJS <sub>KR</sub>](https://expressjs.com/ko)                                                    | ExpressJS 공식 홈페이지    |
-|     | [Ruby On Rails Guide](https://guides.rubyonrails.org)                                                  | Ruby On Rails 공식 가이드 |
-|     | [NestJS](https://docs.nestjs.com/)                                                                     | NestJS 공식 문서         |
+|<img src="https://docs.spring.io/favicon.ico" height="18" />     | [Spring Boot Docs <sub>EN</sub>](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle) | Spring Boot 문서.    |
+|<img src="https://docs.spring.io/favicon.ico" height="18" />     | [Spring Docs <sub>EN</sub>](https://docs.spring.io/spring-framework/docs/current/reference/html)       | Spring 문서.         |
+|<img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" height="18" />     | [Django Docs <sub>KR</sub>](https://docs.djangoproject.com/ko/5.0/)                               | 데드라인이 있는 완벽주의자를 위한 웹 프레임워크입니다.         |
+|<img src="https://flask-docs-kr.readthedocs.io/favicon.ico" height="18" />     | [Flask Docs <sub>KR</sub>](https://flask-docs-kr.readthedocs.io/ko/latest)                             | Flask 문서.          |
+|<img src="https://guides.rubyonrails.org/images/favicon.ico" height="18" />     | [Ruby On Rails Guide <sub>EN</sub>](https://guides.rubyonrails.org)                                                  | Ruby On Rails 가이드. |
+|<img src="https://docs.nestjs.com/assets/favicons/favicon-32x32.png" height="18" />     | [NestJS](https://docs.nestjs.com/)                                                                     | NestJS는 효율적이고 확장 가능한 Node.js 서버 측 응용 프로그램을 구축하기 위한 프레임워크입니다.         |
 
 ### Public Cloud
 | 이미지 | 제목                                                                                            | 설명                         |
 |-----|-----------------------------------------------------------------------------------------------|----------------------------|
-|     | [AWS Documentation <sub>KR</sub>](https://docs.aws.amazon.com/ko_kr/)                         | AWS 공식 문서                  |
-|     | [Azure Documentation <sub>KR</sub>](https://learn.microsoft.com/ko-kr/azure/?product=popular) | Azure 공식문서                 |
-|     | [GCP Documentation <sub>KR</sub>](https://cloud.google.com/docs?hl=ko)                        | GCP 공식문서                   |
-|     | [NCP(Naver Cloud Platform Guide <sub>KR</sub>](https://guide.ncloud-docs.com/docs/home)       | Naver Cloud Platform 사용가이드 |
+|<img src="https://docs.aws.amazon.com/assets/r/images/favicon.ico" height="18" />     | [AWS(Amazon Web Services) Documentation <sub>KR</sub>](https://docs.aws.amazon.com/ko_kr/)                         | AWS(Amazon Web Services) 설명서에 오신 것을 환영합니다.                  |
+|<img src="https://learn.microsoft.com/favicon.ico" height="18" />     | [Azure Documentation <sub>KR</sub>](https://learn.microsoft.com/ko-kr/azure/?product=popular) | Microsoft Azure를 사용하여 강력한 애플리케이션을 빌드하고 관리하는 방법을 알아봅니다.                 |
+|<img src="https://cloud.google.com/favicon.ico" height="18" />     | [GCP(Google Cloud Platform) Documentation <sub>KR</sub>](https://cloud.google.com/docs?hl=ko)                        | Google Cloud 제품 및 서비스 관련 종합적인 문서, 가이드, 리소스.                   |
+|<img src="https://cdn.document360.io/6998976f-9d95-4df8-b847-d375892b92c2/Images/Documentation/favicon.png?sv=2019-07-07&sig=ksgre8mvyLQtFJzD65EbmlayvBrJNcVgUurGUgtjPGo%3D&spr=https%2Chttp&st=2024-03-01T14%3A10%3A18Z&se=2024-03-01T14%3A20%3A18Z&srt=o&ss=b&sp=r" height="18" />     | [NCP(Naver Cloud Platform) Guide <sub>KR</sub>](https://guide.ncloud-docs.com/docs/home)       | NCP(Naver Cloud Platform) 사용가이드 |
 
 ### Mobile
 | 이미지 | 제목                                                                      | 설명                 |
 |-----|-------------------------------------------------------------------------|--------------------|
-|     | [Android Guide <sub>KR</sub>](https://developer.android.com/docs?hl=ko) | Android 공식 가이드     |
-|     | [IOS <sub>KR</sub>](https://developer.apple.com/kr)                     | iOS 공식 개발자 홈페이지    |
-|     | [React Native Docs](https://reactnative.dev/docs/getting-started)       | React Native 공식 문서 |
-|     | [Flutter Docs <sub>KR</sub>](https://flutter-ko.dev/docs)               | Flutter 공식 문서      |
+|<img src="https://www.gstatic.com/devrel-devsite/prod/v50a9748f336f0601961fb23638b43fbbc8f87f50f5f0aa83e2751247a72fbd3b/android/images/favicon.png" height="18" />     | [Android Guide <sub>KR</sub>](https://developer.android.com/docs?hl=ko) | 스마트폰, 시계, 태블릿, 노트북, 폴더블, TV, 자동차 등 무엇을 위해 빌드하든 상관없이 필요한 코드 샘플, 가이드, API 참조입니다.     |
+|<img src="https://developer.apple.com/favicon.ico" height="18" />     | [IOS <sub>KR</sub>](https://developer.apple.com/kr)                     | Apple 플랫폼에서 개발할 절호의 기회입니다.    |
+|<img src="https://reactnative.dev/img/favicon.ico" height="18" />     | [React Native Docs](https://reactnative.dev/docs/getting-started)       | 이 유용한 가이드에서는 React Native 학습, 이러한 문서 사용 및 환경 설정에 대한 사전 요구 사항을 설명합니다. |
+|<img src="https://docs.flutter.dev/assets/images/branding/flutter/icon/64.png" height="18" />     | [Flutter Docs <sub>KR</sub>](https://docs.flutter.dev/get-started/install)               | Flutter를 설치하고 시작합니다.      |
 
 ### Database
 | 이미지 | 제목                                                 | 설명               |
