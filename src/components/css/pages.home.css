@@ -1,53 +1,39 @@
 .mddata a {
-    @apply underline text-blue-600 hover:text-blue-800 visited:text-purple-600
+  @apply underline text-blue-600 hover:text-blue-800 visited:text-purple-600
 }
 
 .mddata h2 {
-    font-weight: bold;
-    font-size: 1.6rem;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    border-bottom: 1px solid rgb(185, 185, 185);
+  font-weight: bold;
+  font-size: 1.6rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid rgb(185, 185, 185);
 }
 
 .mddata h2:first-of-type {
-    margin-top: 0;
+  margin-top: 0;
 }
 
 .mddata h3 {
-    font-weight: bold;
-    margin-top: 1.5rem;
-    font-size: 1.4rem;
+  font-weight: bold;
+  margin-top: 1.5rem;
+  font-size: 1.4rem;
 }
 
 .mddata h4 {
-    font-size: 1.2rem;
+  font-size: 1.2rem;
 }
 
 .mddata h5 {
-    font-size: 1.1rem;
+  font-size: 1.1rem;
 }
 
-h2[id^="추천"] + ul li,
-h3[id*="커뮤니티"] + ul li,
-h3[id="뉴스"] + ul li,
-h3[id="학습"] + ul li,
-h3[id="문제풀이"] + ul li,
-h4[id="web"] + ul li,
-h4[id="design"] + ul li,
-h5[id="tailwind-css"] + ul li {
+.with-logo ul li {
   margin-left: 1rem;
   min-height: 3rem;
 }
 
-h2[id^="추천"] + ul a img,
-h3[id*="커뮤니티"] + ul a img,
-h3[id="뉴스"] + ul a img,
-h3[id="학습"] + ul a img,
-h3[id="문제풀이"] + ul a img,
-h4[id="web"] + ul a img,
-h4[id="design"] + ul a img,
-h5[id="tailwind-css"] + ul a img {
+.with-logo ul a img {
   float: left;
   margin-right: 6px;
   width: 2rem;
