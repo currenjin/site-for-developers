@@ -344,6 +344,7 @@
 |     | [Gitmoji](https://gitmoji.dev)                   | 깃 커밋 이모지 모음          |
 |     | [GitHub <sub>$</sub>](https://github.com)        | Git 플랫폼              |
 |     | [GitLab <sub>$</sub>](https://about.gitlab.com/) | Git 플랫폼 (GitHub와 유사) |
+|     | [Bitbucket <sub>$</sub>](https://bitbucket.org/) | Atlassian에 의해 운영되는 Git 저장소 |
 
 ### No Code
 | 이미지 | 제목                                    | 설명                |
