@@ -258,9 +258,10 @@
 |     | [GitHub Webhook](https://docs.github.com/ko/webhooks)                    | 깃허브 Webhook 공식 문서     |
 
 ### Other
-| 이미지 | 제목                                                      | 설명           |
-|-----|---------------------------------------------------------|--------------|
-|     | [Google Developers Docs](https://developers.google.com) | 구글 개발자 공식 문서 |
+| 이미지 | 제목                                                                                  | 설명                                                                                                                       |
+|-----|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+|     | [Google Developers Docs](https://developers.google.com)                             | 구글 개발자 공식 문서                                                                                                             |
+|<img src="https://refactoring.guru/favicon.png" height="18" />| [Refactoring.Guru<sub>$, EN, KR</sub>](https://refactoring.guru/ko/design-patterns) | 리팩토링, 디자인 패턴과 관련된 다양한 정보를 담은 문서, 영어 및 한국어로도 작성되어 있어 유지보수가 쉬운 코드를 작성하기 위해 필요한 정보에 대해 쉽게 접근 가능하며 다양한 디자인 패턴과의 관계 파악에 도움이 됨.
 
 ## 블로그 📚
 | 이미지 | 제목                                                                                    | 설명                      |
