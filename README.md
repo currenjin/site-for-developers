@@ -44,6 +44,7 @@
   	- [Git](#git)
   - [Other](#other-1)
 - [블로그 📚](#블로그-)
+- [동영상 📺](#동영상-)
 - [자료모음 🧾](#자료모음-)
   - [Awesome](#awesome)
 - [도구 🔨](#도구-)
@@ -302,6 +303,16 @@
 |     | [X (구 Twitter) Engineering <sub>EN</sub>](https://blog.twitter.com/engineering/en_us) | X (구 Twitter) 엔지니어링 블로그 |                  |
 |     | [GooglePlay Engineering <sub>EN</sub>](https://medium.com/googleplaydev)              | 구글 플레이 엔지니어링 블로그        |
 |     | [Dropbox Tech Blog <sub>EN</sub>](https://dropbox.tech/)                              | Dropbox 기술블로그           |
+
+
+## 동영상 🎦
+
+| 이미지 | 제목 | 설명 |
+| --- | --- | --- |
+|     | [개발 관련 유튜브 모음 <sub>KR</sub>](https://mp4.okdevtv.com/) | OKdevTV 국내 개발 관련 유튜버 영상 모음 |
+|     | [조코딩 JoCoding <sub>KR</sub>](https://www.youtube.com/@jocoding) | 프로그래밍에 대해 아무것도 모르더라도 개발이 가능하도록 기초부터 차근차근 쉽게 설명 |
+|     | [생활코딩 <sub>KR</sub>](https://www.youtube.com/@coohde) | 일반인에게 프로그래밍을 알려주는 온라인/오프라인 활동 |
+|     | [우아한테크 <sub>KR</sub>](https://www.youtube.com/@woowatech) | 우아한형제들의 기술조직 동영상  |
 
 ## 자료모음 🧾
 ### Awesome
