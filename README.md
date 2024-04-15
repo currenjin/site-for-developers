@@ -184,7 +184,7 @@
 |-----|--------------------------------------------------------------------------------------------------------|----------------------|
 |     | [Spring Boot Docs <sub>EN</sub>](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle) | Spring Boot 공식 문서    |
 |     | [Spring Docs <sub>EN</sub>](https://docs.spring.io/spring-framework/docs/current/reference/html)       | Spring 공식 문서         |
-|     | [Django Docs <sub>KR</sub>](https://docs.djangoproject.com/ko/4.0/intro)                               | Django 공식 문서         |
+|     | [Django Docs <sub>KR</sub>](https://docs.djangoproject.com/ko/5.0/intro)                               | Django 공식 문서         |
 |     | [Spring Guides](https://github.com/spring-guides)                                                      | Spring 튜토리얼 예제       |
 |     | [Flask Docs <sub>KR</sub>](https://flask-docs-kr.readthedocs.io/ko/latest)                             | Flask 공식 문서          |
 |     | [ExpressJS <sub>KR</sub>](https://expressjs.com/ko)                                                    | ExpressJS 공식 홈페이지    |
