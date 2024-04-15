@@ -177,7 +177,7 @@
 |     | [Next.js Docs](https://nextjs.org/docs/getting-started)  | Next.js 공식 문서      |
 |     | [Vuejs Guide](https://vuejs.org/guide/introduction.html) | Vuejs 공식 가이드       |
 |     | [Express.js <sub>KR</sub>](https://expressjs.com/ko)     | Express.js 공식 홈페이지 |
-|     | [NestJS](https://docs.nestjs.co/)                        | NestJS 공식 문서       |
+|     | [NestJS](https://docs.nestjs.com/)                        | NestJS 공식 문서       |
 
 ### Backend Framework
 | 이미지 | 제목                                                                                                     | 설명                   |
