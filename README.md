@@ -177,14 +177,14 @@
 |     | [Next.js Docs](https://nextjs.org/docs/getting-started)  | Next.js 공식 문서      |
 |     | [Vuejs Guide](https://vuejs.org/guide/introduction.html) | Vuejs 공식 가이드       |
 |     | [Express.js <sub>KR</sub>](https://expressjs.com/ko)     | Express.js 공식 홈페이지 |
-|     | [NestJS](https://docs.nestjs.co/)                        | NestJS 공식 문서       |
+|     | [NestJS](https://docs.nestjs.com/)                        | NestJS 공식 문서       |
 
 ### Backend Framework
 | 이미지 | 제목                                                                                                     | 설명                   |
 |-----|--------------------------------------------------------------------------------------------------------|----------------------|
 |     | [Spring Boot Docs <sub>EN</sub>](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle) | Spring Boot 공식 문서    |
 |     | [Spring Docs <sub>EN</sub>](https://docs.spring.io/spring-framework/docs/current/reference/html)       | Spring 공식 문서         |
-|     | [Django Docs <sub>KR</sub>](https://docs.djangoproject.com/ko/4.0/intro)                               | Django 공식 문서         |
+|     | [Django Docs <sub>KR</sub>](https://docs.djangoproject.com/ko/5.0/intro)                               | Django 공식 문서         |
 |     | [Spring Guides](https://github.com/spring-guides)                                                      | Spring 튜토리얼 예제       |
 |     | [Flask Docs <sub>KR</sub>](https://flask-docs-kr.readthedocs.io/ko/latest)                             | Flask 공식 문서          |
 |     | [ExpressJS <sub>KR</sub>](https://expressjs.com/ko)                                                    | ExpressJS 공식 홈페이지    |
