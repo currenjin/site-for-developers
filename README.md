@@ -133,7 +133,7 @@
 | <img src="https://codeforces.org/s/22015/favicon-96x96.png" height="18" />                                                                           | [Codeforces <sub>EN</sub>](https://codeforces.com)                             | Codeforces, 프로그래밍 대회 및 경연대회, 프로그래밍 커뮤니티.         |
 | <img src="https://school.programmers.co.kr/assets/icons/favicon-ec61d910396b5fc4d7418ea44281693172c34e31d437d074f9ab5470523990fb.png" height="18" /> | [Programmers <sub>KR</sub>](https://school.programmers.co.kr/learn/challenges) | 개발자 취업의 필수 관문 코딩테스트를 철저하게 연습하고 대비할 수 있는 문제를 총망라! |
 | <img src="https://codingdojang.com/static/img/favicon.ico" height="18" />                                                                            | [코딩도장 <sub>KR</sub>](https://codingdojang.com)                                 | 프로그래밍 문제풀이를 통해서 코딩 실력을 수련.                       |
-| <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" height="18" />                                                   | [LeetCode <sub>EN, $</sub>](https://leetcode.com/)                                | 해외 취업 필수 문제풀이, 인터뷰 모음 사이트.|
+| <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" height="18" />                                                   | [LeetCode <sub>EN, $</sub>](https://leetcode.com/)                             | 코딩 기술을 향상시키고 빨리 직장을 구하세요. 이곳은 여러분의 지식을 확장하고 다음 인터뷰를 준비할 수 있는 최고의 장소입니다.|
 
 
 ## 문서 📃
