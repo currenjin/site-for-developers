@@ -1,11 +1,9 @@
 {
   "name": "site-for-developers",
-  "version": "0.1.0",
+  "version": "beta",
   "private": true,
   "dependencies": {
     "axios": "^1.6.5",
-    "flowbite": "^2.2.1",
-    "flowbite-react": "^0.7.2",
     "marked": "^11.1.1",
     "marked-custom-heading-id": "^2.0.6",
     "marked-gfm-heading-id": "^3.1.2",
@@ -44,6 +42,7 @@
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-react": "^6.24.1",
     "babel-register": "^6.26.0",
+    "daisyui": "^4.10.2",
     "tailwindcss": "^3.4.1"
   }
 }
