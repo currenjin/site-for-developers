@@ -1,63 +1,50 @@
 import "./components/css/App.css";
-import { React } from "react";
-import { Navbar, Banner, Button } from "flowbite-react";
-import { HiX } from 'react-icons/hi';
-import { Route, Routes } from "react-router-dom";
+import {FaDiscord} from "react-icons/fa6";
+import {React} from "react"
+import {Link, Route, Routes} from "react-router-dom";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import Contribute from "./pages/Contribute";
 
 const App = () => {
-  return (
-    <div>
-      <Banner>
-        <div className="hidden flex-col justify-between border-b border-gray-100 bg-white p-3 dark:border-gray-600 dark:bg-gray-700 md:flex md:flex-row">
-          <div className="mb-3 mr-4 flex flex-col items-start md:mb-0 md:flex-row md:items-center">
-            <p className="suit flex items-center text-sm font-normal text-gray-500 dark:text-gray-400">
-              해당 웹사이트에선 양질의 사용자 경험을 위해&nbsp;<a className="underline text-blue-600 hover:text-blue-800 visited:text-purple-600" href="https://clarity.microsoft.com/">Clarity 애널리틱스 툴</a>을 사용하고 있습니다.
-              <b>&nbsp;절대로 귀하의 중요한 개인정보를 수집하지 않으니 안심하시기 바랍니다.</b>
-            </p>
-          </div>
-          <div className="flex flex-shrink-0 items-center">
-            <Banner.CollapseButton color="gray" className="border-0 bg-transparent text-gray-500 dark:text-gray-400">
-              <HiX className="h-4 w-4" />
-            </Banner.CollapseButton>
-          </div>
+    return (
+        <div>
+            <div className="suit navbar bg-base-100">
+                <div className="navbar-start">
+                    <div className="dropdown">
+                        <div tabIndex={0} role="button" className="btn btn-ghost btn-circle">
+                            <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="none" viewBox="0 0 24 24"
+                                 stroke="currentColor">
+                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2"
+                                      d="M4 6h16M4 12h16M4 18h7"/>
+                            </svg>
+                        </div>
+                        <ul tabIndex={0}
+                            className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
+                            <li><Link to="/">메인</Link></li>
+                            <li><Link to="/about">소개</Link></li>
+                            <li><Link to="/contribute">기여</Link></li>
+                        </ul>
+                    </div>
+                    <a className="btn btn-ghost text-xl">Site for developers</a>
+                </div>
+                <div className="navbar-end">
+                    <button className="btn btn-ghost btn-circle">
+                        <a href="https://discord.gg/kdVAeDGx" target="_blank">
+                            <FaDiscord size={30}/>
+                        </a>
+                    </button>
+                </div>
+            </div>
+            <div className="m-4">
+                <Routes>
+                    <Route path="/" element={<Home/>}/>
+                    <Route path="/about" element={<About/>}/>
+                    <Route path="/contribute" element={<Contribute/>}/>
+                </Routes>
+            </div>
         </div>
-      </Banner>
-      <Navbar fluid rounded className="suit">
-        <Navbar.Brand href="/">
-          <img
-            src="https://cdn.jsdelivr.net/gh/currenjin/site-for-developers/resources/icon_transparent/128x128/icon_transparent.svg"
-            className="mr-1 h-8"
-            alt="Flowbite React Logo"
-          />
-          <span className="suit self-center whitespace-nowrap text-xl font-semibold dark:text-white">
-            Site For Developers
-          </span>
-        </Navbar.Brand>
-        <Navbar.Toggle />
-        <Navbar.Collapse>
-          <Navbar.Link href="/" className="rounded-xl">
-            메인
-          </Navbar.Link>
-          <Navbar.Link href="/about" className="rounded-xl">
-            소개
-          </Navbar.Link>
-          <Navbar.Link href="/contribute" className="rounded-xl">
-            기여
-          </Navbar.Link>
-        </Navbar.Collapse>
-      </Navbar>
-      <div className="m-4">
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/contribute" element={<Contribute />} />
-        </Routes>
-      </div>
-    </div>
-  );
+    );
 };
 
 export default App;
