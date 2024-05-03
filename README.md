@@ -77,7 +77,7 @@
 | <img src="https://wikidocs.net/static/img/favicon.ico" height="18" />                                | [Wikidocs <sup>KR</sup>](https://wikidocs.net)             | 온라인 책을 제작 공유하는 플랫폼 서비스.                                                                                                           |
 | <img src="https://visualgo.net/img/favicon.png" height="18" />                                       | [Visualgo <sup>EN</sup>](https://visualgo.net/en)          | Visualgo는 2011년 Steven Halim 박사에 의해 학생들이 스스로 그리고 그들만의 속도로 기본적인 것을 배울 수 있도록 함으로써 학생들이 데이터 구조와 알고리즘을 더 잘 이해할 수 있도록 돕는 도구로 개념화되었습니다. |
 | <img src="https://roadmap.sh/manifest/favicon.ico" height="18" />                                    | [Roadmap <sup>EN. O</sup>](https://roadmap.sh)             | 개발자들이 경력에서 성장할 수 있도록 커뮤니티 기반 로드맵.                                                                                                 |
-| <img src="https://free-for.dev/logo.webp" height="18" />                                             | [ Free for Developers <sup>EN</sup>](https://free-for.dev) | 개발자들과 오픈 소스 저자들은 이제 무료 계층을 제공하는 엄청난 양의 서비스를 제공하고 있지만, 정보에 입각한 의사 결정을 내리기 위해 이들을 모두 찾기는 어려울 수 있습니다.                                |
+| <img src="https://free-for.dev/logo.webp" height="18" />                                             | [Free for Developers <sup>EN</sup>](https://free-for.dev) | 개발자들과 오픈 소스 저자들은 이제 무료 계층을 제공하는 엄청난 양의 서비스를 제공하고 있지만, 정보에 입각한 의사 결정을 내리기 위해 이들을 모두 찾기는 어려울 수 있습니다.                                |
 
 ## 커뮤니티 💬
 
@@ -286,19 +286,20 @@
 
 | 이미지                        | 제목                                                      | 설명           |
 |----------------------------|---------------------------------------------------------|--------------|
-| <img src="" height="18" /> | [Google Developers Docs](https://developers.google.com) | 구글 개발자 공식 문서 |
+| <img src="https://www.gstatic.com/devrel-devsite/prod/v98430d67869e4c9fcc4f6174e040606a1a4469c1d96401a32bd7505543a55772/developers/images/favicon-new.png" height="18" /> | [Google Developers Docs](https://developers.google.com) | 개발자 리소스, 커뮤니티 이벤트, 영감을 주는 스토리를 탐색하여 더 스마트하게 개발하고 더 빠르게 출시하세요. |
 
 ## 블로그 📚
 
 | 이미지                        | 제목                                                                                    | 설명                      |
 |----------------------------|---------------------------------------------------------------------------------------|-------------------------|
-| <img src="" height="18" /> | [우아한형제들 기술블로그 <sup>KR</sup>](https://techblog.woowahan.com/)                          | 우아한형제들 기술블로그            |
-| <img src="" height="18" /> | [카카오 기술블로그 <sup>KR</sup>](https://tech.kakao.com/blog/)                               | 카카오 기술블로그               |
-| <img src="" height="18" /> | [쿠팡 기술블로그 <sup>KR</sup>](https://medium.com/@coupang-engineering-kr)                  | 쿠팡 기술블로그                |
-| <img src="" height="18" /> | [왓챠 팀블로그 <sup>KR</sup>](https://medium.com/watcha)                                    | 왓챠 팀블로그                 |
-| <img src="" height="18" /> | [컬리 기술블로그 <sup>KR</sup>](https://helloworld.kurly.com/)                               | 컬리 기술블로그                |
-| <img src="" height="18" /> | [뱅크샐러드 기술블로그 <sup>KR</sup>](https://blog.banksalad.com/tech/)                         | 뱅크샐러드 기술블로그             |
-| <img src="" height="18" /> | [NHN 클라우드 밋업 <sup>KR</sup>](https://meetup.nhncloud.com/)                             | NHN 클라우드 밋업             |
+| <img src="https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico" height="18" /> | [우아한형제들 기술블로그 <sup>KR</sup>](https://techblog.woowahan.com/)                          | 우아한형제들의 기술, 서비스, 비전, 가치를 들려 드립니다.             |
+| <img src="https://tech.kakao.com/favicon.ico" height="18" /> | [카카오테크 <sup>KR</sup>](https://tech.kakao.com/blog/)                               | 카카오 기술조직에서 일어나는 다양한 소식들과 기술 이야기를 전달합니다.           |
+| <img src="https://tech.kakao.com/favicon.ico" height="18" /> | [카카오테크 블로그 <sup>KR</sup>](https://tech.kakao.com/blog/)                               | 카카오의 서비스를 만드는 개발자들의 실제 개발 사례를 중심으로 기술과 노하우를 생생하게 전달합니다.           |
+| <img src="https://miro.medium.com/v2/1*m-R_BkNf1Qjr1YbyOIJY2w.png" height="18" /> | [쿠팡 기술블로그 <sup>KR</sup>](https://medium.com/@coupang-engineering-kr)                  | 쿠팡의 엔지니어들은 매일 쿠팡 이커머스, 이츠, 플레이 서비스를 만들고 발전시켜 나갑니다.                |
+| <img src="https://cdn-images-1.medium.com/max/1200/1*3YwZ4pRivcBi8nWl7u98gA.png" height="18" /> | [왓챠 팀 블로그 <sup>KR</sup>](https://medium.com/watcha)                                    | 왓챠는 모두의 다름이 인정받고 개인의 취향이 존중받는, 더 다양한 세상을 만듭니다.                 |
+| <img src="https://helloworld.kurly.com/assets/logo/ico_192.png" height="18" /> | [컬리 기술블로그 <sup>KR</sup>](https://helloworld.kurly.com/)                               | 컬리 기술 블로그.                |
+| <img src="https://blog.banksalad.com/favicon-32x32.png?v=a0f8dfab85709bd32e8bfd56c885f0fe" height="18" /> | [뱅크샐러드 기술블로그 <sup>KR</sup>](https://blog.banksalad.com/tech/)                         | 뱅크샐러드 공식 기술 블로그입니다.             |
+| <img src="https://meetup.nhncloud.com/resources/img/favicon.ico" height="18" /> | [NHN 클라우드 밋업 <sup>KR</sup>](https://meetup.nhncloud.com/)                             | 기술을 공유하고 함께 성장해가는 개발 문화, NHN이 추구하는 가치입니다.             |
 | <img src="" height="18" /> | [하이퍼커넥트 기술블로그 <sup>KR</sup>](https://hyperconnect.github.io/)                         | 하이퍼커넥트 기술블로그            |
 | <img src="" height="18" /> | [당근마켓 기술블로그 <sup>KR</sup>](https://medium.com/daangn/development/home)                | 당근마켓 기술블로그              |
 | <img src="" height="18" /> | [강남언니 기술블로그 <sup>KR</sup>](https://blog.gangnamunni.com/blog/tech/)                   | 강남언니 기술블로그              |

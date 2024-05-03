@@ -88,8 +88,10 @@ $ cd site-for-developers
 ### 3. Install depencies
 필요한 의존성들을 설치해주세요.
 
+⚠ 주의: 2024년 4월 30일 현재 타 의존성과 react-router-sitemap 의존성 간에 conflict가 발생하고 있으므로 문제 해결 시까진 의존성 설치, 업데이트, 삭제 명령어 뒤에 `--force` 구문을 붙여야 합니다.
+
 ```
-$ npm install
+$ npm install --force
 ```
 
 ### 4. Start website
