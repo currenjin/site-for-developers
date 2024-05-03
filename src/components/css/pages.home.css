@@ -28,13 +28,6 @@
   font-size: 1.1rem;
 }
 
-.with-logo ul li {
-  margin-left: 1rem;
-  min-height: 3rem;
-}
-
-.with-logo ul a img {
-  float: left;
-  margin-right: 6px;
-  width: 2rem;
+.mddata td img {
+  height: 18px;
 }
