@@ -290,43 +290,43 @@
 
 ## 블로그 📚
 
-| 이미지                        | 제목                                                                                    | 설명                      |
-|----------------------------|---------------------------------------------------------------------------------------|-------------------------|
-| <img src="https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico" height="18" /> | [우아한형제들 기술블로그 <sup>KR</sup>](https://techblog.woowahan.com/)                          | 우아한형제들의 기술, 서비스, 비전, 가치를 들려 드립니다.             |
-| <img src="https://tech.kakao.com/favicon.ico" height="18" /> | [카카오테크 <sup>KR</sup>](https://tech.kakao.com/blog/)                               | 카카오 기술조직에서 일어나는 다양한 소식들과 기술 이야기를 전달합니다.           |
-| <img src="https://tech.kakao.com/favicon.ico" height="18" /> | [카카오테크 블로그 <sup>KR</sup>](https://tech.kakao.com/blog/)                               | 카카오의 서비스를 만드는 개발자들의 실제 개발 사례를 중심으로 기술과 노하우를 생생하게 전달합니다.           |
-| <img src="https://miro.medium.com/v2/1*m-R_BkNf1Qjr1YbyOIJY2w.png" height="18" /> | [쿠팡 기술블로그 <sup>KR</sup>](https://medium.com/@coupang-engineering-kr)                  | 쿠팡의 엔지니어들은 매일 쿠팡 이커머스, 이츠, 플레이 서비스를 만들고 발전시켜 나갑니다.                |
-| <img src="https://cdn-images-1.medium.com/max/1200/1*3YwZ4pRivcBi8nWl7u98gA.png" height="18" /> | [왓챠 팀 블로그 <sup>KR</sup>](https://medium.com/watcha)                                    | 왓챠는 모두의 다름이 인정받고 개인의 취향이 존중받는, 더 다양한 세상을 만듭니다.                 |
-| <img src="https://helloworld.kurly.com/assets/logo/ico_192.png" height="18" /> | [컬리 기술블로그 <sup>KR</sup>](https://helloworld.kurly.com/)                               | 컬리 기술 블로그.                |
-| <img src="https://blog.banksalad.com/favicon-32x32.png?v=a0f8dfab85709bd32e8bfd56c885f0fe" height="18" /> | [뱅크샐러드 기술블로그 <sup>KR</sup>](https://blog.banksalad.com/tech/)                         | 뱅크샐러드 공식 기술 블로그입니다.             |
-| <img src="https://meetup.nhncloud.com/resources/img/favicon.ico" height="18" /> | [NHN 클라우드 밋업 <sup>KR</sup>](https://meetup.nhncloud.com/)                             | 기술을 공유하고 함께 성장해가는 개발 문화, NHN이 추구하는 가치입니다.             |
-| <img src="" height="18" /> | [하이퍼커넥트 기술블로그 <sup>KR</sup>](https://hyperconnect.github.io/)                         | 하이퍼커넥트 기술블로그            |
-| <img src="" height="18" /> | [당근마켓 기술블로그 <sup>KR</sup>](https://medium.com/daangn/development/home)                | 당근마켓 기술블로그              |
-| <img src="" height="18" /> | [강남언니 기술블로그 <sup>KR</sup>](https://blog.gangnamunni.com/blog/tech/)                   | 강남언니 기술블로그              |
-| <img src="" height="18" /> | [요기요 기술블로그 <sup>KR</sup>](https://techblog.yogiyo.co.kr/)                             | 요기요 기술블로그               |
-| <img src="" height="18" /> | [플랫팜 기술블로그 <sup>KR</sup>](https://medium.com/platfarm/technology/home)                | 플랫팜 기술블로그               |
-| <img src="" height="18" /> | [스포카 기술블로그 <sup>KR</sup>](https://spoqa.github.io/)                                   | 스포카 기술블로그               |
-| <img src="" height="18" /> | [라인 기술블로그 <sup>KR</sup>](https://techblog.lycorp.co.jp/ko)                            | 라인 기술플로그                |
-| <img src="" height="18" /> | [쏘카 기술블로그 <sup>KR</sup>](https://tech.socarcorp.kr/)                                  | 쏘카 기술블로그                |
-| <img src="" height="18" /> | [리디 기술블로그 <sup>KR</sup>](https://ridicorp.com/story-category/tech-blog/)              | 리디 기술블로그                |
-| <img src="" height="18" /> | [아이들나라 기술블로그 <sup>KR</sup>](https://i-nara.oopy.io/techblog)                          | 아이들나라 기술블로그             |
-| <img src="" height="18" /> | [펫프렌즈 기술블로그 <sup>KR</sup>](https://techblog.pet-friends.co.kr/)			                    | 펫프렌즈 기술블로그		            |
-| <img src="" height="18" /> | [Engineering at Meta <sup>EN</sup>](https://engineering.fb.com/)                      | 메타 엔지니어링 블로그            |
-| <img src="" height="18" /> | [Amazon Alexa Blogs <sup>EN</sup>](https://developer.amazon.com/en-US/blogs/alexa)    | 아마존 알렉사 블로그             |
-| <img src="" height="18" /> | [Apple Developer <sup>EN</sup>](https://developer.apple.com/)                         | 애플 개발자 블로그              |
-| <img src="" height="18" /> | [Netflix Tech Blog <sup>EN</sup>](https://netflixtechblog.com/)                       | 넷플릭스 기술블로그              |
-| <img src="" height="18" /> | [Google Developer Blog <sup>EN</sup>](https://developers.googleblog.com/)             | 구글 개발자 블로그              |
-| <img src="" height="18" /> | [Linkedin Engineering Blog <sup>EN</sup>](https://www.linkedin.com/blog/engineering)  | 링크드인 엔지니어링 블로그          |
-| <img src="" height="18" /> | [Slack Engineering <sup>EN</sup>](https://slack.engineering/)                         | 슬랙 엔지니어링 블로그            |
-| <img src="" height="18" /> | [The Airbnb Tech Blog <sup>EN</sup>](https://medium.com/airbnb-engineering)           | 에어비앤비 기술블로그             |
-| <img src="" height="18" /> | [Zoom Developer Blog <sup>EN</sup>](https://medium.com/zoom-developer-blog)           | 줌 개발자 블로그               |
-| <img src="" height="18" /> | [RiotGames Tech Blog <sup>EN</sup>](https://technology.riotgames.com/)                | 라이엇 게임즈 기술블로그           |
-| <img src="" height="18" /> | [Pinterest Engineering <sup>EN</sup>](https://medium.com/@Pinterest_Engineering)      | 핀터레스트 엔지니어링 블로그         |
-| <img src="" height="18" /> | [PayPal Tech Blog <sup>EN</sup>](https://medium.com/paypal-tech)                      | 페이팔 기술블로그               |
-| <img src="" height="18" /> | [Ebay Tech Blog <sup>EN</sup>](https://innovation.ebayinc.com/tech/)                  | 이베이 기술블로그               |
-| <img src="" height="18" /> | [X (구 Twitter) Engineering <sup>EN</sup>](https://blog.twitter.com/engineering/en_us) | X (구 Twitter) 엔지니어링 블로그 |                  |
-| <img src="" height="18" /> | [GooglePlay Engineering <sup>EN</sup>](https://medium.com/googleplaydev)              | 구글 플레이 엔지니어링 블로그        |
-| <img src="" height="18" /> | [Dropbox Tech Blog <sup>EN</sup>](https://dropbox.tech/)                              | Dropbox 기술블로그           |
+| 이미지                        | 제목                                                                                    | 설명                                                                                             |
+|----------------------------|---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| <img src="https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico" height="18" /> | [우아한형제들 기술블로그 <sup>KR</sup>](https://techblog.woowahan.com/)                          | 우아한형제들의 기술, 서비스, 비전, 가치를 들려 드립니다.                                                              |
+| <img src="https://tech.kakao.com/favicon.ico" height="18" /> | [카카오테크 <sup>KR</sup>](https://tech.kakao.com/blog/)                                   | 카카오 기술조직에서 일어나는 다양한 소식들과 기술 이야기를 전달합니다.                                                        |
+| <img src="https://tech.kakao.com/favicon.ico" height="18" /> | [카카오테크 블로그 <sup>KR</sup>](https://tech.kakao.com/blog/)                               | 카카오의 서비스를 만드는 개발자들의 실제 개발 사례를 중심으로 기술과 노하우를 생생하게 전달합니다.                                        |
+| <img src="https://miro.medium.com/v2/1*m-R_BkNf1Qjr1YbyOIJY2w.png" height="18" /> | [쿠팡 기술블로그 <sup>KR</sup>](https://medium.com/@coupang-engineering-kr)                  | 쿠팡의 엔지니어들은 매일 쿠팡 이커머스, 이츠, 플레이 서비스를 만들고 발전시켜 나갑니다.                                             |
+| <img src="https://cdn-images-1.medium.com/max/1200/1*3YwZ4pRivcBi8nWl7u98gA.png" height="18" /> | [왓챠 팀 블로그 <sup>KR</sup>](https://medium.com/watcha)                                   | 왓챠는 모두의 다름이 인정받고 개인의 취향이 존중받는, 더 다양한 세상을 만듭니다.                                                 |
+| <img src="https://helloworld.kurly.com/assets/logo/ico_192.png" height="18" /> | [컬리 기술블로그 <sup>KR</sup>](https://helloworld.kurly.com/)                               | 컬리 기술 블로그.                                                                                     |
+| <img src="https://blog.banksalad.com/favicon-32x32.png?v=a0f8dfab85709bd32e8bfd56c885f0fe" height="18" /> | [뱅크샐러드 기술블로그 <sup>KR</sup>](https://blog.banksalad.com/tech/)                         | 뱅크샐러드 공식 기술 블로그입니다.                                                                            |
+| <img src="https://meetup.nhncloud.com/resources/img/favicon.ico" height="18" /> | [NHN 클라우드 밋업 <sup>KR</sup>](https://meetup.nhncloud.com/)                             | 기술을 공유하고 함께 성장해가는 개발 문화, NHN이 추구하는 가치입니다.                                                      |
+| <img src="https://hyperconnect.github.io/assets/favicon.svg" height="18" /> | [하이퍼커넥트 기술블로그 <sup>KR</sup>](https://hyperconnect.github.io/)                         | 하이퍼커넥트의 기술블로그입니다.                                                                              |
+| <img src="https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png" height="18" /> | [당근마켓 기술블로그 <sup>KR</sup>](https://medium.com/daangn/development/home)                | 엔지니어링 / 개발 / 프로그래밍.                                                                            |
+| <img src="https://blog.gangnamunni.com/favicon.ico" height="18" /> | [강남언니 기술블로그 <sup>KR</sup>](https://blog.gangnamunni.com/blog/tech/)                   | 강남언니의 조직문화와 일하는 방식을 이야기합니다.                                                                    |
+| <img src="https://cdn-images-1.medium.com/max/1200/1*yMAs19hb_LGVSSVcalnkHw.jpeg" height="18" /> | [요기요 기술블로그 <sup>KR</sup>](https://techblog.yogiyo.co.kr/)                             | 요기요 서비스 개발 및 함께 일하는 방식과 문화, 구성원들이 함께 성장하는 경험에 대한 이야기를 나눕니다.                                    |
+| <img src="https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png" height="18" /> | [Mojitok 기술블로그 <sup>KR</sup>](https://medium.com/platfarm/technology/home)            | 인공 지능, 앱 개발, SDK 및 API 등의 mojitok 전문가의 현명한 말.                                                  |
+| <img src="https://spoqa.github.io/images/favicon.ico" height="18" /> | [스포카 기술블로그 <sup>KR</sup>](https://spoqa.github.io/)                                   | 스포카 크리에이터의 경험과 배움을 공유합니다.                                                                      |
+| <img src="https://techblog.lycorp.co.jp/favicon.ico" height="18" /> | [라인 기술블로그 <sup>KR</sup>](https://techblog.lycorp.co.jp/ko)                            | LY Corporation과 LY Corporation Group(LINE Plus, LINE Taiwan and LINE Vietnam)의 기술과 개발 문화를 알립니다. |
+| <img src="https://tech.socarcorp.kr/assets/icon/favicon.ico" height="18" /> | [쏘카 기술블로그 <sup>KR</sup>](https://tech.socarcorp.kr/)                                  | 쏘카 기술 블로그.                                                                                     |
+| <img src="https://ridicorp.com/wp-content/uploads/2022/03/cropped-favicon-512x512-1-32x32.png" height="18" /> | [리디 기술블로그 <sup>KR</sup>](https://ridicorp.com/story-category/tech-blog/)              | 리디 기술 블로그.                                                                                     |
+| <img src="https://oopy.lazyrockets.com/api/rest/cdn/image/ccb8735d-b77e-4ada-8bdc-c80ff92c5c54.png?d=16" height="18" /> | [아이들나라 기술블로그 <sup>KR</sup>](https://i-nara.oopy.io/techblog)                          | 아이들나라 기술블로그.                                                                                   |
+| <img src="https://cdn-images-1.medium.com/fit/c/128/128/1*aDabmlrxvOf4FMmALFd7LQ.jpeg" height="18" /> | [펫프렌즈 기술블로그 <sup>KR</sup>](https://techblog.pet-friends.co.kr/)			                    | 펫프렌즈 서비스를 만드는 기술팀의 이야기.		                                                                      |
+| <img src="https://engineering.fb.com/wp-content/themes/code-fb-com/favicon.ico" height="18" /> | [Engineering at Meta <sup>EN</sup>](https://engineering.fb.com/)                      | 메타 엔지니어링 블로그.                                                                                  |
+| <img src="https://m.media-amazon.com/images/G/01/AlexaDevPortal/favicon-32x32._CB1544644721_.png" height="18" /> | [Amazon Alexa Blogs <sup>EN</sup>](https://developer.amazon.com/en-US/blogs/alexa)    | 아마존 알렉사 블로그.                                                                                   |
+| <img src="https://developer.apple.com/favicon.ico" height="18" /> | [Apple Developer <sup>EN</sup>](https://developer.apple.com/)                         | Apple 플랫폼을 개발하기에 더 좋은 시간은 없었습니다.                                                               |
+| <img src="https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png" height="18" /> | [Netflix Tech Blog <sup>EN</sup>](https://netflixtechblog.com/)                       | Netflix의 세계적인 엔지니어링 노력, 회사 문화, 제품 개발 등에 대해 알아보십시오.                                             |
+| <img src="https://storage.googleapis.com/gweb-developer-goog-blog-cms-assets/104bf46a-8a90-4953-bfd5-b82cae7936a2/images/favicon.ico" height="18" /> | [Google Developer Blog <sup>KR, EN</sup>](https://developers.googleblog.com/)         | 구글 개발자 블로그.                                                                                    |
+| <img src="https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca" height="18" /> | [Linkedin Engineering Blog <sup>EN</sup>](https://www.linkedin.com/blog/engineering)  | 링크드인 엔지니어링 블로그.                                                                                |
+| <img src="https://slack.engineering/wp-content/uploads/sites/7/2020/05/cropped-octothrope-1.png?w=32" height="18" /> | [Slack Engineering <sup>EN</sup>](https://slack.engineering/)                         | 슬랙 엔지니어링 블로그.                                                                                  |
+| <img src="https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png" height="18" /> | [The Airbnb Tech Blog <sup>EN</sup>](https://medium.com/airbnb-engineering)           | 어디에서나 소속 될 수 있는 세상을 만드는 창의적인 엔지니어와 데이터 과학자.                                                    |
+| <img src="https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png" height="18" /> | [Zoom Developer Blog <sup>EN</sup>](https://medium.com/zoom-developer-blog)           | Zoom Developer 플랫폼에서 참여, 구축 및 생성 할 수있는 모든 방법.                                                                                       |
+| <img src="https://technology.riotgames.com/sites/all/themes/riot_games_engineering/images/icons/favicon-96x96.png" height="18" /> | [RiotGames Tech Blog <sup>EN</sup>](https://technology.riotgames.com/)                | Riot Tech의 일원이 된 것은 무엇입니까?                                                                                  |
+| <img src="https://miro.medium.com/v2/1*m-R_BkNf1Qjr1YbyOIJY2w.png" height="18" /> | [Pinterest Engineering <sup>EN</sup>](https://medium.com/@Pinterest_Engineering)      | Pinterest Engineering에서 Medium으로 글을 읽습니다.                                                                                |
+| <img src="https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png" height="18" /> | [PayPal Tech Blog <sup>EN</sup>](https://medium.com/paypal-tech)                      | careers.pypl.com에서 기술 팀에 합류하십시오.                                                                                      |
+| <img src="" height="18" /> | [Ebay Tech Blog <sup>EN</sup>](https://innovation.ebayinc.com/tech/)                  | 이베이 기술블로그                                                                                      |
+| <img src="" height="18" /> | [X (구 Twitter) Engineering <sup>EN</sup>](https://blog.twitter.com/engineering/en_us) | X (구 Twitter) 엔지니어링 블로그                                                                        |                  |
+| <img src="" height="18" /> | [GooglePlay Engineering <sup>EN</sup>](https://medium.com/googleplaydev)              | 구글 플레이 엔지니어링 블로그                                                                               |
+| <img src="" height="18" /> | [Dropbox Tech Blog <sup>EN</sup>](https://dropbox.tech/)                              | Dropbox 기술블로그                                                                                  |
 
 ## 자료모음 🧾
 
