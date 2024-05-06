@@ -6,8 +6,6 @@
   font-weight: bold;
   font-size: 1.6rem;
   margin-top: 1rem;
-  margin-bottom: 1rem;
-  border-bottom: 1px solid rgb(185, 185, 185);
 }
 
 .mddata h2:first-of-type {
@@ -26,6 +24,11 @@
 
 .mddata h5 {
   font-size: 1.1rem;
+}
+
+.mddata td,th {
+  border: 1px solid #c6c6c6;
+  padding: 0.5rem;
 }
 
 .mddata td img {

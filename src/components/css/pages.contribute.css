@@ -5,9 +5,7 @@
 .mddatacontribute h1,h2 {
     font-weight: bold;
     font-size: 1.6rem;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    border-bottom: 1px solid rgb(185, 185, 185);
+    margin-top: 1.5rem;
 }
 
 .mddatacontribute h1:first-of-type {
@@ -16,6 +14,5 @@
 
 .mddatacontribute h3 {
     font-weight: bold;
-    margin-top: 1.5rem;
     font-size: 1.4rem;
 }
