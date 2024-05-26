@@ -456,6 +456,7 @@
 |     | [CodeT5 <sub>O</sub>](https://github.com/salesforce/CodeT5)                                     | Salesforce에서 개발한 프로그래밍 AI  |
 |     | [Code LMs <sub>O</sub>](https://github.com/VHellendoorn/Code-LMs)                               | VHellendoorn이 개발한 프로그래밍 AI |
 |     | [Codeium <sub>$</sub>](https://codeium.com/)                                                    | Codium에서 개발한 프로그래밍 AI      |
+|     | [ChatGPT](https://chatgpt.com/)                                                                 | OpenAI에서 개발한 대화형 AI       |
 
 ### Other
 | 이미지 | 제목                                  | 설명           |
