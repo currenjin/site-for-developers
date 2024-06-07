@@ -36,7 +36,7 @@ const App = () => {
                     </button>
                 </div>
             </div>
-            <div className="m-4">
+            <div className="ml-2 mr-2">
                 <Routes>
                     <Route path="/" element={<Home/>}/>
                     <Route path="/about" element={<About/>}/>

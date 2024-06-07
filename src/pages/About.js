@@ -14,23 +14,17 @@ const About = () => {
 
     return (
         <div className="suit repositorydata">
-            <span>이름: {repositoryData.full_name}</span>
-            <br/>
-            <span>소개: {repositoryData.description}</span>
-            <br/>
-            <span>개설일: {repositoryData.created_at}</span>
-            <br/>
-            <span>최근 업데이트: {repositoryData.updated_at}</span>
-            <br/>
-            <span>레포지토리 상태: {repositoryData.visibility}</span>
-            <br/>
-            <span>웹사이트 주소: {repositoryData.homepage}</span>
-            <br/>
-            <span>스타 수: {repositoryData.stargazers_count}개</span>
-            <br/>
-            <span>구독자 수: {repositoryData.subscribers_count}명</span>
-            <br/>
-            <span>포크 횟수: {repositoryData.forks}번</span>
+            <div className="p-2 mb-2 rounded-lg border-2">명칭: Site For Developers</div>
+            <div className="p-2 mb-2 rounded-lg border-2">소개: {repositoryData.description}</div>
+            <div className="p-2 mb-2 rounded-lg border-2">주제: {repositoryData.topics + " "}</div>
+            <div className="p-2 mb-2 rounded-lg border-2">개설일: {repositoryData.created_at}</div>
+            <div className="p-2 mb-2 rounded-lg border-2">최근 업데이트: {repositoryData.updated_at}</div>
+            <div className="p-2 mb-2 rounded-lg border-2">레포지토리 상태: {repositoryData.visibility}</div>
+            <div className="p-2 mb-2 rounded-lg border-2">깃허브 주소: {repositoryData.html_url}</div>
+            <div className="p-2 mb-2 rounded-lg border-2">웹사이트 주소: {repositoryData.homepage}</div>
+            <div className="p-2 mb-2 rounded-lg border-2">스타 수: {repositoryData.stargazers_count}개</div>
+            <div className="p-2 mb-2 rounded-lg border-2">구독자 수: {repositoryData.subscribers_count}명</div>
+            <div className="p-2 mb-2 rounded-lg border-2">포크 횟수: {repositoryData.forks}번</div>
         </div>
     );
 };
