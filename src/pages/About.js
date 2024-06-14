@@ -1,16 +1,16 @@
 import "../components/css/pages.about.css";
 import axios from "axios";
-import {useState, React} from "react";
+import { useState, React } from "react";
 
 const About = () => {
-    const [repositoryData, setrepositoryData] = useState([]);
+  const [repositoryData, setrepositoryData] = useState([]);
 
-    axios
-        .get("https://api.github.com/repos/currenjin/site-for-developers")
-        .then((response) => {
-            console.log(response.data);
-            setrepositoryData(response.data);
-        });
+  axios
+    .get("https://api.github.com/repos/currenjin/site-for-developers")
+    .then((response) => {
+      console.log(response.data);
+      setrepositoryData(response.data);
+    });
 
     return (
         <div className="suit repositorydata">

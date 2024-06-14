@@ -1,9 +1,9 @@
-/node_modules
-/.pnp
-/.idea
+node_modules
+.pnp/
+.idea/
 .pnp.js
-/coverage
-/build
+coverage/
+build/
 .DS_Store
 .env
 .env.local
