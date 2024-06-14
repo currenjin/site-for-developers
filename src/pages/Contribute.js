@@ -27,15 +27,15 @@ const Home = () => {
       setmdDataContribute(marked.parse(response.data));
     });
 
-  console.log(mdDataContribute);
-  return (
-    <div>
-      <div
-        className="suit mddatacontribute"
-        dangerouslySetInnerHTML={{ __html: mdDataContribute }}
-      ></div>
-    </div>
-  );
+    console.log(mdDataContribute);
+    return (
+        <div>
+            <div
+                className="suit mddatacontribute p-2 mb-2 rounded-lg border-2"
+                dangerouslySetInnerHTML={{__html: mdDataContribute}}
+            ></div>
+        </div>
+    );
 };
 
 export default Home;

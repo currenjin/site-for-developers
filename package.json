@@ -3,6 +3,7 @@
   "version": "beta",
   "private": true,
   "dependencies": {
+    "@snaddyvitch-dispenser/react-router-sitemap": "^1.2.6",
     "axios": "^1.6.5",
     "marked": "^11.1.1",
     "marked-custom-heading-id": "^2.0.6",
@@ -11,13 +12,12 @@
     "react-dom": "^18.2.0",
     "react-icons": "^5.0.1",
     "react-router-dom": "^6.21.2",
-    "react-router-sitemap": "^1.2.0",
     "react-scripts": "5.0.1"
   },
   "scripts": {
-    "start": "npm run sitemap && react-scripts start",
-    "build": "npm run sitemap && react-scripts build",
-    "eject": "npm run sitemap && react-scripts eject",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject",
     "sitemap": "babel-node ./src/sitemapGenerate.js"
   },
   "eslintConfig": {

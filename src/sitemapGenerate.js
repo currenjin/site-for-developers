@@ -3,11 +3,11 @@ require("babel-register")({
 });
 
 const router = require("./sitemapRoutes").default;
-const Sitemap = require("react-router-sitemap").default;
+const Sitemap = require("@snaddyvitch-dispenser/react-router-sitemap").default;
 
 function generateSitemap() {
   return new Sitemap(router)
-    .build("https://site-for-developers.vercel.app")
+    .build("https://sfd.kro.kr")
     .save("./public/sitemap.xml");
 }
 
