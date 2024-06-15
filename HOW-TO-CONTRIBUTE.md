@@ -3,9 +3,13 @@
 Site For Developers는 GitHub README.md, 웹사이트, 안드로이드 앱이 있습니다.<br/>
 지금 기여하셔서 Site For Developers를 더 유익하고 편리한 레포지토리로 만들어 주세요!
 
+# 시작하기에 앞서
+- 이 Repository의 정식 명칭은 **Site For Developers** 입니다.
+
 ## 목차
 - [How to contrubute](#how-to-contribute)
 - [목차](#목차)
+- [시작하기에 앞서](#시작하기에-앞서)
 - [README.md](#readmemd)
   - [1. Fork this repository](#1-fork-this-repository)
   - [2. Clone forked repository](#2-clone-forked-repository)
