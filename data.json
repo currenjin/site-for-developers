@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "title": "Stack Overflow",
+    "content": "Stack Overflow는 개발자가 학습하고 프로그래밍 지식을 공유하며 경력을 쌓을 수 있는 가장 큰 신뢰할 수 있는 온라인 커뮤니티입니다.",
+    "feature": ["english"],
+    "category": "recommend",
+    "img_url": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+    "link": "https://stackoverflow.com",
+    "created_at": "2024.06.07",
+    "updated_at": "2024.06.07"
+  },
+  {
+    "id": 2,
+    "title": "Wikidocs",
+    "content": "온라인 책을 제작 공유하는 플랫폼 서비스.",
+    "feature": ["korean"],
+    "category": "recommend",
+    "img_url": "https://wikidocs.net/static/img/favicon.ico",
+    "link": "https://wikidocs.net",
+    "created_at": "2024.06.08",
+    "updated_at": "2024.06.08"
+  },
+  {
+    "id": 3,
+    "title": "TheBook",
+    "content": "주)도서출판 길벗에서 제공하는 IT 도서 열람 서비스.",
+    "feature": ["korean"],
+    "category": "recommend",
+    "img_url": "https://thebook.io/favicon.ico",
+    "link": "https://thebook.io",
+    "created_at": "2024.06.08",
+    "updated_at": "2024.06.08"
+  },
+  {
+    "id": 4,
+    "title": "Visualgo",
+    "content": "Visualgo는 2011년 Steven Halim 박사에 의해 학생들이 스스로 그리고 그들만의 속도로 기본적인 것을 배울 수 있도록 함으로써 학생들이 데이터 구조와 알고리즘을 더 잘 이해할 수 있도록 돕는 도구로 개념화되었습니다.",
+    "feature": ["english"],
+    "category": "recommend",
+    "img_url": "https://visualgo.net/img/favicon.png",
+    "link": "https://visualgo.net/en",
+    "created_at": "2024.06.09",
+    "updated_at": "2024.06.09"
+  },
+  {
+    "id": 5,
+    "title": "Roadmap",
+    "content": "개발자들이 경력에서 성장할 수 있도록 커뮤니티 기반 로드맵.",
+    "feature": ["english", "opensource"],
+    "category": "recommend",
+    "img_url": "https://roadmap.sh/manifest/favicon.ico",
+    "link": "https://roadmap.sh",
+    "created_at": "2024.06.09",
+    "updated_at": "2024.06.09"
+  },
+  {
+    "id": 6,
+    "title": "Free for Developers",
+    "content": "개발자들과 오픈 소스 저자들은 이제 무료 계층을 제공하는 엄청난 양의 서비스를 제공하고 있지만, 정보에 입각한 의사 결정을 내리기 위해 이들을 모두 찾기는 어려울 수 있습니다.",
+    "feature": ["english"],
+    "category": "recommend",
+    "img_url": "https://free-for.dev/logo.webp",
+    "link": "https://free-for.dev",
+    "created_at": "2024.06.09",
+    "updated_at": "2024.06.09"
+  },
+  {
+    "id": 7,
+    "title": "Velog",
+    "content": "개발자들을 위한 블로그 서비스.",
+    "feature": ["korean"],
+    "category": "tech_community",
+    "img_url": "https://velog.io/favicon.ico",
+    "link": "https://velog.io",
+    "created_at": "2024.06.09",
+    "updated_at": "2024.06.09"
+  },
+  {
+    "id": 8,
+    "title": "Disquiet",
+    "content": "IT 서비스 메이커들의 소셜 네트워크.",
+    "feature": ["korean"],
+    "category": "tech_community",
+    "img_url": "https://disquiet.io/favicon.ico",
+    "link": "https://disquiet.io",
+    "created_at": "2024.06.11",
+    "updated_at": "2024.06.11"
+  },
+  {
+    "id": 9,
+    "title": "Okky",
+    "content": "OKKY는 국내 최대 개발자 지식공유 플랫폼입니다.",
+    "feature": ["korean"],
+    "category": "tech_community",
+    "img_url": "https://okky.kr/favicon.ico",
+    "link": "https://okky.kr",
+    "created_at": "2024.06.11",
+    "updated_at": "2024.06.11"
+  },
+  {
+    "id": 10,
+    "title": "Cikorea",
+    "content": "CodeIgniter 한국사용자포럼, PHP Framework.",
+    "feature": ["korean"],
+    "category": "tech_community",
+    "img_url": "https://www.cikorea.net/favicon_cikorea.ico",
+    "link": "https://www.cikorea.net",
+    "created_at": "2024.06.11",
+    "updated_at": "2024.06.11"
+  },
+  {
+    "id": 11,
+    "title": "Jsdev",
+    "content": "자바스크립트 개발자 포럼.",
+    "feature": ["korean"],
+    "category": "tech_community",
+    "img_url": "https://jsdevkr.s3.dualstack.ap-northeast-2.amazonaws.com/optimized/2X/d/d76be3c1cbdb094fdde69ef2025c5ffe2ce0f259_2_32x32.png",
+    "link": "https://jsdev.kr",
+    "created_at": "2024.06.12",
+    "updated_at": "2024.06.12"
+  },
+  {
+    "id": 12,
+    "title": "Laravel",
+    "content": "laravel korea community 라라벨 코리아 커뮤니티",
+    "feature": ["korean"],
+    "category": "tech_community",
+    "img_url": "https://laravel.kr/favicon-16x16.png",
+    "link": "https://laravel.kr/",
+    "created_at": "2024.06.12",
+    "updated_at": "2024.06.12"
+  },
+  {
+    "id": 13,
+    "title": "프로그래머스",
+    "content": "프로그래머스 QnA는 프로그래밍 문제해결을 위한 QnA서비스입니다.",
+    "feature": ["english"],
+    "category": "tech_community",
+    "img_url": "https://qna.programmers.co.kr/assets/programmers-favicon/favicon-40b78633b6556a68c3da8e2125c31512fbd01d09906ab76c8a8ff289e494cadb.png",
+    "link": "https://qna.programmers.co.kr/",
+    "created_at": "2024.06.12",
+    "updated_at": "2024.06.12"
+  },
+  {
+    "id": 14,
+    "title": "Devstu",
+    "content": "모두가 함께하는, 지식을 지식으로 갚아나가는 한국 개발 커뮤니티입니다.",
+    "feature": ["korean"],
+    "category": "tech_community",
+    "img_url": "https://devstu.co.kr/favicon.ico",
+    "link": "https://devstu.co.kr/howto",
+    "created_at": "2024.06.12",
+    "updated_at": "2024.06.12"
+  },
+  {
+    "id": 15,
+    "title": "Careerly",
+    "content": "개발 트렌드, Q&A, 탑 개발자들과의 네트워킹까지.",
+    "feature": ["korean"],
+    "category": "tech_community",
+    "img_url": "https://careerly.co.kr/favicon.png",
+    "link": "https://careerly.co.kr",
+    "created_at": "2024.06.12",
+    "updated_at": "2024.06.12"
+  },
+  {
+    "id": 16,
+    "title": "Stack Exchange",
+    "content": "Stack Overflow 및 170개 이상의 커뮤니티 기반 Q&A 사이트를 만듭니다.",
+    "feature": ["english"],
+    "category": "tech_community",
+    "img_url": "https://cdn.sstatic.net/Sites/stackexchange/Img/favicon.ico",
+    "link": "https://stackexchange.com",
+    "created_at": "2024.06.12",
+    "updated_at": "2024.06.12"
+  },
+  {
+    "id": 17,
+    "title": "Hashnode",
+    "content": "Hashnode는 무료 개발자 블로그 플랫폼으로 자신의 도메인에 기사를 게시할 수 있으며 글로벌 개발자 커뮤니티와 연결될 수 있도록 도와줍니다.",
+    "feature": ["english"],
+    "category": "tech_community",
+    "img_url": "https://cdn.hashnode.com/res/hashnode/image/upload/v1611242187756/TRTNYp32O.png",
+    "link": "https://hashnode.com",
+    "created_at": "2024.06.13",
+    "updated_at": "2024.06.13"
+  },
+  {
+    "id": 18,
+    "title": "Product Hunt",
+    "content": "Product Hunt는 매일 최고의 신제품을 큐레이션하는 것입니다.",
+    "feature": ["english"],
+    "category": "tech_community",
+    "img_url": "https://ph-static.imgix.net/ph-favicon-coral.ico",
+    "link": "https://www.producthunt.com",
+    "created_at": "2024.06.13",
+    "updated_at": "2024.06.13"
+  },
+  {
+    "id": 19,
+    "title": "Coderanch",
+    "content": "그린혼을 프로그래밍하는 친근한 장소인 Coderanch!",
+    "feature": ["english"],
+    "category": "tech_community",
+    "img_url": "https://coderanch.com/favicon.ico",
+    "link": "https://coderanch.com",
+    "created_at": "2024.06.15",
+    "updated_at": "2024.06.15"
+  },
+  {
+    "id": 20,
+    "title": "Stack Overflow",
+    "content":  "Stack Overflow는 개발자가 학습하고 프로그래밍 지식을 공유하며 경력을 쌓을 수 있는 가장 큰 신뢰할 수 있는 온라인 커뮤니티입니다.",
+    "feature": ["english"],
+    "category": "tech_community",
+    "img_url": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+    "link": "https://stackoverflow.com",
+    "created_at": "2024.06.15",
+    "updated_at": "2024.06.15"
+  }
+]
