@@ -1,7 +1,3 @@
-<div align="middle">
-  <img src="https://cdn.jsdelivr.net/gh/currenjin/site-for-developers/resources/header_base/264x157/header_base.svg" height="264" />
-</div>
-
 **⚠ 현재 저희는 대규모로 데이터를 수정, 추가하고 있습니다. 잘못된 정보가 존재할 수 있으니 참고 바랍니다.**
 
 ## 어떤 저장소인가요?
