@@ -2422,5 +2422,16 @@
     "link": "https://ttsmaker.com/ko",
     "created_at": "2024.06.29",
     "updated_at": "2024.06.29"
+  },
+  {
+    "category": "Other",
+    "subcategory": "",
+    "title": "IT Tools",
+    "description": "개발할 때 유용한 Crypto, Converter, Parser 기능이 있는 웹사이트",
+    "language": ["english"],
+    "img_url": "https://it-tools.tech/favicon.ico",
+    "link": "https://it-tools.tech",
+    "created_at": "2024.07.01",
+    "updated_at": "2024.07.01"
   }
 ]
