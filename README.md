@@ -455,8 +455,9 @@
 |     | [ChatGPT](https://chatgpt.com/)                                                                 | OpenAI에서 개발한 대화형 AI       |
 
 ### Other
-| 이미지 | 제목                                  | 설명           |
-|-----|-------------------------------------|--------------|
-|     | [TTSMaker](https://ttsmaker.com/ko) | 텍스트 음성 변환 도구 |
+| 이미지                                           | 제목                                        | 설명                                                         |
+|--------------------------------------------------|--------------------------------------------|--------------------------------------------------------------|
+|                                                  | [TTSMaker](https://ttsmaker.com/ko)        | 텍스트 음성 변환 도구                                          |
+| <img src="https://it-tools.tech/favicon.ico">    | [IT Tools](https://it-tools.tech)          | 개발할 때 유용한 Crypto, Converter, Parser 기능이 있는 웹사이트 |
 
 </div>
