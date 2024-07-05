@@ -320,6 +320,16 @@
     "updated_at": "2024.06.29"
   },
   {
+    "category": "뉴스",
+    "title": "GeekNews",
+    "description": "개발 뉴스, 기술 관련 새소식, 스타트업 정보와 노하우, 세상의 재미난 것들을 좋아하는 사람들을 위한 뉴스 사이트. 이메일 뉴스레터/트위터/슬랙 봇으로 구독 가능",
+    "language": ["korean"],
+    "img_url": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_400x400.png",
+    "link": "https://news.hada.io/",
+    "created_at": "2024.07.06",
+    "updated_at": "2024.07.06"
+  },
+  {
     "category": "학습",
     "title": "Opentutorials",
     "description": "비영리 단체 오픈튜토리얼스는 내가 할 수 있는 것을 남도 할 수 있게, 남이 할 수 있는 것을 나도 할 수 있게 하는 콘텐츠를 담아내는 온라인 서비스인 opentutorials.org를 운영하기 위해서 만들어졌습니다.",

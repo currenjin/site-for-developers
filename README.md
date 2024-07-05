@@ -19,6 +19,7 @@
 - [커뮤니티 💬](#커뮤니티-)
   - [기술 커뮤니티](#기술-커뮤니티)
   - [교육 커뮤니티](#교육-커뮤니티)
+  - [뉴스](#뉴스)
   - [학습](#학습)
   - [문제풀이](#문제풀이)
 - [문서 📃](#문서-)
@@ -110,6 +111,8 @@
 | <img src="https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32" height="18" /> | [Techcrunch <sub>EN</sub>](https://techcrunch.com)                    | TechCrunch                                                | 기술, 스타트업, 벤처캐피탈 펀딩, 실리콘밸리 사업 보고. |
 | <img src="https://blog.gaerae.com/favicon.ico" height="18" />                                                         | [개발자스럽다 <sub>KR</sub>](https://blog.gaerae.com/)                      | 블로그와 SNS에서 주기적으로 기술 정보를 찾고 분류하여 가치를 더해 공유합니다.             |
 | <img src="https://yozm.wishket.com/static/renewal/img/news/yozmit-icon-32.png" height="18" />                         | [요즘IT <sub>KR</sub>](https://yozm.wishket.com/magazine/list/develop/) | 개발을 위한 모든 IT 콘텐츠를 확인해 보세요.                                |
+| <img src="https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_400x400.png" height="18" />                         | [GeekNews <sub>KR</sub>](https://news.hada.io/) | 개발 뉴스, 기술 관련 새소식, 스타트업 정보와 노하우, 세상의 재미난 것들을 좋아하는 사람들을 위한 뉴스 사이트. 이메일 뉴스레터/트위터/슬랙 봇으로 구독 가능                                |
+
 
 ### 학습
 | 이미지                                                                                        | 제목                                                                     | 설명                                                                                                                        |
