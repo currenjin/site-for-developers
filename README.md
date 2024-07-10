@@ -124,6 +124,7 @@
 | <img src="https://ssl.pstatic.net/static/m/mooc/p/partner/next/favicon.ico" height="18" /> | [Edwith <sub>KR</sub>](https://www.edwith.org/?validMobileApp=true)    | 에드위드(edwith)는 네이버(NAVER)와 네이버 커넥트재단(NAVER Connect)이 제공하는 온라인 강좌(MOOC : Massive Online Open Course) 교육 플랫폼입니다.             |
 | <img src="https://www.tcpschool.com/favicon-32x32.png" height="18" />                      | [TCP School (Java) <sub>KR</sub>](https://www.tcpschool.com/java/intro) | 4차산업혁명, 코딩교육, 소프트웨어교육, 코딩기초, SW코딩, 기초코딩부터 자바 파이썬 등.                                                                       |
 | <img src="https://poiemaweb.com/img/poiemaweb.jpg" height="18" />                      | [Poiemaweb <sub>KR</sub>](https://poiemaweb.com/)                      | HTML, CSS, BootStrap, Sass, JS등 웹 프로그래밍 전반에 걸친 깔끔한 학습용 웹 사이트입니다.                                                          |
+| <img src="https://app.codecrafters.io/assets/c3c1cae0bd79e202e835.svg" height="18" />                      | [CodeCrafters <sub>EN</sub>](https://app.codecrafters.io/catalog)                      | Redis, DNS 서버 등 실제 소프트웨어 재구현 프로젝트를 통해 프로그래밍을 학습할 수 있습니다.                                                          |
 
 ### 문제풀이
 | 이미지                                                                                                                                                  | 제목                                                                             | 설명                                               |
