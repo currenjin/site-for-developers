@@ -156,6 +156,7 @@
 | <img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/rjhwzy/ljhwZthlaukjlkulzlp/favicon-1714.png" height="18" /> | [Rspack](https://www.rspack.dev)                                         | 빠른 Rust 기반 웹 번들러입니다.                                                                                                              |
 | <img src="https://www.thymeleaf.org/images/favicon.ico" height="18" />                                              | [Thymeleaf](https://www.thymeleaf.org)                                   | Thymeleaf는 웹 및 독립형 환경 모두를 위한 최신 Server Side Java 템플릿 엔진입니다.                                                           |
 |                                                                                                                     | [Mustache](https://mustache.github.io/)                                  | 로직이 없는 템플릿입니다.                                                                                                                    |
+| <img src="https://web.dev/_pwa/web/icons/icon-144x144.png" height="18" />                                           | [web.dev <sub>KR, F</sub>](https://web.dev/)                             | 모든 브라우저에서 작동하는 최신 웹 환경을 빌드하기 위한 안내입니다.                                                                          |
 
 #### Design
 
