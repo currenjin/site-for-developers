@@ -42,7 +42,7 @@
   - [API](#api)
   - [VCS](#vcs)
     - [Git](#git)
-  - [Other](#other-1)
+  - [Other](#other)
 - [블로그 📚](#블로그-)
 - [동영상 📺](#동영상-)
 - [자료모음 🧾](#자료모음-)
@@ -59,9 +59,9 @@
   - [Code Formatter](#code-formatter)
   - [IDE](#ide)
   - [Jetbrains](#jetbrains)
-  - [Other](#other-2)
+  - [Other](#other-1)
   - [AI](#ai)
-  - [Other](#other-3)
+  - [Other](#other-2)
 
 <div class="with-logo">
 
