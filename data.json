@@ -191,7 +191,7 @@
   },
   {
     "title": "Stack Overflow",
-    "content":  "Stack Overflow는 개발자가 학습하고 프로그래밍 지식을 공유하며 경력을 쌓을 수 있는 가장 큰 신뢰할 수 있는 온라인 커뮤니티입니다.",
+    "content": "Stack Overflow는 개발자가 학습하고 프로그래밍 지식을 공유하며 경력을 쌓을 수 있는 가장 큰 신뢰할 수 있는 온라인 커뮤니티입니다.",
     "feature": ["english"],
     "category": "기술 커뮤니티",
     "img_url": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
@@ -518,6 +518,16 @@
     "link": "https://mustache.github.io/",
     "created_at": "2024.06.29",
     "updated_at": "2024.06.29"
+  },
+  {
+    "category": "Web",
+    "title": "web.dev",
+    "description": "모든 브라우저에서 작동하는 최신 웹 환경을 빌드하기 위한 안내입니다.",
+    "language": ["multi"],
+    "img_url": "https://web.dev/_pwa/web/icons/icon-144x144.png",
+    "link": "https://web.dev/",
+    "created_at": "2024.07.10",
+    "updated_at": "2024.07.10"
   },
   {
     "category": "Design",
@@ -1128,6 +1138,16 @@
     "link": "https://refactoring.guru/ko/design-patterns",
     "created_at": "2024.06.29",
     "updated_at": "2024.06.29"
+  },
+  {
+    "category": "Other",
+    "title": "Patterns.dev",
+    "description": "Vanilla JavaScript 또는 최신 웹 프레임워크를 위한 디자인, 렌더링 및 성능 패턴에 대한 내용을 담고 있습니다.",
+    "language": ["english"],
+    "img_url": "https://www.patterns.dev/img/favicon/favicon.ico",
+    "link": "https://www.patterns.dev/",
+    "created_at": "2024.07.10",
+    "updated_at": "2024.07.10"
   },
   {
     "category": "블로그 📚",
