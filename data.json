@@ -399,7 +399,7 @@
     "created_at": "2024.06.29",
     "updated_at": "2024.06.29"
   },
-    {
+  {
     "category": "학습",
     "title": "CodeCrafters",
     "description": "Redis, DNS 서버 등 실제 소프트웨어 재구현 프로젝트를 통해 프로그래밍을 학습할 수 있습니다.",
@@ -408,6 +408,16 @@
     "link": "https://app.codecrafters.io/catalog",
     "created_at": "2024.07.10",
     "updated_at": "2024.07.10"
+  },
+  {
+    "category": "학습",
+    "title": "Learning Git Branching",
+    "description": "시각화된 화면과 함께 튜토리얼과 레벨별 게임을 제공하여 손쉽게 Git을 학습할 수 있는 사이트입니다.",
+    "language": ["multi"],
+    "img_url": "https://learngitbranching.js.org/assets/favicon.ico",
+    "link": "https://learngitbranching.js.org/",
+    "created_at": "2024.07.11",
+    "updated_at": "2024.07.11"
   },
   {
     "category": "문제풀이",
