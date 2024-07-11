@@ -250,6 +250,16 @@
     "updated_at": "2024.06.29"
   },
   {
+    "category": "교육 커뮤니티",
+    "title": "freeCodeCamp",
+    "description": "함께 코딩을 배우는 전 세계 사람들의 커뮤니티이자, 다양한 개발 커리큘럼을 제공하는 온라인 무료 학습플랫폼입니다.",
+    "language": ["english"],
+    "img_url": "https://www.freecodecamp.org/favicon-32x32.png?v=6cba562cbd10e31af925a976f3db73f7",
+    "link": "https://www.freecodecamp.org/",
+    "created_at": "2024.07.11",
+    "updated_at": "2024.07.11"
+  },
+  {
     "category": "뉴스",
     "title": "Dzone",
     "description": "프로그래밍, 웹 개발 및 DevOps 뉴스, 초보자부터 전문가를 위한 튜토리얼 및 도구.",
