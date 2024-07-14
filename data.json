@@ -209,6 +209,16 @@
     "updated_at": "2024.07.10"
   },
   {
+    "category": "교육 커뮤니티",
+    "title": "freeCodeCamp",
+    "description": "함께 코딩을 배우는 전 세계 사람들의 커뮤니티이자, 다양한 개발 커리큘럼을 제공하는 온라인 무료 학습플랫폼입니다.",
+    "language": ["english"],
+    "img_url": "https://www.freecodecamp.org/favicon-32x32.png?v=6cba562cbd10e31af925a976f3db73f7",
+    "link": "https://www.freecodecamp.org/",
+    "created_at": "2024.07.11",
+    "updated_at": "2024.07.11"
+  },
+  {
     "title": "Dzone",
     "content": "프로그래밍, 웹 개발 및 DevOps 뉴스, 초보자부터 전문가를 위한 튜토리얼 및 도구.",
     "feature": ["english"],
@@ -408,6 +418,17 @@
     "updated_at": "2024.07.14"
   },
   {
+    "category": "학습",
+    "title": "Learning Git Branching",
+    "description": "시각화된 화면과 함께 튜토리얼과 레벨별 게임을 제공하여 손쉽게 Git을 학습할 수 있는 사이트입니다.",
+    "language": ["multi"],
+    "img_url": "https://learngitbranching.js.org/assets/favicon.ico",
+    "link": "https://learngitbranching.js.org/",
+    "created_at": "2024.07.11",
+    "updated_at": "2024.07.11"
+  },
+  {
+    "category": "문제풀이",
     "title": "Baekjoon Online Judge",
     "content": "프로그래밍 문제를 풀고 온라인으로 채점받을 수 있는 곳입니다.",
     "feature": ["korean", "free"],
@@ -518,6 +539,17 @@
     "updated_at": "2024.07.10"
   },
   {
+    "category": "Web",
+    "title": "web.dev",
+    "description": "모든 브라우저에서 작동하는 최신 웹 환경을 빌드하기 위한 안내입니다.",
+    "language": ["multi"],
+    "img_url": "https://web.dev/_pwa/web/icons/icon-144x144.png",
+    "link": "https://web.dev/",
+    "created_at": "2024.07.10",
+    "updated_at": "2024.07.10"
+  },
+  {
+    "category": "Design",
     "title": "Bootstrap",
     "content": "강력하고 확장 가능하며 기능이 풍부한 프론트엔드 툴킷입니다.",
     "feature": ["english"],
@@ -1125,6 +1157,16 @@
     "img_url": "https://refactoring.guru/favicon.png",
     "link": "https://refactoring.guru/ko/design-patterns",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
+  },
+  {
+    "category": "Other",
+    "title": "Patterns.dev",
+    "description": "Vanilla JavaScript 또는 최신 웹 프레임워크를 위한 디자인, 렌더링 및 성능 패턴에 대한 내용을 담고 있습니다.",
+    "language": ["english"],
+    "img_url": "https://www.patterns.dev/img/favicon/favicon.ico",
+    "link": "https://www.patterns.dev/",
+    "created_at": "2024.07.10",
     "updated_at": "2024.07.10"
   },
   {
