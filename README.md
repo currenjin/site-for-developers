@@ -450,11 +450,12 @@
 
 ### Code Formatter & Linter
 
-| 이미지 | 제목                                                 | 설명                 |
-| ------ | ---------------------------------------------------- | -------------------- |
-|        | [Ktlint](https://pinterest.github.io/ktlint/latest/) | 코틀린 코드 포메터   |
-|        | [Prettier](https://prettier.io/)                     | 대표적인 코드 포매터 |
-|        | [ESLint](https://eslint.org/)                        | 자바스크립트 린터    |
+| 이미지                                                        | 제목                                                 | 설명                   |
+| ------------------------------------------------------------- | ---------------------------------------------------- | ---------------------- |
+|                                                               | [Ktlint](https://pinterest.github.io/ktlint/latest/) | 코틀린 코드 포메터     |
+|                                                               | [Prettier](https://prettier.io/)                     | 대표적인 코드 포매터   |
+|                                                               | [ESLint](https://eslint.org/)                        | 자바스크립트 린터      |
+| <img src="https://biomejs.dev/img/favicon.svg" height="18" /> | [Biome](https://biomejs.dev/)                        | Web을 위한 통합 툴체인 |
 
 ### IDE
 
