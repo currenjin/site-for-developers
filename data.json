@@ -1,5 +1,5 @@
 [
-{
+  {
     "title": "Velog",
     "content": "개발자들을 위한 블로그 서비스.",
     "feature": ["korean"],
@@ -144,7 +144,7 @@
   },
   {
     "title": "Stack Overflow",
-    "content":  "Stack Overflow는 개발자가 학습하고 프로그래밍 지식을 공유하며 경력을 쌓을 수 있는 가장 큰 신뢰할 수 있는 온라인 커뮤니티입니다.",
+    "content": "Stack Overflow는 개발자가 학습하고 프로그래밍 지식을 공유하며 경력을 쌓을 수 있는 가장 큰 신뢰할 수 있는 온라인 커뮤니티입니다.",
     "feature": ["english", "recommend"],
     "category": "커뮤니티 💬",
     "subcategory": "기술 커뮤니티",
@@ -2119,6 +2119,17 @@
     "link": "https://eslint.org/",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+  },
+  {
+    "category": "Code Formatter & Linter",
+    "subcategory": "",
+    "title": "Biome",
+    "content": "Web을 위한 통합 툴체인",
+    "feature": ["multi"],
+    "img_url": "https://biomejs.dev/img/favicon.svg",
+    "link": "https://biomejs.dev/",
+    "created_at": "2024.07.22",
+    "updated_at": "2024.07.22"
   },
   {
     "category": "IDE",
