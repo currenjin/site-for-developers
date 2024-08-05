@@ -790,6 +790,7 @@
     "link": "https://kotlinlang.org/docs/home.html",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "Java Docs",
@@ -801,6 +802,7 @@
     "img_url": "",
     "link": "https://docs.oracle.com/en/java",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -814,6 +816,7 @@
     "link": "https://docs.python.org/ko/3",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "Node.js Docs",
@@ -825,6 +828,7 @@
     "img_url": "",
     "link": "https://nodejs.org/en/docs",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -838,6 +842,7 @@
     "link": "https://ko.reactjs.org",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "Next.js Docs",
@@ -849,6 +854,7 @@
     "img_url": "",
     "link": "https://nextjs.org/docs/getting-started",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -862,6 +868,7 @@
     "link": "https://vuejs.org/guide/introduction.html",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "Express.js",
@@ -874,6 +881,7 @@
     "link": "https://expressjs.com/ko",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "NestJS",
@@ -885,6 +893,7 @@
     "img_url": "",
     "link": "https://docs.nestjs.com",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -898,6 +907,7 @@
     "link": "https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "Spring Docs",
@@ -909,6 +919,7 @@
     "img_url": "",
     "link": "https://docs.spring.io/spring-framework/docs/current/reference/html",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -922,6 +933,7 @@
     "link": "https://docs.djangoproject.com/ko/5.0/intro",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "Spring Guides",
@@ -933,6 +945,7 @@
     "img_url": "https://avatars.githubusercontent.com/u/217774",
     "link": "https://github.com/spring-guides",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -946,6 +959,7 @@
     "link": "https://flask-docs-kr.readthedocs.io/ko/latest",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "ExpressJS",
@@ -957,6 +971,7 @@
     "img_url": "",
     "link": "https://expressjs.com/ko",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -970,6 +985,7 @@
     "link": "https://guides.rubyonrails.org",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "NestJS",
@@ -981,6 +997,7 @@
     "img_url": "",
     "link": "https://docs.nestjs.com",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -994,6 +1011,7 @@
     "link": "https://docs.aws.amazon.com/ko_kr/",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "Azure Documentation",
@@ -1005,6 +1023,7 @@
     "img_url": "",
     "link": "https://learn.microsoft.com/ko-kr/azure/?product=popular",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1018,6 +1037,7 @@
     "link": "https://cloud.google.com/docs?hl=ko",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "NCP(Naver Cloud Platform Guide)",
@@ -1029,6 +1049,7 @@
     "img_url": "",
     "link": "https://guide.ncloud-docs.com/docs/home",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1042,6 +1063,7 @@
     "link": "https://developer.android.com/docs?hl=ko",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "IOS",
@@ -1053,6 +1075,7 @@
     "img_url": "",
     "link": "https://developer.apple.com/kr",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1066,6 +1089,7 @@
     "link": "https://reactnative.dev/docs/getting-started",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "Flutter Docs",
@@ -1077,6 +1101,7 @@
     "img_url": "",
     "link": "https://flutter-ko.dev/docs",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1090,6 +1115,7 @@
     "link": "https://www.oracle.com/kr",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "MySQL Docs",
@@ -1101,6 +1127,7 @@
     "img_url": "",
     "link": "https://dev.mysql.com/doc",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1114,6 +1141,7 @@
     "link": "https://www.mongodb.com/docs",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "PostgreSQL Docs",
@@ -1125,6 +1153,7 @@
     "img_url": "",
     "link": "https://www.postgresql.org/docs",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1138,6 +1167,7 @@
     "link": "https://redis.io/docs",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "Elasticsearch Docs",
@@ -1149,6 +1179,7 @@
     "img_url": "",
     "link": "https://www.elastic.co/guide/en/elasticsearch/reference/current/docs.html#docs",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1162,6 +1193,7 @@
     "link": "https://www.algolia.com/doc",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "Ubuntu Docs",
@@ -1173,6 +1205,7 @@
     "img_url": "",
     "link": "https://ubuntu-kr.org",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1186,6 +1219,7 @@
     "link": "https://docs.fedoraproject.org/ko/docs",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "Debian Docs",
@@ -1197,6 +1231,7 @@
     "img_url": "",
     "link": "https://www.debian.org/index.ko.html",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1210,6 +1245,7 @@
     "link": "https://doc.opensuse.org",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "Manjaro Linux Docs",
@@ -1221,6 +1257,7 @@
     "img_url": "",
     "link": "https://docs.manjaro.org",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1234,6 +1271,7 @@
     "link": "https://docs.rockylinux.org",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "CentOS Docs",
@@ -1245,6 +1283,7 @@
     "img_url": "",
     "link": "https://wiki.centos.org",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1258,6 +1297,7 @@
     "link": "https://kubernetes.io/ko/docs/home",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "Docker Docs",
@@ -1269,6 +1309,7 @@
     "img_url": "",
     "link": "https://docs.docker.com",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1282,6 +1323,7 @@
     "link": "https://argo-cd.readthedocs.io/en/stable",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "Vagrant Docs",
@@ -1293,6 +1335,7 @@
     "img_url": "",
     "link": "https://developer.hashicorp.com/vagrant/docs",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1306,6 +1349,7 @@
     "link": "https://api.slack.com",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "Discord API",
@@ -1317,6 +1361,7 @@
     "img_url": "",
     "link": "https://discord.com/developers/docs/intro",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1330,6 +1375,7 @@
     "link": "https://docs.github.com/en/rest?apiVersion=2022-11-28",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "GitHub REST API",
@@ -1341,6 +1387,7 @@
     "img_url": "",
     "link": "https://docs.github.com/ko/rest",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1354,6 +1401,7 @@
     "link": "https://git-scm.com",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "GitHub App API",
@@ -1365,6 +1413,7 @@
     "img_url": "",
     "link": "https://docs.github.com/ko/apps",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1378,6 +1427,7 @@
     "link": "https://docs.github.com/ko/rest?apiVersion=2022-11-28",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "GitHub GraphQL API",
@@ -1389,6 +1439,7 @@
     "img_url": "",
     "link": "https://docs.github.com/ko/graphql",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1402,6 +1453,7 @@
     "link": "https://docs.github.com/ko/webhooks",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "Google Developers Docs",
@@ -1413,6 +1465,7 @@
     "img_url": "https://www.google.com/favicon.ico",
     "link": "https://developers.google.com",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1426,6 +1479,7 @@
     "img_url": "https://refactoring.guru/favicon.png",
     "link": "https://refactoring.guru/ko/design-patterns",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1449,6 +1503,7 @@
     "link": "https://techblog.woowahan.com/",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "카카오 기술블로그",
@@ -1460,6 +1515,7 @@
     "img_url": "",
     "link": "https://tech.kakao.com/blog/",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1473,6 +1529,7 @@
     "link": "https://medium.com/@coupang-engineering-kr",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "왓챠 팀블로그",
@@ -1484,6 +1541,7 @@
     "img_url": "",
     "link": "https://medium.com/watcha",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1497,6 +1555,7 @@
     "link": "https://helloworld.kurly.com/",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "뱅크샐러드 기술블로그",
@@ -1508,6 +1567,7 @@
     "img_url": "",
     "link": "https://blog.banksalad.com/tech/",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1521,6 +1581,7 @@
     "link": "https://meetup.nhncloud.com/",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "하이퍼커넥트 기술블로그",
@@ -1532,6 +1593,7 @@
     "img_url": "",
     "link": "https://hyperconnect.github.io/",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1545,6 +1607,7 @@
     "link": "https://medium.com/daangn/development/home",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "강남언니 기술블로그",
@@ -1556,6 +1619,7 @@
     "img_url": "",
     "link": "https://blog.gangnamunni.com/blog/tech/",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1569,6 +1633,7 @@
     "link": "https://techblog.yogiyo.co.kr/",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "플랫팜 기술블로그",
@@ -1580,6 +1645,7 @@
     "img_url": "",
     "link": "https://medium.com/platfarm/technology/home",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1593,6 +1659,7 @@
     "link": "https://spoqa.github.io/",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "라인 기술블로그",
@@ -1604,6 +1671,7 @@
     "img_url": "",
     "link": "https://techblog.lycorp.co.jp/ko",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1617,6 +1685,7 @@
     "link": "https://tech.socarcorp.kr/",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "리디 기술블로그",
@@ -1628,6 +1697,7 @@
     "img_url": "",
     "link": "https://ridicorp.com/story-category/tech-blog/",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1641,6 +1711,7 @@
     "link": "https://i-nara.oopy.io/techblog",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "펫프렌즈 기술블로그",
@@ -1652,6 +1723,7 @@
     "img_url": "",
     "link": "https://techblog.pet-friends.co.kr/",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1665,6 +1737,7 @@
     "link": "https://d2.naver.com/home",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "Engineering at Meta",
@@ -1676,6 +1749,7 @@
     "img_url": "",
     "link": "https://engineering.fb.com/",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1689,6 +1763,7 @@
     "link": "https://developer.amazon.com/en-US/blogs/alexa",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "Apple Developer",
@@ -1700,6 +1775,7 @@
     "img_url": "",
     "link": "https://developer.apple.com/",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1713,6 +1789,7 @@
     "link": "https://netflixtechblog.com/",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "Google Developer Blog",
@@ -1724,6 +1801,7 @@
     "img_url": "",
     "link": "https://developers.googleblog.com/",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1737,6 +1815,7 @@
     "link": "https://www.linkedin.com/blog/engineering",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "Slack Engineering",
@@ -1748,6 +1827,7 @@
     "img_url": "",
     "link": "https://slack.engineering/",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1761,6 +1841,7 @@
     "link": "https://medium.com/airbnb-engineering",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "Zoom Developer Blog",
@@ -1772,6 +1853,7 @@
     "img_url": "",
     "link": "https://medium.com/zoom-developer-blog",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1785,6 +1867,7 @@
     "link": "https://technology.riotgames.com/",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "Pinterest Engineering",
@@ -1796,6 +1879,7 @@
     "img_url": "",
     "link": "https://medium.com/@Pinterest_Engineering",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1809,6 +1893,7 @@
     "link": "https://medium.com/paypal-tech",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "Ebay Tech Blog",
@@ -1820,6 +1905,7 @@
     "img_url": "",
     "link": "https://innovation.ebayinc.com/tech/",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1833,6 +1919,7 @@
     "link": "https://blog.twitter.com/engineering/en_us",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "GooglePlay Engineering",
@@ -1844,6 +1931,7 @@
     "img_url": "",
     "link": "https://medium.com/googleplaydev",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1857,6 +1945,7 @@
     "link": "https://dropbox.tech/",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "개발 관련 유튜브 모음",
@@ -1868,6 +1957,7 @@
     "img_url": "",
     "link": "https://mp4.okdevtv.com/",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1881,6 +1971,7 @@
     "link": "https://www.youtube.com/@jocoding",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "생활코딩",
@@ -1893,6 +1984,7 @@
     "link": "https://www.youtube.com/@coohde",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "title": "우아한테크",
@@ -1904,6 +1996,7 @@
     "img_url": "",
     "link": "https://www.youtube.com/@woowatech",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1918,6 +2011,7 @@
     "link": "https://github.com/sindresorhus/awesome",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "subcategory": "Awesome",
@@ -1930,6 +2024,7 @@
     "img_url": "",
     "link": "https://github.com/sindresorhus/awesome-nodejs",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1944,6 +2039,7 @@
     "link": "https://github.com/vuejs/awesome-vue",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "subcategory": "Awesome",
@@ -1956,6 +2052,7 @@
     "img_url": "",
     "link": "https://github.com/TheComputerM/awesome-svelte",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1970,6 +2067,7 @@
     "link": "https://github.com/PatrickJS/awesome-angular",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "subcategory": "Awesome",
@@ -1982,6 +2080,7 @@
     "img_url": "",
     "link": "https://github.com/unicodeveloper/awesome-nextjs",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -1996,6 +2095,7 @@
     "link": "https://github.com/markets/awesome-ruby",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "subcategory": "Awesome",
@@ -2008,6 +2108,7 @@
     "img_url": "",
     "link": "https://github.com/fffaraz/awesome-cpp",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2022,6 +2123,7 @@
     "link": "https://github.com/quozd/awesome-dotnet",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "subcategory": "Awesome",
@@ -2034,6 +2136,7 @@
     "img_url": "",
     "link": "https://github.com/thangchung/awesome-dotnet-core",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2048,6 +2151,7 @@
     "link": "https://github.com/awesome-css-group/awesome-css",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "subcategory": "Awesome",
@@ -2060,6 +2164,7 @@
     "img_url": "",
     "link": "https://github.com/awesome-bootstrap-org/awesome-bootstrap",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2074,6 +2179,7 @@
     "link": "https://github.com/aniftyco/awesome-tailwindcss",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "subcategory": "Awesome",
@@ -2086,6 +2192,7 @@
     "img_url": "",
     "link": "https://github.com/brabadu/awesome-fonts",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2100,6 +2207,7 @@
     "link": "https://github.com/notlmn/awesome-icons",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "subcategory": "Awesome",
@@ -2112,6 +2220,7 @@
     "img_url": "",
     "link": "https://github.com/vkarampinis/awesome-icons",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2126,6 +2235,7 @@
     "link": "https://www.google.com/",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "category": "도구 🔨",
@@ -2138,6 +2248,7 @@
     "img_url": "",
     "link": "https://duckduckgo.com/",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2152,6 +2263,7 @@
     "link": "https://www.naver.com/",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "category": "도구 🔨",
@@ -2164,6 +2276,7 @@
     "img_url": "",
     "link": "https://www.daum.net/",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2178,6 +2291,7 @@
     "link": "https://whatismyipaddress.com/ip-lookup",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "category": "도구 🔨",
@@ -2190,6 +2304,7 @@
     "img_url": "",
     "link": "https://xn--220b31d95hq8o.xn--3e0b707e",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2204,6 +2319,7 @@
     "link": "https://fast.com/ko/",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
     "subcategory": "",
@@ -2211,9 +2327,13 @@
     "content": "깃 커밋 이모지 모음",
     "category": "Git",
     "feature": [],
+    "content": "깃 커밋 이모지 모음",
+    "category": "Git",
+    "feature": [],
     "img_url": "",
     "link": "https://gitmoji.dev",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2222,9 +2342,13 @@
     "content": "Git 플랫폼",
     "category": "Git",
     "feature": [],
+    "content": "Git 플랫폼",
+    "category": "Git",
+    "feature": [],
     "img_url": "",
     "link": "https://github.com",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2233,9 +2357,13 @@
     "content": "Git 플랫폼 (GitHub와 유사)",
     "category": "Git",
     "feature": [],
+    "content": "Git 플랫폼 (GitHub와 유사)",
+    "category": "Git",
+    "feature": [],
     "img_url": "",
     "link": "https://about.gitlab.com/",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2244,9 +2372,13 @@
     "content": "Atlassian에 의해 운영되는 Git 저장소",
     "category": "Git",
     "feature": [],
+    "content": "Atlassian에 의해 운영되는 Git 저장소",
+    "category": "Git",
+    "feature": [],
     "img_url": "",
     "link": "https://bitbucket.org/",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2255,9 +2387,12 @@
     "title": "Bubble",
     "content": "노코드 툴 Bubble",
     "feature": [],
+    "content": "노코드 툴 Bubble",
+    "feature": [],
     "img_url": "",
     "link": "https://bubble.io",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2266,9 +2401,12 @@
     "title": "Flutterflow",
     "content": "노코드 툴 Flutterflow",
     "feature": [],
+    "content": "노코드 툴 Flutterflow",
+    "feature": [],
     "img_url": "",
     "link": "https://flutterflow.io",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2277,9 +2415,12 @@
     "title": "Waveon",
     "content": "노코드 툴 Wave on",
     "feature": [],
+    "content": "노코드 툴 Wave on",
+    "feature": [],
     "img_url": "",
     "link": "https://www.waveon.io",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2288,9 +2429,12 @@
     "title": "Webflow",
     "content": "노코드 툴 Webflow",
     "feature": [],
+    "content": "노코드 툴 Webflow",
+    "feature": [],
     "img_url": "",
     "link": "https://webflow.com/",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2299,9 +2443,12 @@
     "title": "Softr",
     "content": "노코드 툴 Softr",
     "feature": [],
+    "content": "노코드 툴 Softr",
+    "feature": [],
     "img_url": "",
     "link": "https://softr.io/",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2310,9 +2457,12 @@
     "title": "Adalo",
     "content": "노코드 툴 Adalo",
     "feature": [],
+    "content": "노코드 툴 Adalo",
+    "feature": [],
     "img_url": "",
     "link": "https://adalo.com/",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2321,9 +2471,12 @@
     "title": "Glide",
     "content": "노코드 툴 Glide",
     "feature": [],
+    "content": "노코드 툴 Glide",
+    "feature": [],
     "img_url": "",
     "link": "https://www.glideapps.com/",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2332,9 +2485,12 @@
     "title": "Postman",
     "content": "API 디버그 도구",
     "feature": [],
+    "content": "API 디버그 도구",
+    "feature": [],
     "img_url": "",
     "link": "https://www.postman.com/downloads",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2343,9 +2499,12 @@
     "title": "Swagger",
     "content": "API Documentation 도구",
     "feature": [],
+    "content": "API Documentation 도구",
+    "feature": [],
     "img_url": "",
     "link": "https://swagger.io/",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2354,9 +2513,12 @@
     "title": "Formatter",
     "content": "CSS/JSON/HTML 포맷 도구",
     "feature": [],
+    "content": "CSS/JSON/HTML 포맷 도구",
+    "feature": [],
     "img_url": "",
     "link": "https://formatter.org/json-formatter",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2365,9 +2527,12 @@
     "title": "Jsonformatter",
     "content": "JSON 포맷 도구",
     "feature": [],
+    "content": "JSON 포맷 도구",
+    "feature": [],
     "img_url": "",
     "link": "https://jsonformatter.curiousconcept.com",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2376,9 +2541,12 @@
     "title": "Regex101",
     "content": "온라인 정규 표현식 학습 및 테스트",
     "feature": [],
+    "content": "온라인 정규 표현식 학습 및 테스트",
+    "feature": [],
     "img_url": "",
     "link": "https://regex101.com",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2387,9 +2555,12 @@
     "title": "Regexr",
     "content": "온라인 정규 표현식 도구",
     "feature": [],
+    "content": "온라인 정규 표현식 도구",
+    "feature": [],
     "img_url": "",
     "link": "https://regexr.com",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2398,9 +2569,13 @@
     "content": "UI/UX 디자인 및 프로토타이핑 도구",
     "category": "Design",
     "feature": [],
+    "content": "UI/UX 디자인 및 프로토타이핑 도구",
+    "category": "Design",
+    "feature": [],
     "img_url": "",
     "link": "https://figma.com",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2409,9 +2584,13 @@
     "content": "다이어그램 작성 도구",
     "category": "Design",
     "feature": [],
+    "content": "다이어그램 작성 도구",
+    "category": "Design",
+    "feature": [],
     "img_url": "",
     "link": "https://app.diagrams.net",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2420,9 +2599,13 @@
     "content": "무료 디자인 툴",
     "category": "Design",
     "feature": [],
+    "content": "무료 디자인 툴",
+    "category": "Design",
+    "feature": [],
     "img_url": "",
     "link": "https://www.canva.com/ko_kr",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2431,9 +2614,13 @@
     "content": "다이어그램 작성 도구",
     "category": "Design",
     "feature": [],
+    "content": "다이어그램 작성 도구",
+    "category": "Design",
+    "feature": [],
     "img_url": "",
     "link": "https://dgm.sh/home",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2442,9 +2629,13 @@
     "content": "고화질 무료이미지 모음",
     "category": "Design",
     "feature": [],
+    "content": "고화질 무료이미지 모음",
+    "category": "Design",
+    "feature": [],
     "img_url": "",
     "link": "https://www.pexels.com/ko-kr",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2453,9 +2644,13 @@
     "content": "이모지 저장소",
     "category": "Design",
     "feature": [],
+    "content": "이모지 저장소",
+    "category": "Design",
+    "feature": [],
     "img_url": "",
     "link": "https://emojipedia.org",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2464,9 +2659,13 @@
     "content": "Spring 프로젝트 생성기",
     "category": "Backend Framework",
     "feature": [],
+    "content": "Spring 프로젝트 생성기",
+    "category": "Backend Framework",
+    "feature": [],
     "img_url": "",
     "link": "https://start.spring.io",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2475,9 +2674,13 @@
     "content": "Ktor 프로젝트 생성기",
     "category": "Backend Framework",
     "feature": [],
+    "content": "Ktor 프로젝트 생성기",
+    "category": "Backend Framework",
+    "feature": [],
     "img_url": "",
     "link": "https://start.ktor.io/#/settings",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2486,9 +2689,12 @@
     "title": "Ktlint",
     "content": "코틀린 코드 포메터",
     "feature": [],
+    "content": "코틀린 코드 포메터",
+    "feature": [],
     "img_url": "",
     "link": "https://pinterest.github.io/ktlint/latest/",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2497,15 +2703,20 @@
     "title": "Prettier",
     "content": "대표적인 코드 포매터",
     "feature": [],
+    "content": "대표적인 코드 포매터",
+    "feature": [],
     "img_url": "",
     "link": "https://prettier.io/",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
     "category": "Code Formatter & Linter",
     "subcategory": "",
     "title": "ESLint",
+    "content": "자바스크립트 린터",
+    "feature": [],
     "content": "자바스크립트 린터",
     "feature": [],
     "img_url": "",
@@ -2519,9 +2730,12 @@
     "title": "Fleet",
     "content": "Jetbrains에서 개발한 텍스트 에디터",
     "feature": [],
+    "content": "Jetbrains에서 개발한 텍스트 에디터",
+    "feature": [],
     "img_url": "",
     "link": "https://www.jetbrains.com/ko-kr/fleet",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2530,9 +2744,12 @@
     "title": "IntelliJ IDEA",
     "content": "Jetbrains에서 개발한 통합 개발 환경 (Java, Kotlin)",
     "feature": [],
+    "content": "Jetbrains에서 개발한 통합 개발 환경 (Java, Kotlin)",
+    "feature": [],
     "img_url": "",
     "link": "https://www.jetbrains.com/ko-kr/idea",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2541,9 +2758,12 @@
     "title": "CLion",
     "content": "Jetbrains에서 개발한 통합 개발 환경 (C, C++)",
     "feature": [],
+    "content": "Jetbrains에서 개발한 통합 개발 환경 (C, C++)",
+    "feature": [],
     "img_url": "",
     "link": "https://www.jetbrains.com/ko-kr/clion",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2552,9 +2772,12 @@
     "title": "DataGrip",
     "content": "Jetbrains에서 개발한 통합 개발 환경 (SQL)",
     "feature": [],
+    "content": "Jetbrains에서 개발한 통합 개발 환경 (SQL)",
+    "feature": [],
     "img_url": "",
     "link": "https://www.jetbrains.com/ko-kr/datagrip",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2563,9 +2786,12 @@
     "title": "DataSpell",
     "content": "Jetbrains에서 개발한 통합 개발 환경 (SQL)",
     "feature": [],
+    "content": "Jetbrains에서 개발한 통합 개발 환경 (SQL)",
+    "feature": [],
     "img_url": "",
     "link": "https://www.jetbrains.com/ko-kr/dataspell",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2574,9 +2800,12 @@
     "title": "WebStorm",
     "content": "Jetbrains에서 개발한 통합 개발 환경 (JavaScript)",
     "feature": [],
+    "content": "Jetbrains에서 개발한 통합 개발 환경 (JavaScript)",
+    "feature": [],
     "img_url": "",
     "link": "https://www.jetbrains.com/ko-kr/webstorm",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2585,9 +2814,12 @@
     "title": "PyCharm",
     "content": "Jetbrains에서 개발한 통합 개발 환경 (Python)",
     "feature": [],
+    "content": "Jetbrains에서 개발한 통합 개발 환경 (Python)",
+    "feature": [],
     "img_url": "",
     "link": "https://www.jetbrains.com/ko-kr/pycharm",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2596,9 +2828,12 @@
     "title": "RubyMine",
     "content": "Jetbrains에서 개발한 통합 개발 환경 (Ruby)",
     "feature": [],
+    "content": "Jetbrains에서 개발한 통합 개발 환경 (Ruby)",
+    "feature": [],
     "img_url": "",
     "link": "https://www.jetbrains.com/ko-kr/ruby",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2607,9 +2842,12 @@
     "title": "Rider",
     "content": "Jetbrains에서 개발한 통합 개발 환경 (C#, .NET)",
     "feature": [],
+    "content": "Jetbrains에서 개발한 통합 개발 환경 (C#, .NET)",
+    "feature": [],
     "img_url": "",
     "link": "https://www.jetbrains.com/ko-kr/rider/",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2618,9 +2856,12 @@
     "title": "Writerside",
     "content": "Jetbrains에서 개발한 통합 개발 환경 (Document)",
     "feature": [],
+    "content": "Jetbrains에서 개발한 통합 개발 환경 (Document)",
+    "feature": [],
     "img_url": "",
     "link": "https://www.jetbrains.com/ko-kr/writerside",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2629,9 +2870,12 @@
     "title": "RustRover",
     "content": "Jetbrains에서 개발한 통합 개발 환경 (Rust)",
     "feature": [],
+    "content": "Jetbrains에서 개발한 통합 개발 환경 (Rust)",
+    "feature": [],
     "img_url": "",
     "link": "https://www.jetbrains.com/ko-kr/rust",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2640,9 +2884,12 @@
     "title": "GoLand",
     "content": "Jetbrains에서 개발한 통합 개발 환경 (Go)",
     "feature": [],
+    "content": "Jetbrains에서 개발한 통합 개발 환경 (Go)",
+    "feature": [],
     "img_url": "",
     "link": "https://www.jetbrains.com/ko-kr/go",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2651,9 +2898,12 @@
     "title": "Aqua",
     "content": "Jetbrains에서 개발한 통합 개발 환경 (Testing)",
     "feature": [],
+    "content": "Jetbrains에서 개발한 통합 개발 환경 (Testing)",
+    "feature": [],
     "img_url": "",
     "link": "https://www.jetbrains.com/ko-kr/aqua",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2662,207 +2912,282 @@
     "title": "Android Studio",
     "content": "Jetbrains에서 개발한 통합 개발 환경 (Android)",
     "feature": [],
+    "content": "Jetbrains에서 개발한 통합 개발 환경 (Android)",
+    "feature": [],
     "img_url": "",
     "link": "https://developer.android.com/studio?hl=ko",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
     "title": "Visual Studio Code",
     "content": "Microsoft에서 개발한 텍스트 에디터",
+    "title": "Visual Studio Code",
+    "content": "Microsoft에서 개발한 텍스트 에디터",
     "category": "IDE",
     "subcategory": "Other",
+    "feature": [],
     "feature": [],
     "img_url": "",
     "link": "https://code.visualstudio.com",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
+    "title": "Visual Studio",
+    "content": "Microsoft에서 개발한 통합 개발 환경",
     "title": "Visual Studio",
     "content": "Microsoft에서 개발한 통합 개발 환경",
     "category": "IDE",
     "subcategory": "Other",
     "feature": [],
+    "feature": [],
     "img_url": "",
     "link": "https://visualstudio.microsoft.com/ko",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
     "title": "Geany",
     "content": "빠르고 가벼운 통합 개발 환경",
+    "title": "Geany",
+    "content": "빠르고 가벼운 통합 개발 환경",
     "category": "IDE",
     "subcategory": "Other",
+    "feature": [],
     "feature": [],
     "img_url": "",
     "link": "https://www.geany.org",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
+    "title": "sublime Text",
+    "content": "크로스 플랫폼의 텍스트 에디터",
     "title": "sublime Text",
     "content": "크로스 플랫폼의 텍스트 에디터",
     "category": "IDE",
     "subcategory": "Other",
     "feature": [],
+    "feature": [],
     "img_url": "",
     "link": "https://www.sublimetext.com",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
     "title": "Notepad++",
     "content": "윈도우 전용 텍스트 에디터",
+    "title": "Notepad++",
+    "content": "윈도우 전용 텍스트 에디터",
     "category": "IDE",
     "subcategory": "Other",
+    "feature": [],
     "feature": [],
     "img_url": "",
     "link": "https://notepad-plus-plus.org",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
+    "title": "Eclipse",
+    "content": "자바 기반의 통합 개발 환경",
     "title": "Eclipse",
     "content": "자바 기반의 통합 개발 환경",
     "category": "IDE",
     "subcategory": "Other",
     "feature": [],
+    "feature": [],
     "img_url": "",
     "link": "https://www.eclipse.org",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
     "title": "Colab",
     "content": "호스팅된 Jupyter 노트북 서비스로, 설정하지 않고 사용 가능하며 GPU를 포함한 컴퓨팅 리소스를 무료로 사용",
+    "title": "Colab",
+    "content": "호스팅된 Jupyter 노트북 서비스로, 설정하지 않고 사용 가능하며 GPU를 포함한 컴퓨팅 리소스를 무료로 사용",
     "category": "IDE",
     "subcategory": "Other",
+    "feature": [],
     "feature": [],
     "img_url": "",
     "link": "https://colab.research.google.com/?hl=ko#",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
+    "title": "Xcode",
+    "content": "Apple에서 개발한 통합 개발 환경",
     "title": "Xcode",
     "content": "Apple에서 개발한 통합 개발 환경",
     "category": "IDE",
     "subcategory": "Other",
     "feature": [],
+    "feature": [],
     "img_url": "",
     "link": "https://developer.apple.com/kr/xcode/",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
     "title": "online gdb",
     "content": "온라인 컴파일러 및 디버거 도구",
+    "title": "online gdb",
+    "content": "온라인 컴파일러 및 디버거 도구",
     "category": "IDE",
     "subcategory": "Other",
+    "feature": [],
     "feature": [],
     "img_url": "",
     "link": "https://www.onlinegdb.com",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
+    "title": "URL Encode and Decode",
+    "content": "온라인 url 인코더/디코더",
     "title": "URL Encode and Decode",
     "content": "온라인 url 인코더/디코더",
     "category": "IDE",
     "subcategory": "Other",
     "feature": [],
+    "feature": [],
     "img_url": "",
     "link": "https://www.urlencoder.org",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
     "title": "Cody AI",
     "content": "Visual Studio Code AI 플러그인",
+    "title": "Cody AI",
+    "content": "Visual Studio Code AI 플러그인",
     "category": "AI",
     "subcategory": "",
+    "feature": [],
     "feature": [],
     "img_url": "",
     "link": "https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
+    "title": "GitHub Copilot",
+    "content": "GitHub에서 개발한 프로그래밍 AI",
     "title": "GitHub Copilot",
     "content": "GitHub에서 개발한 프로그래밍 AI",
     "category": "AI",
     "subcategory": "",
     "feature": [],
+    "feature": [],
     "img_url": "",
     "link": "https://github.com/features/copilot",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
     "title": "Tabnine",
     "content": "Tabnine에서 개발한 프로그래밍 AI",
+    "title": "Tabnine",
+    "content": "Tabnine에서 개발한 프로그래밍 AI",
     "category": "AI",
     "subcategory": "",
+    "feature": [],
     "feature": [],
     "img_url": "",
     "link": "https://www.tabnine.com",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
+    "title": "OpenAI Codex",
+    "content": "OpenAI에서 개발한 프로그래밍 AI",
     "title": "OpenAI Codex",
     "content": "OpenAI에서 개발한 프로그래밍 AI",
     "category": "AI",
     "subcategory": "",
     "feature": [],
+    "feature": [],
     "img_url": "",
     "link": "https://openai.com/blog/openai-codex",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
     "title": "CodeT5",
     "content": "Salesforce에서 개발한 프로그래밍 AI",
+    "title": "CodeT5",
+    "content": "Salesforce에서 개발한 프로그래밍 AI",
     "category": "AI",
     "subcategory": "",
+    "feature": [],
     "feature": [],
     "img_url": "",
     "link": "https://github.com/salesforce/CodeT5",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
+    "title": "Code LMs",
+    "content": "VHellendoorn이 개발한 프로그래밍 AI",
     "title": "Code LMs",
     "content": "VHellendoorn이 개발한 프로그래밍 AI",
     "category": "AI",
     "subcategory": "",
     "feature": [],
+    "feature": [],
     "img_url": "",
     "link": "https://github.com/VHellendoorn/Code-LMs",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
     "title": "Codeium",
     "content": "Codium에서 개발한 프로그래밍 AI",
+    "title": "Codeium",
+    "content": "Codium에서 개발한 프로그래밍 AI",
     "category": "AI",
     "subcategory": "",
+    "feature": [],
     "feature": [],
     "img_url": "",
     "link": "https://codeium.com",
     "created_at": "2024.06.29",
     "updated_at": "2024.07.10"
+    "updated_at": "2024.07.10"
   },
   {
+    "title": "ChatGPT",
+    "content": "OpenAI에서 개발한 대화형 AI",
     "title": "ChatGPT",
     "content": "OpenAI에서 개발한 대화형 AI",
     "category": "AI",
     "subcategory": "",
     "feature": [],
+    "feature": [],
     "img_url": "",
     "link": "https://chatgpt.com",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2871,9 +3196,13 @@
     "content": "텍스트 음성 변환 도구",
     "category": "Other",
     "feature": [],
+    "content": "텍스트 음성 변환 도구",
+    "category": "Other",
+    "feature": [],
     "img_url": "",
     "link": "https://ttsmaker.com/ko",
     "created_at": "2024.06.29",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   },
   {
@@ -2887,6 +3216,7 @@
     "img_url": "https://it-tools.tech/favicon.ico",
     "link": "https://it-tools.tech",
     "created_at": "2024.07.01",
+    "updated_at": "2024.07.10"
     "updated_at": "2024.07.10"
   }
 ]
