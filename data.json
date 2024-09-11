@@ -780,238 +780,228 @@
     "updated_at": "2024.07.17"
   },
   {
+    "id": 57,
     "title": "Kotlin Docs",
     "content": "코틀린 공식 문서",
     "feature": [
       "english"
     ],
-    "category": "Programming feature",
-    "img_url": "",
+    "category": "문서 📃",
+    "subcategory": "Programming Language",
+    "img_url": "https://kotlinlang.org/assets/images/favicon.svg?v2",
     "link": "https://kotlinlang.org/docs/home.html",
     "created_at": "2024.06.29",
-    "updated_at": "2024.07.10"
-    "updated_at": "2024.07.10"
+    "updated_at": "2024.09.05"
   },
   {
-    "title": "Java Docs",
-    "content": "Java 공식 문서",
+	"id": 58,
+    "title": "Java Documentation",
+    "content": "Java는 거의 모든 유형의 네트워크 애플리케이션의 기반이며 모바일 애플리케이션, 게임, 웹 기반 콘텐츠, 엔터프라이즈 소프트웨어 개발 및 제공을 위한 글로벌 표준입니다.",
     "feature": [
       "english"
     ],
-    "category": "Programming feature",
-    "img_url": "",
+    "category": "문서 📃",
+    "subcategory": "Programming Language",
+    "img_url": "https://docs.oracle.com/sp_common/site-template/ohc-common/img/favicon.ico",
     "link": "https://docs.oracle.com/en/java",
     "created_at": "2024.06.29",
-    "updated_at": "2024.07.10"
-    "updated_at": "2024.07.10"
+    "updated_at": "2024.09.05"
   },
   {
-    "title": "Python 3 Docs",
+	"id": 59,
+    "title": "Python3 Documentation",
     "content": "Python3 공식 문서",
     "feature": [
       "korean"
     ],
-    "category": "Programming feature",
-    "img_url": "",
+    "category": "문서 📃",
+    "subcategory": "Programming Language",
+    "img_url": "https://docs.python.org/3/_static/py.svg",
     "link": "https://docs.python.org/ko/3",
     "created_at": "2024.06.29",
-    "updated_at": "2024.07.10"
-    "updated_at": "2024.07.10"
+    "updated_at": "2024.09.06"
   },
   {
-    "title": "Node.js Docs",
+	"id": 60,
+    "title": "Node.js Documentation",
     "content": "Node.js 공식 문서",
     "feature": [
       "english"
     ],
-    "category": "Javascript Framework",
-    "img_url": "",
+    "category": "문서 📃",
+    "subcategory": "JavaScript Framework",
+    "img_url": "https://nodejs.org/static/images/favicons/favicon.png",
     "link": "https://nodejs.org/en/docs",
     "created_at": "2024.06.29",
-    "updated_at": "2024.07.10"
-    "updated_at": "2024.07.10"
+    "updated_at": "2024.09.06"
   },
   {
+	"id": 61,
     "title": "React",
-    "content": "React 공식 홈페이지",
+    "content": "React는 웹 및 네이티브 사용자 인터페이스를 위한 라이브러리입니다.",
     "feature": [
-      "korean"
+      "english"
     ],
-    "category": "Javascript Framework",
-    "img_url": "",
-    "link": "https://ko.reactjs.org",
+    "category": "문서 📃",
+    "subcategory": "JavaScript Framework",
+    "img_url": "https://react.dev/favicon-32x32.png",
+    "link": "https://react.dev/",
     "created_at": "2024.06.29",
-    "updated_at": "2024.07.10"
-    "updated_at": "2024.07.10"
+    "updated_at": "2024.09.06"
   },
   {
+	"id": 62,
     "title": "Next.js Docs",
-    "content": "Next.js 공식 문서",
+    "content": "Next.js 문서에 오신 것을 환영합니다.",
     "feature": [
       "english"
     ],
-    "category": "Javascript Framework",
-    "img_url": "",
-    "link": "https://nextjs.org/docs/getting-started",
+    "category": "문서 📃",
+    "subcategory": "JavaScript Framework",
+    "img_url": "https://nextjs.org/favicon.ico",
+    "link": "https://nextjs.org/docs",
     "created_at": "2024.06.29",
-    "updated_at": "2024.07.10"
-    "updated_at": "2024.07.10"
+    "updated_at": "2024.09.06"
   },
   {
+	"id": 63,
     "title": "Vuejs Guide",
-    "content": "Vuejs 공식 가이드",
+    "content": "Vue.js - 프로그레시브 자바스크립트 프레임워크",
     "feature": [
       "english"
     ],
-    "category": "Javascript Framework",
-    "img_url": "",
+    "category": "문서 📃",
+    "subcategory": "JavaScript Framework",
+    "img_url": "https://vuejs.org/logo.svg",
     "link": "https://vuejs.org/guide/introduction.html",
     "created_at": "2024.06.29",
-    "updated_at": "2024.07.10"
-    "updated_at": "2024.07.10"
+    "updated_at": "2024.09.06"
   },
   {
+	"id": 64,
     "title": "Express.js",
-    "content": "Express.js 공식 홈페이지",
+    "content": "Express - Node.js 웹 애플리케이션 프레임워크",
     "feature": [
       "korean"
     ],
-    "category": "Javascript Framework",
-    "img_url": "",
+    "category": "문서 📃",
+    "subcategory": "JavaScript Framework",
+    "img_url": "https://expressjs.com/images/favicon.png",
     "link": "https://expressjs.com/ko",
     "created_at": "2024.06.29",
-    "updated_at": "2024.07.10"
-    "updated_at": "2024.07.10"
+    "updated_at": "2024.09.08"
   },
   {
+	"id": 65,
     "title": "NestJS",
-    "content": "NestJS 공식 문서",
+    "content": "Nest는 효율적이고 확장 가능한 Node.js 서버 측 애플리케이션을 구축하기 위한 프레임워크입니다.",
     "feature": [
       "english"
     ],
-    "category": "Javascript Framework",
-    "img_url": "",
+    "category": "문서 📃",
+    "subcategory": "JavaScript Framework",
+    "img_url": "https://docs.nestjs.com/assets/favicons/favicon-32x32.png",
     "link": "https://docs.nestjs.com",
     "created_at": "2024.06.29",
-    "updated_at": "2024.07.10"
-    "updated_at": "2024.07.10"
+    "updated_at": "2024.09.08"
   },
   {
+	"id": 66,
     "title": "Spring Boot Docs",
     "content": "Spring Boot 공식 문서",
     "feature": [
       "english"
     ],
-    "category": "Backend Framework",
-    "img_url": "",
-    "link": "https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle",
+    "category": "문서 📃",
+    "subcategory": "Backend Framework",
+    "img_url": "https://docs.spring.io/spring-boot/_/img/favicon.ico",
+    "link": "https://docs.spring.io/spring-boot/index.html",
     "created_at": "2024.06.29",
-    "updated_at": "2024.07.10"
-    "updated_at": "2024.07.10"
+    "updated_at": "2024.09.09"
   },
   {
-    "title": "Spring Docs",
-    "content": "Spring 공식 문서",
+	"id": 67,
+    "title": "Spring Framework Documentation",
+    "content": "Spring Framework 공식 문서",
     "feature": [
       "english"
     ],
-    "category": "Backend Framework",
-    "img_url": "",
-    "link": "https://docs.spring.io/spring-framework/docs/current/reference/html",
+    "category": "문서 📃",
+    "subcategory": "Backend Framework",
+    "img_url": "https://docs.spring.io/spring-framework/reference/_/img/favicon.ico",
+    "link": "https://docs.spring.io/spring-framework/reference/",
     "created_at": "2024.06.29",
-    "updated_at": "2024.07.10"
-    "updated_at": "2024.07.10"
+    "updated_at": "2024.09.09"
   },
   {
-    "title": "Django Docs",
+	"id": 68,
+    "title": "Django Documentation",
     "content": "Django 공식 문서",
     "feature": [
       "korean"
     ],
-    "category": "Backend Framework",
-    "img_url": "",
+    "category": "문서 📃",
+    "subcategory": "Backend Framework",
+    "img_url": "https://static.djangoproject.com/img/icon-touch.e4872c4da341.png",
     "link": "https://docs.djangoproject.com/ko/5.0/intro",
     "created_at": "2024.06.29",
-    "updated_at": "2024.07.10"
-    "updated_at": "2024.07.10"
+    "updated_at": "2024.09.10"
   },
   {
+	"id": 69,
     "title": "Spring Guides",
     "content": "Spring 튜토리얼 예제",
     "feature": [
       "english"
     ],
-    "category": "Backend Framework",
-    "img_url": "https://avatars.githubusercontent.com/u/217774",
+    "category": "문서 📃",
+    "subcategory": "Backend Framework",
+    "img_url": "https://avatars.githubusercontent.com/u/4161866?s=200&v=4",
     "link": "https://github.com/spring-guides",
     "created_at": "2024.06.29",
-    "updated_at": "2024.07.10"
-    "updated_at": "2024.07.10"
+    "updated_at": "2024.09.10"
   },
   {
+	"id": 70,
     "title": "Flask Docs",
-    "content": "Flask 공식 문서",
+    "content": "Flask의 세계에 오신것을 환영합니다.",
     "feature": [
       "korean"
     ],
-    "category": "Backend Framework",
-    "img_url": "",
-    "link": "https://flask-docs-kr.readthedocs.io/ko/latest",
+    "category": "문서 📃",
+    "subcategory": "Backend Framework",
+    "img_url": "https://flask-docs-kr.readthedocs.io/favicon.ico",
+    "link": "https://flask-docs-kr.readthedocs.io/ko/latest/",
     "created_at": "2024.06.29",
-    "updated_at": "2024.07.10"
-    "updated_at": "2024.07.10"
+    "updated_at": "2024.09.10"
   },
   {
-    "title": "ExpressJS",
-    "content": "ExpressJS 공식 홈페이지",
-    "feature": [
-      "korean"
-    ],
-    "category": "Backend Framework",
-    "img_url": "",
-    "link": "https://expressjs.com/ko",
-    "created_at": "2024.06.29",
-    "updated_at": "2024.07.10"
-    "updated_at": "2024.07.10"
-  },
-  {
-    "title": "Ruby On Rails Guide",
-    "content": "Ruby On Rails 공식 가이드",
+	"id": 71,
+    "title": "Ruby on Rails Guides",
+    "content": "Ruby on Rails 공식 가이드",
     "feature": [
       "english"
     ],
-    "category": "Backend Framework",
-    "img_url": "",
-    "link": "https://guides.rubyonrails.org",
+    "category": "문서 📃",
+    "subcategory": "Backend Framework",
+    "img_url": "https://guides.rubyonrails.org/images/favicon.ico",
+    "link": "https://guides.rubyonrails.org	",
     "created_at": "2024.06.29",
-    "updated_at": "2024.07.10"
-    "updated_at": "2024.07.10"
+    "updated_at": "2024.09.10"
   },
   {
-    "title": "NestJS",
-    "content": "NestJS 공식 문서",
-    "feature": [
-      "english"
-    ],
-    "category": "Backend Framework",
-    "img_url": "",
-    "link": "https://docs.nestjs.com",
-    "created_at": "2024.06.29",
-    "updated_at": "2024.07.10"
-    "updated_at": "2024.07.10"
-  },
-  {
+	"id": 72,
     "title": "AWS Documentation",
     "content": "AWS 공식 문서",
     "feature": [
       "korean"
     ],
-    "category": "Public Cloud",
-    "img_url": "",
+    "category": "문서 📃",
+    "subcategory": "Public Cloud",
+    "img_url": "https://docs.aws.amazon.com/assets/r/images/favicon.ico",
     "link": "https://docs.aws.amazon.com/ko_kr/",
     "created_at": "2024.06.29",
-    "updated_at": "2024.07.10"
-    "updated_at": "2024.07.10"
+    "updated_at": "2024.09.10"
   },
   {
     "title": "Azure Documentation",
