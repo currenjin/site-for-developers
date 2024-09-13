@@ -17,18 +17,21 @@ const App = () => {
               <FaBars size={30} />
             </div>
             <ul tabIndex={0}
-              className="menu menu-sm dropdown-content mt-2 z-[1] border-2 bg-base-100 rounded-box w-[4.4rem]">
+              className="menu menu-sm dropdown-content mt-2 z-[1] border-2 bg-base-100 rounded-box w-[8.5rem] md:w-[4.4rem]">
               <li><Link to="/">메인</Link></li>
               <li><Link to="/about">소개</Link></li>
-              <li><Link to="/contribute">기여</Link></li>
+              <div className="block md:hidden">
+              <li><a href="https://discord.gg/kdVAeDGx" rel="noreferrer" target="_blank">Discord</a></li>
+              <li><a href="https://stats.uptimerobot.com/Klr3b7eDKs" rel="noreferrer" target="_blank">웹사이트 상태</a></li>
+              </div>
             </ul>
           </div>
           <a className="btn btn-ghost text-xl font-bold" href="/">
-            <img src="https://cdn.jsdelivr.net/gh/currenjin/site-for-developers/resources/icon_transparent/128x128/icon_transparent.svg" width="32" alt="Site For Developers logo" />
+            <img src="https://cdn.jsdelivr.net/gh/currenjin/site-for-developers/resources/icon_transparent/128x128/icon_transparent.svg" width="36" alt="Site For Developers logo" />
             Site for developers
           </a>
         </div>
-        <div className="navbar-end">
+        <div className="navbar-end hidden md:flex">
           <button className="btn btn-ghost btn-circle">
             <a href="https://discord.gg/kdVAeDGx" rel="noreferrer" target="_blank">
               <FaDiscord size={30} />
