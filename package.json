@@ -1,6 +1,6 @@
 {
   "name": "site-for-developers",
-  "version": "beta",
+  "version": "stable",
   "private": true,
   "dependencies": {
     "@snaddyvitch-dispenser/react-router-sitemap": "^1.2.6",
@@ -17,7 +17,6 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "eject": "react-scripts eject",
     "sitemap": "babel-node ./src/sitemapGenerate.js"
   },
   "eslintConfig": {

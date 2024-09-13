@@ -31,7 +31,7 @@ const Home = () => {
   return (
     <div>
       <div
-        className="suit mddata"
+        className="mddata"
         dangerouslySetInnerHTML={{ __html: mdData }}
       ></div>
     </div>
