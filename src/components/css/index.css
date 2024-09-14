@@ -1,4 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-@import url('https://cdn.jsdelivr.net/gh/rivercory/rivercory/font.css');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap');
+
+html, body {
+    font-family: "Noto Sans KR", Arial, sans-serif;
+}
