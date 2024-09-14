@@ -1,0 +1,6 @@
+.navbar_title {
+    background: linear-gradient(to right, #364FC7, #4263EB);
+    color: transparent;
+    background-clip: text;
+    display: inline-block;
+}
