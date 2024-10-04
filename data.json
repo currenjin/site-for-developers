@@ -2161,6 +2161,18 @@
     "link": "https://chatgpt.com"
   },
   {
+    "title": "Claude",
+    "content": " 앤트로픽에서 개발한 대화형 AI",
+    "title": "ChatGPT",
+    "content": " 앤트로픽에서 개발한 대화형 AI",
+    "category": "AI",
+    "subcategory": "",
+    "feature": [],
+    "feature": [],
+    "img_url": "",
+    "link": "https://claude.ai"
+  },
+  {
     "subcategory": "",
     "title": "TTSMaker",
     "content": "텍스트 음성 변환 도구",
