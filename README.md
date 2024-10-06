@@ -346,9 +346,9 @@
 
 ## 자료모음 🧾
 
-| 이미지 | 제목                                                                                             | 설명                                      |
-| ------ | ------------------------------------------------------------------------------------------------ | ----------------------------------------- |
-|        | [팔만코딩경 <sub>KR</sub>](https://80000coding.oopy.io/)                                           | 개발 관련 자료모음                  |
+| 이미지 | 제목                                                     | 설명               |
+| ------ | -------------------------------------------------------- | ------------------ |
+|        | [팔만코딩경 <sub>KR</sub>](https://80000coding.oopy.io/) | 개발 관련 자료모음 |
 
 ### Awesome
 
@@ -509,6 +509,7 @@
 |        | [Code LMs <sub>O</sub>](https://github.com/VHellendoorn/Code-LMs)                               | VHellendoorn이 개발한 프로그래밍 AI |
 |        | [Codeium <sub>$</sub>](https://codeium.com/)                                                    | Codium에서 개발한 프로그래밍 AI     |
 |        | [ChatGPT](https://chatgpt.com/)                                                                 | OpenAI에서 개발한 대화형 AI         |
+|        | [Claude](https://claude.ai)                                                                     | 앤트로픽에서 개발한 대화형 AI       |
 
 ### Other
 
