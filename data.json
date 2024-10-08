@@ -3,8 +3,7 @@
     "title": "Velog",
     "content": "개발자들을 위한 블로그 서비스.",
     "feature": ["korean"],
-    "category": "커뮤니티 💬",
-    "subcategory": "기술 커뮤니티",
+    "category": "기술 커뮤니티",
     "img_url": "https://velog.io/favicon.ico",
     "link": "https://velog.io"
   },
@@ -12,8 +11,7 @@
     "title": "Disquiet",
     "content": "IT 서비스 메이커들의 소셜 네트워크.",
     "feature": ["korean"],
-    "category": "커뮤니티 💬",
-    "subcategory": "기술 커뮤니티",
+    "category": "기술 커뮤니티",
     "img_url": "https://disquiet.io/favicon.ico",
     "link": "https://disquiet.io"
   },
@@ -21,8 +19,7 @@
     "title": "Okky",
     "content": "OKKY는 국내 최대 개발자 지식공유 플랫폼입니다.",
     "feature": ["korean"],
-    "category": "커뮤니티 💬",
-    "subcategory": "기술 커뮤니티",
+    "category": "기술 커뮤니티",
     "img_url": "https://okky.kr/favicon.ico",
     "link": "https://okky.kr"
   },
@@ -30,8 +27,7 @@
     "title": "Cikorea",
     "content": "CodeIgniter 한국사용자포럼, PHP Framework.",
     "feature": ["korean"],
-    "category": "커뮤니티 💬",
-    "subcategory": "기술 커뮤니티",
+    "category": "기술 커뮤니티",
     "img_url": "https://www.cikorea.net/favicon_cikorea.ico",
     "link": "https://www.cikorea.net"
   },
@@ -39,8 +35,7 @@
     "title": "Jsdev",
     "content": "자바스크립트 개발자 포럼.",
     "feature": ["korean"],
-    "category": "커뮤니티 💬",
-    "subcategory": "기술 커뮤니티",
+    "category": "기술 커뮤니티",
     "img_url": "https://jsdevkr.s3.dualstack.ap-northeast-2.amazonaws.com/optimized/2X/d/d76be3c1cbdb094fdde69ef2025c5ffe2ce0f259_2_32x32.png",
     "link": "https://jsdev.kr"
   },
@@ -48,8 +43,7 @@
     "title": "Laravel",
     "content": "laravel korea community 라라벨 코리아 커뮤니티",
     "feature": ["korean"],
-    "category": "커뮤니티 💬",
-    "subcategory": "기술 커뮤니티",
+    "category": "기술 커뮤니티",
     "img_url": "https://laravel.kr/favicon-16x16.png",
     "link": "https://laravel.kr/"
   },
@@ -57,8 +51,7 @@
     "title": "프로그래머스",
     "content": "프로그래머스 QnA는 프로그래밍 문제해결을 위한 QnA서비스입니다.",
     "feature": ["english"],
-    "category": "커뮤니티 💬",
-    "subcategory": "기술 커뮤니티",
+    "category": "기술 커뮤니티",
     "img_url": "https://qna.programmers.co.kr/assets/programmers-favicon/favicon-40b78633b6556a68c3da8e2125c31512fbd01d09906ab76c8a8ff289e494cadb.png",
     "link": "https://qna.programmers.co.kr/"
   },
@@ -66,8 +59,7 @@
     "title": "Devstu",
     "content": "모두가 함께하는, 지식을 지식으로 갚아나가는 한국 개발 커뮤니티입니다.",
     "feature": ["korean"],
-    "category": "커뮤니티 💬",
-    "subcategory": "기술 커뮤니티",
+    "category": "기술 커뮤니티",
     "img_url": "https://devstu.co.kr/favicon.ico",
     "link": "https://devstu.co.kr/howto"
   },
@@ -75,8 +67,7 @@
     "title": "Careerly",
     "content": "개발 트렌드, Q&A, 탑 개발자들과의 네트워킹까지.",
     "feature": ["korean"],
-    "category": "커뮤니티 💬",
-    "subcategory": "기술 커뮤니티",
+    "category": "기술 커뮤니티",
     "img_url": "https://careerly.co.kr/favicon.png",
     "link": "https://careerly.co.kr"
   },
@@ -84,8 +75,7 @@
     "title": "Stack Exchange",
     "content": "Stack Overflow 및 170개 이상의 커뮤니티 기반 Q&A 사이트를 만듭니다.",
     "feature": ["english"],
-    "category": "커뮤니티 💬",
-    "subcategory": "기술 커뮤니티",
+    "category": "기술 커뮤니티",
     "img_url": "https://cdn.sstatic.net/Sites/stackexchange/Img/favicon.ico",
     "link": "https://stackexchange.com"
   },
@@ -93,8 +83,7 @@
     "title": "Hashnode",
     "content": "Hashnode는 무료 개발자 블로그 플랫폼으로 자신의 도메인에 기사를 게시할 수 있으며 글로벌 개발자 커뮤니티와 연결될 수 있도록 도와줍니다.",
     "feature": ["english"],
-    "category": "커뮤니티 💬",
-    "subcategory": "기술 커뮤니티",
+    "category": "기술 커뮤니티",
     "img_url": "https://cdn.hashnode.com/res/hashnode/image/upload/v1611242187756/TRTNYp32O.png",
     "link": "https://hashnode.com"
   },
@@ -102,8 +91,7 @@
     "title": "Product Hunt",
     "content": "Product Hunt는 매일 최고의 신제품을 큐레이션하는 것입니다.",
     "feature": ["english"],
-    "category": "커뮤니티 💬",
-    "subcategory": "기술 커뮤니티",
+    "category": "기술 커뮤니티",
     "img_url": "https://ph-static.imgix.net/ph-favicon-coral.ico",
     "link": "https://www.producthunt.com"
   },
@@ -111,8 +99,7 @@
     "title": "Coderanch",
     "content": "그린혼을 프로그래밍하는 친근한 장소인 Coderanch!",
     "feature": ["english"],
-    "category": "커뮤니티 💬",
-    "subcategory": "기술 커뮤니티",
+    "category": "기술 커뮤니티",
     "img_url": "https://coderanch.com/favicon.ico",
     "link": "https://coderanch.com"
   },
@@ -120,8 +107,7 @@
     "title": "Stack Overflow",
     "content": "Stack Overflow는 개발자가 학습하고 프로그래밍 지식을 공유하며 경력을 쌓을 수 있는 가장 큰 신뢰할 수 있는 온라인 커뮤니티입니다.",
     "feature": ["english", "recommend"],
-    "category": "커뮤니티 💬",
-    "subcategory": "기술 커뮤니티",
+    "category": "기술 커뮤니티",
     "img_url": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
     "link": "https://stackoverflow.com"
   },
@@ -129,8 +115,7 @@
     "title": "Inflearn",
     "content": "프로그래밍, 인공지능, 데이터, 마케팅, 디자인, 엑셀 실무 등 입문부터 실전까지 업계 최고 선배들에게 배울 수 있는 곳.",
     "feature": ["korean"],
-    "category": "커뮤니티 💬",
-    "subcategory": "교육 커뮤니티",
+    "category": "교육 커뮤니티",
     "img_url": "https://cdn.inflearn.com/dist/icon-512x512.png",
     "link": "https://www.inflearn.com"
   },
@@ -138,8 +123,7 @@
     "title": "코딩애플",
     "content": "포트폴리오 완성까지 책임지는 Online 프로그래밍 강좌.",
     "feature": ["korean"],
-    "category": "커뮤니티 💬",
-    "subcategory": "교육 커뮤니티",
+    "category": "교육 커뮤니티",
     "img_url": "https://codingapple.com/wp-content/uploads/2023/06/favicon.png",
     "link": "https://codingapple.com/"
   },
@@ -147,8 +131,7 @@
     "title": "Swexpertacademy",
     "content": "SW 프로그래밍 역량 강화에 도움이 되는 다양한 학습 컨텐츠를 확인하세요!",
     "feature": ["korean"],
-    "category": "커뮤니티 💬",
-    "subcategory": "교육 커뮤니티",
+    "category": "교육 커뮤니티",
     "img_url": "https://swexpertacademy.com/main/favicon.ico",
     "link": "https://swexpertacademy.com/main/learn/course/courseList.do"
   },
@@ -156,8 +139,7 @@
     "title": "Nomadcoders",
     "content": "실제 구현되어 있는 서비스를 한땀 한땀 따라 만들면서 코딩을 배우세요!",
     "feature": ["pay"],
-    "category": "커뮤니티 💬",
-    "subcategory": "교육 커뮤니티",
+    "category": "교육 커뮤니티",
     "img_url": "https://nomadcoders.co/m.png",
     "link": "https://nomadcoders.co"
   },
@@ -165,8 +147,7 @@
     "title": "NEXTSTEP",
     "content": "NEXTSTEP에서 개발자들을 위해 디자인된 강의를 수강해보세요.",
     "feature": ["pay"],
-    "category": "커뮤니티 💬",
-    "subcategory": "교육 커뮤니티",
+    "category": "교육 커뮤니티",
     "img_url": "https://edu.nextstep.camp/favicon.ico",
     "link": "https://edu.nextstep.camp"
   },
@@ -174,8 +155,7 @@
     "title": "Dzone",
     "content": "프로그래밍, 웹 개발 및 DevOps 뉴스, 초보자부터 전문가를 위한 튜토리얼 및 도구.",
     "feature": ["english"],
-    "category": "커뮤니티 💬",
-    "subcategory": "뉴스",
+    "category": "뉴스",
     "img_url": "https://dz2cdn1.dzone.com/themes/dz20/images/favicon.png",
     "link": "https://dzone.com"
   },
@@ -183,8 +163,7 @@
     "title": "ZDNet (English)",
     "content": "ZDNET 뉴스와 조언을 통해 전문가들은 혁신을 수용하고 더 나은 미래를 구축할 준비가 되어 있습니다.",
     "feature": ["english"],
-    "category": "커뮤니티 💬",
-    "subcategory": "뉴스",
+    "category": "뉴스",
     "img_url": "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png",
     "link": "https://www.zdnet.com"
   },
@@ -192,8 +171,7 @@
     "title": "ZDNet",
     "content": "국가대표 테크미디어 지디넷코리아",
     "feature": ["korean"],
-    "category": "커뮤니티 💬",
-    "subcategory": "뉴스",
+    "category": "뉴스",
     "img_url": "https://zdnet.co.kr/favicon.ico?ver=20220902",
     "link": "https://zdnet.co.kr/"
   },
@@ -201,8 +179,7 @@
     "title": "Techcrunch",
     "content": "기술, 스타트업, 벤처캐피탈 펀딩, 실리콘밸리 사업 보고.",
     "feature": ["english"],
-    "category": "커뮤니티 💬",
-    "subcategory": "뉴스",
+    "category": "뉴스",
     "img_url": "https://techcrunch.com/favicon.ico",
     "link": "https://techcrunch.com"
   },
@@ -290,8 +267,7 @@
     "title": "Wikidocs",
     "content": "온라인 책을 제작 공유하는 플랫폼 서비스.",
     "feature": ["recommend", "korean"],
-    "category": "커뮤니티 💬",
-    "subcategory": "학습",
+    "category": "학습",
     "img_url": "https://wikidocs.net/static/img/favicon.ico",
     "link": "https://wikidocs.net"
   },
@@ -299,8 +275,7 @@
     "title": "TheBook",
     "content": "(주)도서출판 길벗에서 제공하는 IT 도서 열람 서비스.",
     "feature": ["recommend", "korean"],
-    "category": "커뮤니티 💬",
-    "subcategory": "학습",
+    "category": "학습",
     "img_url": "https://thebook.io/favicon.ico",
     "link": "https://thebook.io"
   },
@@ -308,8 +283,7 @@
     "title": "Visualgo",
     "content": "Visualgo는 2011년 Steven Halim 박사에 의해 학생들이 스스로 그리고 그들만의 속도로 기본적인 것을 배울 수 있도록 함으로써 학생들이 데이터 구조와 알고리즘을 더 잘 이해할 수 있도록 돕는 도구로 개념화되었습니다.",
     "feature": ["english"],
-    "category": "커뮤니티 💬",
-    "subcategory": "학습",
+    "category": "학습",
     "img_url": "https://visualgo.net/img/favicon.png",
     "link": "https://visualgo.net/en"
   },
@@ -317,8 +291,7 @@
     "title": "Roadmap",
     "content": "개발자들이 경력에서 성장할 수 있도록 커뮤니티 기반 로드맵.",
     "feature": ["english", "opensource"],
-    "category": "커뮤니티 💬",
-    "subcategory": "학습",
+    "category": "학습",
     "img_url": "https://roadmap.sh/manifest/favicon.ico",
     "link": "https://roadmap.sh"
   },
@@ -326,8 +299,7 @@
     "title": "Free for Developers",
     "content": "개발자들과 오픈 소스 저자들은 이제 무료 계층을 제공하는 엄청난 양의 서비스를 제공하고 있지만, 정보에 입각한 의사 결정을 내리기 위해 이들을 모두 찾기는 어려울 수 있습니다.",
     "feature": ["english"],
-    "category": "커뮤니티 💬",
-    "subcategory": "학습",
+    "category": "학습",
     "img_url": "https://free-for.dev/logo.webp",
     "link": "https://free-for.dev"
   },
@@ -335,8 +307,7 @@
     "title": "Baekjoon Online Judge",
     "content": "프로그래밍 문제를 풀고 온라인으로 채점받을 수 있는 곳입니다.",
     "feature": ["korean", "free"],
-    "category": "커뮤니티 💬",
-    "subcategory": "문제풀이",
+    "category": "문제풀이",
     "img_url": "https://www.acmicpc.net/favicon-32x32.png",
     "link": "https://www.acmicpc.net"
   },
@@ -344,8 +315,7 @@
     "title": "Codeforces",
     "content": "Codeforces, 프로그래밍 대회 및 경연대회, 프로그래밍 커뮤니티.",
     "feature": ["english"],
-    "category": "커뮤니티 💬",
-    "subcategory": "문제풀이",
+    "category": "문제풀이",
     "img_url": "https://codeforces.org/s/22015/favicon-96x96.png",
     "link": "https://codeforces.com"
   },
@@ -353,8 +323,7 @@
     "title": "Programmers",
     "content": "개발자 취업의 필수 관문 코딩테스트를 철저하게 연습하고 대비할 수 있는 문제를 총망라!",
     "feature": ["korean"],
-    "category": "커뮤니티 💬",
-    "subcategory": "문제풀이",
+    "category": "문제풀이",
     "img_url": "https://school.programmers.co.kr/assets/icons/favicon-ec61d910396b5fc4d7418ea44281693172c34e31d437d074f9ab5470523990fb.png",
     "link": "https://school.programmers.co.kr/learn/challenges"
   },
@@ -362,8 +331,7 @@
     "title": "코딩도장",
     "content": "프로그래밍 문제풀이를 통해서 코딩 실력을 수련.",
     "feature": ["korean"],
-    "category": "커뮤니티 💬",
-    "subcategory": "문제풀이",
+    "category": "문제풀이",
     "img_url": "https://codingdojang.com/static/img/favicon.ico",
     "link": "https://codingdojang.com"
   },
@@ -371,8 +339,7 @@
     "title": "LeetCode",
     "content": "코딩 기술을 향상시키고 빨리 직장을 구하세요. 이곳은 여러분의 지식을 확장하고 다음 인터뷰를 준비할 수 있는 최고의 장소입니다.",
     "feature": ["english", "pay"],
-    "category": "커뮤니티 💬",
-    "subcategory": "문제풀이",
+    "category": "문제풀이",
     "img_url": "https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png",
     "link": "https://leetcode.com/"
   },
@@ -380,8 +347,7 @@
     "title": "MDN Docs",
     "content": "MDN Web Docs 사이트는 웹 사이트와 프로그레시브 웹 앱 모두를 위한 HTML, CSS 및 API를 포함한 Open Web 기술에 대한 정보를 제공합니다.",
     "feature": ["korean"],
-    "category": "문서 📃",
-    "subcategory": "Web",
+    "category": "Web",
     "img_url": "https://developer.mozilla.org/favicon-48x48.cbbd161b.png",
     "link": "https://developer.mozilla.org/ko/docs/Web/HTML"
   },
@@ -389,8 +355,7 @@
     "title": "Javascript.info",
     "content": "모던 자바스크립트 튜토리얼은 클로저, 문서 객체 모델, 이벤트, 객체 지향 프로그래밍 등의 다양한 주제에 대한 설명과 예시, 과제를 담고 있습니다.",
     "feature": ["korean"],
-    "category": "문서 📃",
-    "subcategory": "Web",
+    "category": "Web",
     "img_url": "https://ko.javascript.info/img/favicon/favicon.png",
     "link": "https://ko.javascript.info"
   },
@@ -398,8 +363,7 @@
     "title": "HTML DOM",
     "content": "바닐라 자바스크립트를 사용한 DOM 조작 마스터링.",
     "feature": ["english"],
-    "category": "문서 📃",
-    "subcategory": "Web",
+    "category": "Web",
     "img_url": "https://phuoc.ng/assets/avatar.png",
     "link": "https://phuoc.ng/collection/html-dom"
   },
@@ -407,8 +371,7 @@
     "title": "Rspack",
     "content": "빠른 Rust 기반 웹 번들러입니다.",
     "feature": ["english"],
-    "category": "문서 📃",
-    "subcategory": "Web",
+    "category": "Web",
     "img_url": "https://lf3-static.bytednsdoc.com/obj/eden-cn/rjhwzy/ljhwZthlaukjlkulzlp/favicon-1714.png",
     "link": "https://www.rspack.dev"
   },
@@ -416,8 +379,7 @@
     "title": "Thymeleaf",
     "content": "Thymeleaf는 웹 및 독립형 환경 모두를 위한 최신 Server Side Java 템플릿 엔진입니다.",
     "feature": ["english"],
-    "category": "문서 📃",
-    "subcategory": "Web",
+    "category": "Web",
     "img_url": "https://www.thymeleaf.org/images/favicon.ico",
     "link": "https://www.thymeleaf.org"
   },
@@ -425,8 +387,7 @@
     "title": "Mustache",
     "content": "로직이 없는 템플릿입니다.",
     "feature": ["english"],
-    "category": "문서 📃",
-    "subcategory": "Web",
+    "category": "Web",
     "img_url": "",
     "link": "https://mustache.github.io/"
   },
@@ -434,8 +395,7 @@
     "title": "Bootstrap",
     "content": "강력하고 확장 가능하며 기능이 풍부한 프론트엔드 툴킷입니다.",
     "feature": ["english"],
-    "category": "문서 📃",
-    "subcategory": "Design",
+    "category": "Design",
     "img_url": "https://getbootstrap.com/docs/5.1/assets/img/favicons/favicon-32x32.png",
     "link": "https://getbootstrap.com/"
   },
@@ -443,8 +403,7 @@
     "title": "Flexbox Froggy",
     "content": "CSS Flexbox 학습용 게임입니다.",
     "feature": ["korean"],
-    "category": "문서 📃",
-    "subcategory": "Design",
+    "category": "Design",
     "img_url": "https://flexboxfroggy.com/favicon.ico",
     "link": "https://flexboxfroggy.com/#ko"
   },
@@ -452,8 +411,7 @@
     "title": "StyleX",
     "content": "StyleX는 표현력이 뛰어나고 결정적입니다.",
     "feature": ["english"],
-    "category": "문서 📃",
-    "subcategory": "Design",
+    "category": "Design",
     "img_url": "https://stylexjs.com/img/favicon.svg",
     "link": "https://stylexjs.com/blog/introducing-stylex"
   },
@@ -461,8 +419,7 @@
     "title": "Tailwind CSS",
     "content": "Tailwind CSS는 HTML을 남기지 않고 최신 웹 사이트를 빠르게 구축하기 위한 유틸리티 우선 CSS 프레임워크입니다.",
     "feature": ["english"],
-    "category": "문서 📃",
-    "subcategory": "Tailwind CSS",
+    "category": "Tailwind CSS",
     "img_url": "https://tailwindcss.com/favicons/favicon.ico?v=3",
     "link": "https://tailwindcss.com"
   },
@@ -470,8 +427,7 @@
     "title": "DaisyUI",
     "content": "최고의 Tailwind Components 라이브러리 | Tailwind CSS용 무료 UI 구성 요소.",
     "feature": ["english"],
-    "category": "문서 📃",
-    "subcategory": "Tailwind CSS",
+    "category": "Tailwind CSS",
     "img_url": "https://daisyui.com/images/daisyui-logo/favicon-180.png",
     "link": "https://daisyui.com"
   },
@@ -479,8 +435,7 @@
     "title": "Flowbite",
     "content": "Tailwind CSS의 유틸리티 클래스로 구축되고 Figma로 설계된 600개 이상의 UI 구성 요소, 섹션 및 페이지로 구성된 오픈 소스 라이브러리로 시작합니다.",
     "feature": ["english"],
-    "category": "문서 📃",
-    "subcategory": "Tailwind CSS",
+    "category": "Tailwind CSS",
     "img_url": "https://flowbite.com/images/logo.svg",
     "link": "https://flowbite.com"
   },
@@ -488,8 +443,7 @@
     "title": "Headless UI",
     "content": "Tailwind CSS와 아름답게 통합되도록 설계된 완전히 스타일화되지 않은 완전히 액세스 가능한 UI 구성 요소입니다.",
     "feature": ["english"],
-    "category": "문서 📃",
-    "subcategory": "Tailwind CSS",
+    "category": "Tailwind CSS",
     "img_url": "https://headlessui.com/favicon-32x32.png",
     "link": "https://headlessui.com"
   },
@@ -497,8 +451,7 @@
     "title": "Kotlin Docs",
     "content": "코틀린 공식 문서",
     "feature": ["english"],
-    "category": "문서 📃",
-    "subcategory": "Programming Language",
+    "category": "Programming Language",
     "img_url": "https://kotlinlang.org/assets/images/favicon.svg?v2",
     "link": "https://kotlinlang.org/docs/home.html"
   },
@@ -506,8 +459,7 @@
     "title": "Java Documentation",
     "content": "Java는 거의 모든 유형의 네트워크 애플리케이션의 기반이며 모바일 애플리케이션, 게임, 웹 기반 콘텐츠, 엔터프라이즈 소프트웨어 개발 및 제공을 위한 글로벌 표준입니다.",
     "feature": ["english"],
-    "category": "문서 📃",
-    "subcategory": "Programming Language",
+    "category": "Programming Language",
     "img_url": "https://docs.oracle.com/sp_common/site-template/ohc-common/img/favicon.ico",
     "link": "https://docs.oracle.com/en/java"
   },
@@ -515,8 +467,7 @@
     "title": "Python3 Documentation",
     "content": "Python3 공식 문서",
     "feature": ["korean"],
-    "category": "문서 📃",
-    "subcategory": "Programming Language",
+    "category": "Programming Language",
     "img_url": "https://docs.python.org/3/_static/py.svg",
     "link": "https://docs.python.org/ko/3"
   },
@@ -524,8 +475,7 @@
     "title": "Node.js Documentation",
     "content": "Node.js 공식 문서",
     "feature": ["english"],
-    "category": "문서 📃",
-    "subcategory": "JavaScript Framework",
+    "category": "JavaScript Framework",
     "img_url": "https://nodejs.org/static/images/favicons/favicon.png",
     "link": "https://nodejs.org/en/docs"
   },
@@ -533,8 +483,7 @@
     "title": "React",
     "content": "React는 웹 및 네이티브 사용자 인터페이스를 위한 라이브러리입니다.",
     "feature": ["english"],
-    "category": "문서 📃",
-    "subcategory": "JavaScript Framework",
+    "category": "JavaScript Framework",
     "img_url": "https://react.dev/favicon-32x32.png",
     "link": "https://react.dev/"
   },
@@ -542,8 +491,7 @@
     "title": "Next.js Docs",
     "content": "Next.js 문서에 오신 것을 환영합니다.",
     "feature": ["english"],
-    "category": "문서 📃",
-    "subcategory": "JavaScript Framework",
+    "category": "JavaScript Framework",
     "img_url": "https://nextjs.org/favicon.ico",
     "link": "https://nextjs.org/docs"
   },
@@ -551,8 +499,7 @@
     "title": "Vuejs Guide",
     "content": "Vue.js - 프로그레시브 자바스크립트 프레임워크",
     "feature": ["english"],
-    "category": "문서 📃",
-    "subcategory": "JavaScript Framework",
+    "category": "JavaScript Framework",
     "img_url": "https://vuejs.org/logo.svg",
     "link": "https://vuejs.org/guide/introduction.html"
   },
@@ -560,8 +507,7 @@
     "title": "Express.js",
     "content": "Express - Node.js 웹 애플리케이션 프레임워크",
     "feature": ["korean"],
-    "category": "문서 📃",
-    "subcategory": "JavaScript Framework",
+    "category": "JavaScript Framework",
     "img_url": "https://expressjs.com/images/favicon.png",
     "link": "https://expressjs.com/ko"
   },
@@ -569,8 +515,7 @@
     "title": "NestJS",
     "content": "Nest는 효율적이고 확장 가능한 Node.js 서버 측 애플리케이션을 구축하기 위한 프레임워크입니다.",
     "feature": ["english"],
-    "category": "문서 📃",
-    "subcategory": "JavaScript Framework",
+    "category": "JavaScript Framework",
     "img_url": "https://docs.nestjs.com/assets/favicons/favicon-32x32.png",
     "link": "https://docs.nestjs.com"
   },
@@ -578,8 +523,7 @@
     "title": "Spring Boot Docs",
     "content": "Spring Boot 공식 문서",
     "feature": ["english"],
-    "category": "문서 📃",
-    "subcategory": "Backend Framework",
+    "category": "Backend Framework",
     "img_url": "https://docs.spring.io/spring-boot/_/img/favicon.ico",
     "link": "https://docs.spring.io/spring-boot/index.html"
   },
@@ -587,8 +531,7 @@
     "title": "Spring Framework Documentation",
     "content": "Spring Framework 공식 문서",
     "feature": ["english"],
-    "category": "문서 📃",
-    "subcategory": "Backend Framework",
+    "category": "Backend Framework",
     "img_url": "https://docs.spring.io/spring-framework/reference/_/img/favicon.ico",
     "link": "https://docs.spring.io/spring-framework/reference/"
   },
@@ -596,8 +539,7 @@
     "title": "Django Documentation",
     "content": "Django 공식 문서",
     "feature": ["korean"],
-    "category": "문서 📃",
-    "subcategory": "Backend Framework",
+    "category": "Backend Framework",
     "img_url": "https://static.djangoproject.com/img/icon-touch.e4872c4da341.png",
     "link": "https://docs.djangoproject.com/ko/5.0/intro"
   },
@@ -605,8 +547,7 @@
     "title": "Spring Guides",
     "content": "Spring 튜토리얼 예제",
     "feature": ["english"],
-    "category": "문서 📃",
-    "subcategory": "Backend Framework",
+    "category": "Backend Framework",
     "img_url": "https://avatars.githubusercontent.com/u/4161866?s=200&v=4",
     "link": "https://github.com/spring-guides"
   },
@@ -614,8 +555,7 @@
     "title": "Flask Docs",
     "content": "Flask의 세계에 오신것을 환영합니다.",
     "feature": ["korean"],
-    "category": "문서 📃",
-    "subcategory": "Backend Framework",
+    "category": "Backend Framework",
     "img_url": "https://flask-docs-kr.readthedocs.io/favicon.ico",
     "link": "https://flask-docs-kr.readthedocs.io/ko/latest/"
   },
@@ -623,17 +563,15 @@
     "title": "Ruby on Rails Guides",
     "content": "Ruby on Rails 공식 가이드",
     "feature": ["english"],
-    "category": "문서 📃",
-    "subcategory": "Backend Framework",
+    "category": "Backend Framework",
     "img_url": "https://guides.rubyonrails.org/images/favicon.ico",
-    "link": "https://guides.rubyonrails.org	"
+    "link": "https://guides.rubyonrails.org"
   },
   {
     "title": "AWS Documentation",
     "content": "AWS 공식 문서",
     "feature": ["korean"],
-    "category": "문서 📃",
-    "subcategory": "Public Cloud",
+    "category": "Public Cloud",
     "img_url": "https://docs.aws.amazon.com/assets/r/images/favicon.ico",
     "link": "https://docs.aws.amazon.com/ko_kr/"
   },
@@ -641,8 +579,7 @@
     "title": "Azure Documentation",
     "content": "Microsoft Azure cloud service를 사용하여 강력한 애플리케이션을 빌드하고 관리하는 방법을 알아봅니다.",
     "feature": ["korean"],
-    "category": "문서 📃",
-    "subcategory": "Public Cloud",
+    "category": "Public Cloud",
     "img_url": "https://learn.microsoft.com/favicon.ico",
     "link": "https://learn.microsoft.com/ko-kr/azure/?product=popular"
   },
@@ -650,8 +587,7 @@
     "title": "Google Cloud Documentation",
     "content": "Google Cloud 제품 및 서비스 관련 종합적인 문서, 가이드, 리소스",
     "feature": ["korean"],
-    "category": "문서 📃",
-    "subcategory": "Public Cloud",
+    "category": "Public Cloud",
     "img_url": "https://www.gstatic.com/devrel-devsite/prod/vff8c7d35de8ade382e79c3b9a923182d876d284b6ae43035fbefc80d49042a6e/cloud/images/favicons/onecloud/favicon.ico",
     "link": "https://cloud.google.com/docs?hl=ko"
   },
@@ -659,8 +595,7 @@
     "title": "NCP (Naver Cloud Platform Guide)",
     "content": "Naver Cloud Platform 사용가이드",
     "feature": ["korean"],
-    "category": "문서 📃",
-    "subcategory": "Public Cloud",
+    "category": "Public Cloud",
     "img_url": "https://cdn.document360.io/6998976f-9d95-4df8-b847-d375892b92c2/Images/Documentation/favicon.png?sv=2022-11-02&spr=https&st=2024-09-11T14%3A33%3A16Z&se=2024-09-11T14%3A43%3A16Z&sr=c&sp=r&sig=TngDGJPXSiH44bN%2BAXdF%2BUE3Jd6TaIxQuxqLOaoR%2Bx8%3D",
     "link": "https://guide.ncloud-docs.com/docs/home"
   },
@@ -668,8 +603,7 @@
     "title": "Android Guide",
     "content": "스마트폰, 시계, 태블릿, 노트북, 폴더블, TV, 자동차 등 무엇을 위해 빌드하든 상관없이 필요한 코드 샘플, 가이드, API 참조입니다.",
     "feature": ["korean"],
-    "category": "문서 📃",
-    "subcategory": "Mobile",
+    "category": "Mobile",
     "img_url": "https://www.gstatic.com/devrel-devsite/prod/vff8c7d35de8ade382e79c3b9a923182d876d284b6ae43035fbefc80d49042a6e/android/images/favicon.svg",
     "link": "https://developer.android.com/develop?hl=ko"
   },
@@ -677,8 +611,7 @@
     "title": "Apple Developer",
     "content": "Apple 플랫폼에서 개발할 절호의 기회입니다",
     "feature": ["korean"],
-    "category": "문서 📃",
-    "subcategory": "Mobile",
+    "category": "Mobile",
     "img_url": "https://developer.apple.com/favicon.ico",
     "link": "https://developer.apple.com/kr"
   },
@@ -686,8 +619,7 @@
     "title": "React Native Documentation",
     "content": "이 유용한 가이드는 React Native 학습, 문서 사용 및 환경 설정을 위한 전제 조건에 대해 설명합니다.",
     "feature": ["english"],
-    "category": "문서 📃",
-    "subcategory": "Mobile",
+    "category": "Mobile",
     "img_url": "https://reactnative.dev/img/favicon.ico",
     "link": "https://reactnative.dev/docs/getting-started"
   },
@@ -695,8 +627,7 @@
     "title": "Flutter Docs",
     "content": "Flutter 시작하기.",
     "feature": ["korean"],
-    "category": "문서 📃",
-    "subcategory": "Mobile",
+    "category": "Mobile",
     "img_url": "https://docs.flutter.dev/assets/images/branding/flutter/icon/64.png",
     "link": "https://docs.flutter.dev/"
   },
@@ -704,8 +635,7 @@
     "title": "Oracle",
     "content": "Oracle은 포괄적인 통합 클라우드 애플리케이션 및 플랫폼 서비스 스택을 제공합니다.",
     "feature": ["korean"],
-    "category": "문서 📃",
-    "subcategory": "Database",
+    "category": "Database",
     "img_url": "https://www.oracle.com/favicon.ico",
     "link": "https://www.oracle.com/kr"
   },
@@ -713,8 +643,7 @@
     "title": "MySQL Documentation",
     "content": "MySQL 공식 문서",
     "feature": ["english"],
-    "category": "문서 📃",
-    "subcategory": "Database",
+    "category": "Database",
     "img_url": "https://labs.mysql.com/common/themes/sakila/favicon.ico",
     "link": "https://dev.mysql.com/doc"
   },
@@ -722,17 +651,16 @@
     "title": "MongoDB Docs",
     "content": "MongoDB 공식 문서",
     "feature": ["korean"],
-    "category": "문서 📃",
-    "subcategory": "Database",
+    "category": "Database",
     "img_url": "https://www.mongodb.com/ko-kr/docs/assets/favicon.ico",
     "link": "https://www.mongodb.com/docs"
   },
   {
-    "title": "PostgreSQL Docs",
+    "title": "PostgreSQL Documentation",
     "content": "PostgreSQL 공식 문서",
     "feature": ["english"],
     "category": "Database",
-    "img_url": "",
+    "img_url": "https://www.postgresql.org/favicon.ico",
     "link": "https://www.postgresql.org/docs"
   },
   {
@@ -740,15 +668,15 @@
     "content": "Redis 공식 문서",
     "feature": ["english"],
     "category": "Database",
-    "img_url": "",
+    "img_url": "https://redis.io/docs/latest/images/favicons/favicon-32x32.png",
     "link": "https://redis.io/docs"
   },
   {
     "title": "Elasticsearch Docs",
     "content": "Elasticsearch 공식 문서",
-    "feature": ["english"],
+    "feature": ["english", "opensource"],
     "category": "Search",
-    "img_url": "",
+    "img_url": "https://www.elastic.co/favicon-32x32.png",
     "link": "https://www.elastic.co/guide/en/elasticsearch/reference/current/docs.html#docs"
   },
   {
@@ -756,55 +684,55 @@
     "content": "Algolia 공식 문서",
     "feature": ["english"],
     "category": "Search",
-    "img_url": "",
+    "img_url": "https://www.algolia.com/doc/assets/images/favicon/favicon-50d8e9ee.ico",
     "link": "https://www.algolia.com/doc"
   },
   {
-    "title": "Ubuntu Docs",
-    "content": "Ubuntu 공식 문서",
-    "feature": ["korean"],
+    "title": "우분투한국커뮤니티",
+    "content": "우분투한국커뮤니티",
+    "feature": ["korean", "opensource"],
     "category": "Linux",
-    "img_url": "",
+    "img_url": "https://ubuntu-kr.org/img/favicon/favicon-32x32.png",
     "link": "https://ubuntu-kr.org"
   },
   {
-    "title": "Fedora Docs",
-    "content": "Fedora 공식 문서",
+    "title": "Fedora Documentation",
+    "content": "페도라 리눅스, 페도라 프로젝트 및 페도라 커뮤니티에 대해 자세히 알아보세요.",
     "feature": ["korean"],
     "category": "Linux",
-    "img_url": "",
+    "img_url": "https://fedoraproject.org/favicon.ico",
     "link": "https://docs.fedoraproject.org/ko/docs"
   },
   {
-    "title": "Debian Docs",
-    "content": "Debian 공식 문서",
+    "title": "Debian",
+    "content": "데비안은 운영체제이며 자유 소프트웨어의 배포판입니다. 시간과 노력을 봉사하는 많은 사용자가 그것을 유지하고 업데이트 합니다.",
     "feature": ["korean"],
     "category": "Linux",
-    "img_url": "",
+    "img_url": "https://www.debian.org/favicon.ico",
     "link": "https://www.debian.org/index.ko.html"
   },
   {
-    "title": "openSUSE Docs",
-    "content": "openSUSE 공식 문서",
-    "feature": ["english"],
+    "title": "openSUSE Documentation",
+    "content": "시스템 관리자와 데스크톱 사용자 모두를 위한 오픈소스 문서입니다.",
+    "feature": ["english", "opensource"],
     "category": "Linux",
-    "img_url": "",
+    "img_url": "https://static.opensuse.org/favicon-32.png",
     "link": "https://doc.opensuse.org"
   },
   {
-    "title": "Manjaro Linux Docs",
-    "content": "Manjaro Linux 공식 문서",
-    "feature": ["english"],
+    "title": "Manjaro",
+    "content": "이 페이지에서는 사용하기 쉽도록 설계된 오픈 소스 운영 체제인 Manjaro Linux에 대한 개요를 제공합니다.",
+    "feature": ["english", "opensource"],
     "category": "Linux",
-    "img_url": "",
-    "link": "https://docs.manjaro.org"
+    "img_url": "https://manjaro.org/favicon.ico",
+    "link": "https://manjaro.org/"
   },
   {
-    "title": "Rocky Linux Docs",
+    "title": "Rocky Linux Documentation",
     "content": "Rocky Linux 공식 문서",
-    "feature": ["english"],
+    "feature": ["english", "opensource"],
     "category": "Linux",
-    "img_url": "",
+    "img_url": "https://docs.rockylinux.org/assets/logo.png",
     "link": "https://docs.rockylinux.org"
   },
   {
@@ -1264,7 +1192,6 @@
     "link": "https://80000coding.oopy.io/"
   },
   {
-    "subcategory": "Awesome",
     "title": "Awesome",
     "content": "프로그래밍 관련 자료모음",
     "feature": ["english"],
@@ -1273,7 +1200,6 @@
     "link": "https://github.com/sindresorhus/awesome"
   },
   {
-    "subcategory": "Awesome",
     "title": "Awesome Node.js",
     "content": "Node.js 관련 자료모음 (Awesome 계열)",
     "feature": ["english"],
@@ -1282,7 +1208,6 @@
     "link": "https://github.com/sindresorhus/awesome-nodejs"
   },
   {
-    "subcategory": "Awesome",
     "title": "Awesome Vue",
     "content": "Vue.js 관련 자료모음 (Awesome 계열)",
     "feature": ["english"],
@@ -1291,7 +1216,6 @@
     "link": "https://github.com/vuejs/awesome-vue"
   },
   {
-    "subcategory": "Awesome",
     "title": "Awesome Svelte",
     "content": "Svelte 관련 자료모음 (Awesome 계열)",
     "feature": ["english"],
@@ -1300,7 +1224,6 @@
     "link": "https://github.com/TheComputerM/awesome-svelte"
   },
   {
-    "subcategory": "Awesome",
     "title": "Awesome Angular",
     "content": "Angular 관련 자료모음 (Awesome 계열)",
     "feature": ["english"],
@@ -1309,7 +1232,6 @@
     "link": "https://github.com/PatrickJS/awesome-angular"
   },
   {
-    "subcategory": "Awesome",
     "title": "Awesome Next.js",
     "content": "Next.js 관련 자료모음 (Awesome 계열)",
     "feature": ["english"],
@@ -1318,7 +1240,6 @@
     "link": "https://github.com/unicodeveloper/awesome-nextjs"
   },
   {
-    "subcategory": "Awesome",
     "title": "Awesome Ruby",
     "content": "Ruby 관련 자료모음 (Awesome 계열)",
     "feature": ["english"],
@@ -1327,7 +1248,6 @@
     "link": "https://github.com/markets/awesome-ruby"
   },
   {
-    "subcategory": "Awesome",
     "title": "Awesome C++",
     "content": "C++ 관련 자료모음 (Awesome 계열)",
     "feature": ["english"],
@@ -1336,7 +1256,6 @@
     "link": "https://github.com/fffaraz/awesome-cpp"
   },
   {
-    "subcategory": "Awesome",
     "title": "Awesome .NET",
     "content": ".NET 관련 자료모음 (Awesome 계열)",
     "feature": ["english"],
@@ -1345,7 +1264,6 @@
     "link": "https://github.com/quozd/awesome-dotnet"
   },
   {
-    "subcategory": "Awesome",
     "title": "Awesome .NET Core",
     "content": ".NET Core 관련 자료모음 (Awesome 계열)",
     "feature": ["english"],
@@ -1354,7 +1272,6 @@
     "link": "https://github.com/thangchung/awesome-dotnet-core"
   },
   {
-    "subcategory": "Awesome",
     "title": "Awesome CSS",
     "content": "CSS 관련 자료모음 (Awesome 계열)",
     "feature": ["english"],
@@ -1363,7 +1280,6 @@
     "link": "https://github.com/awesome-css-group/awesome-css"
   },
   {
-    "subcategory": "Awesome",
     "title": "Awesome Bootstrap",
     "content": "Bootstrap 관련 자료모음 (Awesome 계열)",
     "feature": ["english"],
@@ -1372,7 +1288,6 @@
     "link": "https://github.com/awesome-bootstrap-org/awesome-bootstrap"
   },
   {
-    "subcategory": "Awesome",
     "title": "Awesome Tailwind CSS",
     "content": "Tailwind CSS 관련 자료모음 (Awesome 계열)",
     "feature": ["english"],
@@ -1381,7 +1296,6 @@
     "link": "https://github.com/aniftyco/awesome-tailwindcss"
   },
   {
-    "subcategory": "Awesome",
     "title": "Awesome Fonts",
     "content": "폰트 관련 자료모음 (Awesome 계열)",
     "feature": ["english"],
@@ -1390,7 +1304,6 @@
     "link": "https://github.com/brabadu/awesome-fonts"
   },
   {
-    "subcategory": "Awesome",
     "title": "Awesome Icons",
     "content": "아이콘 관련 자료모음 (Awesome 계열)",
     "feature": ["english"],
@@ -1399,7 +1312,6 @@
     "link": "https://github.com/notlmn/awesome-icons"
   },
   {
-    "subcategory": "Awesome",
     "title": "Awesome Web Icons",
     "content": "웹 아이콘 관련 자료모음 (Awesome 계열)",
     "feature": ["english"],
@@ -1408,788 +1320,562 @@
     "link": "https://github.com/vkarampinis/awesome-icons"
   },
   {
-    "category": "도구 🔨",
-    "subcategory": "Search",
     "title": "Google",
     "content": "검색 엔진",
     "feature": ["english"],
+    "category": "도구 🔨",
     "img_url": "",
     "link": "https://www.google.com/"
   },
   {
-    "category": "도구 🔨",
-    "subcategory": "Search",
     "title": "DuckDuckGo",
     "content": "개인정보 보호 검색 엔진",
     "feature": ["english"],
+    "category": "도구 🔨",
     "img_url": "",
     "link": "https://duckduckgo.com/"
   },
   {
-    "category": "도구 🔨",
-    "subcategory": "Search",
     "title": "Naver",
     "content": "국내 검색 엔진",
     "feature": ["korean"],
+    "category": "도구 🔨",
     "img_url": "",
     "link": "https://www.naver.com/"
   },
   {
-    "category": "도구 🔨",
-    "subcategory": "Search",
     "title": "Daum",
     "content": "국내 검색 엔진",
     "feature": ["korean"],
+    "category": "도구 🔨",
     "img_url": "",
     "link": "https://www.daum.net/"
   },
   {
-    "category": "도구 🔨",
-    "subcategory": "Network",
     "title": "My ip address",
     "content": "IP 주소 조회",
     "feature": ["english"],
+    "category": "도구 🔨",
     "img_url": "",
     "link": "https://whatismyipaddress.com/ip-lookup"
   },
   {
-    "category": "도구 🔨",
-    "subcategory": "Network",
     "title": "내도메인.한국",
     "content": "무료 한국 도메인 발급",
     "feature": ["korean"],
+    "category": "도구 🔨",
     "img_url": "",
     "link": "https://xn--220b31d95hq8o.xn--3e0b707e"
   },
   {
-    "category": "도구 🔨",
-    "subcategory": "Network",
     "title": "Fast.com",
     "content": "넷플릭스에서 제공하는 인터넷 속도 측정기 (브라우저)",
     "feature": ["korean"],
+    "category": "도구 🔨",
     "img_url": "",
     "link": "https://fast.com/ko/"
   },
   {
-    "subcategory": "",
     "title": "Gitmoji",
     "content": "깃 커밋 이모지 모음",
-    "category": "Git",
     "feature": [],
-    "content": "깃 커밋 이모지 모음",
     "category": "Git",
-    "feature": [],
     "img_url": "",
     "link": "https://gitmoji.dev"
   },
   {
-    "subcategory": "",
     "title": "GitHub",
     "content": "Git 플랫폼",
-    "category": "Git",
     "feature": [],
-    "content": "Git 플랫폼",
     "category": "Git",
-    "feature": [],
     "img_url": "",
     "link": "https://github.com"
   },
   {
-    "subcategory": "",
     "title": "GitLab",
     "content": "Git 플랫폼 (GitHub와 유사)",
-    "category": "Git",
     "feature": [],
-    "content": "Git 플랫폼 (GitHub와 유사)",
     "category": "Git",
-    "feature": [],
     "img_url": "",
     "link": "https://about.gitlab.com/"
   },
   {
-    "subcategory": "",
     "title": "Bitbucket",
     "content": "Atlassian에 의해 운영되는 Git 저장소",
-    "category": "Git",
     "feature": [],
-    "content": "Atlassian에 의해 운영되는 Git 저장소",
     "category": "Git",
-    "feature": [],
     "img_url": "",
     "link": "https://bitbucket.org/"
   },
   {
-    "category": "No Code",
-    "subcategory": "",
     "title": "Bubble",
     "content": "노코드 툴 Bubble",
     "feature": [],
-    "content": "노코드 툴 Bubble",
-    "feature": [],
+    "category": "No Code",
     "img_url": "",
     "link": "https://bubble.io"
   },
   {
-    "category": "No Code",
-    "subcategory": "",
     "title": "Flutterflow",
     "content": "노코드 툴 Flutterflow",
     "feature": [],
-    "content": "노코드 툴 Flutterflow",
-    "feature": [],
+    "category": "No Code",
     "img_url": "",
     "link": "https://flutterflow.io"
   },
   {
-    "category": "No Code",
-    "subcategory": "",
     "title": "Waveon",
     "content": "노코드 툴 Wave on",
     "feature": [],
-    "content": "노코드 툴 Wave on",
-    "feature": [],
+    "category": "No Code",
     "img_url": "",
     "link": "https://www.waveon.io"
   },
   {
-    "category": "No Code",
-    "subcategory": "",
     "title": "Webflow",
     "content": "노코드 툴 Webflow",
     "feature": [],
-    "content": "노코드 툴 Webflow",
-    "feature": [],
+    "category": "No Code",
     "img_url": "",
     "link": "https://webflow.com/"
   },
   {
-    "category": "No Code",
-    "subcategory": "",
     "title": "Softr",
     "content": "노코드 툴 Softr",
     "feature": [],
-    "content": "노코드 툴 Softr",
-    "feature": [],
+    "category": "No Code",
     "img_url": "",
     "link": "https://softr.io/"
   },
   {
-    "category": "No Code",
-    "subcategory": "",
     "title": "Adalo",
     "content": "노코드 툴 Adalo",
     "feature": [],
-    "content": "노코드 툴 Adalo",
-    "feature": [],
+    "category": "No Code",
     "img_url": "",
     "link": "https://adalo.com/"
   },
   {
-    "category": "No Code",
-    "subcategory": "",
     "title": "Glide",
     "content": "노코드 툴 Glide",
     "feature": [],
-    "content": "노코드 툴 Glide",
-    "feature": [],
+    "category": "No Code",
     "img_url": "",
     "link": "https://www.glideapps.com/"
   },
   {
-    "category": "API Request",
-    "subcategory": "",
     "title": "Postman",
     "content": "API 디버그 도구",
     "feature": [],
-    "content": "API 디버그 도구",
-    "feature": [],
+    "category": "API Request",
     "img_url": "",
     "link": "https://www.postman.com/downloads"
   },
   {
-    "category": "API Request",
-    "subcategory": "",
     "title": "Swagger",
     "content": "API Documentation 도구",
     "feature": [],
-    "content": "API Documentation 도구",
-    "feature": [],
+    "category": "API Request",
     "img_url": "",
     "link": "https://swagger.io/"
   },
   {
-    "category": "JSON",
-    "subcategory": "",
     "title": "Formatter",
     "content": "CSS/JSON/HTML 포맷 도구",
     "feature": [],
-    "content": "CSS/JSON/HTML 포맷 도구",
-    "feature": [],
+    "category": "JSON",
     "img_url": "",
     "link": "https://formatter.org/json-formatter"
   },
   {
-    "category": "JSON",
-    "subcategory": "",
     "title": "Jsonformatter",
     "content": "JSON 포맷 도구",
     "feature": [],
-    "content": "JSON 포맷 도구",
-    "feature": [],
+    "category": "JSON",
     "img_url": "",
     "link": "https://jsonformatter.curiousconcept.com"
   },
   {
-    "category": "정규 표현식",
-    "subcategory": "",
     "title": "Regex101",
     "content": "온라인 정규 표현식 학습 및 테스트",
     "feature": [],
-    "content": "온라인 정규 표현식 학습 및 테스트",
-    "feature": [],
+    "category": "정규 표현식",
     "img_url": "",
     "link": "https://regex101.com"
   },
   {
-    "category": "정규 표현식",
-    "subcategory": "",
     "title": "Regexr",
     "content": "온라인 정규 표현식 도구",
     "feature": [],
-    "content": "온라인 정규 표현식 도구",
-    "feature": [],
+    "category": "정규 표현식",
     "img_url": "",
     "link": "https://regexr.com"
   },
   {
-    "subcategory": "",
     "title": "Figma",
     "content": "UI/UX 디자인 및 프로토타이핑 도구",
-    "category": "Design",
     "feature": [],
-    "content": "UI/UX 디자인 및 프로토타이핑 도구",
     "category": "Design",
-    "feature": [],
     "img_url": "",
     "link": "https://figma.com"
   },
   {
-    "subcategory": "",
     "title": "Draw.io",
     "content": "다이어그램 작성 도구",
-    "category": "Design",
     "feature": [],
-    "content": "다이어그램 작성 도구",
     "category": "Design",
-    "feature": [],
     "img_url": "",
     "link": "https://app.diagrams.net"
   },
   {
-    "subcategory": "",
     "title": "Canva",
     "content": "무료 디자인 툴",
-    "category": "Design",
     "feature": [],
-    "content": "무료 디자인 툴",
     "category": "Design",
-    "feature": [],
     "img_url": "",
     "link": "https://www.canva.com/ko_kr"
   },
   {
-    "subcategory": "",
     "title": "DGM",
     "content": "다이어그램 작성 도구",
-    "category": "Design",
     "feature": [],
-    "content": "다이어그램 작성 도구",
     "category": "Design",
-    "feature": [],
     "img_url": "",
     "link": "https://dgm.sh/home"
   },
   {
-    "subcategory": "",
     "title": "Pexels",
     "content": "고화질 무료이미지 모음",
-    "category": "Design",
     "feature": [],
-    "content": "고화질 무료이미지 모음",
     "category": "Design",
-    "feature": [],
     "img_url": "",
     "link": "https://www.pexels.com/ko-kr"
   },
   {
-    "subcategory": "",
     "title": "Emojipedia",
     "content": "이모지 저장소",
-    "category": "Design",
     "feature": [],
-    "content": "이모지 저장소",
     "category": "Design",
-    "feature": [],
     "img_url": "",
     "link": "https://emojipedia.org"
   },
   {
-    "subcategory": "",
     "title": "Spring Initializr",
     "content": "Spring 프로젝트 생성기",
-    "category": "Backend Framework",
     "feature": [],
-    "content": "Spring 프로젝트 생성기",
     "category": "Backend Framework",
-    "feature": [],
     "img_url": "",
     "link": "https://start.spring.io"
   },
   {
-    "subcategory": "",
     "title": "Ktor Project Generator",
     "content": "Ktor 프로젝트 생성기",
-    "category": "Backend Framework",
     "feature": [],
-    "content": "Ktor 프로젝트 생성기",
     "category": "Backend Framework",
-    "feature": [],
     "img_url": "",
     "link": "https://start.ktor.io/#/settings"
   },
   {
-    "category": "Code Formatter & Linter",
-    "subcategory": "",
     "title": "Ktlint",
     "content": "코틀린 코드 포메터",
     "feature": [],
-    "content": "코틀린 코드 포메터",
-    "feature": [],
+    "category": "Code Formatter & Linter",
     "img_url": "",
     "link": "https://pinterest.github.io/ktlint/latest/"
   },
   {
-    "category": "Code Formatter & Linter",
-    "subcategory": "",
     "title": "Prettier",
     "content": "대표적인 코드 포매터",
     "feature": [],
-    "content": "대표적인 코드 포매터",
-    "feature": [],
+    "category": "Code Formatter & Linter",
     "img_url": "",
     "link": "https://prettier.io/"
   },
   {
-    "category": "Code Formatter & Linter",
-    "subcategory": "",
     "title": "ESLint",
     "content": "자바스크립트 린터",
     "feature": [],
-    "content": "자바스크립트 린터",
-    "feature": [],
+    "category": "Code Formatter & Linter",
     "img_url": "",
     "link": "https://eslint.org/"
   },
   {
-    "category": "IDE",
-    "subcategory": "Jetbrains",
     "title": "Fleet",
     "content": "Jetbrains에서 개발한 텍스트 에디터",
     "feature": [],
-    "content": "Jetbrains에서 개발한 텍스트 에디터",
-    "feature": [],
+    "category": "IDE",
     "img_url": "",
     "link": "https://www.jetbrains.com/ko-kr/fleet"
   },
   {
-    "category": "IDE",
-    "subcategory": "Jetbrains",
     "title": "IntelliJ IDEA",
     "content": "Jetbrains에서 개발한 통합 개발 환경 (Java, Kotlin)",
     "feature": [],
-    "content": "Jetbrains에서 개발한 통합 개발 환경 (Java, Kotlin)",
-    "feature": [],
+    "category": "IDE",
     "img_url": "",
     "link": "https://www.jetbrains.com/ko-kr/idea"
   },
   {
-    "category": "IDE",
-    "subcategory": "Jetbrains",
     "title": "CLion",
     "content": "Jetbrains에서 개발한 통합 개발 환경 (C, C++)",
     "feature": [],
-    "content": "Jetbrains에서 개발한 통합 개발 환경 (C, C++)",
-    "feature": [],
+    "category": "IDE",
     "img_url": "",
     "link": "https://www.jetbrains.com/ko-kr/clion"
   },
   {
-    "category": "IDE",
-    "subcategory": "Jetbrains",
     "title": "DataGrip",
     "content": "Jetbrains에서 개발한 통합 개발 환경 (SQL)",
     "feature": [],
-    "content": "Jetbrains에서 개발한 통합 개발 환경 (SQL)",
-    "feature": [],
+    "category": "IDE",
     "img_url": "",
     "link": "https://www.jetbrains.com/ko-kr/datagrip"
   },
   {
-    "category": "IDE",
-    "subcategory": "Jetbrains",
     "title": "DataSpell",
     "content": "Jetbrains에서 개발한 통합 개발 환경 (SQL)",
     "feature": [],
-    "content": "Jetbrains에서 개발한 통합 개발 환경 (SQL)",
-    "feature": [],
+    "category": "IDE",
     "img_url": "",
     "link": "https://www.jetbrains.com/ko-kr/dataspell"
   },
   {
-    "category": "IDE",
-    "subcategory": "Jetbrains",
     "title": "WebStorm",
     "content": "Jetbrains에서 개발한 통합 개발 환경 (JavaScript)",
     "feature": [],
-    "content": "Jetbrains에서 개발한 통합 개발 환경 (JavaScript)",
-    "feature": [],
+    "category": "IDE",
     "img_url": "",
     "link": "https://www.jetbrains.com/ko-kr/webstorm"
   },
   {
-    "category": "IDE",
-    "subcategory": "Jetbrains",
     "title": "PyCharm",
     "content": "Jetbrains에서 개발한 통합 개발 환경 (Python)",
     "feature": [],
-    "content": "Jetbrains에서 개발한 통합 개발 환경 (Python)",
-    "feature": [],
+    "category": "IDE",
     "img_url": "",
     "link": "https://www.jetbrains.com/ko-kr/pycharm"
   },
   {
-    "category": "IDE",
-    "subcategory": "Jetbrains",
     "title": "RubyMine",
     "content": "Jetbrains에서 개발한 통합 개발 환경 (Ruby)",
     "feature": [],
-    "content": "Jetbrains에서 개발한 통합 개발 환경 (Ruby)",
-    "feature": [],
+    "category": "IDE",
     "img_url": "",
     "link": "https://www.jetbrains.com/ko-kr/ruby"
   },
   {
-    "category": "IDE",
-    "subcategory": "Jetbrains",
     "title": "Rider",
     "content": "Jetbrains에서 개발한 통합 개발 환경 (C#, .NET)",
     "feature": [],
-    "content": "Jetbrains에서 개발한 통합 개발 환경 (C#, .NET)",
-    "feature": [],
+    "category": "IDE",
     "img_url": "",
     "link": "https://www.jetbrains.com/ko-kr/rider/"
   },
   {
-    "category": "IDE",
-    "subcategory": "Jetbrains",
     "title": "Writerside",
     "content": "Jetbrains에서 개발한 통합 개발 환경 (Document)",
     "feature": [],
-    "content": "Jetbrains에서 개발한 통합 개발 환경 (Document)",
-    "feature": [],
+    "category": "IDE",
     "img_url": "",
     "link": "https://www.jetbrains.com/ko-kr/writerside"
   },
   {
-    "category": "IDE",
-    "subcategory": "Jetbrains",
     "title": "RustRover",
     "content": "Jetbrains에서 개발한 통합 개발 환경 (Rust)",
     "feature": [],
-    "content": "Jetbrains에서 개발한 통합 개발 환경 (Rust)",
-    "feature": [],
+    "category": "IDE",
     "img_url": "",
     "link": "https://www.jetbrains.com/ko-kr/rust"
   },
   {
-    "category": "IDE",
-    "subcategory": "Jetbrains",
     "title": "GoLand",
     "content": "Jetbrains에서 개발한 통합 개발 환경 (Go)",
     "feature": [],
-    "content": "Jetbrains에서 개발한 통합 개발 환경 (Go)",
-    "feature": [],
+    "category": "IDE",
     "img_url": "",
     "link": "https://www.jetbrains.com/ko-kr/go"
   },
   {
-    "category": "IDE",
-    "subcategory": "Jetbrains",
     "title": "Aqua",
     "content": "Jetbrains에서 개발한 통합 개발 환경 (Testing)",
     "feature": [],
-    "content": "Jetbrains에서 개발한 통합 개발 환경 (Testing)",
-    "feature": [],
+    "category": "IDE",
     "img_url": "",
     "link": "https://www.jetbrains.com/ko-kr/aqua"
   },
   {
-    "category": "IDE",
-    "subcategory": "Jetbrains",
     "title": "Android Studio",
     "content": "Jetbrains에서 개발한 통합 개발 환경 (Android)",
     "feature": [],
-    "content": "Jetbrains에서 개발한 통합 개발 환경 (Android)",
-    "feature": [],
+    "category": "IDE",
     "img_url": "",
     "link": "https://developer.android.com/studio?hl=ko"
   },
   {
     "title": "Visual Studio Code",
     "content": "Microsoft에서 개발한 텍스트 에디터",
-    "title": "Visual Studio Code",
-    "content": "Microsoft에서 개발한 텍스트 에디터",
+    "feature": [],
     "category": "IDE",
-    "subcategory": "Other",
-    "feature": [],
-    "feature": [],
     "img_url": "",
     "link": "https://code.visualstudio.com"
   },
   {
     "title": "Visual Studio",
     "content": "Microsoft에서 개발한 통합 개발 환경",
-    "title": "Visual Studio",
-    "content": "Microsoft에서 개발한 통합 개발 환경",
+    "feature": [],
     "category": "IDE",
-    "subcategory": "Other",
-    "feature": [],
-    "feature": [],
     "img_url": "",
     "link": "https://visualstudio.microsoft.com/ko"
   },
   {
     "title": "Geany",
     "content": "빠르고 가벼운 통합 개발 환경",
-    "title": "Geany",
-    "content": "빠르고 가벼운 통합 개발 환경",
+    "feature": [],
     "category": "IDE",
-    "subcategory": "Other",
-    "feature": [],
-    "feature": [],
     "img_url": "",
     "link": "https://www.geany.org"
   },
   {
     "title": "sublime Text",
     "content": "크로스 플랫폼의 텍스트 에디터",
-    "title": "sublime Text",
-    "content": "크로스 플랫폼의 텍스트 에디터",
+    "feature": [],
     "category": "IDE",
-    "subcategory": "Other",
-    "feature": [],
-    "feature": [],
     "img_url": "",
     "link": "https://www.sublimetext.com"
   },
   {
     "title": "Notepad++",
     "content": "윈도우 전용 텍스트 에디터",
-    "title": "Notepad++",
-    "content": "윈도우 전용 텍스트 에디터",
+    "feature": [],
     "category": "IDE",
-    "subcategory": "Other",
-    "feature": [],
-    "feature": [],
     "img_url": "",
     "link": "https://notepad-plus-plus.org"
   },
   {
     "title": "Eclipse",
     "content": "자바 기반의 통합 개발 환경",
-    "title": "Eclipse",
-    "content": "자바 기반의 통합 개발 환경",
+    "feature": [],
     "category": "IDE",
-    "subcategory": "Other",
-    "feature": [],
-    "feature": [],
     "img_url": "",
     "link": "https://www.eclipse.org"
   },
   {
     "title": "Colab",
     "content": "호스팅된 Jupyter 노트북 서비스로, 설정하지 않고 사용 가능하며 GPU를 포함한 컴퓨팅 리소스를 무료로 사용",
-    "title": "Colab",
-    "content": "호스팅된 Jupyter 노트북 서비스로, 설정하지 않고 사용 가능하며 GPU를 포함한 컴퓨팅 리소스를 무료로 사용",
+    "feature": [],
     "category": "IDE",
-    "subcategory": "Other",
-    "feature": [],
-    "feature": [],
     "img_url": "",
     "link": "https://colab.research.google.com/?hl=ko#"
   },
   {
     "title": "Xcode",
     "content": "Apple에서 개발한 통합 개발 환경",
-    "title": "Xcode",
-    "content": "Apple에서 개발한 통합 개발 환경",
+    "feature": [],
     "category": "IDE",
-    "subcategory": "Other",
-    "feature": [],
-    "feature": [],
     "img_url": "",
     "link": "https://developer.apple.com/kr/xcode/"
   },
   {
     "title": "online gdb",
     "content": "온라인 컴파일러 및 디버거 도구",
-    "title": "online gdb",
-    "content": "온라인 컴파일러 및 디버거 도구",
+    "feature": [],
     "category": "IDE",
-    "subcategory": "Other",
-    "feature": [],
-    "feature": [],
     "img_url": "",
     "link": "https://www.onlinegdb.com"
   },
   {
     "title": "URL Encode and Decode",
     "content": "온라인 url 인코더/디코더",
-    "title": "URL Encode and Decode",
-    "content": "온라인 url 인코더/디코더",
+    "feature": [],
     "category": "IDE",
-    "subcategory": "Other",
-    "feature": [],
-    "feature": [],
     "img_url": "",
     "link": "https://www.urlencoder.org"
   },
   {
     "title": "Cody AI",
     "content": "Visual Studio Code AI 플러그인",
-    "title": "Cody AI",
-    "content": "Visual Studio Code AI 플러그인",
+    "feature": [],
     "category": "AI",
-    "subcategory": "",
-    "feature": [],
-    "feature": [],
     "img_url": "",
     "link": "https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai"
   },
   {
     "title": "GitHub Copilot",
     "content": "GitHub에서 개발한 프로그래밍 AI",
-    "title": "GitHub Copilot",
-    "content": "GitHub에서 개발한 프로그래밍 AI",
+    "feature": [],
     "category": "AI",
-    "subcategory": "",
-    "feature": [],
-    "feature": [],
     "img_url": "",
     "link": "https://github.com/features/copilot"
   },
   {
     "title": "Tabnine",
     "content": "Tabnine에서 개발한 프로그래밍 AI",
-    "title": "Tabnine",
-    "content": "Tabnine에서 개발한 프로그래밍 AI",
+    "feature": [],
     "category": "AI",
-    "subcategory": "",
-    "feature": [],
-    "feature": [],
     "img_url": "",
     "link": "https://www.tabnine.com"
   },
   {
     "title": "OpenAI Codex",
     "content": "OpenAI에서 개발한 프로그래밍 AI",
-    "title": "OpenAI Codex",
-    "content": "OpenAI에서 개발한 프로그래밍 AI",
+    "feature": [],
     "category": "AI",
-    "subcategory": "",
-    "feature": [],
-    "feature": [],
     "img_url": "",
     "link": "https://openai.com/blog/openai-codex"
   },
   {
     "title": "CodeT5",
     "content": "Salesforce에서 개발한 프로그래밍 AI",
-    "title": "CodeT5",
-    "content": "Salesforce에서 개발한 프로그래밍 AI",
+    "feature": [],
     "category": "AI",
-    "subcategory": "",
-    "feature": [],
-    "feature": [],
     "img_url": "",
     "link": "https://github.com/salesforce/CodeT5"
   },
   {
     "title": "Code LMs",
     "content": "VHellendoorn이 개발한 프로그래밍 AI",
-    "title": "Code LMs",
-    "content": "VHellendoorn이 개발한 프로그래밍 AI",
+    "feature": [],
     "category": "AI",
-    "subcategory": "",
-    "feature": [],
-    "feature": [],
     "img_url": "",
     "link": "https://github.com/VHellendoorn/Code-LMs"
   },
   {
     "title": "Codeium",
     "content": "Codium에서 개발한 프로그래밍 AI",
-    "title": "Codeium",
-    "content": "Codium에서 개발한 프로그래밍 AI",
+    "feature": [],
     "category": "AI",
-    "subcategory": "",
-    "feature": [],
-    "feature": [],
     "img_url": "",
     "link": "https://codeium.com"
   },
   {
     "title": "ChatGPT",
     "content": "OpenAI에서 개발한 대화형 AI",
-    "title": "ChatGPT",
-    "content": "OpenAI에서 개발한 대화형 AI",
+    "feature": [],
     "category": "AI",
-    "subcategory": "",
-    "feature": [],
-    "feature": [],
     "img_url": "",
     "link": "https://chatgpt.com"
   },
   {
     "title": "Claude",
     "content": " 앤트로픽에서 개발한 대화형 AI",
-    "title": "ChatGPT",
-    "content": " 앤트로픽에서 개발한 대화형 AI",
+    "feature": [],
     "category": "AI",
-    "subcategory": "",
-    "feature": [],
-    "feature": [],
     "img_url": "",
     "link": "https://claude.ai"
   },
   {
-    "subcategory": "",
     "title": "TTSMaker",
     "content": "텍스트 음성 변환 도구",
-    "category": "Other",
     "feature": [],
-    "content": "텍스트 음성 변환 도구",
     "category": "Other",
-    "feature": [],
     "img_url": "",
     "link": "https://ttsmaker.com/ko"
   },
   {
-    "subcategory": "",
     "title": "IT Tools",
     "content": "개발할 때 유용한 Crypto, Converter, Parser 기능이 있는 웹사이트",
-    "category": "Other",
     "feature": ["english"],
+    "category": "Other",
     "img_url": "https://it-tools.tech/favicon.ico",
     "link": "https://it-tools.tech"
   }

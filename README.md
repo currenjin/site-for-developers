@@ -1,5 +1,9 @@
 **⚠ 일부 데이터를 수정, 추가하고 있습니다. 잘못된 정보가 있다면 PR을 올려주세요!**
 
+<p align="middle">
+<img src="resources/icons/header_base/576x157/header_image.svg">
+</p>
+
 ## 어떤 저장소인가요?
 
 - 개발자가 참고하면 좋은 대표적인 웹사이트를 모아놓은 북마크 저장소입니다. 많은 분들에게 도움이 되었으면 좋겠습니다. 🙏🏾
@@ -12,7 +16,9 @@
 ## 기여자
 
 <img src="https://img.shields.io/badge/author-currenjin-5c7cfa" width="130" />
-<a href="https://github.com/currenjin/site-for-developers/graphs/contributors"><img src="https://opencollective.com/site-for-developers/contributors.svg?width=720"></a>
+<a href="https://github.com/currenjin/site-for-developers/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=currenjin/site-for-developers" />
+</a>
 
 ## 목차
 
