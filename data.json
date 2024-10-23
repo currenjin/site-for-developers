@@ -1728,6 +1728,14 @@
     "link": "https://visualstudio.microsoft.com/ko"
   },
   {
+    "title": "Cursor IDE",
+    "content": "AI 기반 통합 개발 환경",
+    "feature": [],
+    "category": "IDE",
+    "img_url": "",
+    "link": "https://www.cursor.com/"
+  },
+  {
     "title": "Geany",
     "content": "빠르고 가벼운 통합 개발 환경",
     "feature": [],
