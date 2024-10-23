@@ -494,6 +494,7 @@
 | ------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 |        | [Visual Studio Code <sub>O, F</sub>](https://code.visualstudio.com) | Microsoft에서 개발한 텍스트 에디터                                                                     |
 |        | [Visual Studio <sub>$</sub>](https://visualstudio.microsoft.com/ko) | Microsoft에서 개발한 통합 개발 환경                                                                    |
+|        | [Cursor IDE <sub>$</sub>](https://www.cursor.com/)                  | VSCode 기반 AI 코드 에디터                                                                             |
 |        | [Geany <sub>O, F</sub>](https://www.geany.org/)                     | 빠르고 가벼운 통합 개발 환경                                                                           |
 |        | [sublime Text <sub>$</sub>](https://www.sublimetext.com/)           | 크로스 플랫폼의 텍스트 에디터                                                                          |
 |        | [Notepad++ <sub>O, F</sub>](https://notepad-plus-plus.org/)         | 윈도우 전용 텍스트 에디터                                                                              |
