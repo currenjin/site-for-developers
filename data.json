@@ -240,12 +240,12 @@
     "link": "https://www.udemy.com"
   },
   {
-    "title": "Edwith",
-    "content": "에드위드(edwith)는 네이버(NAVER)와 네이버 커넥트재단(NAVER Connect)이 제공하는 온라인 강좌(MOOC : Massive Online Open Course) 교육 플랫폼입니다.",
+    "title": "boostcourse",
+    "content": "부스트코스는 네이버(NAVER)와 네이버 커넥트재단(NAVER Connect)이 제공하는 온라인 강좌 플랫폼입니다.",
     "feature": ["korean"],
     "category": "학습",
-    "img_url": "https://ssl.pstatic.net/static/m/mooc/p/partner/next/favicon.ico",
-    "link": "https://www.edwith.org/?validMobileApp=true"
+    "img_url": "https://ssl.pstatic.net/static/m/mooc/p/partner/boostcrs/favicon-32x32.png",
+    "link": "https://www.boostcourse.org/"
   },
   {
     "title": "TCP School (Java)",
