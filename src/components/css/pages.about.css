@@ -1,0 +1,3 @@
+.about div {
+    @apply p-2 mb-2 rounded-lg border-2;
+}
