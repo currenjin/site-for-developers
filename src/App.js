@@ -6,6 +6,7 @@ import { Link, Route, Routes } from "react-router-dom";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import Contribute from "./pages/Contribute";
+import NotFound from "./pages/NotFound";
 
 const App = () => {
   return (
@@ -20,6 +21,7 @@ const App = () => {
               className="menu menu-sm dropdown-content mt-2 z-[1] border-2 bg-base-100 rounded-box w-[8.5rem] md:w-[4.4rem]">
               <li><Link to="/">메인</Link></li>
               <li><Link to="/about">소개</Link></li>
+              <li><Link to="/contribute">기여</Link></li>
               <div className="block md:hidden">
               <li><a href="https://discord.gg/kdVAeDGx" rel="noreferrer" target="_blank">Discord</a></li>
               <li><a href="https://stats.uptimerobot.com/Klr3b7eDKs" rel="noreferrer" target="_blank">웹사이트 상태</a></li>
@@ -27,7 +29,7 @@ const App = () => {
             </ul>
           </div>
           <a className="btn btn-ghost text-xl font-bold" href="/">
-            <img src="https://cdn.jsdelivr.net/gh/currenjin/site-for-developers/resources/icon_transparent/128x128/icon_transparent.svg" width="36" alt="Site For Developers logo" />
+            <img src="https://cdn.jsdelivr.net/gh/currenjin/site-for-developers/resources/icons/icon_transparent/128x128/icon_transparent.svg" width="36" alt="Site For Developers logo" />
             <p className="navbar_title">Site For Developers</p>
           </a>
         </div>
@@ -44,11 +46,12 @@ const App = () => {
           </button>
         </div>
       </div>
-      <div className="ml-2 mr-2">
+      <div className="mx-2">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/contribute" element={<Contribute />} />
+          <Route path="*" element={<NotFound />} />
         </Routes>
       </div>
     </div>

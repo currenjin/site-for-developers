@@ -1,18 +1,18 @@
-.mddatacontribute a {
-    @apply underline text-blue-600 hover:text-blue-800 visited:text-purple-600
+.contribute a {
+    @apply underline text-blue-600 hover:text-blue-800 visited:text-purple-600;
 }
 
-.mddatacontribute h1,h2 {
+.contribute h1,h2 {
     font-weight: bold;
     font-size: 1.6rem;
-    margin-top: 1.5rem;
+    margin-top: 1rem;
 }
 
-.mddatacontribute h1:first-of-type {
+.contribute h1:first-of-type {
     margin-top: 0;
 }
 
-.mddatacontribute h3 {
+.contribute h3 {
     font-weight: bold;
-    font-size: 1.4rem;
+    font-size: 1rem;
 }

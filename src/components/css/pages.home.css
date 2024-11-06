@@ -1,0 +1,39 @@
+.home a {
+    @apply underline text-blue-600 hover:text-blue-800 visited:text-purple-600;
+}
+
+.home h1,h2 {
+    font-weight: bold;
+    font-size: 1.6rem;
+    margin-top: 1rem;
+}
+
+.home h1:first-of-type {
+    margin-top: 0;
+}
+
+.home h3 {
+    font-weight: bold;
+    font-size: 1.4rem;
+    margin-top: 1rem;
+}
+
+.home h4 {
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-top: 1rem;
+}
+
+.home h5 {
+    font-weight: bold;
+    font-size: 1rem;
+    margin-top: 1rem;
+}
+
+.home table img {
+    width: 1.5rem;
+}
+
+.home th,td {
+    @apply p-1.5 border-2;
+}
