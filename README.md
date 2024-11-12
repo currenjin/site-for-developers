@@ -1,4 +1,4 @@
-<p>
+<p align="middle">
 <img src="resources/icons/header_base/576x157/header_image.svg">
 </p>
 
