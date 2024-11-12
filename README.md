@@ -69,8 +69,7 @@
 
 ## 링크
 
-<details>
-  <summary><span id="recommend">추천 👍</span></summary>
+- <span id="recommend">추천 👍</span>
 
   - [Stack Overflow <sub>EN</sub>](https://stackoverflow.com) - Stack Overflow는 개발자가 학습하고 프로그래밍 지식을 공유하며 경력을 쌓을 수 있는 가장 큰 신뢰할 수 있는 온라인 커뮤니티
   - [Wikidocs <sub>KR</sub>](https://wikidocs.net) - 온라인 책을 제작 공유하는 플랫폼 서비스
@@ -79,10 +78,7 @@
   - [Roadmap <sub>EN. O</sub>](https://roadmap.sh) - 개발자들이 경력에서 성장할 수 있도록 커뮤니티 기반 로드맵
   - [Free for Developers <sub>EN</sub>](https://free-for.dev) - 개발자들과 오픈 소스 저자들은 이제 무료 계층을 제공하는 엄청난 양의 서비스를 제공하고 있지만, 정보에 입각한 의사 결정을 내리기 위해 이들을 모두 찾기는 어려울 수 있습니다
 
-</details>
-
-<details>
-  <summary><span id="community">커뮤니티 💬</span></summary>
+- <span id="community">커뮤니티 💬</span>
 
   - <span id="tech-community">기술 커뮤니티</span>
     - [Velog <sub>KR</sub>](https://velog.io) - 개발자들을 위한 블로그 서비스
@@ -136,10 +132,7 @@
     - [코딩도장 <sub>KR</sub>](https://codingdojang.com) - 프로그래밍 문제풀이를 통해서 코딩 실력을 수련
     - [LeetCode <sub>EN, $</sub>](https://leetcode.com/) - 코딩 기술을 향상시키고 빨리 직장을 구하세요. 이곳은 여러분의 지식을 확장하고 다음 인터뷰를 준비할 수 있는 최고의 장소입니다
 
-</details>
-
-<details>
-  <summary><span id="document">문서 📃</span></summary>
+- <span id="document">문서 📃</span>
   
   - <span id="web">Web</span>
     - [MDN Docs <sub>KR</sub>](https://developer.mozilla.org/ko/docs/Web/HTML) - MDN Web Docs 사이트는 웹 사이트와 프로그레시브 웹 앱 모두를 위한 HTML, CSS 및 API를 포함한 Open Web 기술에 대한 정보를 제공합니다
@@ -238,10 +231,7 @@
     - [Refactoring.Guru<sub>$, EN, KR</sub>](https://refactoring.guru/ko/design-patterns) - 리팩토링, 디자인 패턴과 관련된 다양한 정보를 담은 문서, 영어 및 한국어로도 작성되어 있어 유지보수가 쉬운 코드를 작성하기 위해 필요한 정보에 대해 쉽게 접근 가능하며 다양한 디자인 패턴과의 관계 파악에 도움이 됨
     - [Patterns.dev <sub>EN</sub>](https://www.patterns.dev/) - Vanilla JavaScript 또는 최신 웹 프레임워크를 위한 디자인, 렌더링 및 성능 패턴에 대한 내용을 담고 있습니다
 
-</details>
-
-<details>
-  <summary><span id="blog">블로그 📚</span></summary>
+- <span id="blog">블로그 📚</span>
 
   - [우아한형제들 기술블로그 <sub>KR</sub>](https://techblog.woowahan.com/) - 우아한형제들 기술블로그
   - [카카오 기술블로그 <sub>KR</sub>](https://tech.kakao.com/blog/) - 카카오 기술블로그
@@ -279,20 +269,14 @@
   - [GooglePlay Engineering <sub>EN</sub>](https://medium.com/googleplaydev) - 구글 플레이 엔지니어링 블로그
   - [Dropbox Tech Blog <sub>EN</sub>](https://dropbox.tech/) - Dropbox 기술블로그
 
-</details>
-
-<details>
-  <summary><span id="video">동영상 🎦</span></summary>
+- <span id="video">동영상 🎦</span>
 
   - [개발 관련 유튜브 모음 <sub>KR</sub>](https://mp4.okdevtv.com/) - OKdevTV 국내 개발 관련 유튜버 영상 모음
   - [조코딩 JoCoding <sub>KR</sub>](https://www.youtube.com/@jocoding) - 프로그래밍에 대해 아무것도 모르더라도 개발이 가능하도록 기초부터 차근차근 쉽게 설명
   - [생활코딩 <sub>KR</sub>](https://www.youtube.com/@coohde) - 일반인에게 프로그래밍을 알려주는 온라인/오프라인 활동
   - [우아한테크 <sub>KR</sub>](https://www.youtube.com/@woowatech) - 우아한형제들의 기술조직 동영상
 
-</details>
-
-<details>
-  <summary><span id="collection-of-data">자료모음 🧾</span></summary>
+- <span id="collection-of-data">자료모음 🧾</span>
 
   - [팔만코딩경 <sub>KR</sub>](https://80000coding.oopy.io/) - 개발 관련 자료모음
 
@@ -314,10 +298,7 @@
     - [Awesome Icons <sub>EN, O</sub>](https://github.com/notlmn/awesome-icons) - 아이콘 관련 자료모음 (Awesome 계열)
     - [Awesome Web Icons <sub>EN, O</sub>](https://github.com/vkarampinis/awesome-icons) - 웹 아이콘 관련 자료모음 (Awesome 계열)
 
-</details>
-
-<details>
-  <summary><span id="tool">도구 🔨</span></summary>
+- <span id="tool">도구 🔨</span>
 
   - <span id="search-tool">Search</span>
     - [Google](https://www.google.com/) - 검색 엔진
@@ -419,5 +400,3 @@
   - <span id="other-tool">Other</span>
     - [TTSMaker](https://ttsmaker.com/ko) - 텍스트 음성 변환 도구
     - [IT Tools](https://it-tools.tech) - 개발할 때 유용한 Crypto, Converter, Parser 기능이 있는 웹사이트
-
-</details>
