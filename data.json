@@ -320,6 +320,14 @@
     "link": "https://codeforces.com"
   },
   {
+    "title": "solved.ac",
+    "content": "알고리즘 문제해결 학습의 이정표 Baekjoon Online Judge 문제들의 난이도 및 티어 정보를 제공하는 사이트입니다.",
+    "feature": ["korean"],
+    "category": "문제풀이",
+    "img_url": "https://solved.ac/favicon.ico",
+    "link": "https://solved.ac"
+  },
+  {
     "title": "Programmers",
     "content": "개발자 취업의 필수 관문 코딩테스트를 철저하게 연습하고 대비할 수 있는 문제를 총망라!",
     "feature": ["korean"],
@@ -566,6 +574,14 @@
     "category": "Backend Framework",
     "img_url": "https://guides.rubyonrails.org/images/favicon.ico",
     "link": "https://guides.rubyonrails.org"
+  },
+  {
+    "title": "FastAPI Docs",
+    "content": "FastAPI 공식 문서",
+    "feature": ["korean"],
+    "category": "Backend Framework",
+    "img_url": "https://fastapi.tiangolo.com/ko/img/favicon.png",
+    "link": "https://fastapi.tiangolo.com/ko/"
   },
   {
     "title": "AWS Documentation",
