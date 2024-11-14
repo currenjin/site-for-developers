@@ -131,6 +131,7 @@
     - [Programmers <sub>KR</sub>](https://school.programmers.co.kr/learn/challenges) - 개발자 취업의 필수 관문 코딩테스트를 철저하게 연습하고 대비할 수 있는 문제를 총망라
     - [코딩도장 <sub>KR</sub>](https://codingdojang.com) - 프로그래밍 문제풀이를 통해서 코딩 실력을 수련
     - [LeetCode <sub>EN, $</sub>](https://leetcode.com/) - 코딩 기술을 향상시키고 빨리 직장을 구하세요. 이곳은 여러분의 지식을 확장하고 다음 인터뷰를 준비할 수 있는 최고의 장소입니다
+    - [solved.ac <sub>KR</sub>](https://solved.ac) - 알고리즘 문제해결 학습의 이정표 Baekjoon Online Judge 문제들의 난이도 및 티어 정보를 제공하는 사이트입니다
 
 - <span id="document">문서 📃</span>
   
@@ -174,6 +175,7 @@
     - [ExpressJS <sub>KR</sub>](https://expressjs.com/ko) - ExpressJS 공식 홈페이지
     - [Ruby On Rails Guide](https://guides.rubyonrails.org) - Ruby On Rails 공식 가이드
     - [NestJS](https://docs.nestjs.com/) - NestJS 공식 문서
+    - [FastAPI Docs <sub>KR</sub>](https://fastapi.tiangolo.com/ko/) - FastAPI 공식 문서
 
   - <span id="public-cloud">Public Cloud</span>
     - [AWS Documentation <sub>KR</sub>](https://docs.aws.amazon.com/ko_kr/) - AWS 공식 문서
