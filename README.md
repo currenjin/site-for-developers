@@ -270,6 +270,7 @@
   - [X (구 Twitter) Engineering <sub>EN</sub>](https://blog.twitter.com/engineering/en_us) - X (구 Twitter) 엔지니어링 블로그
   - [GooglePlay Engineering <sub>EN</sub>](https://medium.com/googleplaydev) - 구글 플레이 엔지니어링 블로그
   - [Dropbox Tech Blog <sub>EN</sub>](https://dropbox.tech/) - Dropbox 기술블로그
+  - [Spotify Engineering <sub>EN</sub>](https://engineering.atspotify.com/) - Spotify 엔지니어링 블로그
 
 - <span id="video">동영상 🎦</span>
 
