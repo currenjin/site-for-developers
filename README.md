@@ -319,6 +319,7 @@
     - [GitHub <sub>$</sub>](https://github.com)        - Git 플랫폼
     - [GitLab <sub>$</sub>](https://about.gitlab.com/) - Git 플랫폼 (GitHub와 유사)
     - [Bitbucket <sub>$</sub>](https://bitbucket.org/) - Atlassian에 의해 운영되는 Git 저장소
+    - [grep <sub>$</sub>](https://grep.app/search) - GitHub 공개 저장소 전체를 대상으로 코드를 검색할 수 있는 도구 
 
   - <span id="no-code">No Code</span>
     - [Bubble](https://bubble.io) - 노코드 툴 Bubble
