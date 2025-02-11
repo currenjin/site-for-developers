@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 
 const NotFound = () => {
     return (
-        <div className="p-2 rounded-lg border-2">
+        <div className="p-2 rounded-lg border border-slate-400">
             <p align="middle">
                 <span className="text-6xl">404 Not Found</span>
                 <br/>

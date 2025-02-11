@@ -31,7 +31,7 @@ const Home = () => {
   return (
     <div>
       <div
-        className="home p-2 rounded-lg border-2"
+        className="home p-2 rounded-lg border border-slate-400"
         dangerouslySetInnerHTML={{ __html: mdData }}
       ></div>
     </div>

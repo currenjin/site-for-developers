@@ -15,10 +15,10 @@ const App = () => {
         <div className="navbar-start">
           <div className="dropdown">
             <div tabIndex={0} role="button" className="btn btn-ghost btn-circle">
-              <FaBars size={30} />
+              <FaBars size={26} />
             </div>
             <ul tabIndex={0}
-              className="menu menu-sm dropdown-content mt-2 z-[1] border-2 bg-base-100 rounded-box w-[8.5rem] md:w-[4.4rem]">
+              className="menu menu-sm dropdown-content mt-2 z-[1] border border-slate-400 bg-base-100 rounded-box w-36">
               <li><Link to="/">메인</Link></li>
               <li><Link to="/about">소개</Link></li>
               <li><Link to="/contribute">기여</Link></li>
@@ -36,17 +36,17 @@ const App = () => {
         <div className="navbar-end hidden md:flex">
           <button className="btn btn-ghost btn-circle">
             <a href="https://discord.gg/kdVAeDGx" rel="noreferrer" target="_blank">
-              <FaDiscord size={30} />
+              <FaDiscord size={26} />
             </a>
           </button>
           <button className="btn btn-ghost btn-circle">
             <a href="https://stats.uptimerobot.com/Klr3b7eDKs" rel="noreferrer" target="_blank">
-              <FaCheckCircle size={30} />
+              <FaCheckCircle size={26} />
             </a>
           </button>
         </div>
       </div>
-      <div className="mx-2">
+      <div className="m-2">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
