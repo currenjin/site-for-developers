@@ -222,6 +222,7 @@
     - [Discord API <sub>EN</sub>](https://discord.com/developers/docs/intro) - Discord API 공식 문서
     - [GitHub REST API <sub>EN</sub>](https://docs.github.com/en/rest?apiVersion=2022-11-28) - GitHub REST API 공식 문서
     - [GitHub REST API <sub>KR</sub>](https://docs.github.com/ko/rest) - GitHub REST API 공식 문서
+    - [Google Cloud API <sub>KR</sub>](https://cloud.google.com/apis?hl=ko) - 구글 클라우드 API 공식 문서
 
   - <span id="git">Git</span>
     - [Git](https://git-scm.com) - Git 공식 문서
