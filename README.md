@@ -242,6 +242,7 @@
   - [카카오 기술블로그 <sub>KR</sub>](https://tech.kakao.com/blog/) - 카카오 기술블로그
   - [쿠팡 기술블로그 <sub>KR</sub>](https://medium.com/@coupang-engineering-kr) - 쿠팡 기술블로그
   - [왓챠 팀블로그 <sub>KR</sub>](https://medium.com/watcha) - 왓챠 팀블로그
+  - [토스 기술블로그 <sub>KR</sub>](https://toss.tech/tech) - 토스 기술블로그
   - [컬리 기술블로그 <sub>KR</sub>](https://helloworld.kurly.com/) - 컬리 기술블로그
   - [뱅크샐러드 기술블로그 <sub>KR</sub>](https://blog.banksalad.com/tech/) - 뱅크샐러드 기술블로그
   - [NHN 클라우드 밋업 <sub>KR</sub>](https://meetup.nhncloud.com/) - NHN 클라우드 밋업
