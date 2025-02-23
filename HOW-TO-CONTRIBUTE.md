@@ -2,8 +2,7 @@
 
 - [How to contrubute](#how-to-contribute)
 - [시작하기에 앞서](#시작하기에-앞서)
-  - [1. 데이터 작성 규칙](#1-데이터-작성-규칙)
-  - [2. 브랜딩 규칙](#2-브랜딩-규칙)
+  - [데이터 작성 규칙](#데이터-작성-규칙)
 - [목차](#목차)
 - [README.md](#readmemd)
   - [1. Fork this repository](#1-fork-this-repository)
@@ -34,14 +33,12 @@
 ## How to contribute
 
 아래의 방법으로 Pull Request를 올려주시면 됩니다.<br/>
-Site For Developers는 GitHub README.md, 웹사이트, 안드로이드 앱으로 구성되어 있습니다.<br/>
+Site For Developers는 GitHub README.md, 웹사이트로 구성되어 있습니다.<br/>
 지금 기여하셔서 Site For Developers를 더 유익하고 편리한 레포지토리로 만들어 주세요!
 
 ## 시작하기에 앞서
 
-- 이 Repository의 정식 명칭은 **Site For Developers** 입니다.
-
-### 1. 데이터 작성 규칙
+### 데이터 작성 규칙
 
 - 데이터 작성은 아래의 작성 형식을 따르면 됩니다.
   - **title 태그**는 웹사이트 head의 <title>을 작성하시면 됩니다.
@@ -68,7 +65,7 @@ Site For Developers는 GitHub README.md, 웹사이트, 안드로이드 앱으로
 
 ### 2. Clone forked repository
 
-포크한 레포지토리를 clone해 주세요.
+포크한 레포지토리를 클론해 주세요.
 
 ```
 $ git clone https://github.com/[username]/site-for-developers.git
@@ -86,7 +83,7 @@ $ git commit -m "[your description]"
 
 ### 4. Push your commit
 
-커밋을 포크한 레포지토리로 push해 주세요.
+커밋을 포크한 레포지토리로 푸쉬해 주세요.
 
 ⚠ 이 명령어에서 'origin'은 당신이 포크한 레포지토리여야 합니다.
 
@@ -100,7 +97,7 @@ Pull Request를 등록해 주세요. [Pull Request 등록하는법](https://wayh
 
 ### 6. Pull request has been approved
 
-🎉 관리자에 의해 Pull Request가 승인되면 당신은 기여자 명단에 올라가게 됩니다 🎉
+🎉 관리자에 의해 Pull Request가 승인되면 기여자 명단에 올라가게 됩니다 🎉
 
 ## Website
 
@@ -112,7 +109,7 @@ Pull Request를 등록해 주세요. [Pull Request 등록하는법](https://wayh
 
 ### 2. Clone forked repository
 
-포크한 레포지토리를 clone해 주세요.
+포크한 레포지토리를 클론해 주세요.
 
 ```
 $ git clone -b website https://github.com/[username]/site-for-developers.git
@@ -146,7 +143,7 @@ $ git commit -m "[your description]"
 
 ### 6. Push your commit
 
-커밋을 포크한 레포지토리로 push해 주세요.
+커밋을 포크한 레포지토리로 푸쉬해 주세요.
 
 ⚠ 이 명령어에서 'origin'은 당신이 포크한 레포지토리의 리모트여야 합니다.
 
@@ -160,7 +157,7 @@ Pull Request를 등록해 주세요. [Pull Request 등록하는법](https://wayh
 
 ### 8. Pull request has been approved
 
-🎉 관리자에 의해 Pull Request가 승인되면 당신은 기여자 명단에 올라가게 됩니다 🎉
+🎉 관리자에 의해 Pull Request가 승인되면 기여자 명단에 올라가게 됩니다 🎉
 
 ## Android
 
@@ -172,7 +169,7 @@ Pull Request를 등록해 주세요. [Pull Request 등록하는법](https://wayh
 
 ### 2. Clone forked repository
 
-포크한 레포지토리를 clone해 주세요.
+포크한 레포지토리를 클론해 주세요.
 
 ```
 $ git clone -b website https://github.com/[username]/site-for-developers.git
@@ -199,7 +196,7 @@ $ git commit -m "[your description]"
 
 ### 6. Push yout commit
 
-커밋을 포크한 레포지토리로 push해 주세요.
+커밋을 포크한 레포지토리로 푸쉬해 주세요.
 
 ⚠ 이 명령어에서 'origin'은 당신이 포크한 레포지토리의 리모트여야 합니다.
 
@@ -213,4 +210,4 @@ Pull Request를 등록해 주세요. [Pull Request 등록하는법](https://wayh
 
 ### 8. Pull request has been approved
 
-🎉 관리자에 의해 Pull Request가 승인되면 당신은 기여자 명단에 올라가게 됩니다 🎉
+🎉 관리자에 의해 Pull Request가 승인되면 기여자 명단에 올라가게 됩니다 🎉
