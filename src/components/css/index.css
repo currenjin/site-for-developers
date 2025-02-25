@@ -1,8 +1,7 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap');
+@import "tailwindcss";
+@plugin "daisyui";
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css");
 
 html, body {
-    font-family: "Noto Sans KR", Arial, sans-serif;
+    font-family: "Pretendard", Arial, sans-serif;
 }

@@ -1,3 +1,13 @@
+@reference "tailwindcss";
+
+a {
+    @apply underline text-blue-600 hover:text-blue-800 visited:text-purple-600;
+}
+
+.navbar a {
+    @apply no-underline text-black
+}
+
 .navbar_title {
     background: linear-gradient(to right, #364FC7, #4263EB);
     color: transparent;
