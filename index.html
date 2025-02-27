@@ -11,13 +11,6 @@
     <meta content="https://sfd.kro.kr" property="og:url">
     <link href="https://cdn.jsdelivr.net/gh/currenjin/site-for-developers/resources/icons/icon_transparent/128x128/icon_transparent.svg" rel="icon"/>
     <title>Site For Developers</title>
-    <script>
-        (function(){var w=window;if(w.ChannelIO){return w.console.error("ChannelIO script included twice.");}var ch=function(){ch.c(arguments);};ch.q=[];ch.c=function(args){ch.q.push(args);};w.ChannelIO=ch;function l(){if(w.ChannelIOInitialized){return;}w.ChannelIOInitialized=true;var s=document.createElement("script");s.type="text/javascript";s.async=true;s.src="https://cdn.channel.io/plugin/ch-plugin-web.js";var x=document.getElementsByTagName("script")[0];if(x.parentNode){x.parentNode.insertBefore(s,x);}}if(document.readyState==="complete"){l();}else{w.addEventListener("DOMContentLoaded",l);w.addEventListener("load",l);}})();
-
-        ChannelIO('boot', {
-        "pluginKey": "6cb2ddfc-f167-4cb3-8500-6227a995dddc"
-        });
-    </script>
 </head>
 <body>
     <noscript>
@@ -25,5 +18,6 @@
         </br><a href="https://support.google.com/adsense/answer/12654?hl=ko" target="_blank">다음 링크</a>에 접속하셔서 브라우저 자바스크립트를 활성화해주세요.
     </noscript>
     <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
 </body>
 </html>

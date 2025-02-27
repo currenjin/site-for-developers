@@ -2,7 +2,7 @@ import "../components/css/pages.contribute.css";
 import { marked } from "marked";
 import { gfmHeadingId } from "marked-gfm-heading-id";
 import axios from "axios";
-import { useState, React } from "react";
+import { useState } from "react";
 
 const Home = () => {
   const [mdDataContribute, setmdDataContribute] = useState([]);

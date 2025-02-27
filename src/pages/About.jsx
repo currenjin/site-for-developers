@@ -1,6 +1,6 @@
 import "../components/css/pages.about.css";
 import axios from "axios";
-import { useState, React } from "react";
+import { useState } from "react";
 
 const About = () => {
   const [repositoryData, setrepositoryData] = useState([]);
