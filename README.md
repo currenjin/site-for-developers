@@ -245,6 +245,7 @@
   - [토스 기술블로그 <sub>KR</sub>](https://toss.tech/tech) - 토스 기술블로그
   - [컬리 기술블로그 <sub>KR</sub>](https://helloworld.kurly.com/) - 컬리 기술블로그
   - [뱅크샐러드 기술블로그 <sub>KR</sub>](https://blog.banksalad.com/tech/) - 뱅크샐러드 기술블로그
+  - [올리브영 기술블로그 <sub>KR</sub>](https://oliveyoung.tech/) - 올리브영 기술블로그
   - [NHN 클라우드 밋업 <sub>KR</sub>](https://meetup.nhncloud.com/) - NHN 클라우드 밋업
   - [하이퍼커넥트 기술블로그 <sub>KR</sub>](https://hyperconnect.github.io/) - 하이퍼커넥트 기술블로그
   - [당근마켓 기술블로그 <sub>KR</sub>](https://medium.com/daangn/development/home) - 당근마켓 기술블로그
