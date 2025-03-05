@@ -1061,6 +1061,13 @@
       "link": "https://d2.naver.com/home"
     },
     {
+      "title": "롯데이노베이트 기술블로그",
+      "content": "롯데이노베이트 AI 기술블로그",
+      "feature": ["korean"],
+      "img_url":"",
+      "link":"https://slashpage.com/lotte-innovate-ai"
+    },
+    {
       "title": "Engineering at Meta",
       "content": "메타 엔지니어링 블로그",
       "feature": ["english"],
