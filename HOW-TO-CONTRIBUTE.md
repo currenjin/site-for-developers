@@ -42,9 +42,12 @@ Site For Developers는 GitHub README.md, 웹사이트로 구성되어 있습니�
 
 - 데이터 작성은 아래의 작성 형식을 따르면 됩니다.
   - **title 태그**는 웹사이트 head의 <title>을 작성하시면 됩니다.
-  - **content 태그**는 웹사이트 head의 <meta name="description">을 작성하시면 됩니다. (description이 존재하지 않는다면 title로 대체하여 주시기 바랍니다.)
-  - **feature 태그**는 웹사이트의 특징에 따라
-  - **img_url 태그**는 웹사이트 head의 <link rel="icon">을 작성하시면 됩니다. (icon이 존재하지 않는다면 shortcut icon을 작성하시고 둘 다 없다면 공백으로 두시면 됩니다.)
+  - **content 태그**는 웹사이트 head의 <meta name="description">을 작성하시면 됩니다.
+    - description이 존재하지 않는다면 title로 대체하여 주시기 바랍니다.
+    - description이 영어로 작성되어 있다면 한국어로 번역해주시기 바랍니다.
+    - description이 두 문장 이상이라면 처음 문장만 작성해주시기 바랍니다.
+  - **feature 태그**는 웹사이트의 특징을 아래에서 골라 작성하시면 됩니다.
+    (무료: free / 유료 혹은 부분적 유료: pay / 한국어: korean / 영어: english / 오픈소스: opensource)
   - **link 태그**는 웹사이트의 주소를 작성하시면 됩니다.
 
 ```
@@ -52,7 +55,6 @@ Site For Developers는 GitHub README.md, 웹사이트로 구성되어 있습니�
 "title": "",
 "content": "",
 "feature": [""],
-"img_url": "",
 "link": ""
 }
 ```
