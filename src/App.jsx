@@ -24,7 +24,6 @@ const App = () => {
               <li><Link to="/contribute">기여</Link></li>
               {/* Social (Mobile) */}
               <div className="block md:hidden">
-                <li><a href="https://discord.gg/dRUBrU2t4J" rel="noreferrer" target="_blank">Discord</a></li>
                 <li><a href="https://stats.uptimerobot.com/Klr3b7eDKs" rel="noreferrer" target="_blank">웹사이트 상태</a></li>
               </div>
             </ul>
@@ -36,11 +35,6 @@ const App = () => {
         </div>
         {/* Social (Desktop) */}
         <div className="navbar-end hidden md:flex">
-          <button className="btn btn-ghost btn-circle">
-            <a href="https://discord.gg/dRUBrU2t4J" rel="noreferrer" target="_blank">
-              <FaDiscord size={26} />
-            </a>
-          </button>
           <button className="btn btn-ghost btn-circle">
             <a href="https://stats.uptimerobot.com/Klr3b7eDKs" rel="noreferrer" target="_blank">
               <FaCheckCircle size={26} />
