@@ -10,34 +10,31 @@ import NotFound from "./pages/NotFound";
 const App = () => {
   return (
     <div>
+      {/* Navbar */}
       <div className="navbar bg-base-100">
         <div className="navbar-start">
           <div className="dropdown">
-            <div tabIndex={0} role="button" className="btn btn-ghost btn-circle">
+            <div tabIndex={0} role="button" className="btn btn-ghost btn-circle ml-1">
               <FaBars size={26} />
             </div>
             <ul tabIndex={0}
-              className="menu menu-sm dropdown-content mt-2 z-[1] border border-slate-400 bg-base-100 rounded-box w-36">
+              className="menu dropdown-content mt-2 z-[1] border-2 border-indigo-600 bg-base-100 rounded-lg w-42">
               <li><Link to="/">메인</Link></li>
               <li><Link to="/about">소개</Link></li>
               <li><Link to="/contribute">기여</Link></li>
+              {/* Social (Mobile) */}
               <div className="block md:hidden">
-              <li><a href="https://discord.gg/kdVAeDGx" rel="noreferrer" target="_blank">Discord</a></li>
-              <li><a href="https://stats.uptimerobot.com/Klr3b7eDKs" rel="noreferrer" target="_blank">웹사이트 상태</a></li>
+                <li><a href="https://stats.uptimerobot.com/Klr3b7eDKs" rel="noreferrer" target="_blank">웹사이트 상태</a></li>
               </div>
             </ul>
           </div>
-          <a className="btn btn-ghost text-xl font-bold" href="/">
+          <a className="btn btn-ghost text-xl" href="/">
             <img src="https://cdn.jsdelivr.net/gh/currenjin/site-for-developers/resources/icons/icon_transparent/128x128/icon_transparent.svg" width="36" alt="Site For Developers logo" />
-            <p className="navbar_title">Site For Developers</p>
+            <p className="navbar_title text-indigo-600">Site For Developers</p>
           </a>
         </div>
+        {/* Social (Desktop) */}
         <div className="navbar-end hidden md:flex">
-          <button className="btn btn-ghost btn-circle">
-            <a href="https://discord.gg/kdVAeDGx" rel="noreferrer" target="_blank">
-              <FaDiscord size={26} />
-            </a>
-          </button>
           <button className="btn btn-ghost btn-circle">
             <a href="https://stats.uptimerobot.com/Klr3b7eDKs" rel="noreferrer" target="_blank">
               <FaCheckCircle size={26} />
@@ -45,7 +42,7 @@ const App = () => {
           </button>
         </div>
       </div>
-      <div className="m-2">
+      <div className="mx-2 mb-2">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
