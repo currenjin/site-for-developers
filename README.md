@@ -172,6 +172,7 @@
 
   - <span id="backend-framework">Backend Framework</span>
     - [Spring Boot Docs <sub>EN</sub>](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle) - Spring Boot 공식 문서
+    - [토리맘의 한글라이즈 프로젝트 <sub>KR</sub>(https://godekdls.github.io/) - Spring Boot 한글 번역 문서
     - [Spring Docs <sub>EN</sub>](https://docs.spring.io/spring-framework/docs/current/reference/html) - Spring 공식 문서
     - [Django Docs <sub>KR</sub>](https://docs.djangoproject.com/ko/5.0/intro) - Django 공식 문서
     - [Spring Guides](https://github.com/spring-guides) - Spring 튜토리얼 예제
