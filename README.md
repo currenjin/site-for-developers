@@ -78,6 +78,7 @@
   - [Roadmap <sub>EN. O</sub>](https://roadmap.sh) - 개발자들이 경력에서 성장할 수 있도록 커뮤니티 기반 로드맵
   - [Free for Developers <sub>EN</sub>](https://free-for.dev) - 개발자들과 오픈 소스 저자들은 이제 무료 계층을 제공하는 엄청난 양의 서비스를 제공하고 있지만, 정보에 입각한 의사 결정을 내리기 위해 이들을 모두 찾기는 어려울 수 있습니다
   - [IT Tools <sub>EN</sub>](https://it-tools.tech/ulid-generator) - 개발자들이 사용하기 편리한 도구를 모아놓은 사이트
+  - [Excalidraw](https://excalidraw.com/) - 간편한 다이어그램 작성 도구
 
 - <span id="community">커뮤니티 💬</span>
 
@@ -358,6 +359,7 @@
     - [DGM](https://dgm.sh/home) - 다이어그램 작성 도구
     - [Pexels](https://www.pexels.com/ko-kr) - 고화질 무료이미지 모음
     - [Emojipedia](https://emojipedia.org) - 이모지 저장소
+    - [Excalidraw](https://excalidraw.com/) - 간편한 다이어그램 작성 도구
 
   - <span id="backend-framework-tool">Backend Framework</span>
     - [Spring Initializr](https://start.spring.io) - Spring 프로젝트 생성기
