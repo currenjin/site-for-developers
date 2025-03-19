@@ -89,7 +89,7 @@
     - [Cikorea <sub>KR</sub>](https://www.cikorea.net) - CodeIgniter 한국사용자포럼, PHP Framework
     - [Jsdev <sub>KR</sub>](https://jsdev.kr) - 자바스크립트 개발자 포럼
     - [Laravel <sub>KR</sub>](https://laravel.kr/) - laravel korea community 라라벨 코리아
-    - [프로그래머스 <sub>EN</sub>](https://qna.programmers.co.kr/)) - 프로그래머스 QnA는 프로그래밍 문제해결을 위한 QnA서비스입니다
+    - [프로그래머스 <sub>EN</sub>](https://qna.programmers.co.kr/) - 프로그래머스 QnA는 프로그래밍 문제해결을 위한 QnA서비스입니다
     - [Devstu <sub>KR</sub>](https://devstu.co.kr/howto) - 모두가 함께하는, 지식을 지식으로 갚아나가는 한국 개발 커뮤니티입니다
     - [Careerly <sub>KR</sub>](https://careerly.co.kr) - 개발 트렌드, Q&A, 탑 개발자들과의 네트워킹까지
     - [Stack Exchange <sub>EN</sub>](https://stackexchange.com) - Stack Overflow 및 170개 이상의 커뮤니티 기반 Q&A 사이트를 만듭니다
