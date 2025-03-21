@@ -13,7 +13,7 @@ const About = () => {
     });
 
   return (
-    <div className="about">
+    <div className="about m-2">
       <div>명칭: Site For Developers</div>
       <div>소개: {repositoryData.description}</div>
       <div>

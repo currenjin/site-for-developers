@@ -1,7 +1,7 @@
 @reference "tailwindcss";
 
 a {
-    @apply underline text-indigo-600 hover:text-indigo-800;
+    @apply underline text-indigo-600 hover:text-indigo-900;
 }
 
 .navbar a {

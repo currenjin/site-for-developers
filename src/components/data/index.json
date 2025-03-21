@@ -1,0 +1,118 @@
+[
+  {
+    "id": "techcommunity",
+    "name": "기술 커뮤니티"
+  },
+  {
+    "id": "educationcommunity",
+    "name": "교육 커뮤니티"
+  },
+  {
+    "id": "news",
+    "name": "뉴스"
+  },
+  {
+    "id": "study",
+    "name": "학습"
+  },
+  {
+    "id": "codingtest",
+    "name": "문제풀이"
+  },
+  {
+    "id": "web",
+    "name": "웹"
+  },
+  {
+    "id": "design",
+    "name": "디자인"
+  },
+  {
+    "id": "programminglanguage",
+    "name": "프로그래밍 언어"
+  },
+  {
+    "id": "javascriptframework",
+    "name": "자바스크립트 프레임워크"
+  },
+  {
+    "id": "backendframework",
+    "name": "백엔드 프레임워크"
+  },
+  {
+    "id": "publiccloud",
+    "name": "클라우드"
+  },
+  {
+    "id": "mobile",
+    "name": "모바일"
+  },
+  {
+    "id": "database",
+    "name": "데이터베이스"
+  },
+  {
+    "id": "search",
+    "name": "검색"
+  },
+  {
+    "id": "linux",
+    "name": "리눅스"
+  },
+  {
+    "id": "infra",
+    "name": "인프라"
+  },
+  {
+    "id": "api",
+    "name": "API"
+  },
+  {
+    "id": "git",
+    "name": "Git"
+  },
+  {
+    "id": "other",
+    "name": "기타"
+  },
+  {
+    "id": "blog",
+    "name": "블로그"
+  },
+  {
+    "id": "video",
+    "name": "동영상"
+  },
+  {
+    "id": "collectionofdata",
+    "name": "자료모음"
+  },
+  {
+    "id": "tool",
+    "name": "도구"
+  },
+  {
+    "id": "nocode",
+    "name": "노코드"
+  },
+  {
+    "id": "json",
+    "name": "JSON"
+  },
+  {
+    "id": "regex",
+    "name": "정규 표현식"
+  },
+  {
+    "id": "codeformatter",
+    "name": "코드 포매터"
+  },
+  {
+    "id": "ide",
+    "name": "IDE"
+  },
+  {
+    "id": "ai",
+    "name": "AI"
+  }
+]
