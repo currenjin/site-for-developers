@@ -1,5 +1,5 @@
 <p align="middle">
-<img src="resources/icons/header_base/576x157/header_image.svg">
+<img src="resources/icons/header_base/576x157/header_base.svg">
 </p>
 
 ## 어떤 저장소인가요?
@@ -110,12 +110,12 @@
   - <span id="news">뉴스</span>
     - [Dzone <sub>EN</sub>](https://dzone.com) - 프로그래밍, 웹 개발 및 DevOps 뉴스, 초보자부터 전문가를 위한 튜토리얼 및 도구
     - [ZDNet <sub>EN</sub>](https://www.zdnet.com/) - ZDNET 뉴스와 조언을 통해 전문가들은 혁신을 수용하고 더 나은 미래를 구축할 준비가 되어 있습니다
-    - [ZDNet <sub>KR</sub>](https://zdnet.co.kr/) - 국가대표 테크미디어 
+    - [ZDNet <sub>KR</sub>](https://zdnet.co.kr/) - 국가대표 테크미디어
     - [InfoQ <sub>EN</sub>](https://www.infoq.com) - 개발 팀이 새로운 기술과 관행을 채택할 수 있도록 돕습니다
     - [Techcrunch <sub>EN</sub>](https://techcrunch.com) - TechCrunch. 기술, 스타트업, 벤처캐피탈 펀딩, 실리콘밸리 사업 보고
     - [개발자스럽다 <sub>KR</sub>](https://blog.gaerae.com/) - 블로그와 SNS에서 주기적으로 기술 정보를 찾고 분류하여 가치를 더해 공유합니다
     - [요즘IT <sub>KR</sub>](https://yozm.wishket.com/magazine/list/develop/) - 개발을 위한 모든 IT 콘텐츠를 확인해 보세요
-    - [GeekNews <sub>KR</sub>](https://news.hada.io/) - 개발 뉴스, 기술 관련 새소식, 스타트업 정보와 노하우, 세상의 재미난 것들을 좋아하는 사람들을 위한 뉴스 사이트. 이메일 뉴스레터/트위터/슬랙 봇으로 구독 가능 
+    - [GeekNews <sub>KR</sub>](https://news.hada.io/) - 개발 뉴스, 기술 관련 새소식, 스타트업 정보와 노하우, 세상의 재미난 것들을 좋아하는 사람들을 위한 뉴스 사이트. 이메일 뉴스레터/트위터/슬랙 봇으로 구독 가능
 
   - <span id="study">학습</span>
     - [Opentutorials <sub>KR</sub>](https://opentutorials.org) - 비영리 단체 오픈튜토리얼스는 내가 할 수 있는 것을 남도 할 수 있게, 남이 할 수 있는 것을 나도 할 수 있게 하는 콘텐츠를 담아내는 온라인 서비스인 opentutorials.org를 운영하기 위해서 만들어졌습니다
@@ -138,7 +138,7 @@
     - [solved.ac <sub>KR</sub>](https://solved.ac) - 알고리즘 문제해결 학습의 이정표 Baekjoon Online Judge 문제들의 난이도 및 티어 정보를 제공하는 사이트입니다
 
 - <span id="document">문서 📃</span>
-  
+
   - <span id="web">Web</span>
     - [MDN Docs <sub>KR</sub>](https://developer.mozilla.org/ko/docs/Web/HTML) - MDN Web Docs 사이트는 웹 사이트와 프로그레시브 웹 앱 모두를 위한 HTML, CSS 및 API를 포함한 Open Web 기술에 대한 정보를 제공합니다
     - [Javascript.info <sub>KR</sub>](https://ko.javascript.info) - 모던 자바스크립트 튜토리얼은 클로저, 문서 객체 모델, 이벤트, 객체 지향 프로그래밍 등의 다양한 주제에 대한 설명과 예시, 과제를 담고 있습니다
