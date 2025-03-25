@@ -1,6 +1,5 @@
 import "./components/css/App.css";
-import { FaDiscord, FaBars } from "react-icons/fa6";
-import { FaCheckCircle } from "react-icons/fa";
+import { FaCheckCircle, FaBars, FaGithub } from "react-icons/fa";
 import { Link, Route, Routes } from "react-router-dom";
 import Home from "./pages/Home";
 import About from "./pages/About";
@@ -11,30 +10,36 @@ const App = () => {
   return (
     <div>
       {/* Navbar */}
-      <div className="navbar bg-base-100">
+      <div className="navbar m-3 w-auto border-2 rounded-2xl border-indigo-600 bg-base-100">
         <div className="navbar-start">
           <div className="dropdown">
             <div tabIndex={0} role="button" className="btn btn-ghost btn-circle ml-1">
               <FaBars size={26} />
             </div>
             <ul tabIndex={0}
-              className="menu dropdown-content mt-2 z-[1] border-2 border-indigo-600 bg-base-100 rounded-lg w-42">
+              className="menu dropdown-content mt-2 z-[1] border-2 border-indigo-600 bg-base-100 rounded-2xl w-42">
               <li><Link to="/">메인</Link></li>
               <li><Link to="/about">소개</Link></li>
               <li><Link to="/contribute">기여</Link></li>
               {/* Social (Mobile) */}
               <div className="block md:hidden">
+                <li><a href="https://github.com/currenjin/site-for-developers" rel="noreferrer" target="_blank">GitHub</a></li>
                 <li><a href="https://stats.uptimerobot.com/Klr3b7eDKs" rel="noreferrer" target="_blank">웹사이트 상태</a></li>
               </div>
             </ul>
           </div>
           <a className="btn btn-ghost text-xl" href="/">
-            <img src="https://cdn.jsdelivr.net/gh/currenjin/site-for-developers/resources/icons/icon_transparent/128x128/icon_transparent.svg" width="36" alt="Site For Developers logo" />
+            <img src="https://cdn.jsdelivr.net/gh/currenjin/site-for-developers/resources/icons/icon_transparent/64x64/icon_transparent.svg" width="36" alt="Site For Developers logo" />
             <p className="navbar_title text-indigo-600">Site For Developers</p>
           </a>
         </div>
         {/* Social (Desktop) */}
         <div className="navbar-end hidden md:flex">
+          <button className="btn btn-ghost btn-circle">
+            <a href="https://github.com/currenjin/site-for-developers" rel="noreferrer" target="_blank">
+              <FaGithub size={26} />
+            </a>
+          </button>
           <button className="btn btn-ghost btn-circle">
             <a href="https://stats.uptimerobot.com/Klr3b7eDKs" rel="noreferrer" target="_blank">
               <FaCheckCircle size={26} />
