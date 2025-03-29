@@ -413,6 +413,7 @@
     - [ChatGPT](https://chatgpt.com/) - OpenAI에서 개발한 대화형 AI
     - [Claude](https://claude.ai) - 앤트로픽에서 개발한 대화형 AI
     - [Deepseek](https://www.deepseek.com/) - DeekSeek에서 개발한 대화형 AI
+    - [Gemini](https://gemini.google.com/app?hl=ko) - Google에서 개발한 대화형 AI
 
   - <span id="other-tool">Other</span>
     - [TTSMaker](https://ttsmaker.com/ko) - 텍스트 음성 변환 도구
