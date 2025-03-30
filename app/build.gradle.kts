@@ -4,15 +4,15 @@ plugins {
 }
 
 android {
-    namespace = "com.rivercory.sitefordevelopers"
+    namespace = "com.currenjin.sitefordevelopers"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.rivercory.sitefordevelopers"
+        applicationId = "com.currenjin.sitefordevelopers"
         minSdk = 28
         targetSdk = 34
         versionCode = 1
-        versionName = "0.1.2 Beta"
+        versionName = "beta"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
