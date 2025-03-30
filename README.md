@@ -98,6 +98,8 @@
     - [Coderanch <sub>EN</sub>](https://coderanch.com) - 그린혼을 프로그래밍하는 친근한 장소인 Coderanch
     - [Stack Overflow <sub>EN</sub>](https://stackoverflow.com) - Stack Overflow는 개발자가 학습하고 프로그래밍 지식을 공유하며 경력을 쌓을 수 있는 가장 큰 신뢰할 수 있는 온라인 커뮤니티입니다
     - [매일메일 <sub>KR</sub>](https://www.maeil-mail.kr/) - 매일 메일로 기술 면접 질문을 보내주는 구독 서비스
+    - [Hugging Face <sub>EN</sub>](https://huggingface.co/) - 세계 최대 규모 AI 커뮤니티
+    
 
   - <span id="education-community">교육 커뮤니티</span>
     - [Inflearn <sub>$, KR</sub>](https://www.inflearn.com) - 프로그래밍, 인공지능, 데이터, 마케팅, 디자인, 엑셀 실무 등 입문부터 실전까지 업계 최고 선배들에게 배울 수 있는 곳
