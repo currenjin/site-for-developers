@@ -1,15 +1,7 @@
 @import "tailwindcss";
 @plugin "daisyui";
 
-@font-face {
-    font-family: 'SUIT-Regular';
-    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_suit@1.0/SUIT-Regular.woff2') format('woff2');
-    font-weight: normal;
-    font-style: normal;
-    unicode-range: U+1100-11FF, U+3130-318F, U+A960-A97F, U+AC00-D7A3, U+D7B0-D7FF;
-}
-
 html, body {
-    font-family: "SUIT-Regular", "Inter", Arial, sans-serif;
+    font-family: "Pretendard", Arial, sans-serif;
     scroll-behavior: smooth;
 }
