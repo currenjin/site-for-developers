@@ -1,4 +1,4 @@
-package com.rivercory.sitefordevelopers
+package com.currenjin.sitefordevelopers
 
 import org.junit.Test
 
