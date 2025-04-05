@@ -1,28 +1,24 @@
-const JSONContainer = ({ category, title, data, paddingtop = true }) => {
-
-   const categoryData = data[category] || [];
-
+const JSONContainer = ({ category, title, data }) => {
    return (
-      <div id={category} className={paddingtop ? "pt-6" : null}>
-         <span className="text-3xl text-indigo-600 font-bold">{title}</span>
-         {categoryData.map((db) => (
-            <div className="my-2 p-4 rounded-2xl border-2 border-indigo-600" key={db.title}>
-               <div className="md:flex justify-between">
-                  <div>
-                     <span className="text-4xl">{db.title}</span><br />
-                     <span className="text-xl">{db.content}</span><br />
-                     {db.feature?.map((dbfeature) => (
-                        <div key={dbfeature} className="badge badge-soft mr-2">{dbfeature}</div>
-                     ))}
-                  </div>
-                  <div className="content-end md:min-w-14">
-                     <a href={db.link} target="_blank">웹사이트</a>
-                  </div>
-               </div>
-            </div>
+     <section id={category}>
+       <h2 className="text-3xl font-bold md:py-3 py-2 px-1 text-indigo-600">{title}</h2>
+       <ul className="grid md:grid-cols-2 grid-cols-1 gap-3">
+         {data.map((item, index) => (
+           <li key={index} className="p-5 border border-indigo-600 rounded-2xl">
+             <a href={item.link} target="_blank" rel="noreferrer" className="text-xl font-semibold text-indigo-600 hover:underline">
+               {item.title}
+             </a>
+             <p className="text-sm mt-1">{item.content}</p>
+             <div className="mt-2 flex flex-wrap gap-1">
+               {item.feature?.map((feature) => (
+                 <span key={feature} className="badge badge-soft mr-2">{feature}</span>
+               ))}
+             </div>
+           </li>
          ))}
-      </div>
-   )
-}
+       </ul>
+     </section>
+   );
+ };
 
-export default JSONContainer;
+ export default JSONContainer;

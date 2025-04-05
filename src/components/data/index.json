@@ -1,118 +1,118 @@
 [
   {
     "id": "techcommunity",
-    "name": "기술 커뮤니티"
+    "title": "기술 커뮤니티"
   },
   {
     "id": "educationcommunity",
-    "name": "교육 커뮤니티"
+    "title": "교육 커뮤니티"
   },
   {
     "id": "news",
-    "name": "뉴스"
+    "title": "뉴스"
   },
   {
     "id": "study",
-    "name": "학습"
+    "title": "학습"
   },
   {
     "id": "codingtest",
-    "name": "문제풀이"
+    "title": "문제풀이"
   },
   {
     "id": "web",
-    "name": "웹"
+    "title": "웹"
   },
   {
     "id": "design",
-    "name": "디자인"
+    "title": "디자인"
   },
   {
     "id": "programminglanguage",
-    "name": "프로그래밍 언어"
+    "title": "프로그래밍 언어"
   },
   {
     "id": "javascriptframework",
-    "name": "자바스크립트 프레임워크"
+    "title": "자바스크립트 프레임워크"
   },
   {
     "id": "backendframework",
-    "name": "백엔드 프레임워크"
+    "title": "백엔드 프레임워크"
   },
   {
     "id": "publiccloud",
-    "name": "클라우드"
+    "title": "클라우드"
   },
   {
     "id": "mobile",
-    "name": "모바일"
+    "title": "모바일"
   },
   {
     "id": "database",
-    "name": "데이터베이스"
+    "title": "데이터베이스"
   },
   {
     "id": "search",
-    "name": "검색"
+    "title": "검색"
   },
   {
     "id": "linux",
-    "name": "리눅스"
+    "title": "리눅스"
   },
   {
     "id": "infra",
-    "name": "인프라"
+    "title": "인프라"
   },
   {
     "id": "api",
-    "name": "API"
+    "title": "API"
   },
   {
     "id": "git",
-    "name": "Git"
+    "title": "Git"
   },
   {
     "id": "other",
-    "name": "기타"
+    "title": "기타"
   },
   {
     "id": "blog",
-    "name": "블로그"
+    "title": "블로그"
   },
   {
     "id": "video",
-    "name": "동영상"
+    "title": "동영상"
   },
   {
     "id": "collectionofdata",
-    "name": "자료모음"
+    "title": "자료모음"
   },
   {
     "id": "tool",
-    "name": "도구"
+    "title": "도구"
   },
   {
     "id": "nocode",
-    "name": "노코드"
+    "title": "노코드"
   },
   {
     "id": "json",
-    "name": "JSON"
+    "title": "JSON"
   },
   {
     "id": "regex",
-    "name": "정규 표현식"
+    "title": "정규 표현식"
   },
   {
     "id": "codeformatter",
-    "name": "코드 포매터"
+    "title": "코드 포매터"
   },
   {
     "id": "ide",
-    "name": "IDE"
+    "title": "IDE"
   },
   {
     "id": "ai",
-    "name": "AI"
+    "title": "AI"
   }
 ]

@@ -1,9 +1,7 @@
 @reference "tailwindcss";
 
 .contribute h1,h2 {
-    font-weight: bold;
-    font-size: 1.6rem;
-    margin-top: 0.7rem;
+    @apply font-bold text-3xl mt-4;
 }
 
 .contribute h1:first-of-type {
@@ -11,6 +9,5 @@
 }
 
 .contribute h3 {
-    font-weight: bold;
-    font-size: 1rem;
+    @apply font-bold text-2xl mt-1;
 }
