@@ -26,7 +26,7 @@ const Home = ({ searchInput }) => {
     IndexData.forEach(({ id }) => {
       const categoryItems = data[id] || [];
 
-      const matches = categoryItems.filter(item => {
+      const matches = categoryItems.filter(item => {  
         if (!searchInput) return true;
         const title = item.title?.toLowerCase() || "";
         const content = item.content?.toLowerCase() || "";

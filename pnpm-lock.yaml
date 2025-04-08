@@ -11,9 +11,6 @@ importers:
       '@snaddyvitch-dispenser/react-router-sitemap':
         specifier: ^1.2.6
         version: 1.2.6(react-router@7.2.0(react-dom@19.0.0(react@19.0.0))(react@19.0.0))(react@19.0.0)
-      '@sun-typeface/suit':
-        specifier: ^2.0.5
-        version: 2.0.5
       '@tailwindcss/vite':
         specifier: ^4.0.8
         version: 4.0.8(vite@6.1.1(jiti@2.4.2)(lightningcss@1.29.1))
@@ -499,9 +496,6 @@ packages:
     peerDependencies:
       react: ^15.1.0 || ^16.0.0 || ^17.0.0 || ^18.0.0
       react-router: ^2.3.0 || ^3.2.1 || ^4.3.0 || ^5.0.0 || ^6.0.0
-
-  '@sun-typeface/suit@2.0.5':
-    resolution: {integrity: sha512-NJ0hxmQgDjDBFkocQ7rxx3wPahJbj3uATfXudN3oj6hh/rAedElhdYBbsSwz4qJsdjac6aW6cqK6R1bpsNGOaQ==}
 
   '@tailwindcss/node@4.0.8':
     resolution: {integrity: sha512-FKArQpbrbwv08TNT0k7ejYXpF+R8knZFAatNc0acOxbgeqLzwb86r+P3LGOjIeI3Idqe9CVkZrh4GlsJLJKkkw==}
@@ -2825,8 +2819,6 @@ snapshots:
       react: 19.0.0
       react-router: 7.2.0(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       sitemap: 1.13.0
-
-  '@sun-typeface/suit@2.0.5': {}
 
   '@tailwindcss/node@4.0.8':
     dependencies:
