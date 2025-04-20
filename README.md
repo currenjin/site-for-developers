@@ -191,6 +191,7 @@
   - [Code LMs <sub>O</sub>](https://github.com/VHellendoorn/Code-LMs) - VHellendoorn이 개발한 프로그래밍 AI
   - [Codeium <sub>$</sub>](https://codeium.com/) - Codium에서 개발한 프로그래밍 AI
   - [ChatGPT](https://chatgpt.com/) - OpenAI에서 개발한 대화형 AI
+  - [OpenAI API](https://platform.openai.com/docs/concepts) - OpenAI API 문서
   - [Claude](https://claude.ai) - 앤트로픽에서 개발한 대화형 AI
   - [Anthropic Developer Docs](https://docs.anthropic.com/en/docs/initial-setup) - Claude 문서
   - [Deepseek](https://www.deepseek.com/) - DeekSeek에서 개발한 대화형 AI
