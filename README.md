@@ -304,7 +304,7 @@
   - [조코딩 JoCoding <sub>KR</sub>](https://www.youtube.com/@jocoding) - 프로그래밍에 대해 아무것도 모르더라도 개발이 가능하도록 기초부터 차근차근 쉽게 설명
   - [생활코딩 <sub>KR</sub>](https://www.youtube.com/@coohde) - 일반인에게 프로그래밍을 알려주는 온라인/오프라인 활동
   - [우아한테크 <sub>KR</sub>](https://www.youtube.com/@woowatech) - 우아한형제들의 기술조직 동영상
-  - [MIT Theory of Computation <sub>EN</sub>)(https://www.youtube.com/watch?v=9syvZr-9xwk&list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY&index=1) - MIT에서 제공하는 Michael Sipser의 CS 강의
+  - [MIT Theory of Computation <sub>EN</sub>](https://www.youtube.com/watch?v=9syvZr-9xwk&list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY&index=1) - MIT에서 제공하는 Michael Sipser의 CS 강의
 
 - <span id="collection-of-data">자료모음 🧾</span>
 
