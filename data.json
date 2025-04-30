@@ -355,6 +355,12 @@
       "link": "https://headlessui.com"
     },
     {
+      "title": "Shadcn UI",
+      "content": "Tailwind CSS 기반의 접근성 높은 구성 요소를 유연하게 커스터마이징할 수 있는 현대적인 UI 라이브러리입니다.",
+      "feature": ["english"],
+      "link": "https://ui.shadcn.com/"
+    },
+    {
       "title": "Figma",
       "content": "Figma는 의미 있는 제품을 만들기 위한 최고의 협업 디자인 도구입니다.",
       "feature": ["pay"],

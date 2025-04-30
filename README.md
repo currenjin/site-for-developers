@@ -99,6 +99,7 @@
     - [DaisyUI](https://daisyui.com) - 최고의 Tailwind Components 라이브러리. Tailwind CSS용 무료 UI 구성 요소
     - [Flowbite](https://flowbite.com) - Tailwind CSS의 유틸리티 클래스로 구축되고 Figma로 설계된 600개 이상의 UI 구성 요소, 섹션 및 페이지로 구성된 오픈 소스 라이브러리로 시작합니다
     - [Headless UI](https://headlessui.com) - Tailwind CSS와 아름답게 통합되도록 설계된 완전히 스타일화되지 않은 완전히 액세스 가능한 UI 구성 요소입니다
+    - [Shadcn UI](https://ui.shadcn.com/) - Tailwind CSS 기반의 접근성 높은 구성 요소를 유연하게 커스터마이징할 수 있는 현대적인 UI 라이브러리입니다
 
   - <span id="programming-language">Programming Language</span>
     - [Kotlin Docs](https://kotlinlang.org/docs/home.html) - 코틀린 공식 문서
