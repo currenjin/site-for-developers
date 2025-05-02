@@ -330,6 +330,7 @@
     - [Awesome Fonts <sub>EN, O</sub>](https://github.com/brabadu/awesome-fonts) - 폰트 관련 자료모음 (Awesome 계열)
     - [Awesome Icons <sub>EN, O</sub>](https://github.com/notlmn/awesome-icons) - 아이콘 관련 자료모음 (Awesome 계열)
     - [Awesome Web Icons <sub>EN, O</sub>](https://github.com/vkarampinis/awesome-icons) - 웹 아이콘 관련 자료모음 (Awesome 계열)
+    - [Awesome Mcp Servers <sub>EN, O</sub>](https://github.com/punkpeye/awesome-mcp-servers) - MCP Server 관련 자료모음 (Awesome 계열)
 
 - <span id="tool">도구 🔨</span>
 
