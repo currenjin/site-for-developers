@@ -41,6 +41,9 @@
   - [Git](#git)
   - [Other](#other)
 - [AI 🤖](#ai)
+  - [개발 도구](#ai-dev-tools)
+  - [대화형 AI](#conversational-ai)
+  - [로컬 AI 도구](#ai-local-tools)
 - [커뮤니티 💬](#community)
   - [기술 커뮤니티](#tech-community)
   - [교육 커뮤니티](#education-community)
@@ -185,12 +188,29 @@
 
 - <span id="ai">AI 🤖</span>
 
-  - [GitHub Copilot <sub>$</sub>](https://github.com/features/copilot) - GitHub에서 개발한 프로그래밍 AI 보조 도구로, 코드 작성 시 실시간으로 제안을 제공합니다
-  - [ChatGPT](https://chatgpt.com/) - OpenAI에서 개발한 대화형 AI로, 프로그래밍 문제 해결부터 일반적인 질문까지 다양한 작업을 지원합니다
-  - [Claude](https://claude.ai) - 앤트로픽에서 개발한 대화형 AI로, 문서 분석 및 복잡한 추론 작업에 강점을 가지고 있습니다
-  - [Gemini](https://gemini.google.com/app?hl=ko) - Google에서 개발한 대화형 AI로, 다양한 Google 서비스와 통합되어 있습니다
-  - [Cody AI <sub>F</sub>](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai) - Visual Studio Code AI 플러그인으로 코드 생성 및 개선을 지원합니다
-  - [Tabnine <sub>$</sub>](https://www.tabnine.com/) - Tabnine에서 개발한 프로그래밍 AI로, 코드 자동완성 기능을 제공합니다
+  - <span id="ai-dev-tools">개발 도구</span>
+    - [GitHub Copilot <sub>$</sub>](https://github.com/features/copilot) - GitHub에서 개발한 프로그래밍 AI 보조 도구로, 코드 작성 시 실시간으로 제안을 제공합니다
+    - [Cursor <sub>F</sub>](https://cursor.sh/) - AI 기반 코드 에디터로, 코드 생성 및 편집 기능을 제공하는 개발자 중심 도구입니다
+    - [Windsurf <sub>F</sub>](https://www.windsurf.io/) - AI 기반 개발 도구로, 코드 생성 및 리팩토링을 지원하는 통합 개발 환경입니다
+    - [Cody AI <sub>F</sub>](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai) - Visual Studio Code AI 플러그인으로 코드 생성 및 개선을 지원합니다
+    - [Tabnine <sub>$</sub>](https://www.tabnine.com/) - Tabnine에서 개발한 프로그래밍 AI로, 코드 자동완성 기능을 제공합니다
+    - [Codeium <sub>F</sub>](https://codeium.com/) - 무료로 사용할 수 있는 AI 코드 생성 도구로, 다양한 IDE와 통합됩니다
+    - [Amazon CodeWhisperer <sub>F</sub>](https://aws.amazon.com/ko/codewhisperer/) - AWS에서 개발한 AI 코딩 도구로, 보안 취약점 감지 기능을 포함합니다
+
+  - <span id="conversational-ai">대화형 AI</span>
+    - [ChatGPT](https://chatgpt.com/) - OpenAI에서 개발한 대화형 AI로, 프로그래밍 문제 해결부터 일반적인 질문까지 다양한 작업을 지원합니다
+    - [Claude](https://claude.ai) - 앤트로픽에서 개발한 대화형 AI로, 문서 분석 및 복잡한 추론 작업에 강점을 가지고 있습니다
+    - [Gemini](https://gemini.google.com/app?hl=ko) - Google에서 개발한 대화형 AI로, 다양한 Google 서비스와 통합되어 있습니다
+    - [Perplexity AI](https://www.perplexity.ai/) - 실시간 정보 검색과 AI 답변을 결합한 서비스로, 최신 정보에 기반한 응답을 제공합니다
+    - [Bard](https://bard.google.com/) - Google의 대화형 AI로, 다양한 주제에 대한 정보 제공 및 창의적인 콘텐츠 생성을 지원합니다
+
+  - <span id="ai-local-tools">로컬 AI 도구</span>
+    - [Ollama <sub>F, O</sub>](https://ollama.ai/) - 로컬 환경에서 다양한 오픈소스 AI 모델을 쉽게 실행할 수 있는 도구입니다
+    - [LM Studio <sub>F</sub>](https://lmstudio.ai/) - 로컬 컴퓨터에서 대규모 언어 모델을 테스트하고 실행할 수 있는 데스크톱 애플리케이션입니다
+    - [LocalAI <sub>F, O</sub>](https://github.com/go-skynet/LocalAI) - OpenAI API와 호환되는 로컬 REST API를 제공하는 자체 호스팅 가능한 오픈소스 솔루션입니다
+    - [GPT4All <sub>F, O</sub>](https://gpt4all.io/) - 로컬 환경에서 실행되는 오픈소스 대화형 AI 생태계로, 개인정보 보호에 중점을 둡니다
+    - [PrivateGPT <sub>F, O</sub>](https://github.com/imartinez/privateGPT) - 로컬 환경에서 문서와 상호작용할 수 있는 프라이버시 중심의 AI 솔루션입니다
+
   - [OpenAI API](https://platform.openai.com/docs/concepts) - OpenAI API 문서로, AI 모델을 애플리케이션에 통합하는 방법을 제공합니다
   - [Anthropic Developer Docs](https://docs.anthropic.com/en/docs/initial-setup) - Claude API 문서로, Claude AI를 애플리케이션에 통합하는 방법을 제공합니다
 
@@ -256,7 +276,7 @@
 
 - <span id="blog">블로그 📚</span>
 
-  - [우아한형제들 기술블로그 <sub>KR</sub>](https://techblog.woowahan.com/) - 우아한형제들 기술블로그
+  - [우아한형제들 기술블로그 <sub>KR</sub>](https://techblog.woowahan.com/) - 우아한형제들의 기술블로그
   - [카카오 기술블로그 <sub>KR</sub>](https://tech.kakao.com/blog/) - 카카오 기술블로그
   - [쿠팡 기술블로그 <sub>KR</sub>](https://medium.com/@coupang-engineering-kr) - 쿠팡 기술블로그
   - [왓챠 팀블로그 <sub>KR</sub>](https://medium.com/watcha) - 왓챠 팀블로그
