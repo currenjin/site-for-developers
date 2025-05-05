@@ -184,19 +184,15 @@
     - [Patterns.dev <sub>EN</sub>](https://www.patterns.dev/) - Vanilla JavaScript 또는 최신 웹 프레임워크를 위한 디자인, 렌더링 및 성능 패턴에 대한 내용을 담고 있습니다
 
 - <span id="ai">AI 🤖</span>
-  - [Cody AI <sub>F</sub>](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai) - Visual Studio Code AI 플러그인
-  - [GitHub Copilot <sub>$</sub>](https://github.com/features/copilot) - GitHub에서 개발한 프로그래밍 AI
-  - [Tabnine <sub>$</sub>](https://www.tabnine.com/) - Tabnine에서 개발한 프로그래밍 AI
-  - [OpenAI Codex <sub>EN</sub>](https://openai.com/blog/openai-codex) - OpenAI에서 개발한 프로그래밍 AI
-  - [CodeT5 <sub>O</sub>](https://github.com/salesforce/CodeT5) - Salesforce에서 개발한 프로그래밍 AI
-  - [Code LMs <sub>O</sub>](https://github.com/VHellendoorn/Code-LMs) - VHellendoorn이 개발한 프로그래밍 AI
-  - [Codeium <sub>$</sub>](https://codeium.com/) - Codium에서 개발한 프로그래밍 AI
-  - [ChatGPT](https://chatgpt.com/) - OpenAI에서 개발한 대화형 AI
-  - [OpenAI API](https://platform.openai.com/docs/concepts) - OpenAI API 문서
-  - [Claude](https://claude.ai) - 앤트로픽에서 개발한 대화형 AI
-  - [Anthropic Developer Docs](https://docs.anthropic.com/en/docs/initial-setup) - Claude 문서
-  - [Deepseek](https://www.deepseek.com/) - DeekSeek에서 개발한 대화형 AI
-  - [Gemini](https://gemini.google.com/app?hl=ko) - Google에서 개발한 대화형 AI
+
+  - [GitHub Copilot <sub>$</sub>](https://github.com/features/copilot) - GitHub에서 개발한 프로그래밍 AI 보조 도구로, 코드 작성 시 실시간으로 제안을 제공합니다
+  - [ChatGPT](https://chatgpt.com/) - OpenAI에서 개발한 대화형 AI로, 프로그래밍 문제 해결부터 일반적인 질문까지 다양한 작업을 지원합니다
+  - [Claude](https://claude.ai) - 앤트로픽에서 개발한 대화형 AI로, 문서 분석 및 복잡한 추론 작업에 강점을 가지고 있습니다
+  - [Gemini](https://gemini.google.com/app?hl=ko) - Google에서 개발한 대화형 AI로, 다양한 Google 서비스와 통합되어 있습니다
+  - [Cody AI <sub>F</sub>](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai) - Visual Studio Code AI 플러그인으로 코드 생성 및 개선을 지원합니다
+  - [Tabnine <sub>$</sub>](https://www.tabnine.com/) - Tabnine에서 개발한 프로그래밍 AI로, 코드 자동완성 기능을 제공합니다
+  - [OpenAI API](https://platform.openai.com/docs/concepts) - OpenAI API 문서로, AI 모델을 애플리케이션에 통합하는 방법을 제공합니다
+  - [Anthropic Developer Docs](https://docs.anthropic.com/en/docs/initial-setup) - Claude API 문서로, Claude AI를 애플리케이션에 통합하는 방법을 제공합니다
 
 - <span id="community">커뮤니티 💬</span>
 
@@ -275,7 +271,7 @@
   - [요기요 기술블로그 <sub>KR</sub>](https://techblog.yogiyo.co.kr/) - 요기요 기술블로그
   - [플랫팜 기술블로그 <sub>KR</sub>](https://medium.com/platfarm/technology/home) - 플랫팜 기술블로그
   - [스포카 기술블로그 <sub>KR</sub>](https://spoqa.github.io/) - 스포카 기술블로그
-  - [라인 기술블로그 <sub>KR</sub>](https://techblog.lycorp.co.jp/ko) - 라인 기술플로그
+  - [라인 기술블로그 <sub>KR</sub>](https://techblog.lycorp.co.kr/ko) - 라인 기술블로그
   - [쏘카 기술블로그 <sub>KR</sub>](https://tech.socarcorp.kr/) - 쏘카 기술블로그
   - [리디 기술블로그 <sub>KR</sub>](https://ridicorp.com/story-category/tech-blog/) - 리디 기술블로그
   - [아이들나라 기술블로그 <sub>KR</sub>](https://i-nara.oopy.io/techblog) - 아이들나라 기술블로그
