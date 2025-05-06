@@ -41,6 +41,9 @@
   - [Git](#git)
   - [Other](#other)
 - [AI 🤖](#ai)
+  - [개발 도구](#ai-dev-tools)
+  - [대화형 AI](#conversational-ai)
+  - [로컬 AI 도구](#ai-local-tools)
 - [커뮤니티 💬](#community)
   - [기술 커뮤니티](#tech-community)
   - [교육 커뮤니티](#education-community)
@@ -83,23 +86,23 @@
 - <span id="document">문서 📃</span>
 
   - <span id="web">Web</span>
-    - [MDN Docs <sub>KR</sub>](https://developer.mozilla.org/ko/docs/Web/HTML) - MDN Web Docs 사이트는 웹 사이트와 프로그레시브 웹 앱 모두를 위한 HTML, CSS 및 API를 포함한 Open Web 기술에 대한 정보를 제공합니다
-    - [Javascript.info <sub>KR</sub>](https://ko.javascript.info) - 모던 자바스크립트 튜토리얼은 클로저, 문서 객체 모델, 이벤트, 객체 지향 프로그래밍 등의 다양한 주제에 대한 설명과 예시, 과제를 담고 있습니다
+    - [MDN Docs <sub>KR</sub>](https://developer.mozilla.org/ko/docs/Web/HTML) - MDN Web Docs 사이트는 웹 사이트와 프로그레시브 웹 앱 모두를 위한 HTML, CSS 및 API를 포함한 Open Web 기술에 대한 정보를 제공
+    - [Javascript.info <sub>KR</sub>](https://ko.javascript.info) - 모던 자바스크립트 튜토리얼은 클로저, 문서 객체 모델, 이벤트, 객체 지향 프로그래밍 등의 다양한 주제에 대한 설명과 예시, 과제를 담고 있음
     - [HTML DOM](https://phuoc.ng/collection/html-dom) - 바닐라 자바스크립트를 사용한 DOM 조작 마스터링
-    - [Rspack](https://www.rspack.dev) - 빠른 Rust 기반 웹 번들러입니다
-    - [Thymeleaf](https://www.thymeleaf.org) - Thymeleaf는 웹 및 독립형 환경 모두를 위한 최신 Server Side Java 템플릿 엔진입니다
-    - [Mustache](https://mustache.github.io/) - 로직이 없는 템플릿입니다
-    - [web.dev <sub>KR, F</sub>](https://web.dev/) - 모든 브라우저에서 작동하는 최신 웹 환경을 빌드하기 위한 안내입니다
+    - [Rspack](https://www.rspack.dev) - 빠른 Rust 기반 웹 번들러
+    - [Thymeleaf](https://www.thymeleaf.org) - Thymeleaf는 웹 및 독립형 환경 모두를 위한 최신 Server Side Java 템플릿 엔진
+    - [Mustache](https://mustache.github.io/) - 로직이 없는 템플릿
+    - [web.dev <sub>KR, F</sub>](https://web.dev/) - 모든 브라우저에서 작동하는 최신 웹 환경을 빌드하기 위한 안내
 
   - <span id="design">Design</span>
-    - [Bootstrap <sub>EN</sub>](https://getbootstrap.com/) - 강력하고 확장 가능하며 기능이 풍부한 프론트엔드 툴킷입니다
-    - [Flexbox Froggy <sub>KR</sub>](https://flexboxfroggy.com/#ko) - CSS Flexbox 학습용 게임입니다
-    - [StyleX <sub>EN</sub>](https://stylexjs.com/blog/introducing-stylex) - StyleX는 표현력이 뛰어나고 결정적입니다
-    - [Tailwind CSS](https://tailwindcss.com) - Tailwind CSS는 HTML을 남기지 않고 최신 웹 사이트를 빠르게 구축하기 위한 유틸리티 우선 CSS 프레임워크입니다
+    - [Bootstrap <sub>EN</sub>](https://getbootstrap.com/) - 강력하고 확장 가능하며 기능이 풍부한 프론트엔드 툴킷
+    - [Flexbox Froggy <sub>KR</sub>](https://flexboxfroggy.com/#ko) - CSS Flexbox 학습용 게임
+    - [StyleX <sub>EN</sub>](https://stylexjs.com/blog/introducing-stylex) - StyleX는 표현력이 뛰어나고 결정적
+    - [Tailwind CSS](https://tailwindcss.com) - Tailwind CSS는 HTML을 남기지 않고 최신 웹 사이트를 빠르게 구축하기 위한 유틸리티 우선 CSS 프레임워크
     - [DaisyUI](https://daisyui.com) - 최고의 Tailwind Components 라이브러리. Tailwind CSS용 무료 UI 구성 요소
-    - [Flowbite](https://flowbite.com) - Tailwind CSS의 유틸리티 클래스로 구축되고 Figma로 설계된 600개 이상의 UI 구성 요소, 섹션 및 페이지로 구성된 오픈 소스 라이브러리로 시작합니다
-    - [Headless UI](https://headlessui.com) - Tailwind CSS와 아름답게 통합되도록 설계된 완전히 스타일화되지 않은 완전히 액세스 가능한 UI 구성 요소입니다
-    - [Shadcn UI](https://ui.shadcn.com/) - Tailwind CSS 기반의 접근성 높은 구성 요소를 유연하게 커스터마이징할 수 있는 현대적인 UI 라이브러리입니다
+    - [Flowbite](https://flowbite.com) - Tailwind CSS의 유틸리티 클래스로 구축되고 Figma로 설계된 600개 이상의 UI 구성 요소, 섹션 및 페이지로 구성된 오픈 소스 라이브러리로 시작
+    - [Headless UI](https://headlessui.com) - Tailwind CSS와 아름답게 통합되도록 설계된 완전히 스타일화되지 않은 완전히 액세스 가능한 UI 구성 요소
+    - [Shadcn UI](https://ui.shadcn.com/) - Tailwind CSS 기반의 접근성 높은 구성 요소를 유연하게 커스터마이징할 수 있는 현대적인 UI 라이브러리
 
   - <span id="programming-language">Programming Language</span>
     - [Kotlin Docs](https://kotlinlang.org/docs/home.html) - 코틀린 공식 문서
@@ -181,82 +184,102 @@
   - <span id="other">Other</span>
     - [Google Developers Docs](https://developers.google.com) - 구글 개발자 공식 문서
     - [Refactoring.Guru<sub>$, EN, KR</sub>](https://refactoring.guru/ko/design-patterns) - 리팩토링, 디자인 패턴과 관련된 다양한 정보를 담은 문서, 영어 및 한국어로도 작성되어 있어 유지보수가 쉬운 코드를 작성하기 위해 필요한 정보에 대해 쉽게 접근 가능하며 다양한 디자인 패턴과의 관계 파악에 도움이 됨
-    - [Patterns.dev <sub>EN</sub>](https://www.patterns.dev/) - Vanilla JavaScript 또는 최신 웹 프레임워크를 위한 디자인, 렌더링 및 성능 패턴에 대한 내용을 담고 있습니다
+    - [Patterns.dev <sub>EN</sub>](https://www.patterns.dev/) - Vanilla JavaScript 또는 최신 웹 프레임워크를 위한 디자인, 렌더링 및 성능 패턴에 대한 내용을 담고 있음
 
 - <span id="ai">AI 🤖</span>
-  - [Cody AI <sub>F</sub>](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai) - Visual Studio Code AI 플러그인
-  - [GitHub Copilot <sub>$</sub>](https://github.com/features/copilot) - GitHub에서 개발한 프로그래밍 AI
-  - [Tabnine <sub>$</sub>](https://www.tabnine.com/) - Tabnine에서 개발한 프로그래밍 AI
-  - [OpenAI Codex <sub>EN</sub>](https://openai.com/blog/openai-codex) - OpenAI에서 개발한 프로그래밍 AI
-  - [CodeT5 <sub>O</sub>](https://github.com/salesforce/CodeT5) - Salesforce에서 개발한 프로그래밍 AI
-  - [Code LMs <sub>O</sub>](https://github.com/VHellendoorn/Code-LMs) - VHellendoorn이 개발한 프로그래밍 AI
-  - [Codeium <sub>$</sub>](https://codeium.com/) - Codium에서 개발한 프로그래밍 AI
-  - [ChatGPT](https://chatgpt.com/) - OpenAI에서 개발한 대화형 AI
-  - [OpenAI API](https://platform.openai.com/docs/concepts) - OpenAI API 문서
-  - [Claude](https://claude.ai) - 앤트로픽에서 개발한 대화형 AI
-  - [Anthropic Developer Docs](https://docs.anthropic.com/en/docs/initial-setup) - Claude 문서
-  - [Deepseek](https://www.deepseek.com/) - DeekSeek에서 개발한 대화형 AI
-  - [Gemini](https://gemini.google.com/app?hl=ko) - Google에서 개발한 대화형 AI
+
+  - <span id="ai-dev-tools">개발 도구</span>
+    - [GitHub Copilot <sub>$</sub>](https://github.com/features/copilot) - GitHub에서 개발한 프로그래밍 AI 보조 도구로, 코드 작성 시 실시간으로 제안을 제공
+    - [Cursor <sub>F</sub>](https://cursor.sh/) - AI 기반 코드 에디터로, 코드 생성 및 편집 기능을 제공하는 개발자 중심 도구
+    - [Windsurf <sub>F</sub>](https://www.windsurf.io/) - AI 기반 개발 도구로, 코드 생성 및 리팩토링을 지원하는 통합 개발 환경
+    - [Cody AI <sub>F</sub>](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai) - Visual Studio Code AI 플러그인으로 코드 생성 및 개선을 지원
+    - [Tabnine <sub>$</sub>](https://www.tabnine.com/) - Tabnine에서 개발한 프로그래밍 AI로, 코드 자동완성 기능을 제공
+    - [Codeium <sub>F</sub>](https://codeium.com/) - 무료로 사용할 수 있는 AI 코드 생성 도구로, 다양한 IDE와 통합
+    - [Amazon CodeWhisperer <sub>F</sub>](https://aws.amazon.com/ko/codewhisperer/) - AWS에서 개발한 AI 코딩 도구로, 보안 취약점 감지 기능을 포함
+
+  - <span id="conversational-ai">대화형 AI</span>
+    - [ChatGPT](https://chatgpt.com/) - OpenAI에서 개발한 대화형 AI로, 프로그래밍 문제 해결부터 일반적인 질문까지 다양한 작업을 지원
+    - [Claude](https://claude.ai) - 앤트로픽에서 개발한 대화형 AI로, 문서 분석 및 복잡한 추론 작업에 강점을 가지고 있음
+    - [Gemini](https://gemini.google.com/app?hl=ko) - Google에서 개발한 대화형 AI로, 다양한 Google 서비스와 통합
+    - [Perplexity AI](https://www.perplexity.ai/) - 실시간 정보 검색과 AI 답변을 결합한 서비스로, 최신 정보에 기반한 응답을 제공
+    - [Bard](https://bard.google.com/) - Google의 대화형 AI로, 다양한 주제에 대한 정보 제공 및 창의적인 콘텐츠 생성을 지원
+
+  - <span id="ai-local-tools">로컬 AI 도구</span>
+    - [Ollama <sub>F, O</sub>](https://ollama.ai/) - 로컬 환경에서 다양한 오픈소스 AI 모델을 쉽게 실행할 수 있는 도구
+    - [LM Studio <sub>F</sub>](https://lmstudio.ai/) - 로컬 컴퓨터에서 대규모 언어 모델을 테스트하고 실행할 수 있는 데스크톱 애플리케이션
+    - [LocalAI <sub>F, O</sub>](https://github.com/go-skynet/LocalAI) - OpenAI API와 호환되는 로컬 REST API를 제공하는 자체 호스팅 가능한 오픈소스 솔루션
+    - [GPT4All <sub>F, O</sub>](https://gpt4all.io/) - 로컬 환경에서 실행되는 오픈소스 대화형 AI 생태계로, 개인정보 보호에 중점을 둠
+    - [PrivateGPT <sub>F, O</sub>](https://github.com/imartinez/privateGPT) - 로컬 환경에서 문서와 상호작용할 수 있는 프라이버시 중심의 AI 솔루션
+
+  - [OpenAI API](https://platform.openai.com/docs/concepts) - OpenAI API 문서로, AI 모델을 애플리케이션에 통합하는 방법을 제공
+  - [Anthropic Developer Docs](https://docs.anthropic.com/en/docs/initial-setup) - Claude API 문서로, Claude AI를 애플리케이션에 통합하는 방법을 제공
 
 - <span id="community">커뮤니티 💬</span>
 
   - <span id="tech-community">기술 커뮤니티</span>
     - [Velog <sub>KR</sub>](https://velog.io) - 개발자들을 위한 블로그 서비스
     - [Disquiet <sub>KR</sub>](https://disquiet.io) - IT 서비스 메이커들의 소셜 네트워크
-    - [Okky <sub>KR</sub>](https://okky.kr) - OKKY는 국내 최대 개발자 지식공유 플랫폼입니다
+    - [Okky <sub>KR</sub>](https://okky.kr) - OKKY는 국내 최대 개발자 지식공유 플랫폼
     - [Cikorea <sub>KR</sub>](https://www.cikorea.net) - CodeIgniter 한국사용자포럼, PHP Framework
     - [Jsdev <sub>KR</sub>](https://jsdev.kr) - 자바스크립트 개발자 포럼
     - [Laravel <sub>KR</sub>](https://laravel.kr/) - laravel korea community 라라벨 코리아
-    - [프로그래머스 <sub>EN</sub>](https://qna.programmers.co.kr/) - 프로그래머스 QnA는 프로그래밍 문제해결을 위한 QnA서비스입니다
-    - [Devstu <sub>KR</sub>](https://devstu.co.kr/howto) - 모두가 함께하는, 지식을 지식으로 갚아나가는 한국 개발 커뮤니티입니다
+    - [프로그래머스 <sub>EN</sub>](https://qna.programmers.co.kr/) - 프로그래머스 QnA는 프로그래밍 문제해결을 위한 QnA서비스
+    - [Devstu <sub>KR</sub>](https://devstu.co.kr/howto) - 모두가 함께하는, 지식을 지식으로 갚아나가는 한국 개발 커뮤니티
     - [Careerly <sub>KR</sub>](https://careerly.co.kr) - 개발 트렌드, Q&A, 탑 개발자들과의 네트워킹까지
-    - [Stack Exchange <sub>EN</sub>](https://stackexchange.com) - Stack Overflow 및 170개 이상의 커뮤니티 기반 Q&A 사이트를 만듭니다
-    - [Hashnode <sub>EN</sub>](https://hashnode.com) - Hashnode는 무료 개발자 블로그 플랫폼으로 자신의 도메인에 기사를 게시할 수 있으며 글로벌 개발자 커뮤니티와 연결될 수 있도록 도와줍니다
-    - [Product Hunt <sub>EN</sub>](https://www.producthunt.com) - Product Hunt는 매일 최고의 신제품을 큐레이션하는 것입니다
+    - [Stack Exchange <sub>EN</sub>](https://stackexchange.com) - Stack Overflow 및 170개 이상의 커뮤니티 기반 Q&A 사이트를 만듦
+    - [Hashnode <sub>EN</sub>](https://hashnode.com) - Hashnode는 무료 개발자 블로그 플랫폼으로 자신의 도메인에 기사를 게시할 수 있으며 글로벌 개발자 커뮤니티와 연결될 수 있도록 도와줌
+    - [Product Hunt <sub>EN</sub>](https://www.producthunt.com) - Product Hunt는 매일 최고의 신제품을 큐레이션
     - [Coderanch <sub>EN</sub>](https://coderanch.com) - 그린혼을 프로그래밍하는 친근한 장소인 Coderanch
-    - [Stack Overflow <sub>EN</sub>](https://stackoverflow.com) - Stack Overflow는 개발자가 학습하고 프로그래밍 지식을 공유하며 경력을 쌓을 수 있는 가장 큰 신뢰할 수 있는 온라인 커뮤니티입니다
+    - [Stack Overflow <sub>EN</sub>](https://stackoverflow.com) - Stack Overflow는 개발자가 학습하고 프로그래밍 지식을 공유하며 경력을 쌓을 수 있는 가장 큰 신뢰할 수 있는 온라인 커뮤니티
     - [매일메일 <sub>KR</sub>](https://www.maeil-mail.kr/) - 매일 메일로 기술 면접 질문을 보내주는 구독 서비스
     - [Hugging Face <sub>EN</sub>](https://huggingface.co/) - 세계 최대 규모 AI 커뮤니티
-    
 
   - <span id="education-community">교육 커뮤니티</span>
     - [Inflearn <sub>$, KR</sub>](https://www.inflearn.com) - 프로그래밍, 인공지능, 데이터, 마케팅, 디자인, 엑셀 실무 등 입문부터 실전까지 업계 최고 선배들에게 배울 수 있는 곳
     - [코딩애플 <sub>$, KR</sub>](https://codingapple.com/) - 포트폴리오 완성까지 책임지는 Online 프로그래밍 강좌
-    - [Swexpertacademy <sub>KR</sub>](https://swexpertacademy.com/main/learn/course/courseList.do) - SW 프로그래밍 역량 강화에 도움이 되는 다양한 학습 컨텐츠를 확인하세요
-    - [Nomadcoders <sub>$</sub>](https://nomadcoders.co) - 실제 구현되어 있는 서비스를 한땀 한땀 따라 만들면서 코딩을 배우세요
-    - [NEXTSTEP <sub>$</sub>](https://edu.nextstep.camp) - NEXTSTEP에서 개발자들을 위해 디자인된 강의를 수강해보세요
-    - [freeCodeCamp <sub>EN,F</sub>](https://www.freecodecamp.org/) - 함께 코딩을 배우는 전 세계 사람들의 커뮤니티이자, 다양한 개발 커리큘럼을 제공하는 온라인 무료 학습플랫폼입니다
+    - [Swexpertacademy <sub>KR</sub>](https://swexpertacademy.com/main/learn/course/courseList.do) - SW 프로그래밍 역량 강화에 도움이 되는 다양한 학습 컨텐츠를 확인
+    - [Nomadcoders <sub>$</sub>](https://nomadcoders.co) - 실제 구현되어 있는 서비스를 한땀 한땀 따라 만들면서 코딩을 배우
+    - [NEXTSTEP <sub>$</sub>](https://edu.nextstep.camp) - NEXTSTEP에서 개발자들을 위해 디자인된 강의를 수강
+    - [freeCodeCamp <sub>EN,F</sub>](https://www.freecodecamp.org/) - 함께 코딩을 배우는 전 세계 사람들의 커뮤니티이자, 다양한 개발 커리큘럼을 제공하는 온라인 무료 학습플랫폼
+    - [Udemy <sub>KR</sub>](https://www.udemy.com) - Udemy는 213,000개 이상의 강의와 6천 2백만명 이상의 수강생이 있는 온라인 학습 및 교수 마켓플레이스
+    - [부스트코스(전 에드위드) <sub>KR</sub>](https://www.boostcourse.org) - 부스트코스는 네이버(NAVER)와 네이버 커넥트재단(NAVER Connect)이 제공하는 온라인 강좌 플랫폼
+    - [TCP School (Java) <sub>KR</sub>](https://www.tcpschool.com/java/intro) - 4차산업혁명, 코딩교육, 소프트웨어교육, 코딩기초, SW코딩, 기초코딩부터 자바 파이썬 등
+    - [Poiemaweb <sub>KR</sub>](https://poiemaweb.com/) - HTML, CSS, BootStrap, Sass, JS등 웹 프로그래밍 전반에 걸친 깔끔한 학습용 웹 사이트
+    - [CodeCrafters <sub>EN</sub>](https://app.codecrafters.io/catalog) - Redis, DNS 서버 등 실제 소프트웨어 재구현 프로젝트를 통해 프로그래밍을 학습할 수 있는 사이트
+    - [Learn Git Branching <sub>KR,EN,F</sub>](https://learngitbranching.js.org/) - 시각화된 화면과 함께 튜토리얼과 레벨별 게임을 제공하여 손쉽게 Git을 학습할 수 있는 사이트
+    - [더북(TheBook) <sub>KR</sub>](https://thebook.io/) - (주)도서출판 길벗에서 제공하는 IT 도서 열람 서비스
+    - [K-MOOC <sub>KR</sub>](https://www.kmooc.kr/) - 한국형 대학 공개강좌
 
   - <span id="news">뉴스</span>
     - [Dzone <sub>EN</sub>](https://dzone.com) - 프로그래밍, 웹 개발 및 DevOps 뉴스, 초보자부터 전문가를 위한 튜토리얼 및 도구
-    - [ZDNet <sub>EN</sub>](https://www.zdnet.com/) - ZDNET 뉴스와 조언을 통해 전문가들은 혁신을 수용하고 더 나은 미래를 구축할 준비가 되어 있습니다
+    - [ZDNet <sub>EN</sub>](https://www.zdnet.com/) - ZDNET 뉴스와 조언을 통해 전문가들은 혁신을 수용하고 더 나은 미래를 구축할 준비가 되어 있음
     - [ZDNet <sub>KR</sub>](https://zdnet.co.kr/) - 국가대표 테크미디어
-    - [InfoQ <sub>EN</sub>](https://www.infoq.com) - 개발 팀이 새로운 기술과 관행을 채택할 수 있도록 돕습니다
+    - [InfoQ <sub>EN</sub>](https://www.infoq.com) - 개발 팀이 새로운 기술과 관행을 채택할 수 있도록 도움
     - [Techcrunch <sub>EN</sub>](https://techcrunch.com) - TechCrunch. 기술, 스타트업, 벤처캐피탈 펀딩, 실리콘밸리 사업 보고
-    - [개발자스럽다 <sub>KR</sub>](https://blog.gaerae.com/) - 블로그와 SNS에서 주기적으로 기술 정보를 찾고 분류하여 가치를 더해 공유합니다
-    - [요즘IT <sub>KR</sub>](https://yozm.wishket.com/magazine/list/develop/) - 개발을 위한 모든 IT 콘텐츠를 확인해 보세요
+    - [개발자스럽다 <sub>KR</sub>](https://blog.gaerae.com/) - 블로그와 SNS에서 주기적으로 기술 정보를 찾고 분류하여 가치를 더해 공유
+    - [요즘IT <sub>KR</sub>](https://yozm.wishket.com/magazine/list/develop/) - 개발을 위한 모든 IT 콘텐츠를 확인
     - [GeekNews <sub>KR</sub>](https://news.hada.io/) - 개발 뉴스, 기술 관련 새소식, 스타트업 정보와 노하우, 세상의 재미난 것들을 좋아하는 사람들을 위한 뉴스 사이트. 이메일 뉴스레터/트위터/슬랙 봇으로 구독 가능
 
   - <span id="study">학습</span>
-    - [Opentutorials <sub>KR</sub>](https://opentutorials.org) - 비영리 단체 오픈튜토리얼스는 내가 할 수 있는 것을 남도 할 수 있게, 남이 할 수 있는 것을 나도 할 수 있게 하는 콘텐츠를 담아내는 온라인 서비스인 opentutorials.org를 운영하기 위해서 만들어졌습니다
-    - [W3schools <sub>EN</sub>](https://www.w3schools.com) - HTML, CSS, JavaScript, SQL, Python, PHP, Bootstrap, Java, XML 등을 사용하는 방법에 대한 많은 예와 함께 잘 구성되어 있고 이해하기 쉽습니다
-    - [Codecademy <sub>EN</sub>](https://www.codecademy.com) - 원하는 직업을 얻기 위한 기술 기술을 배우세요
-    - [Udemy <sub>KR</sub>](https://www.udemy.com) - Udemy는 213,000개 이상의 강의와 6천 2백만명 이상의 수강생이 있는 온라인 학습 및 교수 마켓플레이스입니다
-    - [부스트코스(전 에드위드) <sub>KR</sub>](https://www.boostcourse.org) - 부스트코스는 네이버(NAVER)와 네이버 커넥트재단(NAVER Connect)이 제공하는 온라인 강좌 플랫폼입니다
+    - [Opentutorials <sub>KR</sub>](https://opentutorials.org) - 비영리 단체 오픈튜토리얼스는 내가 할 수 있는 것을 남도 할 수 있게, 남이 할 수 있는 것을 나도 할 수 있게 하는 콘텐츠를 담아내는 온라인 서비스인 opentutorials.org를 운영하기 위해서 만들어졌음
+    - [W3schools <sub>EN</sub>](https://www.w3schools.com) - HTML, CSS, JavaScript, SQL, Python, PHP, Bootstrap, Java, XML 등을 사용하는 방법에 대한 많은 예와 함께 잘 구성되어 있고 이해하기 쉬움
+    - [Codecademy <sub>EN</sub>](https://www.codecademy.com) - 원하는 직업을 얻기 위한 기술 기술을 배우
+    - [Udemy <sub>KR</sub>](https://www.udemy.com) - Udemy는 213,000개 이상의 강의와 6천 2백만명 이상의 수강생이 있는 온라인 학습 및 교수 마켓플레이스
+    - [부스트코스(전 에드위드) <sub>KR</sub>](https://www.boostcourse.org) - 부스트코스는 네이버(NAVER)와 네이버 커넥트재단(NAVER Connect)이 제공하는 온라인 강좌 플랫폼
     - [TCP School (Java) <sub>KR</sub>](https://www.tcpschool.com/java/intro) - 4차산업혁명, 코딩교육, 소프트웨어교육, 코딩기초, SW코딩, 기초코딩부터 자바 파이썬 등
-    - [Poiemaweb <sub>KR</sub>](https://poiemaweb.com/) - HTML, CSS, BootStrap, Sass, JS등 웹 프로그래밍 전반에 걸친 깔끔한 학습용 웹 사이트입니다
-    - [CodeCrafters <sub>EN</sub>](https://app.codecrafters.io/catalog) - Redis, DNS 서버 등 실제 소프트웨어 재구현 프로젝트를 통해 프로그래밍을 학습할 수 있습니다
-    - [Learn Git Branching <sub>KR,EN,F</sub>](https://learngitbranching.js.org/) - 시각화된 화면과 함께 튜토리얼과 레벨별 게임을 제공하여 손쉽게 Git을 학습할 수 있는 사이트입니다
-    - [더북(TheBook) <sub>KR</sub>](https://thebook.io/) - (주)도서출판 길벗에서 제공하는 IT 도서 열람 서비스입니다
+    - [Poiemaweb <sub>KR</sub>](https://poiemaweb.com/) - HTML, CSS, BootStrap, Sass, JS등 웹 프로그래밍 전반에 걸친 깔끔한 학습용 웹 사이트
+    - [CodeCrafters <sub>EN</sub>](https://app.codecrafters.io/catalog) - Redis, DNS 서버 등 실제 소프트웨어 재구현 프로젝트를 통해 프로그래밍을 학습할 수 있는 사이트
+    - [Learn Git Branching <sub>KR,EN,F</sub>](https://learngitbranching.js.org/) - 시각화된 화면과 함께 튜토리얼과 레벨별 게임을 제공하여 손쉽게 Git을 학습할 수 있는 사이트
+    - [더북(TheBook) <sub>KR</sub>](https://thebook.io/) - (주)도서출판 길벗에서 제공하는 IT 도서 열람 서비스
     - [K-MOOC <sub>KR</sub>](https://www.kmooc.kr/) - 한국형 대학 공개강좌
 
   - <span id="coding-test">문제풀이</span>
-    - [Baekjoon Online Judge <sub>KR, F</sub>](https://www.acmicpc.net) - 프로그래밍 문제를 풀고 온라인으로 채점받을 수 있는 곳입니다
+    - [Baekjoon Online Judge <sub>KR, F</sub>](https://www.acmicpc.net) - 프로그래밍 문제를 풀고 온라인으로 채점받을 수 있는 곳
     - [Codeforces <sub>EN</sub>](https://codeforces.com) - Codeforces, 프로그래밍 대회 및 경연대회, 프로그래밍 커뮤니티
     - [Programmers <sub>KR</sub>](https://school.programmers.co.kr/learn/challenges) - 개발자 취업의 필수 관문 코딩테스트를 철저하게 연습하고 대비할 수 있는 문제를 총망라
     - [코딩도장 <sub>KR</sub>](https://codingdojang.com) - 프로그래밍 문제풀이를 통해서 코딩 실력을 수련
-    - [LeetCode <sub>EN, $</sub>](https://leetcode.com/) - 코딩 기술을 향상시키고 빨리 직장을 구하세요. 이곳은 여러분의 지식을 확장하고 다음 인터뷰를 준비할 수 있는 최고의 장소입니다
-    - [solved.ac <sub>KR</sub>](https://solved.ac) - 알고리즘 문제해결 학습의 이정표 Baekjoon Online Judge 문제들의 난이도 및 티어 정보를 제공하는 사이트입니다
+    - [LeetCode <sub>EN, $</sub>](https://leetcode.com/) - 코딩 기술을 향상시키고 빨리 직장을 구하세요. 이곳은 여러분의 지식을 확장하고 다음 인터뷰를 준비할 수 있는 최고의 장소
+    - [solved.ac <sub>KR</sub>](https://solved.ac) - 알고리즘 문제해결 학습의 이정표 Baekjoon Online Judge 문제들의 난이도 및 티어 정보를 제공하는 사이트
 
 - <span id="blog">블로그 📚</span>
 
@@ -275,7 +298,7 @@
   - [요기요 기술블로그 <sub>KR</sub>](https://techblog.yogiyo.co.kr/) - 요기요 기술블로그
   - [플랫팜 기술블로그 <sub>KR</sub>](https://medium.com/platfarm/technology/home) - 플랫팜 기술블로그
   - [스포카 기술블로그 <sub>KR</sub>](https://spoqa.github.io/) - 스포카 기술블로그
-  - [라인 기술블로그 <sub>KR</sub>](https://techblog.lycorp.co.jp/ko) - 라인 기술플로그
+  - [라인 기술블로그 <sub>KR</sub>](https://techblog.lycorp.co.jp/ko) - 라인 기술블로그
   - [쏘카 기술블로그 <sub>KR</sub>](https://tech.socarcorp.kr/) - 쏘카 기술블로그
   - [리디 기술블로그 <sub>KR</sub>](https://ridicorp.com/story-category/tech-blog/) - 리디 기술블로그
   - [아이들나라 기술블로그 <sub>KR</sub>](https://i-nara.oopy.io/techblog) - 아이들나라 기술블로그
@@ -352,7 +375,7 @@
     - [GitLab <sub>$</sub>](https://about.gitlab.com/) - Git 플랫폼 (GitHub와 유사)
     - [Bitbucket <sub>$</sub>](https://bitbucket.org/) - Atlassian에 의해 운영되는 Git 저장소
     - [grep <sub>$</sub>](https://grep.app/search) - GitHub 공개 저장소 전체를 대상으로 코드를 검색할 수 있는 도구
-    - [Learn Git Branching <sub>KR,EN,F</sub>](https://learngitbranching.js.org/) - 시각화된 화면과 함께 튜토리얼과 레벨별 게임을 제공하여 손쉽게 Git을 학습할 수 있는 사이트입니다
+    - [Learn Git Branching <sub>KR,EN,F</sub>](https://learngitbranching.js.org/) - 시각화된 화면과 함께 튜토리얼과 레벨별 게임을 제공하여 손쉽게 Git을 학습할 수 있는 사이트
     - [GitDiagram](https://gitdiagram.com/) - Git Repository 내 파일을 Diagram으로 시각화해주는 도구
 
   - <span id="no-code">No Code</span>
