@@ -21,13 +21,13 @@ const App = () => {
             </div>
             <ul tabIndex={0}
               className="menu dropdown-content mt-2 z-[1] border border-indigo-600 bg-base-100 rounded-2xl w-42">
-              <li><Link to="/"><span className="text-neutral-content">메인</span></Link></li>
-              <li><Link to="/about"><span className="text-neutral-content">소개</span></Link></li>
-              <li><Link to="/contribute"><span className="text-neutral-content">기여</span></Link></li>
+              <li><Link to="/"><span className="dark:text-neutral-content">메인</span></Link></li>
+              <li><Link to="/about"><span className="dark:text-neutral-content">소개</span></Link></li>
+              <li><Link to="/contribute"><span className="dark:text-neutral-content">기여</span></Link></li>
               {/* Social (Mobile) */}
               <div className="block md:hidden">
-                <li><a href="https://github.com/currenjin/site-for-developers" rel="noreferrer" target="_blank"><span className="text-neutral-content">GitHub</span></a></li>
-                <li><a href="https://stats.uptimerobot.com/Klr3b7eDKs" rel="noreferrer" target="_blank"><span className="text-neutral-content">웹사이트 상태</span></a></li>
+                <li><a href="https://github.com/currenjin/site-for-developers" rel="noreferrer" target="_blank"><span className="dark:text-neutral-content">GitHub</span></a></li>
+                <li><a href="https://stats.uptimerobot.com/Klr3b7eDKs" rel="noreferrer" target="_blank"><span className="dark:text-neutral-content">웹사이트 상태</span></a></li>
               </div>
             </ul>
           </div>
@@ -45,12 +45,12 @@ const App = () => {
           <div className="hidden md:flex">
           <button className="btn btn-ghost btn-circle">
             <a href="https://github.com/currenjin/site-for-developers" rel="noreferrer" target="_blank">
-              <FaGithub size={26} className="text-neutral-content" />
+              <FaGithub size={26} className="dark:text-neutral-content" />
             </a>
           </button>
           <button className="btn btn-ghost btn-circle">
             <a href="https://stats.uptimerobot.com/Klr3b7eDKs" rel="noreferrer" target="_blank">
-              <FaCheckCircle size={26} className="text-neutral-content" />
+              <FaCheckCircle size={26} className="dark:text-neutral-content" />
             </a>
           </button>
           </div>
