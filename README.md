@@ -358,6 +358,7 @@
     - [Awesome Maintainers <sub>EN, O</sub>](https://github.com/nayafia/awesome-maintainers) - Open source maintainer 모음 (Awesome 계열)
     - [Algovis <sub>EN, O</sub>](https://github.com/enjalot/algovis) - 알고리즘 시각화 자료모음 (Awesome 계열)
     - [Awesome Courses <sub>EN</sub>](https://github.com/prakhar1989/awesome-courses) - 무료 CS 강좌 모음 (Awesome 계열)
+    - [Awesome Docker <sub>EN</sub>](https://github.com/veggiemonk/awesome-docker) - 도커 자료모음 (Awesome 계열)
 
 - <span id="tool">도구 🔨</span>
 
