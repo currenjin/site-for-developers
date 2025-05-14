@@ -197,6 +197,11 @@
     - [Codeium <sub>F</sub>](https://codeium.com/) - 무료로 사용할 수 있는 AI 코드 생성 도구로, 다양한 IDE와 통합
     - [Amazon CodeWhisperer <sub>F</sub>](https://aws.amazon.com/ko/codewhisperer/) - AWS에서 개발한 AI 코딩 도구로, 보안 취약점 감지 기능을 포함
 
+  - <span id="ai-local-tools">디자인 도구</span>
+    - [shopify](https://www.shopify.com/tools/logo-maker) - 로고 자동 생성
+    - [hatchful](https://hatchful.shopify.com/) - 로고 자동 생성
+
+
   - <span id="conversational-ai">대화형 AI</span>
     - [ChatGPT](https://chatgpt.com/) - OpenAI에서 개발한 대화형 AI로, 프로그래밍 문제 해결부터 일반적인 질문까지 다양한 작업을 지원
     - [Claude](https://claude.ai) - 앤트로픽에서 개발한 대화형 AI로, 문서 분석 및 복잡한 추론 작업에 강점을 가지고 있음
@@ -213,6 +218,7 @@
 
   - [OpenAI API](https://platform.openai.com/docs/concepts) - OpenAI API 문서로, AI 모델을 애플리케이션에 통합하는 방법을 제공
   - [Anthropic Developer Docs](https://docs.anthropic.com/en/docs/initial-setup) - Claude API 문서로, Claude AI를 애플리케이션에 통합하는 방법을 제공
+
 
 - <span id="community">커뮤니티 💬</span>
 
@@ -412,6 +418,13 @@
     - [Pexels](https://www.pexels.com/ko-kr) - 고화질 무료이미지 모음
     - [Emojipedia](https://emojipedia.org) - 이모지 저장소
     - [Excalidraw](https://excalidraw.com/) - 간편한 다이어그램 작성 도구
+    - [pixlr](https://pixlr.com/kr/x/) - 포톡샵 같은 이미지 편집 도구 
+    - [thenounproject](https://thenounproject.com/) - ppt용 백터 이미지 
+    - [removebg](https://www.remove.bg/ko) - 빠르게 누끼 따기 (배경 제거)
+    - [colorhunt](https://colorhunt.co/) - 색상추천
+    - [coolors](https://coolors.co/) - 색상추천 
+    - [0to255](https://0to255.com/) - 비슷한 색상의 음영도 확인 (사용중인 태마색상과 어울리는 비슷한 색 확인)
+
 
   - <span id="backend-framework-tool">Backend Framework</span>
     - [Spring Initializr](https://start.spring.io) - Spring 프로젝트 생성기
@@ -456,3 +469,5 @@
   - <span id="other-tool">Other</span>
     - [TTSMaker](https://ttsmaker.com/ko) - 텍스트 음성 변환 도구
     - [IT Tools](https://it-tools.tech) - 개발할 때 유용한 Crypto, Converter, Parser 기능이 있는 웹사이트
+    - [xdiarys](https://www.xdiarys.com/?src=windows) - 회사 바탕화면에 설치해서 일정 관리 가능 캘린더 
+    - [엔팩스](https://www.enfax.com/) - 급하게 팩스 보낼때, pc 로 유료로 팩스 전송 가능
