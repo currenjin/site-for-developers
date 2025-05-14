@@ -418,12 +418,12 @@
     - [Pexels](https://www.pexels.com/ko-kr) - 고화질 무료이미지 모음
     - [Emojipedia](https://emojipedia.org) - 이모지 저장소
     - [Excalidraw](https://excalidraw.com/) - 간편한 다이어그램 작성 도구
-    - [pixlr](https://pixlr.com/kr/x/) - 포톡샵 같은 이미지 편집 도구 
+    - [pixlr](https://pixlr.com/kr/x/) - 포토샵 같은 이미지 편집 도구 
     - [thenounproject](https://thenounproject.com/) - ppt용 백터 이미지 
-    - [removebg](https://www.remove.bg/ko) - 빠르게 누끼 따기 (배경 제거)
-    - [colorhunt](https://colorhunt.co/) - 색상추천
-    - [coolors](https://coolors.co/) - 색상추천 
-    - [0to255](https://0to255.com/) - 비슷한 색상의 음영도 확인 (사용중인 태마색상과 어울리는 비슷한 색 확인)
+    - [removebg](https://www.remove.bg/ko) - 간편한 누끼 제거 도구
+    - [colorhunt](https://colorhunt.co/) - 색상추천 도구
+    - [coolors](https://coolors.co/) - 색상추천 도구
+    - [0to255](https://0to255.com/) - 유사 색상의 음영도 확인 도구
 
 
   - <span id="backend-framework-tool">Backend Framework</span>
@@ -469,5 +469,5 @@
   - <span id="other-tool">Other</span>
     - [TTSMaker](https://ttsmaker.com/ko) - 텍스트 음성 변환 도구
     - [IT Tools](https://it-tools.tech) - 개발할 때 유용한 Crypto, Converter, Parser 기능이 있는 웹사이트
-    - [xdiarys](https://www.xdiarys.com/?src=windows) - 회사 바탕화면에 설치해서 일정 관리 가능 캘린더 
-    - [엔팩스](https://www.enfax.com/) - 급하게 팩스 보낼때, pc 로 유료로 팩스 전송 가능
+    - [xdiarys](https://www.xdiarys.com/?src=windows) - 배경화면에 설치 가능한 일정 관리 캘린더
+    - [엔팩스](https://www.enfax.com/) - 신속한 팩스 전송 도구
