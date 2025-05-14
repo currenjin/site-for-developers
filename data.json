@@ -395,7 +395,42 @@
       "content": "📙 Emojipedia - 😃 이모티콘 의미의 홈 💁👌🎍😍😍",
       "feature": ["free", "english"],
       "link": "https://emojipedia.org"
+    },
+    {
+      "title": "NounPeoject",
+      "content": "ppt용 백터 이미지",
+      "feature": ["english"],
+      "link": "https://thenounproject.com/"
+    },
+    {
+      "title": "removebg",
+      "content": "자동 누끼 따기",
+      "feature": ["english"],
+      "link": "https://www.remove.bg/"
     }
+    ,
+    {
+      "title": "pixlr",
+      "content": "포토샵과 비슷한 간단한 웹 이미지 편집",
+      "feature": ["korean", "free"],
+      "link": "https://pixlr.com/kr/x/"
+    }
+    ,
+    {
+      "title": "colorhunt",
+      "content": "여러 어울리는 색상 조합 추천천",
+      "feature": ["english"],
+      "link": "https://colorhunt.co/"
+    } ,
+    {
+      "title": "coolors",
+      "content": "여러 어울리는 색상 조합 추천천",
+      "feature": ["english"],
+      "link": "https://coolors.co/"
+    }
+    
+    
+    
   ],
   "programminglanguage": [
     {
@@ -753,6 +788,12 @@
       "content": "깃 커밋 이모지 모음",
       "feature": [],
       "link": "https://gitmoji.dev"
+    },
+    {
+      "title": "capsule-render",
+      "content": "readme header 생성",
+      "feature": [],
+      "link": "https://github.com/kyechan99/capsule-render"
     },
     {
       "title": "GitHub",
@@ -1189,7 +1230,14 @@
       "content": "넷플릭스에서 제공하는 인터넷 속도 측정기 (브라우저)",
       "feature": ["korean"],
       "link": "https://fast.com/ko/"
+    },
+    {
+      "title": "CalendarTask",
+      "content": "회사 pc 바탕화면에 일정을 관리 가능한 달력",
+      "feature": ["korean"],
+      "link": "https://www.xdiarys.com/"
     }
+
   ],
   "nocode": [
     {
