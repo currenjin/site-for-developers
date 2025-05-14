@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/currenjin-site-for-developers-badge.png)](https://mseep.ai/app/currenjin-site-for-developers)
+
 <p align="middle">
 <img src="resources/icons/header_base/576x157/header_base.svg">
 </p>
