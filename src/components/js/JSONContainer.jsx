@@ -33,6 +33,7 @@ const JSONContainer = ({ category, title, data }) => {
                 className="rounded-lg mb-1"
                 width="30"
                 height="30"
+                loading="lazy"
               />
             )}
             <a href={item.link} target="_blank" rel="noreferrer" className="text-xl font-semibold text-indigo-600 hover:underline">
