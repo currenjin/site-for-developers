@@ -1,7 +1,7 @@
 import IndexData from "../data/index.json";
 
 const Index = () => {
-   const indexStyle = "badge border-none bg-indigo-600 text-white m-0.5 transition hover:bg-indigo-900"
+   const indexStyle = "badge border-2 border-gray-300 dark:border-gray-600 m-0.75 transition hover:bg-indigo-600 hover:text-white"
 
    return (
       <div>

@@ -1,9 +1,7 @@
 import "../components/css/pages.contribute.css";
 import { marked } from "marked";
 import { gfmHeadingId } from "marked-gfm-heading-id";
-import axios from "axios";
-import { useState } from "react";
-
+import { useState, useEffect } from "react";
 const Home = () => {
   const [mdDataContribute, setmdDataContribute] = useState([]);
 
@@ -18,24 +16,24 @@ const Home = () => {
     gfmHeadingId(options)
   );
 
-  axios
-    .get(
+  useEffect(() => {
+    fetch(
       "https://raw.githubusercontent.com/currenjin/site-for-developers/main/HOW-TO-CONTRIBUTE.md"
     )
-    .then((response) => {
-      console.log(response.data);
-      setmdDataContribute(marked.parse(response.data));
-    });
+      .then((response) => response.text())
+      .then((data) => {
+        setmdDataContribute(marked.parse(data));
+      });
+  }, []);
 
-    console.log(mdDataContribute);
-    return (
-        <div>
-            <div
-                className="contribute p-4 m-2 rounded-2xl border border-indigo-600"
-                dangerouslySetInnerHTML={{__html: mdDataContribute}}
-            ></div>
-        </div>
-    );
+  return (
+    <div>
+      <div
+        className="contribute p-4 m-2 rounded-2xl border-2 border-gray-300 dark:border-gray-600"
+        dangerouslySetInnerHTML={{ __html: mdDataContribute }}
+      ></div>
+    </div>
+  );
 };
 
 export default Home;
