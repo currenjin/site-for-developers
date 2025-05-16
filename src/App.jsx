@@ -13,14 +13,14 @@ const App = () => {
   return (
     <div>
       {/* Navbar */}
-      <div className="navbar bg-base-100 border-b-2 border-gray-300 dark:border-gray-600">
+      <div className="navbar bg-base-100 shadow">
         <div className="navbar-start">
           <div className="dropdown md:block hidden">
             <div tabIndex={0} role="button" className="btn btn-ghost btn-circle">
               <BsList size={32} />
             </div>
             <ul tabIndex={0}
-              className="menu dropdown-content mt-2 z-[1] border-2 border-gray-300 dark:border-gray-600 dark:border-gray-600 dark:border-gray-600 dark:border-gray-600 dark:border-gray-600 dark:border-gray-600 bg-base-100 rounded-2xl w-42">
+              className="menu dropdown-content mt-2 z-[1] border-2 border-gray-300 dark:border-gray-600 bg-base-100 rounded-xl w-42">
               <li><Link to="/"><span className="dark:text-neutral-content">메인</span></Link></li>
               <li><Link to="/about"><span className="dark:text-neutral-content">소개</span></Link></li>
               <li><Link to="/contribute"><span className="dark:text-neutral-content">기여</span></Link></li>
@@ -79,8 +79,8 @@ const App = () => {
         </Link>
 
         <button>
-          <button onClick={() => document.getElementById('my_modal_1').showModal()}><BsCollection size={24} /></button>
-          <dialog id="my_modal_1" className="modal">
+          <button onClick={() => document.getElementById('indexmodal').showModal()}><BsCollection size={24} /></button>
+          <dialog id="indexmodal" className="modal">
             <div className="modal-box">
               <h3 className="font-bold text-lg">목차</h3>
               <p className="py-4"><Index /></p>

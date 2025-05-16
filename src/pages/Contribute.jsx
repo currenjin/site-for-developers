@@ -29,7 +29,7 @@ const Home = () => {
   return (
     <div>
       <div
-        className="contribute p-4 m-2 rounded-2xl border-2 border-gray-300 dark:border-gray-600"
+        className="contribute p-4 m-2 rounded-xl border-2 border-gray-300 dark:border-gray-600"
         dangerouslySetInnerHTML={{ __html: mdDataContribute }}
       ></div>
     </div>

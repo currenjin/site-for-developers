@@ -23,9 +23,9 @@ const JSONContainer = ({ category, title, data }) => {
   return (
     <section id={category}>
       <h2 className="text-3xl font-bold md:py-3 py-2 px-1 text-indigo-600">{title}</h2>
-      <ul className="grid md:grid-cols-2 grid-cols-1 gap-3">
+      <ul className="md:grid grid-cols-2 gap-3">
         {data.map((item, index) => (
-          <li key={index} className="p-4 border-2 border-gray-300 dark:border-gray-600 rounded-2xl">
+          <li key={index} className="p-4 border-2 border-gray-300 dark:border-gray-600 rounded-xl">
             {favicons[item.link]?.trim() && (
               <img
                 src={favicons[item.link]}

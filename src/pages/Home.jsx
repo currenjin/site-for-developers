@@ -42,7 +42,7 @@ const Home = ({ searchInput }) => {
 
   return (
     <div>
-      <aside className="md:block hidden fixed h-fit w-68 mx-2 p-3 rounded-2xl border-2 border-gray-300 dark:border-gray-600">
+      <aside className="md:block hidden fixed h-fit w-68 mx-2 p-3 rounded-xl border-2 border-gray-300 dark:border-gray-600">
         <Index />
       </aside>
 
