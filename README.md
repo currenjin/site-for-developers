@@ -426,6 +426,7 @@
     - [colorhunt](https://colorhunt.co/) - 색상추천 도구
     - [coolors](https://coolors.co/) - 색상추천 도구
     - [0to255](https://0to255.com/) - 유사 색상의 음영도 확인 도구
+    - [msaez](https://www.msaez.io/) - 마이크로서비스 아키텍처 다이어그램 작성 도구
 
 
   - <span id="backend-framework-tool">Backend Framework</span>
