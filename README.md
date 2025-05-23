@@ -370,6 +370,7 @@
     - [Awesome Computer Science <sub>EN</sub>](https://github.com/ossu/computer-science) - 컴퓨터 사이언스 자료모음 (Awesome 계열)
     - [Awesome Computer Vision <sub>EN</sub>](https://github.com/jbhuang0604/awesome-computer-vision) - 컴퓨터 비전 자료모음 (Awesome 계열)
     - [Awesome Functional Programming <sub>EN</sub>](https://github.com/lucasviola/awesome-functional-programming) - 함수형 프로그래밍 자료모음 (Awesome 계열)
+    - [Awesome JVM <sub>EN</sub>](https://github.com/deephacks/awesome-jvm) - JVM 자료모음 (Awesome 계열)
 
 - <span id="tool">도구 🔨</span>
 
