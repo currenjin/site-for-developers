@@ -372,6 +372,7 @@
     - [Awesome Functional Programming <sub>EN</sub>](https://github.com/lucasviola/awesome-functional-programming) - 함수형 프로그래밍 자료모음 (Awesome 계열)
     - [Awesome JVM <sub>EN</sub>](https://github.com/deephacks/awesome-jvm) - JVM 자료모음 (Awesome 계열)
     - [Awesome Empirical Software Engineering <sub>EN</sub>](https://github.com/dspinellis/awesome-msr) - 경험적 소프트웨어 엔지니어링 자료모음 (Awesome 계열)
+    - [Awesome Generative AI <sub>EN</sub>](https://github.com/steven2358/awesome-generative-ai) - 생성형 AI 자료모음 (Awesome 계열)
 
 - <span id="tool">도구 🔨</span>
 
