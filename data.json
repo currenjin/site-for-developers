@@ -395,6 +395,12 @@
       "content": "📙 Emojipedia - 😃 이모티콘 의미의 홈 💁👌🎍😍😍",
       "feature": ["free", "english"],
       "link": "https://emojipedia.org"
+    },
+    {
+      "title": "Ant Design",
+      "content": "고품질 React 구성 요소 세트를 갖춘 엔터프라이즈급 UI 디자인 언어 및 React UI 라이브러리, 기업을 위한 최고의 React UI 라이브러리 중 하나",
+      "feature": ["free", "english"],
+      "link": "https://ant.design/"
     }
   ],
   "programminglanguage": [
@@ -771,6 +777,12 @@
       "content": "Atlassian에 의해 운영되는 Git 저장소",
       "feature": [],
       "link": "https://bitbucket.org/"
+    },
+    {
+      "title": "LGTM Gifs",
+      "content": "Pull Request에 사용할 수 있는 GIF 모음",
+      "feature": [],
+      "link": "https://www.lgtmgifs.com/"
     }
   ],
   "other": [

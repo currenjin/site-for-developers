@@ -103,6 +103,7 @@
     - [Flowbite](https://flowbite.com) - Tailwind CSS의 유틸리티 클래스로 구축되고 Figma로 설계된 600개 이상의 UI 구성 요소, 섹션 및 페이지로 구성된 오픈 소스 라이브러리로 시작
     - [Headless UI](https://headlessui.com) - Tailwind CSS와 아름답게 통합되도록 설계된 완전히 스타일화되지 않은 완전히 액세스 가능한 UI 구성 요소
     - [Shadcn UI](https://ui.shadcn.com/) - Tailwind CSS 기반의 접근성 높은 구성 요소를 유연하게 커스터마이징할 수 있는 현대적인 UI 라이브러리
+    - [Ant Design](https://ant.design/) - 웹, 앱 디자인을 위한 React UI 프레임워크.
 
   - <span id="programming-language">Programming Language</span>
     - [Kotlin Docs](https://kotlinlang.org/docs/home.html) - 코틀린 공식 문서
@@ -396,6 +397,7 @@
     - [grep <sub>$</sub>](https://grep.app/search) - GitHub 공개 저장소 전체를 대상으로 코드를 검색할 수 있는 도구
     - [Learn Git Branching <sub>KR,EN,F</sub>](https://learngitbranching.js.org/) - 시각화된 화면과 함께 튜토리얼과 레벨별 게임을 제공하여 손쉽게 Git을 학습할 수 있는 사이트
     - [GitDiagram](https://gitdiagram.com/) - Git Repository 내 파일을 Diagram으로 시각화해주는 도구
+    - [LGTM Gifs](https://www.lgtmgifs.com/) - Git Commit LGTM GIF 모음
 
   - <span id="no-code">No Code</span>
     - [Bubble](https://bubble.io) - 노코드 툴 Bubble
