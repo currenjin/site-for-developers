@@ -373,6 +373,7 @@
     - [Awesome JVM <sub>EN</sub>](https://github.com/deephacks/awesome-jvm) - JVM 자료모음 (Awesome 계열)
     - [Awesome Empirical Software Engineering <sub>EN</sub>](https://github.com/dspinellis/awesome-msr) - 경험적 소프트웨어 엔지니어링 자료모음 (Awesome 계열)
     - [Awesome Generative AI <sub>EN</sub>](https://github.com/steven2358/awesome-generative-ai) - 생성형 AI 자료모음 (Awesome 계열)
+    - [Awesome Interview Questions <sub>EN</sub>](https://github.com/DopplerHQ/awesome-interview-questions) - 인터뷰 질문 자료모음 (Awesome 계열)
 
 - <span id="tool">도구 🔨</span>
 
