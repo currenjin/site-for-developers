@@ -821,6 +821,12 @@
       "content": "개발할 때 유용한 Crypto, Converter, Parser 기능이 있는 웹사이트",
       "feature": ["english"],
       "link": "https://it-tools.tech"
+    },
+    {
+      "title": "HexEd.it",
+      "content": "HTML5/JavaScript기반의 웹 브라우저에서 실행되는 강력한 온라인 16진수 편집기. 어디서나 바이너리 파일을 분석하고 편집할 수 있습니다.",
+      "feature": [],
+      "link": "https://hexed.it/"
     }
   ],
   "blog": [

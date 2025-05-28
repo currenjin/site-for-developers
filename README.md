@@ -483,3 +483,4 @@
     - [IT Tools](https://it-tools.tech) - 개발할 때 유용한 Crypto, Converter, Parser 기능이 있는 웹사이트
     - [xdiarys](https://www.xdiarys.com/?src=windows) - 배경화면에 설치 가능한 일정 관리 캘린더
     - [엔팩스](https://www.enfax.com/) - 신속한 팩스 전송 도구
+    - [HexEd.it](https://hexed.it/) - 브라우저 기반의 Hex Editor
