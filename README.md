@@ -103,7 +103,8 @@
     - [Flowbite](https://flowbite.com) - Tailwind CSS의 유틸리티 클래스로 구축되고 Figma로 설계된 600개 이상의 UI 구성 요소, 섹션 및 페이지로 구성된 오픈 소스 라이브러리로 시작
     - [Headless UI](https://headlessui.com) - Tailwind CSS와 아름답게 통합되도록 설계된 완전히 스타일화되지 않은 완전히 액세스 가능한 UI 구성 요소
     - [Shadcn UI](https://ui.shadcn.com/) - Tailwind CSS 기반의 접근성 높은 구성 요소를 유연하게 커스터마이징할 수 있는 현대적인 UI 라이브러리
-    - [Ant Design](https://ant.design/) - 웹, 앱 디자인을 위한 React UI 프레임워크.
+    - [Ant Design](https://ant.design/) - 웹, 앱 디자인을 위한 React UI 프레임워크
+    - [Storybook <sub>EN,F,O</sub>](https://storybook.js.org/) - UI 컴포넌트를 체계적이고 효율적으로 구축할 수 있는 UI 컴포넌트 개발 도구로, UI 컴포넌트 라이브러리의 문서화 또는 디자인 시스템을 개발하기 위한 플랫폼 등으로 활용
 
   - <span id="programming-language">Programming Language</span>
     - [Kotlin Docs](https://kotlinlang.org/docs/home.html) - 코틀린 공식 문서
@@ -482,3 +483,4 @@
     - [IT Tools](https://it-tools.tech) - 개발할 때 유용한 Crypto, Converter, Parser 기능이 있는 웹사이트
     - [xdiarys](https://www.xdiarys.com/?src=windows) - 배경화면에 설치 가능한 일정 관리 캘린더
     - [엔팩스](https://www.enfax.com/) - 신속한 팩스 전송 도구
+    - [HexEd.it](https://hexed.it/) - 브라우저 기반의 Hex Editor
