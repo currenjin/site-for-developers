@@ -377,6 +377,7 @@
     - [Awesome Generative AI <sub>EN</sub>](https://github.com/steven2358/awesome-generative-ai) - 생성형 AI 자료모음 (Awesome 계열)
     - [Awesome Interview Questions <sub>EN</sub>](https://github.com/DopplerHQ/awesome-interview-questions) - 인터뷰 질문 자료모음 (Awesome 계열)
     - [Awesome CodeRabbit <sub>EN</sub>](https://github.com/coderabbitai/awesome-coderabbit) - 코드래빗 자료모음 (Awesome 계열)
+    - [Awesome Playwright <sub>EN</sub>](https://github.com/mxschmitt/awesome-playwright) - 플레이라이트 자료모음 (Awesome 계열)
 
 - <span id="tool">도구 🔨</span>
 
