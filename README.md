@@ -379,6 +379,7 @@
     - [Awesome CodeRabbit <sub>EN</sub>](https://github.com/coderabbitai/awesome-coderabbit) - 코드래빗 자료모음 (Awesome 계열)
     - [Awesome Playwright <sub>EN</sub>](https://github.com/mxschmitt/awesome-playwright) - 플레이라이트 자료모음 (Awesome 계열)
     - [Awesome Deep Learning <sub>EN</sub>](https://github.com/ChristosChristofidis/awesome-deep-learning) - 딥 러닝 자료모음 (Awesome 계열)
+    - [Awesome GeoJson <sub>EN</sub>](https://github.com/tmcw/awesome-geojson) - Geo JSON 자료모음 (Awesome 계열)
 
 - <span id="tool">도구 🔨</span>
 
