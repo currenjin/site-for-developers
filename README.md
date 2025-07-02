@@ -290,6 +290,7 @@
     - [solved.ac <sub>KR</sub>](https://solved.ac) - 알고리즘 문제해결 학습의 이정표 Baekjoon Online Judge 문제들의 난이도 및 티어 정보를 제공하는 사이트
 
 - <span id="blog">블로그 📚</span>
+  - [코드너리 <sub>KR</sub>](https://www.codenary.co.kr/) - 기술블로그 모음
   - [채널톡 기술블로그 <sub>KR</sub>](https://channel.io/ko/team/blog/topics/3efe1448) - 채널톡 기술블로그
   - [우아한형제들 기술블로그 <sub>KR</sub>](https://techblog.woowahan.com/) - 우아한형제들 기술블로그
   - [카카오 기술블로그 <sub>KR</sub>](https://tech.kakao.com/blog/) - 카카오 기술블로그
