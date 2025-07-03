@@ -291,6 +291,7 @@
 
 - <span id="blog">블로그 📚</span>
   - [코드너리 <sub>KR</sub>](https://www.codenary.co.kr/) - 기술블로그 모음
+  - [벨로퍼스 <sub>KR</sub>](https://www.velopers.kr/) - 기술블로그 모음
   - [채널톡 기술블로그 <sub>KR</sub>](https://channel.io/ko/team/blog/topics/3efe1448) - 채널톡 기술블로그
   - [우아한형제들 기술블로그 <sub>KR</sub>](https://techblog.woowahan.com/) - 우아한형제들 기술블로그
   - [카카오 기술블로그 <sub>KR</sub>](https://tech.kakao.com/blog/) - 카카오 기술블로그
