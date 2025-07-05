@@ -311,7 +311,6 @@
   - [라인 기술블로그 <sub>KR</sub>](https://techblog.lycorp.co.jp/ko) - 라인 기술블로그
   - [쏘카 기술블로그 <sub>KR</sub>](https://tech.socarcorp.kr/) - 쏘카 기술블로그
   - [리디 기술블로그 <sub>KR</sub>](https://ridicorp.com/story-category/tech-blog/) - 리디 기술블로그
-  - [아이들나라 기술블로그 <sub>KR</sub>](https://i-nara.oopy.io/techblog) - 아이들나라 기술블로그
   - [펫프렌즈 기술블로그 <sub>KR</sub>](https://techblog.pet-friends.co.kr/) - 펫프렌즈 기술블로그
   - [네이버 D2 <sub>KR</sub>](https://d2.naver.com/home) - 네이버 기술블로그
   - [라포랩스 기술블로그](https://blog.rapportlabs.kr/category/product) - 라포랩스 기술블로그
