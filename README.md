@@ -295,6 +295,7 @@
   - [채널톡 기술블로그 <sub>KR</sub>](https://channel.io/ko/team/blog/topics/3efe1448) - 채널톡 기술블로그
   - [우아한형제들 기술블로그 <sub>KR</sub>](https://techblog.woowahan.com/) - 우아한형제들 기술블로그
   - [카카오 기술블로그 <sub>KR</sub>](https://tech.kakao.com/blog/) - 카카오 기술블로그
+  - [카카오페이 기술블로그 <sub>KR</sub>](https://tech.kakaopay.com/) - 카카오페이 기술블로그
   - [쿠팡 기술블로그 <sub>KR</sub>](https://medium.com/@coupang-engineering-kr) - 쿠팡 기술블로그
   - [왓챠 팀블로그 <sub>KR</sub>](https://medium.com/watcha) - 왓챠 팀블로그
   - [토스 기술블로그 <sub>KR</sub>](https://toss.tech/tech) - 토스 기술블로그
