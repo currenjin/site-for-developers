@@ -314,6 +314,7 @@
   - [리디 기술블로그 <sub>KR</sub>](https://ridicorp.com/story-category/tech-blog/) - 리디 기술블로그
   - [펫프렌즈 기술블로그 <sub>KR</sub>](https://techblog.pet-friends.co.kr/) - 펫프렌즈 기술블로그
   - [네이버 D2 <sub>KR</sub>](https://d2.naver.com/home) - 네이버 기술블로그
+  - [AWS 기술블로그 <sub>KR</sub>](https://aws.amazon.com/ko/blogs/korea/) - AWS 한국 블로그
   - [라포랩스 기술블로그](https://blog.rapportlabs.kr/category/product) - 라포랩스 기술블로그
   - [Engineering at Meta <sub>EN</sub>](https://engineering.fb.com/) - 메타 엔지니어링 블로그
   - [Amazon Alexa Blogs <sub>EN</sub>](https://developer.amazon.com/en-US/blogs/alexa) - 아마존 알렉사 블로그
