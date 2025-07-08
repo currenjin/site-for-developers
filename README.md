@@ -51,6 +51,8 @@
   - [학습](#study)
   - [문제풀이](#coding-test)
 - [블로그 📚](#blog)
+  - [팀 블로그](#team-blog)
+  - [개인 블로그](#personal-blog)
 - [동영상 📺](#video)
 - [자료모음 🧾](#collection-of-data)
   - [Awesome](#awesome)
@@ -290,50 +292,53 @@
     - [solved.ac <sub>KR</sub>](https://solved.ac) - 알고리즘 문제해결 학습의 이정표 Baekjoon Online Judge 문제들의 난이도 및 티어 정보를 제공하는 사이트
 
 - <span id="blog">블로그 📚</span>
-  - [코드너리 <sub>KR</sub>](https://www.codenary.co.kr/) - 기술블로그 모음
-  - [벨로퍼스 <sub>KR</sub>](https://www.velopers.kr/) - 기술블로그 모음
-  - [채널톡 기술블로그 <sub>KR</sub>](https://channel.io/ko/team/blog/topics/3efe1448) - 채널톡 기술블로그
-  - [우아한형제들 기술블로그 <sub>KR</sub>](https://techblog.woowahan.com/) - 우아한형제들 기술블로그
-  - [카카오 기술블로그 <sub>KR</sub>](https://tech.kakao.com/blog/) - 카카오 기술블로그
-  - [카카오페이 기술블로그 <sub>KR</sub>](https://tech.kakaopay.com/) - 카카오페이 기술블로그
-  - [쿠팡 기술블로그 <sub>KR</sub>](https://medium.com/@coupang-engineering-kr) - 쿠팡 기술블로그
-  - [왓챠 팀블로그 <sub>KR</sub>](https://medium.com/watcha) - 왓챠 팀블로그
-  - [토스 기술블로그 <sub>KR</sub>](https://toss.tech/tech) - 토스 기술블로그
-  - [컬리 기술블로그 <sub>KR</sub>](https://helloworld.kurly.com/) - 컬리 기술블로그
-  - [뱅크샐러드 기술블로그 <sub>KR</sub>](https://blog.banksalad.com/tech/) - 뱅크샐러드 기술블로그
-  - [올리브영 기술블로그 <sub>KR</sub>](https://oliveyoung.tech/) - 올리브영 기술블로그
-  - [NHN 클라우드 밋업 <sub>KR</sub>](https://meetup.nhncloud.com/) - NHN 클라우드 밋업
-  - [하이퍼커넥트 기술블로그 <sub>KR</sub>](https://hyperconnect.github.io/) - 하이퍼커넥트 기술블로그
-  - [당근마켓 기술블로그 <sub>KR</sub>](https://medium.com/daangn/development/home) - 당근마켓 기술블로그
-  - [강남언니 기술블로그 <sub>KR</sub>](https://blog.gangnamunni.com/blog/tech/) - 강남언니 기술블로그
-  - [요기요 기술블로그 <sub>KR</sub>](https://techblog.yogiyo.co.kr/) - 요기요 기술블로그
-  - [플랫팜 기술블로그 <sub>KR</sub>](https://medium.com/platfarm/technology/home) - 플랫팜 기술블로그
-  - [스포카 기술블로그 <sub>KR</sub>](https://spoqa.github.io/) - 스포카 기술블로그
-  - [라인 기술블로그 <sub>KR</sub>](https://techblog.lycorp.co.jp/ko) - 라인 기술블로그
-  - [쏘카 기술블로그 <sub>KR</sub>](https://tech.socarcorp.kr/) - 쏘카 기술블로그
-  - [리디 기술블로그 <sub>KR</sub>](https://ridicorp.com/story-category/tech-blog/) - 리디 기술블로그
-  - [펫프렌즈 기술블로그 <sub>KR</sub>](https://techblog.pet-friends.co.kr/) - 펫프렌즈 기술블로그
-  - [네이버 D2 <sub>KR</sub>](https://d2.naver.com/home) - 네이버 기술블로그
-  - [AWS 기술블로그 <sub>KR</sub>](https://aws.amazon.com/ko/blogs/korea/) - AWS 한국 블로그
-  - [라포랩스 기술블로그](https://blog.rapportlabs.kr/category/product) - 라포랩스 기술블로그
-  - [Engineering at Meta <sub>EN</sub>](https://engineering.fb.com/) - 메타 엔지니어링 블로그
-  - [Amazon Alexa Blogs <sub>EN</sub>](https://developer.amazon.com/en-US/blogs/alexa) - 아마존 알렉사 블로그
-  - [Apple Developer <sub>EN</sub>](https://developer.apple.com/) - 애플 개발자 블로그
-  - [Netflix Tech Blog <sub>EN</sub>](https://netflixtechblog.com/) - 넷플릭스 기술블로그
-  - [Google Developer Blog <sub>EN</sub>](https://developers.googleblog.com/) - 구글 개발자 블로그
-  - [Linkedin Engineering Blog <sub>EN</sub>](https://www.linkedin.com/blog/engineering) - 링크드인 엔지니어링 블로그
-  - [Slack Engineering <sub>EN</sub>](https://slack.engineering/) - 슬랙 엔지니어링 블로그
-  - [The Airbnb Tech Blog <sub>EN</sub>](https://medium.com/airbnb-engineering) - 에어비앤비 기술블로그
-  - [Zoom Developer Blog <sub>EN</sub>](https://medium.com/zoom-developer-blog) - 줌 개발자 블로그
-  - [RiotGames Tech Blog <sub>EN</sub>](https://technology.riotgames.com/) - 라이엇 게임즈 기술블로그
-  - [Pinterest Engineering <sub>EN</sub>](https://medium.com/@Pinterest_Engineering) - 핀터레스트 엔지니어링 블로그
-  - [PayPal Tech Blog <sub>EN</sub>](https://medium.com/paypal-tech) - 페이팔 기술블로그
-  - [Ebay Tech Blog <sub>EN</sub>](https://innovation.ebayinc.com/tech/) - 이베이 기술블로그
-  - [X (구 Twitter) Engineering <sub>EN</sub>](https://blog.twitter.com/engineering/en_us) - X (구 Twitter) 엔지니어링 블로그
-  - [GooglePlay Engineering <sub>EN</sub>](https://medium.com/googleplaydev) - 구글 플레이 엔지니어링 블로그
-  - [Dropbox Tech Blog <sub>EN</sub>](https://dropbox.tech/) - Dropbox 기술블로그
-  - [Spotify Engineering <sub>EN</sub>](https://engineering.atspotify.com/) - Spotify 엔지니어링 블로그
-  - [Github Engineering <sub>EN</sub>](https://github.blog/engineering/) - Github 엔지니어링 블로그
+  - <span id="team-blog">팀 블로그</span>
+    - [코드너리 <sub>KR</sub>](https://www.codenary.co.kr/) - 기술블로그 모음
+    - [벨로퍼스 <sub>KR</sub>](https://www.velopers.kr/) - 기술블로그 모음
+    - [채널톡 기술블로그 <sub>KR</sub>](https://channel.io/ko/team/blog/topics/3efe1448) - 채널톡 기술블로그
+    - [우아한형제들 기술블로그 <sub>KR</sub>](https://techblog.woowahan.com/) - 우아한형제들 기술블로그
+    - [카카오 기술블로그 <sub>KR</sub>](https://tech.kakao.com/blog/) - 카카오 기술블로그
+    - [카카오페이 기술블로그 <sub>KR</sub>](https://tech.kakaopay.com/) - 카카오페이 기술블로그
+    - [쿠팡 기술블로그 <sub>KR</sub>](https://medium.com/@coupang-engineering-kr) - 쿠팡 기술블로그
+    - [왓챠 팀블로그 <sub>KR</sub>](https://medium.com/watcha) - 왓챠 팀블로그
+    - [토스 기술블로그 <sub>KR</sub>](https://toss.tech/tech) - 토스 기술블로그
+    - [컬리 기술블로그 <sub>KR</sub>](https://helloworld.kurly.com/) - 컬리 기술블로그
+    - [뱅크샐러드 기술블로그 <sub>KR</sub>](https://blog.banksalad.com/tech/) - 뱅크샐러드 기술블로그
+    - [올리브영 기술블로그 <sub>KR</sub>](https://oliveyoung.tech/) - 올리브영 기술블로그
+    - [NHN 클라우드 밋업 <sub>KR</sub>](https://meetup.nhncloud.com/) - NHN 클라우드 밋업
+    - [하이퍼커넥트 기술블로그 <sub>KR</sub>](https://hyperconnect.github.io/) - 하이퍼커넥트 기술블로그
+    - [당근마켓 기술블로그 <sub>KR</sub>](https://medium.com/daangn/development/home) - 당근마켓 기술블로그
+    - [강남언니 기술블로그 <sub>KR</sub>](https://blog.gangnamunni.com/blog/tech/) - 강남언니 기술블로그
+    - [요기요 기술블로그 <sub>KR</sub>](https://techblog.yogiyo.co.kr/) - 요기요 기술블로그
+    - [플랫팜 기술블로그 <sub>KR</sub>](https://medium.com/platfarm/technology/home) - 플랫팜 기술블로그
+    - [스포카 기술블로그 <sub>KR</sub>](https://spoqa.github.io/) - 스포카 기술블로그
+    - [라인 기술블로그 <sub>KR</sub>](https://techblog.lycorp.co.jp/ko) - 라인 기술블로그
+    - [쏘카 기술블로그 <sub>KR</sub>](https://tech.socarcorp.kr/) - 쏘카 기술블로그
+    - [리디 기술블로그 <sub>KR</sub>](https://ridicorp.com/story-category/tech-blog/) - 리디 기술블로그
+    - [펫프렌즈 기술블로그 <sub>KR</sub>](https://techblog.pet-friends.co.kr/) - 펫프렌즈 기술블로그
+    - [네이버 D2 <sub>KR</sub>](https://d2.naver.com/home) - 네이버 기술블로그
+    - [AWS 기술블로그 <sub>KR</sub>](https://aws.amazon.com/ko/blogs/korea/) - AWS 한국 블로그
+    - [라포랩스 기술블로그](https://blog.rapportlabs.kr/category/product) - 라포랩스 기술블로그
+    - [Engineering at Meta <sub>EN</sub>](https://engineering.fb.com/) - 메타 엔지니어링 블로그
+    - [Amazon Alexa Blogs <sub>EN</sub>](https://developer.amazon.com/en-US/blogs/alexa) - 아마존 알렉사 블로그
+    - [Apple Developer <sub>EN</sub>](https://developer.apple.com/) - 애플 개발자 블로그
+    - [Netflix Tech Blog <sub>EN</sub>](https://netflixtechblog.com/) - 넷플릭스 기술블로그
+    - [Google Developer Blog <sub>EN</sub>](https://developers.googleblog.com/) - 구글 개발자 블로그
+    - [Linkedin Engineering Blog <sub>EN</sub>](https://www.linkedin.com/blog/engineering) - 링크드인 엔지니어링 블로그
+    - [Slack Engineering <sub>EN</sub>](https://slack.engineering/) - 슬랙 엔지니어링 블로그
+    - [The Airbnb Tech Blog <sub>EN</sub>](https://medium.com/airbnb-engineering) - 에어비앤비 기술블로그
+    - [Zoom Developer Blog <sub>EN</sub>](https://medium.com/zoom-developer-blog) - 줌 개발자 블로그
+    - [RiotGames Tech Blog <sub>EN</sub>](https://technology.riotgames.com/) - 라이엇 게임즈 기술블로그
+    - [Pinterest Engineering <sub>EN</sub>](https://medium.com/@Pinterest_Engineering) - 핀터레스트 엔지니어링 블로그
+    - [PayPal Tech Blog <sub>EN</sub>](https://medium.com/paypal-tech) - 페이팔 기술블로그
+    - [Ebay Tech Blog <sub>EN</sub>](https://innovation.ebayinc.com/tech/) - 이베이 기술블로그
+    - [X (구 Twitter) Engineering <sub>EN</sub>](https://blog.twitter.com/engineering/en_us) - X (구 Twitter) 엔지니어링 블로그
+    - [GooglePlay Engineering <sub>EN</sub>](https://medium.com/googleplaydev) - 구글 플레이 엔지니어링 블로그
+    - [Dropbox Tech Blog <sub>EN</sub>](https://dropbox.tech/) - Dropbox 기술블로그
+    - [Spotify Engineering <sub>EN</sub>](https://engineering.atspotify.com/) - Spotify 엔지니어링 블로그
+    - [Github Engineering <sub>EN</sub>](https://github.blog/engineering/) - Github 엔지니어링 블로그
+  - <span id="personal-blog">개인 블로그</span>
+    - [기억보단 기록을 <sub>KR</sub>](https://jojoldu.tistory.com/) - jojoldu 블로그 
 
 - <span id="video">동영상 🎦</span>
 
