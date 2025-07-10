@@ -341,6 +341,7 @@
   - <span id="personal-blog">개인 블로그</span>
     - [기억보단 기록을 <sub>KR</sub>](https://jojoldu.tistory.com/) - jojoldu 블로그
     - [기계인간 기억 보조용 위키 <sub>KR</sub>](https://johngrib.github.io/) - John Grib 위키 겸 블로그
+    - [재그지그의 개발 블로그 <sub>KR</sub>](https://wormwlrm.github.io/) - 재그지그 블로그
 
 - <span id="video">동영상 🎦</span>
 
