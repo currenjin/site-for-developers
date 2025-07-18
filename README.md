@@ -56,6 +56,7 @@
 - [동영상 📺](#video)
 - [자료모음 🧾](#collection-of-data)
   - [Awesome](#awesome)
+  - [논문](#thesis)
 - [도구 🔨](#tool)
   - [Search](#search-tool)
   - [Network](#network)
@@ -394,6 +395,9 @@
     - [Awesome Deep Learning <sub>EN</sub>](https://github.com/ChristosChristofidis/awesome-deep-learning) - 딥 러닝 자료모음 (Awesome 계열)
     - [Awesome GeoJson <sub>EN</sub>](https://github.com/tmcw/awesome-geojson) - Geo JSON 자료모음 (Awesome 계열)
     - [Awesome Microservices <sub>EN</sub>](https://github.com/mfornos/awesome-microservices) - 마이크로서비스 자료모음 (Awesome 계열)
+
+  - <span id="thesis">논문</span>
+    - [Roy fielding Rest API](https://ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf) - 로이필딩 rest api 논문
 
 - <span id="tool">도구 🔨</span>
 
