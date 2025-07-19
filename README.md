@@ -399,6 +399,7 @@
 
   - <span id="thesis">논문</span>
     - [Roy fielding Rest API](https://ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf) - 로이필딩 rest api 논문
+    - [Context Engineering for Large Language Models](https://arxiv.org/pdf/2507.13334) - Context Engineering for Large Language Models
 
 - <span id="tool">도구 🔨</span>
 
