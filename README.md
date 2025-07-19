@@ -214,6 +214,7 @@
     - [Gemini](https://gemini.google.com/app?hl=ko) - Google에서 개발한 대화형 AI로, 다양한 Google 서비스와 통합
     - [Perplexity AI](https://www.perplexity.ai/) - 실시간 정보 검색과 AI 답변을 결합한 서비스로, 최신 정보에 기반한 응답을 제공
     - [Bard](https://bard.google.com/) - Google의 대화형 AI로, 다양한 주제에 대한 정보 제공 및 창의적인 콘텐츠 생성을 지원
+    - [NotebookLM](https://notebooklm.google.com/) - Google의 생성형 AI 기반 노트 앱
 
   - <span id="ai-local-tools">로컬 AI 도구</span>
     - [Ollama <sub>F, O</sub>](https://ollama.ai/) - 로컬 환경에서 다양한 오픈소스 AI 모델을 쉽게 실행할 수 있는 도구
