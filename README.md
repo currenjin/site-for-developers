@@ -97,9 +97,9 @@
 
 **🌟 사이트 추가 방법:**
 1. 이 리포지토리를 **Fork** 하세요
-2. `README.md`와 `data.json`에 새 사이트를 추가하세요
+2. `README.md`에 새 사이트를 추가하세요
 3. **Pull Request**를 생성하여 리뷰를 요청하세요
-4. 커뮤니티 리뷰 후 승인되면 자동으로 반영됩니다!
+4. 리뷰 후 승인되면 반영됩니다!
 
 **📝 기타 참여 방법:**
 - 💬 [자유롭게 토론하기](https://github.com/currenjin/site-for-developers/discussions)
