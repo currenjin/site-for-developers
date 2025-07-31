@@ -32,8 +32,17 @@
 
 ## How to contribute
 
-아래의 방법으로 Pull Request를 올려주시면 됩니다.<br/>
-Site For Developers는 GitHub README.md, 웹사이트로 구성되어 있습니다.<br/>
+🌟 **새로운 개발 사이트를 추천하고 싶으신가요?**
+
+아래의 방법으로 Pull Request를 올려주시면 됩니다!<br/>
+Site For Developers는 GitHub README.md, 웹사이트, Android 앱으로 구성되어 있습니다.<br/>
+
+**✅ 추천 사이트 조건:**
+- 개발자에게 실질적으로 도움이 되는 사이트
+- 정상적으로 접속 가능한 사이트  
+- 기존 등록된 사이트와 중복되지 않는 사이트
+- 스팸이나 광고 목적이 아닌 사이트
+
 지금 기여하셔서 Site For Developers를 더 유익하고 편리한 레포지토리로 만들어 주세요!
 
 ## 시작하기에 앞서

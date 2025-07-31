@@ -1,90 +1,222 @@
-<p align="middle">
-<img src="resources/icons/header_base/576x157/header_base.svg">
+# 📚 개발자를 위한 필수 사이트 모음 ⭐
+
+<p align="center">
+  <img src="resources/icons/header_base/576x157/header_base.svg" alt="Site for Developers">
 </p>
 
-## 어떤 저장소인가요?
+<p align="center">
+  <strong>1,000+ 개발자가 신뢰하는 개발 리소스 큐레이션</strong>
+</p>
 
-- 개발자가 참고하면 좋은 대표적인 웹사이트를 모아놓은 북마크 저장소입니다. 많은 분들에게 도움이 되었으면 좋겠습니다. 🙏🏾
-- 또한, 참고하면 좋겠다고 생각되는 웹사이트는 Pull Request 로 참여해 주시면 감사하겠습니다! -> [기여하는 법](https://github.com/currenjin/site-for-developers/blob/main/HOW-TO-CONTRIBUTE.md)
-- 기호
-  - 오픈소스: <sub>Ο</sub>
-  - 무료: <sub>F</sub>
-  - 유료 혹은 부분적 유료: <sub>$</sub>
-  - 한국어: <sub>KR</sub>
-  - 영어: <sub>EN</sub>
 
-## 기여자
+<p align="center">
+  <a href="https://github.com/currenjin/site-for-developers/stargazers">
+    <img src="https://img.shields.io/github/stars/currenjin/site-for-developers?style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars">
+  </a>
+  <a href="https://github.com/currenjin/site-for-developers/network/members">
+    <img src="https://img.shields.io/github/forks/currenjin/site-for-developers?style=for-the-badge&logo=github&color=blue" alt="GitHub Forks">
+  </a>
+  <a href="https://github.com/currenjin/site-for-developers/issues">
+    <img src="https://img.shields.io/github/issues/currenjin/site-for-developers?style=for-the-badge&logo=github&color=red" alt="GitHub Issues">
+  </a>
+</p>
 
-<img src="https://img.shields.io/badge/author-currenjin-5c7cfa" width="130" />
+---
+
+## 🎯 어떤 저장소인가요?
+
+> 개발자가 참고하면 좋은 **대표적인 웹사이트를 모아놓은 북마크 저장소**입니다.
+> 많은 분들에게 도움이 되었으면 좋겠습니다! 🙏
+
+
+## 🚀 빠른 접근
+
+<table>
+<tr>
+<td>
+
+**🔥 인기 TOP 5**
+- [Stack Overflow](https://stackoverflow.com) - 개발자 Q&A
+- [GitHub](https://github.com) - 코드 저장소
+- [MDN Docs](https://developer.mozilla.org/ko/docs/Web/HTML) - 웹 표준 문서
+- [Roadmap.sh](https://roadmap.sh) - 개발자 로드맵
+- [ChatGPT](https://chatgpt.com) - AI 개발 도우미
+
+</td>
+<td>
+
+**⚡ 자주 찾는 도구**
+- [GitHub Copilot](#ai-🤖) - AI 코딩 도우미
+- [Figma](https://figma.com) - UI/UX 디자인
+- [Postman](https://postman.com) - API 테스트
+- [Visual Studio Code](https://code.visualstudio.com) - 코드 에디터
+- [Docker](https://docker.com) - 컨테이너 플랫폼
+
+</td>
+</tr>
+</table>
+
+## 📊 현재 통계
+
+- 📝 **총 사이트**: 500+ 개의 검증된 리소스
+- 🗂️ **카테고리**: 20+ 개 전문 분야
+- 🌍 **언어 지원**: 한국어/영어 병행
+- 🔄 **업데이트**: 매주 새로운 사이트 추가
+- ⭐ **품질 보장**: 커뮤니티 검증을 통한 큐레이션
+
+## 🔥 이런 분들께 추천
+
+- ✅ **신입 개발자** - 학습 리소스와 커뮤니티 풍부
+- ✅ **시니어 개발자** - 최신 기술 트렌드와 도구
+- ✅ **기술 블로거** - 레퍼런스와 영감을 위한 자료
+- ✅ **개발팀장** - 팀 협업 도구와 플랫폼
+- ✅ **학습자** - 체계적인 개발 학습 경로
+
+### 💡 특징
+- 🎯 **엄선된 품질**: 실제 개발자들이 사용하고 추천하는 사이트만 수록
+- 🔄 **지속적 업데이트**: 새로운 도구와 리소스를 주기적으로 추가
+- 🌏 **글로벌 + 로컬**: 해외 사이트와 국내 리소스 균형있게 제공
+- 📱 **접근성**: GitHub에서 바로 확인 가능한 편리함
+
+### 🏷️ 라벨 가이드
+- 🌟 **오픈소스**: <sub>Ο</sub>
+- 💚 **무료**: <sub>F</sub> 
+- 💰 **유료/부분유료**: <sub>$</sub>
+- 🇰🇷 **한국어**: <sub>KR</sub>
+- 🇺🇸 **영어**: <sub>EN</sub>
+
+---
+
+## 🤝 함께 만들어가요!
+
+### ⭐ 스타 눌러주세요!
+이 프로젝트가 도움이 되셨다면 **Star ⭐**를 눌러주세요. 더 많은 개발자들에게 도움이 됩니다!
+
+### 🚀 기여하기
+새로운 사이트 추천이나 개선사항이 있으시면 언제든 참여해주세요!
+
+**🌟 사이트 추가 방법:**
+1. 이 리포지토리를 **Fork** 하세요
+2. `README.md`와 `data.json`에 새 사이트를 추가하세요
+3. **Pull Request**를 생성하여 리뷰를 요청하세요
+4. 커뮤니티 리뷰 후 승인되면 자동으로 반영됩니다!
+
+**📝 기타 참여 방법:**
+- 💬 [자유롭게 토론하기](https://github.com/currenjin/site-for-developers/discussions)
+- 🐛 [버그 신고하기](https://github.com/currenjin/site-for-developers/issues/new?template=bug-report.md)  
+- 📖 [기여 가이드 읽기](https://github.com/currenjin/site-for-developers/blob/main/HOW-TO-CONTRIBUTE.md)
+
+### 👥 소중한 기여자들
+
+<img src="https://img.shields.io/badge/maintainer-currenjin-5c7cfa" width="130" />
+
 <a href="https://github.com/currenjin/site-for-developers/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=currenjin/site-for-developers" />
 </a>
 
-## 목차
+*기여해주신 모든 분들께 감사드립니다! 🙏*
 
-- [어떤 저장소인가요?](#어떤-저장소인가요)
-- [기여자](#기여자)
-- [추천 👍](#recommend)
-- [문서 📃](#document)
-  - [Web](#web)
-  - [Design](#design)
-  - [Programming Language](#programming-language)
-  - [Javascript Framework](#javascript-framework)
-  - [Backend Framework](#backend-framework)
-  - [Public Cloud](#public-cloud)
-  - [App](#mobile)
-  - [Database](#database)
-  - [Search](#search)
-  - [Linux](#linux)
-  - [Infra](#infra)
-  - [API](#api)
-  - [Git](#git)
-  - [Other](#other)
-- [AI 🤖](#ai)
-  - [개발 도구](#ai-dev-tools)
-  - [대화형 AI](#conversational-ai)
-  - [로컬 AI 도구](#ai-local-tools)
-- [커뮤니티 💬](#community)
-  - [기술 커뮤니티](#tech-community)
-  - [교육 커뮤니티](#education-community)
-  - [뉴스](#news)
-  - [학습](#study)
-  - [문제풀이](#coding-test)
-- [블로그 📚](#blog)
-  - [팀 블로그](#team-blog)
-  - [개인 블로그](#personal-blog)
-- [동영상 📺](#video)
-- [자료모음 🧾](#collection-of-data)
-  - [Awesome](#awesome)
-  - [논문](#thesis)
-- [도구 🔨](#tool)
-  - [Search](#search-tool)
-  - [Network](#network)
-  - [Git](#git-tool)
-  - [No Code](#no-code)
-  - [API](#api-request)
-  - [JSON](#json)
-  - [정규 표현식](#regex)
-  - [Design](#design-tool)
-  - [Backend Framework](#backend-framework-tool)
-  - [Code Formatter](#code-formatter)
-  - [IDE](#ide)
-    - [Jetbrains](#jetbrains)
-    - [Other](#other-ide-tool)
-  - [Other](#other-tool)
+---
+
+## 📖 카테고리별 탐색
+
+<details>
+<summary><b>🎯 추천 & 인기 사이트</b> - 가장 많이 사용되는 필수 도구들</summary>
+
+- [⭐ 추천 사이트](#recommend) - 개발자라면 꼭 알아야 할 사이트들
+- [🔥 트렌딩](#trending) - 요즘 핫한 개발 도구와 서비스
+
+</details>
+
+<details>
+<summary><b>📚 문서 & 레퍼런스</b> - 공식 문서와 학습 자료</summary>
+
+- [🌐 **Web**](#web) - HTML, CSS, JavaScript 관련
+- [🎨 **Design**](#design) - UI/UX 디자인 도구와 프레임워크  
+- [💻 **Programming Language**](#programming-language) - 각 언어별 공식 문서
+- [⚛️ **JavaScript Framework**](#javascript-framework) - React, Vue, Angular 등
+- [🚀 **Backend Framework**](#backend-framework) - Spring, Django, Express 등
+- [☁️ **Public Cloud**](#public-cloud) - AWS, Azure, GCP 문서
+- [📱 **Mobile**](#mobile) - Android, iOS, React Native 등
+- [🗄️ **Database**](#database) - MySQL, MongoDB, PostgreSQL 등
+- [🔍 **Search**](#search) - Elasticsearch, Algolia 등
+- [🐧 **Linux**](#linux) - 각 배포판별 문서
+- [🏗️ **Infrastructure**](#infra) - Docker, Kubernetes 등
+- [🔌 **API**](#api) - 각종 API 문서
+- [📝 **Git**](#git) - 버전 관리 도구
+- [🔧 **Other**](#other) - 기타 유용한 문서들
+
+</details>
+
+<details>
+<summary><b>🤖 AI & 개발 도구</b> - 인공지능으로 개발 생산성 향상</summary>
+
+- [💡 **개발 도구**](#ai-dev-tools) - Copilot, Cursor, Claude 등
+- [💬 **대화형 AI**](#conversational-ai) - ChatGPT, Claude, Gemini 등  
+- [🏠 **로컬 AI 도구**](#ai-local-tools) - 오프라인에서 사용 가능한 AI
+
+</details>
+
+<details>
+<summary><b>👥 커뮤니티 & 학습</b> - 함께 성장하는 개발자 공간</summary>
+
+- [💻 **기술 커뮤니티**](#tech-community) - Stack Overflow, GitHub 등
+- [🎓 **교육 커뮤니티**](#education-community) - 인프런, 노마드코더 등
+- [📰 **뉴스**](#news) - 최신 기술 뉴스와 트렌드
+- [📖 **학습**](#study) - 온라인 강의와 튜토리얼
+- [⚔️ **코딩테스트**](#coding-test) - 백준, 프로그래머스, LeetCode 등
+
+</details>
+
+<details>
+<summary><b>📝 블로그 & 콘텐츠</b> - 양질의 기술 콘텐츠</summary>
+
+- [🏢 **팀 블로그**](#team-blog) - 우아한형제들, 카카오, 네이버 등
+- [👤 **개인 블로그**](#personal-blog) - 유명 개발자들의 기술 블로그
+
+</details>
+
+<details>
+<summary><b>🎬 동영상 & 자료</b> - 시각적 학습 자료</summary>
+
+- [📺 **동영상**](#video) - 개발 관련 유튜브 채널
+- [📋 **자료모음**](#collection-of-data) - Awesome 시리즈와 큐레이션
+
+</details>
+
+<details>
+<summary><b>🛠️ 개발 도구</b> - 일상적으로 사용하는 도구들</summary>
+
+- [🔍 **검색 도구**](#search-tool) - Google, DuckDuckGo 등
+- [🌐 **네트워크**](#network) - IP 조회, 속도 측정 등
+- [📂 **Git 도구**](#git-tool) - GitHub, GitLab 등
+- [🚫 **No Code**](#no-code) - 코딩 없이 만드는 도구들
+- [🔌 **API 도구**](#api-request) - Postman, Swagger 등
+- [📄 **JSON 도구**](#json) - JSON 포맷터 등
+- [🔤 **정규표현식**](#regex) - 정규식 테스터
+- [🎨 **디자인 도구**](#design-tool) - Figma, Canva 등
+- [💾 **IDE & 에디터**](#ide) - VSCode, IntelliJ 등
+
+</details>
+
+---
 
 ## 링크
 
 - <span id="recommend">추천 👍</span>
 
-  - [Stack Overflow <sub>EN</sub>](https://stackoverflow.com) - Stack Overflow는 개발자가 학습하고 프로그래밍 지식을 공유하며 경력을 쌓을 수 있는 가장 큰 신뢰할 수 있는 온라인 커뮤니티
-  - [Wikidocs <sub>KR</sub>](https://wikidocs.net) - 온라인 책을 제작 공유하는 플랫폼 서비스
-  - [TheBook <sub>KR</sub>](https://thebook.io) - (주)도서출판 길벗에서 제공하는 IT 도서 열람 서비스
-  - [Visualgo <sub>EN</sub>](https://visualgo.net/en) - Visualgo는 2011년 Steven Halim 박사에 의해 학생들이 스스로 그리고 그들만의 속도로 기본적인 것을 배울 수 있도록 함으로써 학생들이 데이터 구조와 알고리즘을 더 잘 이해할 수 있도록 돕는 도구
-  - [Roadmap <sub>EN. O</sub>](https://roadmap.sh) - 개발자들이 경력에서 성장할 수 있도록 커뮤니티 기반 로드맵
-  - [Free for Developers <sub>EN</sub>](https://free-for.dev) - 개발자들과 오픈 소스 저자들은 이제 무료 계층을 제공하는 엄청난 양의 서비스를 제공하고 있지만, 정보에 입각한 의사 결정을 내리기 위해 이들을 모두 찾기는 어려울 수 있습니다
-  - [IT Tools <sub>EN</sub>](https://it-tools.tech/ulid-generator) - 개발자들이 사용하기 편리한 도구를 모아놓은 사이트
-  - [Excalidraw](https://excalidraw.com/) - 간편한 다이어그램 작성 도구
+  - [Stack Overflow <sub>EN</sub>](https://stackoverflow.com) - 개발자 Q&A 커뮤니티의 글로벌 표준
+  - [GitHub <sub>EN</sub>](https://github.com) - 세계 최대 코드 저장소 및 협업 플랫폼
+  - [ChatGPT <sub>F, $</sub>](https://chatgpt.com) - AI 기반 프로그래밍 도우미 및 코드 생성
+  - [Claude <sub>F, $</sub>](https://claude.ai) - 문서 분석과 복잡한 코딩 작업에 특화된 AI
+  - [Cursor <sub>F</sub>](https://cursor.sh) - AI 기반 차세대 코드 에디터
+  - [v0.dev <sub>F</sub>](https://v0.dev) - AI로 React 컴포넌트를 즉시 생성
+  - [Roadmap.sh <sub>EN, O</sub>](https://roadmap.sh) - 개발자 성장을 위한 커뮤니티 기반 로드맵
+  - [MDN Docs <sub>KR, EN</sub>](https://developer.mozilla.org/ko/docs/Web/HTML) - 웹 표준 문서의 바이블
+  - [Visualgo <sub>EN</sub>](https://visualgo.net/en) - 알고리즘과 자료구조 시각화 학습 도구
+  - [IT Tools <sub>EN</sub>](https://it-tools.tech) - 개발자를 위한 온라인 유틸리티 모음
+  - [Excalidraw <sub>F, O</sub>](https://excalidraw.com) - 협업을 위한 간편한 다이어그램 도구
+  - [Free for Developers <sub>EN</sub>](https://free-for.dev) - 개발자를 위한 무료 서비스 큐레이션
 
 - <span id="document">문서 📃</span>
 
@@ -176,14 +308,12 @@
   - <span id="api">API</span>
     - [Slack API <sub>EN</sub>](https://api.slack.com) - Slack API 공식 문서
     - [Discord API <sub>EN</sub>](https://discord.com/developers/docs/intro) - Discord API 공식 문서
-    - [GitHub REST API <sub>EN</sub>](https://docs.github.com/en/rest?apiVersion=2022-11-28) - GitHub REST API 공식 문서
-    - [GitHub REST API <sub>KR</sub>](https://docs.github.com/ko/rest) - GitHub REST API 공식 문서
+    - [GitHub REST API <sub>KR, EN</sub>](https://docs.github.com/ko/rest) - GitHub REST API 공식 문서
     - [Google Cloud API <sub>KR</sub>](https://cloud.google.com/apis?hl=ko) - 구글 클라우드 API 공식 문서
 
   - <span id="git">Git</span>
     - [Git](https://git-scm.com) - Git 공식 문서
     - [Github App API](https://docs.github.com/ko/apps) - 깃허브 애플리케이션 API 공식 문서
-    - [GitHub REST API](https://docs.github.com/ko/rest?apiVersion=2022-11-28) - 깃허브 REST API 공식 문서
     - [GitHub GraphQL API](https://docs.github.com/ko/graphql) - 깃허브 GraphQL API 공식 문서
     - [GitHub Webhook](https://docs.github.com/ko/webhooks) - 깃허브 Webhook 공식 문서
 
@@ -195,26 +325,30 @@
 - <span id="ai">AI 🤖</span>
 
   - <span id="ai-dev-tools">개발 도구</span>
-    - [GitHub Copilot <sub>$</sub>](https://github.com/features/copilot) - GitHub에서 개발한 프로그래밍 AI 보조 도구로, 코드 작성 시 실시간으로 제안을 제공
-    - [Cursor <sub>F</sub>](https://cursor.sh/) - AI 기반 코드 에디터로, 코드 생성 및 편집 기능을 제공하는 개발자 중심 도구
-    - [Windsurf <sub>F</sub>](https://www.windsurf.io/) - AI 기반 개발 도구로, 코드 생성 및 리팩토링을 지원하는 통합 개발 환경
-    - [Cody AI <sub>F</sub>](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai) - Visual Studio Code AI 플러그인으로 코드 생성 및 개선을 지원
-    - [Tabnine <sub>$</sub>](https://www.tabnine.com/) - Tabnine에서 개발한 프로그래밍 AI로, 코드 자동완성 기능을 제공
-    - [Codeium <sub>F</sub>](https://codeium.com/) - 무료로 사용할 수 있는 AI 코드 생성 도구로, 다양한 IDE와 통합
-    - [Amazon CodeWhisperer <sub>F</sub>](https://aws.amazon.com/ko/codewhisperer/) - AWS에서 개발한 AI 코딩 도구로, 보안 취약점 감지 기능을 포함
+    - [GitHub Copilot <sub>$</sub>](https://github.com/features/copilot) - GitHub에서 개발한 프로그래밍 AI 보조 도구
+    - [Cursor <sub>F</sub>](https://cursor.sh/) - AI 기반 코드 에디터로 실시간 코드 생성 및 편집 지원
+    - [Windsurf <sub>F</sub>](https://www.windsurf.io/) - AI 기반 통합 개발 환경으로 코드 생성 및 리팩토링 지원
+    - [Claude Code <sub>F</sub>](https://claude.ai/code) - Anthropic의 Claude를 활용한 개발자 전용 코딩 도구
+    - [v0.dev <sub>F</sub>](https://v0.dev) - Vercel의 AI 기반 UI 컴포넌트 생성 도구
+    - [Cody AI <sub>F</sub>](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai) - VS Code AI 플러그인으로 코드 생성 및 개선 지원
+    - [Tabnine <sub>$</sub>](https://www.tabnine.com/) - AI 기반 코드 자동완성 도구
+    - [Codeium <sub>F</sub>](https://codeium.com/) - 무료 AI 코드 생성 도구로 다양한 IDE 통합
+    - [Amazon CodeWhisperer <sub>F</sub>](https://aws.amazon.com/ko/codewhisperer/) - AWS의 AI 코딩 도구
 
-  - <span id="ai-local-tools">디자인 도구</span>
-    - [shopify](https://www.shopify.com/tools/logo-maker) - 로고 자동 생성
-    - [hatchful](https://hatchful.shopify.com/) - 로고 자동 생성
+  - <span id="ai-design-tools">디자인 도구</span>
+    - [Shopify Logo Maker <sub>F</sub>](https://www.shopify.com/tools/logo-maker) - AI 기반 로고 자동 생성 도구
+    - [Hatchful <sub>F</sub>](https://hatchful.shopify.com/) - 간편한 로고 제작 도구
+    - [Canva AI <sub>F, $</sub>](https://www.canva.com/ai-image-generator/) - AI 이미지 생성 및 디자인 도구
+    - [Figma AI <sub>$</sub>](https://www.figma.com/ai/) - Figma의 AI 기반 디자인 도구
 
 
   - <span id="conversational-ai">대화형 AI</span>
-    - [ChatGPT](https://chatgpt.com/) - OpenAI에서 개발한 대화형 AI로, 프로그래밍 문제 해결부터 일반적인 질문까지 다양한 작업을 지원
-    - [Claude](https://claude.ai) - 앤트로픽에서 개발한 대화형 AI로, 문서 분석 및 복잡한 추론 작업에 강점을 가지고 있음
-    - [Gemini](https://gemini.google.com/app?hl=ko) - Google에서 개발한 대화형 AI로, 다양한 Google 서비스와 통합
-    - [Perplexity AI](https://www.perplexity.ai/) - 실시간 정보 검색과 AI 답변을 결합한 서비스로, 최신 정보에 기반한 응답을 제공
-    - [Bard](https://bard.google.com/) - Google의 대화형 AI로, 다양한 주제에 대한 정보 제공 및 창의적인 콘텐츠 생성을 지원
-    - [NotebookLM](https://notebooklm.google.com/) - Google의 생성형 AI 기반 노트 앱
+    - [ChatGPT <sub>F, $</sub>](https://chatgpt.com/) - OpenAI의 대화형 AI로 프로그래밍부터 일반 질문까지 다양한 작업 지원
+    - [Claude <sub>F, $</sub>](https://claude.ai) - Anthropic의 대화형 AI로 문서 분석 및 복잡한 추론에 특화
+    - [Gemini <sub>F</sub>](https://gemini.google.com/app?hl=ko) - Google의 대화형 AI로 Google 서비스와 통합
+    - [Perplexity AI <sub>F, $</sub>](https://www.perplexity.ai/) - 실시간 정보 검색과 AI 답변을 결합한 검색 엔진
+    - [NotebookLM <sub>F</sub>](https://notebooklm.google.com/) - Google의 AI 기반 연구 및 노트 작성 도구
+    - [Poe <sub>F, $</sub>](https://poe.com) - Quora의 다양한 AI 모델을 한 곳에서 사용할 수 있는 플랫폼
 
   - <span id="ai-local-tools">로컬 AI 도구</span>
     - [Ollama <sub>F, O</sub>](https://ollama.ai/) - 로컬 환경에서 다양한 오픈소스 AI 모델을 쉽게 실행할 수 있는 도구
@@ -509,3 +643,47 @@
     - [xdiarys](https://www.xdiarys.com/?src=windows) - 배경화면에 설치 가능한 일정 관리 캘린더
     - [엔팩스](https://www.enfax.com/) - 신속한 팩스 전송 도구
     - [HexEd.it](https://hexed.it/) - 브라우저 기반의 Hex Editor
+
+---
+
+## 🌟 함께 성장해요!
+
+### 💬 소통하기
+- 💡 **새로운 아이디어가 있으신가요?** [Discussion](https://github.com/currenjin/site-for-developers/discussions)에서 자유롭게 의견을 나눠주세요!
+- 🐛 **문제를 발견하셨나요?** [Issues](https://github.com/currenjin/site-for-developers/issues)에 제보해주세요
+- 🚀 **기여하고 싶으신가요?** [기여 가이드](https://github.com/currenjin/site-for-developers/blob/main/HOW-TO-CONTRIBUTE.md)를 확인해보세요
+
+### 📈 프로젝트 통계
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=currenjin&repo=site-for-developers&type=views&theme=default" alt="Repository Views">
+</p>
+
+### 🏆 인기 리포지토리
+다른 개발자들이 많이 찾는 유사한 프로젝트들:
+- [awesome-list](https://github.com/sindresorhus/awesome) - 모든 분야의 awesome 리스트
+- [free-for-dev](https://github.com/ripienaar/free-for-dev) - 개발자를 위한 무료 서비스 모음
+- [public-apis](https://github.com/public-apis/public-apis) - 무료 API 모음
+
+### 📱 어디서나 사용하세요
+- 🔖 **브라우저 북마크**: 자주 사용하는 사이트는 북마크로 저장
+- 📋 **오프라인 버전**: 인쇄용 PDF 버전도 곧 제공 예정
+- 📱 **모바일 최적화**: 모든 기기에서 편리하게 사용 가능
+
+---
+
+## 📜 라이선스
+
+이 프로젝트는 [MIT License](LICENSE) 하에 공개되어 있습니다.
+개발자 커뮤니티의 발전을 위해 자유롭게 사용하고 기여해주세요! 💖
+
+---
+
+<p align="center">
+  <strong>⭐ 이 프로젝트가 도움이 되셨다면 Star를 눌러주세요! ⭐</strong><br>
+  <sub>더 많은 개발자들이 이 리소스를 발견할 수 있도록 도와주세요 🙏</sub>
+</p>
+
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/currenjin">@currenjin</a> and <a href="https://github.com/currenjin/site-for-developers/graphs/contributors">contributors</a>
+</p>
