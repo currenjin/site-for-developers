@@ -646,44 +646,13 @@
 
 ---
 
-## 🌟 함께 성장해요!
-
-### 💬 소통하기
-- 💡 **새로운 아이디어가 있으신가요?** [Discussion](https://github.com/currenjin/site-for-developers/discussions)에서 자유롭게 의견을 나눠주세요!
-- 🐛 **문제를 발견하셨나요?** [Issues](https://github.com/currenjin/site-for-developers/issues)에 제보해주세요
-- 🚀 **기여하고 싶으신가요?** [기여 가이드](https://github.com/currenjin/site-for-developers/blob/main/HOW-TO-CONTRIBUTE.md)를 확인해보세요
-
-### 📈 프로젝트 통계
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=currenjin&repo=site-for-developers&type=views&theme=default" alt="Repository Views">
-</p>
-
-### 🏆 인기 리포지토리
-다른 개발자들이 많이 찾는 유사한 프로젝트들:
-- [awesome-list](https://github.com/sindresorhus/awesome) - 모든 분야의 awesome 리스트
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) - 개발자를 위한 무료 서비스 모음
-- [public-apis](https://github.com/public-apis/public-apis) - 무료 API 모음
-
-### 📱 어디서나 사용하세요
-- 🔖 **브라우저 북마크**: 자주 사용하는 사이트는 북마크로 저장
-- 📋 **오프라인 버전**: 인쇄용 PDF 버전도 곧 제공 예정
-- 📱 **모바일 최적화**: 모든 기기에서 편리하게 사용 가능
-
----
-
 ## 📜 라이선스
 
-이 프로젝트는 [MIT License](LICENSE) 하에 공개되어 있습니다.
-개발자 커뮤니티의 발전을 위해 자유롭게 사용하고 기여해주세요! 💖
+이 프로젝트는 [MIT License](LICENSE) 하에 공개되어 있습니다.<br/>
+개발자 커뮤니티의 발전을 위해 자유롭게 사용하고 기여해주세요.
 
 ---
 
 <p align="center">
-  <strong>⭐ 이 프로젝트가 도움이 되셨다면 Star를 눌러주세요! ⭐</strong><br>
-  <sub>더 많은 개발자들이 이 리소스를 발견할 수 있도록 도와주세요 🙏</sub>
-</p>
-
-<p align="center">
-  Made with ❤️ by <a href="https://github.com/currenjin">@currenjin</a> and <a href="https://github.com/currenjin/site-for-developers/graphs/contributors">contributors</a>
+  Made by <a href="https://github.com/currenjin">@currenjin</a> and <a href="https://github.com/currenjin/site-for-developers/graphs/contributors">contributors</a>
 </p>
