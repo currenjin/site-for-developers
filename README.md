@@ -453,6 +453,7 @@
     - [Dropbox Tech Blog <sub>EN</sub>](https://dropbox.tech/) - Dropbox 기술블로그
     - [Spotify Engineering <sub>EN</sub>](https://engineering.atspotify.com/) - Spotify 엔지니어링 블로그
     - [Github Engineering <sub>EN</sub>](https://github.blog/engineering/) - Github 엔지니어링 블로그
+    - [Grab Tech <sub>EN</sub>](https://engineering.grab.com/) - Grab 엔지니어링 블로그
 
   - <span id="personal-blog">개인 블로그</span>
     - [기억보단 기록을 <sub>KR</sub>](https://jojoldu.tistory.com/) - jojoldu 블로그
