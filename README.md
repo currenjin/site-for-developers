@@ -43,16 +43,6 @@
 - [ChatGPT](https://chatgpt.com) - AI 개발 도우미
 
 </td>
-<td>
-
-**⚡ 자주 찾는 도구**
-- [GitHub Copilot](#ai-🤖) - AI 코딩 도우미
-- [Figma](https://figma.com) - UI/UX 디자인
-- [Postman](https://postman.com) - API 테스트
-- [Visual Studio Code](https://code.visualstudio.com) - 코드 에디터
-- [Docker](https://docker.com) - 컨테이너 플랫폼
-
-</td>
 </tr>
 </table>
 
