@@ -173,7 +173,6 @@
 
 - <span id="recommend">추천 👍</span>
 
-  - [Stack Overflow <sub>EN</sub>](https://stackoverflow.com) - 개발자 Q&A 커뮤니티의 글로벌 표준
   - [GitHub <sub>EN</sub>](https://github.com) - 세계 최대 코드 저장소 및 협업 플랫폼
   - [ChatGPT <sub>F, $</sub>](https://chatgpt.com) - AI 기반 프로그래밍 도우미 및 코드 생성
   - [Claude <sub>F, $</sub>](https://claude.ai) - 문서 분석과 복잡한 코딩 작업에 특화된 AI
