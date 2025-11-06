@@ -611,6 +611,7 @@
     - [xdiarys](https://www.xdiarys.com/?src=windows) - 배경화면에 설치 가능한 일정 관리 캘린더
     - [엔팩스](https://www.enfax.com/) - 신속한 팩스 전송 도구
     - [HexEd.it](https://hexed.it/) - 브라우저 기반의 Hex Editor
+    - [Let's Encrypt](https://letsencrypt.org/ko/) - 무료 SSL/TLS 인증서 발급 사이트
 
 ---
 
