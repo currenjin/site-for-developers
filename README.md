@@ -504,6 +504,9 @@
     - [Roy fielding Rest API](https://ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf) - 로이필딩 rest api 논문
     - [Context Engineering for Large Language Models](https://arxiv.org/pdf/2507.13334) - Context Engineering for Large Language Models
 
+  - <span id="book">책</span>
+    - [속성 스프링 클라우드와 서비스 메시](https://wikidocs.net/book/18401) - say828의 책 <속성 스프링 클라우드와 서비스 메시>
+
 - <span id="tool">도구 🔨</span>
 
   - <span id="search-tool">Search</span>
