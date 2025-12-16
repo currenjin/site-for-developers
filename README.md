@@ -503,6 +503,8 @@
 
   - <span id="book">책</span>
     - [속성 스프링 클라우드와 서비스 메시](https://wikidocs.net/book/18401) - say828의 책 <속성 스프링 클라우드와 서비스 메시>
+    - [The Site Reliability Workbook](https://sre.google/workbook/table-of-contents/) - <The Site Reliability Workbook> by Betsy Beyer + 4 people
+    - [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/) - <Site Reliability Engineering> by Betsy Beyer + 3 people
 
 - <span id="tool">도구 🔨</span>
 
