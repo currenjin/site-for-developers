@@ -174,6 +174,7 @@
 - <span id="recommend">추천 👍</span>
   - [ChatGPT <sub>F, $</sub>](https://chatgpt.com) - AI 기반 프로그래밍 도우미 및 코드 생성
   - [Claude <sub>F, $</sub>](https://claude.ai) - 문서 분석과 복잡한 코딩 작업에 특화된 AI
+  - [Gemini <sub>F</sub>](https://gemini.google.com/app?hl=ko) - Google의 대화형 AI로 Google 서비스와 통합
   - [Cursor <sub>F</sub>](https://cursor.sh) - AI 기반 차세대 코드 에디터
   - [v0.dev <sub>F</sub>](https://v0.dev) - AI로 React 컴포넌트를 즉시 생성
   - [Roadmap.sh <sub>EN, O</sub>](https://roadmap.sh) - 개발자 성장을 위한 커뮤니티 기반 로드맵
