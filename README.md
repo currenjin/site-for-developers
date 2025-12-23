@@ -28,24 +28,6 @@
 > 개발자가 참고하면 좋은 **대표적인 웹사이트를 모아놓은 북마크 저장소**입니다.
 > 많은 분들에게 도움이 되었으면 좋겠습니다! 🙏
 
-
-## 🚀 빠른 접근
-
-<table>
-<tr>
-<td>
-
-**🔥 인기 TOP 5**
-- [Stack Overflow](https://stackoverflow.com) - 개발자 Q&A
-- [GitHub](https://github.com) - 코드 저장소
-- [MDN Docs](https://developer.mozilla.org/ko/docs/Web/HTML) - 웹 표준 문서
-- [Roadmap.sh](https://roadmap.sh) - 개발자 로드맵
-- [ChatGPT](https://chatgpt.com) - AI 개발 도우미
-
-</td>
-</tr>
-</table>
-
 ## 🏷️ 라벨 가이드
 - 🌟 **오픈소스**: <sub>Ο</sub>
 - 💚 **무료**: <sub>F</sub> 
