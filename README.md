@@ -39,24 +39,23 @@
 
 ## 🤝 함께 만들어가요!
 
-### ⭐ 스타 눌러주세요!
+### ⭐ Star
 이 프로젝트가 도움이 되셨다면 **Star ⭐**를 눌러주세요. 더 많은 개발자들에게 도움이 됩니다!
 
-### 🚀 기여하기
+### 🚀 Contribute
 새로운 사이트 추천이나 개선사항이 있으시면 언제든 참여해주세요!
 
-**🌟 사이트 추가 방법:**
+**🌟 Add page**
 1. 이 리포지토리를 **Fork** 하세요
 2. `README.md`에 새 사이트를 추가하세요
 3. **Pull Request**를 생성하여 리뷰를 요청하세요
 4. 리뷰 후 승인되면 반영됩니다!
 
-**📝 기타 참여 방법:**
-- 💬 [자유롭게 토론하기](https://github.com/currenjin/site-for-developers/discussions)
-- 🐛 [버그 신고하기](https://github.com/currenjin/site-for-developers/issues/new?template=bug-report.md)  
-- 📖 [기여 가이드 읽기](https://github.com/currenjin/site-for-developers/blob/main/HOW-TO-CONTRIBUTE.md)
+**📝 Issue & PR**
+- 🐛 [Issue](https://github.com/currenjin/site-for-developers/issues/new?template=bug-report.md)  
+- 📖 [Pull Request](https://github.com/currenjin/site-for-developers/blob/main/HOW-TO-CONTRIBUTE.md)
 
-### 👥 소중한 기여자들
+### 👥 Contributors
 
 <img src="https://img.shields.io/badge/maintainer-currenjin-5c7cfa" width="130" />
 
@@ -68,7 +67,7 @@
 
 ---
 
-## 📖 카테고리별 탐색
+## 📖 Category
 
 <details>
 <summary><b>🎯 추천 & 인기 사이트</b> - 가장 많이 사용되는 필수 도구들</summary>
