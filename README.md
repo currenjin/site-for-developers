@@ -45,15 +45,14 @@
 ### 🚀 Contribute
 새로운 사이트 추천이나 개선사항이 있으시면 언제든 참여해주세요!
 
-**🌟 Add page**
+**🌟 PR**
 1. 이 리포지토리를 **Fork** 하세요
 2. `README.md`에 새 사이트를 추가하세요
-3. **Pull Request**를 생성하여 리뷰를 요청하세요
+3. **[Pull Request](https://github.com/currenjin/site-for-developers/blob/main/HOW-TO-CONTRIBUTE.md)**를 생성하여 리뷰를 요청하세요
 4. 리뷰 후 승인되면 반영됩니다!
 
-**📝 Issue & PR**
+**📝 Issue**
 - 🐛 [Issue](https://github.com/currenjin/site-for-developers/issues/new?template=bug-report.md)  
-- 📖 [Pull Request](https://github.com/currenjin/site-for-developers/blob/main/HOW-TO-CONTRIBUTE.md)
 
 ### 👥 Contributors
 
@@ -70,10 +69,9 @@
 ## 📖 Category
 
 <details>
-<summary><b>🎯 추천 & 인기 사이트</b> - 가장 많이 사용되는 필수 도구들</summary>
+<summary><b>🎯 추천</b> - 가장 많이 사용되는 필수 도구들</summary>
 
 - [⭐ 추천 사이트](#recommend) - 개발자라면 꼭 알아야 할 사이트들
-- [🔥 트렌딩](#trending) - 요즘 핫한 개발 도구와 서비스
 
 </details>
 
