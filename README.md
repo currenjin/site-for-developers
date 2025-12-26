@@ -266,6 +266,7 @@
     - [Google Developers Docs](https://developers.google.com) - 구글 개발자 공식 문서
     - [Refactoring.Guru<sub>$, EN, KR</sub>](https://refactoring.guru/ko/design-patterns) - 리팩토링, 디자인 패턴과 관련된 다양한 정보를 담은 문서
     - [Patterns.dev <sub>EN</sub>](https://www.patterns.dev/) - 디자인, 렌더링 및 성능 패턴에 대한 내용을 담은 문서
+    - [공공데이터포털 <sub>KR</sub>](https://www.data.go.kr/) - 대한민국 공공기관이 만들어내는 공적인 정보가 담긴 포털
 
 - <span id="ai">AI 🤖</span>
 
