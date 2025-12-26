@@ -264,8 +264,8 @@
 
   - <span id="other">Other</span>
     - [Google Developers Docs](https://developers.google.com) - 구글 개발자 공식 문서
-    - [Refactoring.Guru<sub>$, EN, KR</sub>](https://refactoring.guru/ko/design-patterns) - 리팩토링, 디자인 패턴과 관련된 다양한 정보를 담은 문서, 영어 및 한국어로도 작성되어 있어 유지보수가 쉬운 코드를 작성하기 위해 필요한 정보에 대해 쉽게 접근 가능하며 다양한 디자인 패턴과의 관계 파악에 도움이 됨
-    - [Patterns.dev <sub>EN</sub>](https://www.patterns.dev/) - Vanilla JavaScript 또는 최신 웹 프레임워크를 위한 디자인, 렌더링 및 성능 패턴에 대한 내용을 담고 있음
+    - [Refactoring.Guru<sub>$, EN, KR</sub>](https://refactoring.guru/ko/design-patterns) - 리팩토링, 디자인 패턴과 관련된 다양한 정보를 담은 문서
+    - [Patterns.dev <sub>EN</sub>](https://www.patterns.dev/) - 디자인, 렌더링 및 성능 패턴에 대한 내용을 담은 문서
 
 - <span id="ai">AI 🤖</span>
 
