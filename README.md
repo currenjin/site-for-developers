@@ -48,7 +48,7 @@
 **🌟 PR**
 1. 이 리포지토리를 **Fork** 하세요
 2. `README.md`에 새 사이트를 추가하세요
-3. **[Pull Request](https://github.com/currenjin/site-for-developers/blob/main/HOW-TO-CONTRIBUTE.md)**를 생성하여 리뷰를 요청하세요
+3. [Pull Request](https://github.com/currenjin/site-for-developers/blob/main/HOW-TO-CONTRIBUTE.md)를 생성하여 리뷰를 요청하세요
 4. 리뷰 후 승인되면 반영됩니다!
 
 **📝 Issue**
