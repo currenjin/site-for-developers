@@ -151,17 +151,14 @@
 ## 링크
 
 - <span id="recommend">추천 👍</span>
+  - [IT Tools <sub>EN</sub>](https://it-tools.tech) - 개발자를 위한 온라인 유틸리티 모음
+  - [Free for Developers <sub>EN</sub>](https://free-for.dev) - 개발자를 위한 무료 서비스 큐레이션
+  - [Stack Overflow <sub>EN</sub>](https://stackoverflow.com) - 최대 개발 커뮤니티
   - [ChatGPT <sub>F, $</sub>](https://chatgpt.com) - AI 기반 프로그래밍 도우미 및 코드 생성
   - [Claude <sub>F, $</sub>](https://claude.ai) - 문서 분석과 복잡한 코딩 작업에 특화된 AI
   - [Gemini <sub>F</sub>](https://gemini.google.com/app?hl=ko) - Google의 대화형 AI로 Google 서비스와 통합
   - [Cursor <sub>F</sub>](https://cursor.sh) - AI 기반 차세대 코드 에디터
-  - [v0.dev <sub>F</sub>](https://v0.dev) - AI로 React 컴포넌트를 즉시 생성
   - [Roadmap.sh <sub>EN, O</sub>](https://roadmap.sh) - 개발자 성장을 위한 커뮤니티 기반 로드맵
-  - [MDN Docs <sub>KR, EN</sub>](https://developer.mozilla.org/ko/docs/Web/HTML) - 웹 표준 문서의 바이블
-  - [Visualgo <sub>EN</sub>](https://visualgo.net/en) - 알고리즘과 자료구조 시각화 학습 도구
-  - [IT Tools <sub>EN</sub>](https://it-tools.tech) - 개발자를 위한 온라인 유틸리티 모음
-  - [Excalidraw <sub>F, O</sub>](https://excalidraw.com) - 협업을 위한 간편한 다이어그램 도구
-  - [Free for Developers <sub>EN</sub>](https://free-for.dev) - 개발자를 위한 무료 서비스 큐레이션
 
 - <span id="document">문서 📃</span>
 
