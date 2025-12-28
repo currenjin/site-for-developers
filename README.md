@@ -217,16 +217,16 @@
 
   - <span id="mobile">Mobile</span>
     - [Android Guide <sub>KR</sub>](https://developer.android.com/docs?hl=ko) - Android 공식 가이드
-    - [IOS <sub>KR</sub>](https://developer.apple.com/kr)                     - iOS 공식 개발자 홈페이지
-    - [React Native Docs](https://reactnative.dev/docs/getting-started)       - React Native 공식 문서
-    - [Flutter Docs <sub>KR</sub>](https://flutter-ko.dev/docs)               - Flutter 공식 문서
+    - [IOS <sub>KR</sub>](https://developer.apple.com/kr) - iOS 공식 개발자 홈페이지
+    - [React Native Docs](https://reactnative.dev/docs/getting-started) - React Native 공식 문서
+    - [Flutter Docs <sub>KR</sub>](https://flutter-ko.dev/docs) - Flutter 공식 문서
 
   - <span id="database">Database</span>
-    - [Oracle <sub>KR</sub>](https://www.oracle.com/kr)  - Oracle 공식 홈페이지
-    - [MySQL Docs](https://dev.mysql.com/doc)            - MySQL 공식 문서
-    - [MongoDB Docs](https://www.mongodb.com/docs)       - MongoDB 공식 문서
+    - [Oracle <sub>KR</sub>](https://www.oracle.com/kr) - Oracle 공식 홈페이지
+    - [MySQL Docs](https://dev.mysql.com/doc) - MySQL 공식 문서
+    - [MongoDB Docs](https://www.mongodb.com/docs) - MongoDB 공식 문서
     - [PostgreSQL Docs](https://www.postgresql.org/docs) - PostgreSQL 공식 문서
-    - [Redis Docs](https://redis.io/docs)                - Redis 공식 문서
+    - [Redis Docs](https://redis.io/docs) - Redis 공식 문서
 
   - <span id="search">Search</span>
     - [Elasticsearch Docs](https://www.elastic.co/guide/en/elasticsearch/reference/current/docs.html#docs) - Elasticsearch 공식 문서
@@ -490,8 +490,8 @@
   - <span id="search-tool">Search</span>
     - [Google](https://www.google.com/) - 검색 엔진
     - [DuckDuckGo](https://duckduckgo.com/) - 개인정보 보호 검색 엔진
-    - [Naver](https://www.naver.com/) - 국내 검색 엔진
-    - [Daum](https://www.daum.net/) - 국내 검색 엔진
+    - [Naver](https://www.naver.com/) - 국내 검색 엔진(네이버)
+    - [Daum](https://www.daum.net/) - 국내 검색 엔진(다음)
 
   - <span id="network">Network</span>
     - [My ip address](https://whatismyipaddress.com/ip-lookup) - IP 주소 조회
@@ -499,8 +499,8 @@
     - [Fast.com <sub>F</sub>](https://fast.com/ko/) - 넷플릭스에서 제공하는 인터넷 속도 측정기 (브라우저)
 
   - <span id="git-tool">Git</span>
-    - [Gitmoji](https://gitmoji.dev)                   - 깃 커밋 이모지 모음
-    - [GitHub <sub>$</sub>](https://github.com)        - Git 플랫폼
+    - [Gitmoji](https://gitmoji.dev) - 깃 커밋 이모지 모음
+    - [GitHub <sub>$</sub>](https://github.com) - Git 플랫폼
     - [GitLab <sub>$</sub>](https://about.gitlab.com/) - Git 플랫폼 (GitHub와 유사)
     - [Bitbucket <sub>$</sub>](https://bitbucket.org/) - Atlassian에 의해 운영되는 Git 저장소
     - [grep <sub>$</sub>](https://grep.app/search) - GitHub 공개 저장소 전체를 대상으로 코드를 검색할 수 있는 도구
