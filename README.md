@@ -590,7 +590,7 @@
     - [TTSMaker](https://ttsmaker.com/ko) - 텍스트 음성 변환 도구
     - [IT Tools](https://it-tools.tech) - 개발할 때 유용한 Crypto, Converter, Parser 기능이 있는 웹사이트
     - [xdiarys](https://www.xdiarys.com/?src=windows) - 배경화면에 설치 가능한 일정 관리 캘린더
-    - [엔팩스](https://www.enfax.com/) - 신속한 팩스 전송 도구
+    - [Enfax](https://www.enfax.com/) - 신속한 팩스 전송 도구
     - [HexEd.it](https://hexed.it/) - 브라우저 기반의 Hex Editor
     - [Let's Encrypt](https://letsencrypt.org/ko/) - 무료 SSL/TLS 인증서 발급 사이트
 
