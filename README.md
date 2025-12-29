@@ -195,7 +195,6 @@
     - [Vuejs Guide](https://vuejs.org/guide/introduction.html) - Vuejs 공식 가이드
     - [Express.js <sub>KR</sub>](https://expressjs.com/ko) - Express.js 공식 홈페이지
     - [NestJS](https://docs.nestjs.com/) - NestJS 공식 문서
-    - [GraphQL](https://graphql-kr.github.io/learn/) - GraphQL 공식 문서
 
   - <span id="backend-framework">Backend Framework</span>
     - [Spring Boot Docs <sub>EN</sub>](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle) - Spring Boot 공식 문서
@@ -208,6 +207,7 @@
     - [NestJS](https://docs.nestjs.com/) - NestJS 공식 문서
     - [FastAPI Docs <sub>KR</sub>](https://fastapi.tiangolo.com/ko/) - FastAPI 공식 문서
     - [JUnit 5 User Guide <sub>EN</sub>](https://junit.org/junit5/docs/current/user-guide/#overview) - JUnit 5 가이드 문서
+    - [GraphQL](https://graphql-kr.github.io) - GraphQL 공식 문서
 
   - <span id="public-cloud">Public Cloud</span>
     - [AWS Documentation <sub>KR</sub>](https://docs.aws.amazon.com/ko_kr/) - AWS 공식 문서
