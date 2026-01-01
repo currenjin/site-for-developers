@@ -71,78 +71,79 @@
 <details>
 <summary><b>🎯 추천</b> - 가장 많이 사용되는 필수 도구들</summary>
 
-- [⭐ 추천 사이트](#recommend) - 개발자라면 꼭 알아야 할 사이트들
+- [추천 사이트](#recommend) - 개발자라면 꼭 알아야 할 사이트들
 
 </details>
 
 <details>
 <summary><b>📚 문서 & 레퍼런스</b> - 공식 문서와 학습 자료</summary>
 
-- [🌐 **Web**](#web) - HTML, CSS, JavaScript 관련
-- [🎨 **Design**](#design) - UI/UX 디자인 도구와 프레임워크  
-- [💻 **Programming Language**](#programming-language) - 각 언어별 공식 문서
-- [⚛️ **JavaScript Framework**](#javascript-framework) - React, Vue, Angular 등
-- [🚀 **Backend Framework**](#backend-framework) - Spring, Django, Express 등
-- [☁️ **Public Cloud**](#public-cloud) - AWS, Azure, GCP 문서
-- [📱 **Mobile**](#mobile) - Android, iOS, React Native 등
-- [🗄️ **Database**](#database) - MySQL, MongoDB, PostgreSQL 등
-- [🔍 **Search**](#search) - Elasticsearch, Algolia 등
-- [🐧 **Linux**](#linux) - 각 배포판별 문서
-- [🏗️ **Infrastructure**](#infra) - Docker, Kubernetes 등
-- [🔌 **API**](#api) - 각종 API 문서
-- [📝 **Git**](#git) - 버전 관리 도구
-- [🔧 **Other**](#other) - 기타 유용한 문서들
+- [**Web**](#web) - HTML, CSS, JavaScript 관련
+- [**Design**](#design) - UI/UX 디자인 도구와 프레임워크  
+- [**Programming Language**](#programming-language) - 각 언어별 공식 문서
+- [**JavaScript Framework**](#javascript-framework) - React, Vue, Angular 등
+- [**Backend Framework**](#backend-framework) - Spring, Django, Express 등
+- [**Public Cloud**](#public-cloud) - AWS, Azure, GCP 문서
+- [**Mobile**](#mobile) - Android, iOS, React Native 등
+- [**Database**](#database) - MySQL, MongoDB, PostgreSQL 등
+- [**Search**](#search) - Elasticsearch, Algolia 등
+- [**Linux**](#linux) - 각 배포판별 문서
+- [**Infrastructure**](#infra) - Docker, Kubernetes 등
+- [**API**](#api) - 각종 API 문서
+- [**Git**](#git) - 버전 관리 도구
+- [**Other**](#other) - 기타 유용한 문서들
 
 </details>
 
 <details>
 <summary><b>🤖 AI & 개발 도구</b> - 인공지능으로 개발 생산성 향상</summary>
 
-- [💡 **개발 도구**](#ai-dev-tools) - Copilot, Cursor, Claude 등
-- [💬 **대화형 AI**](#conversational-ai) - ChatGPT, Claude, Gemini 등  
-- [🏠 **로컬 AI 도구**](#ai-local-tools) - 오프라인에서 사용 가능한 AI
+- [**개발 도구**](#ai-dev-tools) - Copilot, Cursor, Claude 등
+- [**대화형 AI**](#conversational-ai) - ChatGPT, Claude, Gemini 등  
+- [**로컬 AI 도구**](#ai-local-tools) - 오프라인에서 사용 가능한 AI
+- [**AI API**](#ai-local-tools) - 오프라인에서 사용 가능한 AI
 
 </details>
 
 <details>
 <summary><b>👥 커뮤니티 & 학습</b> - 함께 성장하는 개발자 공간</summary>
 
-- [💻 **기술 커뮤니티**](#tech-community) - Stack Overflow, GitHub 등
-- [🎓 **교육 커뮤니티**](#education-community) - 인프런, 노마드코더 등
-- [📰 **뉴스**](#news) - 최신 기술 뉴스와 트렌드
-- [📖 **학습**](#study) - 온라인 강의와 튜토리얼
-- [⚔️ **코딩테스트**](#coding-test) - 백준, 프로그래머스, LeetCode 등
+- [**기술 커뮤니티**](#tech-community) - Stack Overflow, GitHub 등
+- [**교육 커뮤니티**](#education-community) - 인프런, 노마드코더 등
+- [**뉴스**](#news) - 최신 기술 뉴스와 트렌드
+- [**학습**](#study) - 온라인 강의와 튜토리얼
+- [**코딩테스트**](#coding-test) - 백준, 프로그래머스, LeetCode 등
 
 </details>
 
 <details>
 <summary><b>📝 블로그 & 콘텐츠</b> - 양질의 기술 콘텐츠</summary>
 
-- [🏢 **팀 블로그**](#team-blog) - 우아한형제들, 카카오, 네이버 등
-- [👤 **개인 블로그**](#personal-blog) - 유명 개발자들의 기술 블로그
+- [**팀 블로그**](#team-blog) - 우아한형제들, 카카오, 네이버 등
+- [**개인 블로그**](#personal-blog) - 유명 개발자들의 기술 블로그
 
 </details>
 
 <details>
 <summary><b>🎬 동영상 & 자료</b> - 시각적 학습 자료</summary>
 
-- [📺 **동영상**](#video) - 개발 관련 유튜브 채널
-- [📋 **자료모음**](#collection-of-data) - Awesome 시리즈와 큐레이션
+- [**동영상**](#video) - 개발 관련 유튜브 채널
+- [**자료모음**](#collection-of-data) - Awesome 시리즈와 큐레이션
 
 </details>
 
 <details>
 <summary><b>🛠️ 개발 도구</b> - 일상적으로 사용하는 도구들</summary>
 
-- [🔍 **검색 도구**](#search-tool) - Google, DuckDuckGo 등
-- [🌐 **네트워크**](#network) - IP 조회, 속도 측정 등
-- [📂 **Git 도구**](#git-tool) - GitHub, GitLab 등
-- [🚫 **No Code**](#no-code) - 코딩 없이 만드는 도구들
-- [🔌 **API 도구**](#api-request) - Postman, Swagger 등
-- [📄 **JSON 도구**](#json) - JSON 포맷터 등
-- [🔤 **정규표현식**](#regex) - 정규식 테스터
-- [🎨 **디자인 도구**](#design-tool) - Figma, Canva 등
-- [💾 **IDE & 에디터**](#ide) - VSCode, IntelliJ 등
+- [**검색 도구**](#search-tool) - Google, DuckDuckGo 등
+- [**네트워크**](#network) - IP 조회, 속도 측정 등
+- [**Git 도구**](#git-tool) - GitHub, GitLab 등
+- [**No Code**](#no-code) - 코딩 없이 만드는 도구들
+- [**API 도구**](#api-request) - Postman, Swagger 등
+- [**JSON 도구**](#json) - JSON 포맷터 등
+- [**정규표현식**](#regex) - 정규식 테스터
+- [**디자인 도구**](#design-tool) - Figma, Canva 등
+- [**IDE & 에디터**](#ide) - VSCode, IntelliJ 등
 
 </details>
 
@@ -150,7 +151,7 @@
 
 ## 링크
 
-- <span id="recommend">추천 👍</span>
+- <span id="recommend">추천</span>
   - [IT Tools <sub>EN</sub>](https://it-tools.tech) - 개발자를 위한 온라인 유틸리티 모음
   - [Free for Developers <sub>EN</sub>](https://free-for.dev) - 개발자를 위한 무료 서비스 큐레이션
   - [Stack Overflow <sub>EN</sub>](https://stackoverflow.com) - 최대 개발 커뮤니티
@@ -300,8 +301,9 @@
     - [GPT4All <sub>F, O</sub>](https://gpt4all.io/) - 로컬 환경에서 실행되는 오픈소스 대화형 AI 생태계로, 개인정보 보호에 중점을 둠
     - [PrivateGPT <sub>F, O</sub>](https://github.com/imartinez/privateGPT) - 로컬 환경에서 문서와 상호작용할 수 있는 프라이버시 중심의 AI 솔루션
 
-  - [OpenAI API](https://platform.openai.com/docs/concepts) - OpenAI API 문서로, AI 모델을 애플리케이션에 통합하는 방법을 제공
-  - [Anthropic Developer Docs](https://docs.anthropic.com/en/docs/initial-setup) - Claude API 문서로, Claude AI를 애플리케이션에 통합하는 방법을 제공
+  - <span id="ai-api">AI API</span>
+    - [OpenAI API](https://platform.openai.com/docs/concepts) - OpenAI API 문서로, AI 모델을 애플리케이션에 통합하는 방법을 제공
+    - [Anthropic Developer Docs](https://docs.anthropic.com/en/docs/initial-setup) - Claude API 문서로, Claude AI를 애플리케이션에 통합하는 방법을 제공
 
 
 - <span id="community">커뮤니티 💬</span>
