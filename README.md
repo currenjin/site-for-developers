@@ -480,7 +480,7 @@
     - [Awesome Microservices <sub>EN</sub>](https://github.com/mfornos/awesome-microservices) - 마이크로서비스 자료모음 (Awesome 계열)
 
   - <span id="thesis">논문</span>
-    - [Roy fielding Rest API](https://ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf) - 로이필딩 rest api 논문
+    - [Roy fielding Rest API](https://roy.gbiv.com/pubs/dissertation/fielding_dissertation.pdf) - 로이필딩 rest api 논문
     - [Context Engineering for Large Language Models](https://arxiv.org/pdf/2507.13334) - Context Engineering for Large Language Models
 
   - <span id="book">책</span>
