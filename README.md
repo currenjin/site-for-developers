@@ -325,6 +325,7 @@
     - [Stack Overflow <sub>EN</sub>](https://stackoverflow.com) - Stack Overflow는 개발자가 학습하고 프로그래밍 지식을 공유하며 경력을 쌓을 수 있는 가장 큰 신뢰할 수 있는 온라인 커뮤니티
     - [매일메일 <sub>KR</sub>](https://www.maeil-mail.kr/) - 매일 메일로 기술 면접 질문을 보내주는 구독 서비스
     - [Hugging Face <sub>EN</sub>](https://huggingface.co/) - 세계 최대 규모 AI 커뮤니티
+    - [Substack](https://substack.com/home?) - 켄트 벡 등 유명인이 업로드하는 구독 기반 커뮤니티
 
   - <span id="education-community">교육 커뮤니티</span>
     - [Inflearn <sub>$, KR</sub>](https://www.inflearn.com) - 프로그래밍, 인공지능, 데이터, 마케팅, 디자인, 엑셀 실무 등 입문부터 실전까지 업계 최고 선배들에게 배울 수 있는 곳
@@ -427,6 +428,8 @@
     - [기계인간 기억 보조용 위키 <sub>KR</sub>](https://johngrib.github.io/) - John Grib 위키 겸 블로그
     - [재그지그의 개발 블로그 <sub>KR</sub>](https://wormwlrm.github.io/) - 재그지그 블로그
     - [currenjin 위키 <sub>KR</sub>](https://currenjin.github.io/) - currenjin 위키
+    - [안영회 습작 <sub>KR</sub>](https://brunch.co.kr/@graypool/2579) - 안영회 블로그
+    - [Kent Beck <sub>KR</sub>](https://substack.com/@kentbeck/posts) - Kent Beck 서브스택
 
 - <span id="video">동영상 🎦</span>
 
