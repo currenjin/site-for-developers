@@ -430,6 +430,7 @@
     - [currenjin 위키 <sub>KR</sub>](https://currenjin.github.io/) - currenjin 위키
     - [안영회 습작 <sub>KR</sub>](https://brunch.co.kr/@graypool/2579) - 안영회 블로그
     - [Kent Beck <sub>KR</sub>](https://substack.com/@kentbeck/posts) - Kent Beck 서브스택
+    - [Evans Library <sub>KR</sub>](https://evan-moon.github.io/) - Evan Moon 블로그
 
 - <span id="video">동영상 🎦</span>
 
