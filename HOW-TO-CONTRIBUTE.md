@@ -1,224 +1,72 @@
-# 목차
+# How to Contribute
 
-- [How to contrubute](#how-to-contribute)
-- [시작하기에 앞서](#시작하기에-앞서)
-  - [데이터 작성 규칙](#데이터-작성-규칙)
-- [목차](#목차)
-- [README.md](#readmemd)
-  - [1. Fork this repository](#1-fork-this-repository)
-  - [2. Clone forked repository](#2-clone-forked-repository)
-  - [3. Commit your changes](#3-commit-your-changes)
-  - [4. Push your commit](#4-push-your-commit)
-  - [5. Register pull request for your commit](#5-register-pull-request-for-your-commit)
-  - [6. Pull request has been approved](#6-pull-request-has-been-approved)
-- [Website](#website)
-  - [1. Fork this repository](#1-fork-this-repository-1)
-  - [2. Clone forked repository](#2-clone-forked-repository-1)
-  - [3. Install depencies](#3-install-depencies)
-  - [4. Start website](#4-start-website)
-  - [5. Commit your changes](#5-commit-your-changes)
-  - [6. Push your commit](#6-push-your-commit)
-  - [7. Register pull request for your commit](#7-register-pull-request-for-your-commit)
-  - [8. Pull request has been approved](#8-pull-request-has-been-approved)
-- [Android](#android)
-  - [1. Fork this repository](#1-fork-this-repository-2)
-  - [2. Clone forked repository](#2-clone-forked-repository-2)
-  - [3. Open Android Studio](#3-open-android-studio)
-  - [4. Start android](#4-start-android)
-  - [5. Commit your changes](#5-commit-your-changes-1)
-  - [6. Push yout commit](#6-push-yout-commit-1)
-  - [7. Register pull requerst for your commit](#7-register-pull-requerst-for-your-commit-1)
-  - [8. Pull request has been approved](#8-pull-request-has-been-approved-1)
+이 저장소는 **README.md 단일 소스**로 링크를 관리합니다.
 
-## How to contribute
+- 사이트 추가/수정/삭제는 `README.md`에서만 진행합니다.
+- `data.json`은 더 이상 사용하지 않습니다.
 
-🌟 **새로운 개발 사이트를 추천하고 싶으신가요?**
+---
 
-아래의 방법으로 Pull Request를 올려주시면 됩니다!<br/>
-Site For Developers는 GitHub README.md, 웹사이트, Android 앱으로 구성되어 있습니다.<br/>
+## 기여 전 체크
 
-**✅ 추천 사이트 조건:**
+추가/수정하려는 사이트가 아래 조건을 만족하는지 확인해주세요.
+
 - 개발자에게 실질적으로 도움이 되는 사이트
-- 정상적으로 접속 가능한 사이트  
-- 기존 등록된 사이트와 중복되지 않는 사이트
-- 스팸이나 광고 목적이 아닌 사이트
+- 정상 접속 가능한 사이트
+- 기존 목록과 중복되지 않는 사이트
+- 광고/스팸 목적이 아닌 사이트
 
-지금 기여하셔서 Site For Developers를 더 유익하고 편리한 레포지토리로 만들어 주세요!
+---
 
-## 시작하기에 앞서
+## 기여 방법 (PR)
 
-### 데이터 작성 규칙
+### 1) Fork
+이 저장소를 Fork 합니다.
 
-- 데이터 작성은 아래의 작성 형식을 따르면 됩니다.
-  - **title 태그**는 웹사이트 head의 ```<title>```을 작성하시면 됩니다.
-  - **content 태그**는 웹사이트 head의 ```<meta name="description">```을 작성하시면 됩니다.
-    - description이 존재하지 않는다면 title로 대체하여 주시기 바랍니다.
-    - description이 영어로 작성되어 있다면 한국어로 번역해주시기 바랍니다.
-    - description이 두 문장 이상이라면 처음 문장만 작성해주시기 바랍니다.
-  - **feature 태그**는 웹사이트의 특징을 아래에서 골라 작성하시면 됩니다.
-    (무료: free / 유료 혹은 부분적 유료: pay / 한국어: korean / 영어: english / 오픈소스: opensource)
-  - **link 태그**는 웹사이트의 주소를 작성하시면 됩니다.
-
-```
-{
-"title": "",
-"content": "",
-"feature": [""],
-"link": ""
-}
+### 2) Clone
+```bash
+git clone https://github.com/[your-username]/site-for-developers.git
+cd site-for-developers
 ```
 
-## README.md
-
-### 1. Fork this repository
-
-이 레포지토리를 포크해 주세요. [포크하는법](https://ittrue.tistory.com/90)
-
-### 2. Clone forked repository
-
-포크한 레포지토리를 클론해 주세요.
-
-```
-$ git clone https://github.com/[username]/site-for-developers.git
-$ cd site-for-developers
+### 3) 브랜치 생성
+```bash
+git checkout -b docs/update-links
 ```
 
-### 3. Commit your changes
+### 4) README 수정
+- 적절한 카테고리에 사이트를 추가/수정/삭제
+- 기존 라벨 표기 방식(`<sub>KR</sub>`, `<sub>EN</sub>`, `<sub>F</sub>`, `<sub>$</sub>`, `<sub>O</sub>`)을 맞춰주세요.
+- 링크/설명 문구 톤은 주변 항목과 일관되게 유지해주세요.
 
-변경사항을 만들고 커밋해주세요.
-
-```
-$ git add .
-$ git commit -m "[your description]"
-```
-
-### 4. Push your commit
-
-커밋을 포크한 레포지토리로 푸쉬해 주세요.
-
-⚠ 이 명령어에서 'origin'은 당신이 포크한 레포지토리여야 합니다.
-
-```
-$ git push origin main
+### 5) Commit
+```bash
+git add README.md
+git commit -m "docs: update developer site links"
 ```
 
-### 5. Register pull request for your commit
-
-Pull Request를 등록해 주세요. [Pull Request 등록하는법](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
-
-### 6. Pull request has been approved
-
-🎉 관리자에 의해 Pull Request가 승인되면 기여자 명단에 올라가게 됩니다 🎉
-
-## Website
-
-### 1. Fork this repository
-
-이 레포지토리를 포크해 주세요. [포크하는법](https://ittrue.tistory.com/90)
-
-> 포크하는 과정에서 "Copy the main branch only"의 체크박스를 해제해주세요.
-
-### 2. Clone forked repository
-
-포크한 레포지토리를 클론해 주세요.
-
-```
-$ git clone -b website https://github.com/[username]/site-for-developers.git
-$ cd site-for-developers
+### 6) Push
+```bash
+git push origin docs/update-links
 ```
 
-### 3. Install depencies
+### 7) Pull Request 생성
+원본 저장소(`currenjin/site-for-developers`)로 PR을 생성합니다.
 
-필요한 의존성들을 설치해주세요.
+---
 
-```
-$ pnpm install
-```
+## PR 리뷰 기준
 
-### 4. Start website
+- 링크가 실제로 열리는가?
+- 중복 항목은 없는가?
+- 카테고리가 적절한가?
+- 라벨/설명 형식이 일관적인가?
 
-해당 웹사이트를 실행해보세요.
+---
 
-```
-$ pnpm start
-```
+## 이슈 제보
 
-### 5. Commit your changes
+- 새로운 사이트 제안: `💬 아이디어 및 제안`
+- 오류/오타/죽은 링크: `🐛 버그 신고`
 
-현재까지 아무런 문제가 없다면 변경사항을 만들고 커밋해주세요.
-
-```
-$ git add .
-$ git commit -m "[your description]"
-```
-
-### 6. Push your commit
-
-커밋을 포크한 레포지토리로 푸쉬해 주세요.
-
-⚠ 이 명령어에서 'origin'은 당신이 포크한 레포지토리의 리모트여야 합니다.
-
-```
-$ git push origin website
-```
-
-### 7. Register pull request for your commit
-
-Pull Request를 등록해 주세요. [Pull Request 등록하는법](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
-
-### 8. Pull request has been approved
-
-🎉 관리자에 의해 Pull Request가 승인되면 기여자 명단에 올라가게 됩니다 🎉
-
-## Android
-
-### 1. Fork this repository
-
-이 레포지토리를 포크해 주세요. [포크하는법](https://ittrue.tistory.com/90)
-
-> 포크하는 과정에서 "Copy the main branch only"의 체크박스를 해제해주세요.
-
-### 2. Clone forked repository
-
-포크한 레포지토리를 클론해 주세요.
-
-```
-$ git clone -b website https://github.com/[username]/site-for-developers.git
-$ cd site-for-developers
-```
-
-### 3. Open Android Studio
-
-Android Studio를 실행해 주세요. [Android Studio 설치하는법](https://ineedtoprogramandweb.tistory.com/entry/AndroidStudio-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-%EC%B5%9C%EC%8B%A0),
-[Android Studio 실행하는법](https://bbmsk2.tistory.com/25)
-
-### 4. Start android
-
-Android app을 실행해보세요. [Android app 실행하는법](https://ju-hy.tistory.com/21)
-
-### 5. Commit your changes
-
-현재까지 아무런 문제가 없다면 변경사항을 만들고 커밋해주세요.
-
-```
-$ git add .
-$ git commit -m "[your description]"
-```
-
-### 6. Push yout commit
-
-커밋을 포크한 레포지토리로 푸쉬해 주세요.
-
-⚠ 이 명령어에서 'origin'은 당신이 포크한 레포지토리의 리모트여야 합니다.
-
-```
-$ git push origin android
-```
-
-### 7. Register pull requerst for your commit
-
-Pull Request를 등록해 주세요. [Pull Request 등록하는법](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
-
-### 8. Pull request has been approved
-
-🎉 관리자에 의해 Pull Request가 승인되면 기여자 명단에 올라가게 됩니다 🎉
+감사합니다 🙌
