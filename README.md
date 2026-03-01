@@ -5,9 +5,12 @@
 </p>
 
 <p align="center">
-  <strong>1,000+ 개발자가 신뢰하는 개발 리소스 큐레이션</strong>
+  <strong>실무에 바로 쓰는 개발자 사이트를 카테고리별로 빠르게 찾는 오픈소스 큐레이션</strong>
 </p>
 
+<p align="center">
+  🔄 지속 업데이트 · ✅ 링크 검수 · 🤝 누구나 기여 가능
+</p>
 
 <p align="center">
   <a href="https://github.com/currenjin/site-for-developers/stargazers">
@@ -21,12 +24,28 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/currenjin/site-for-developers">⭐ 이 저장소가 유용했다면 Star로 응원해주세요</a>
+</p>
+
 ---
+
+## ⚡ Quick Start
+
+- 백엔드 문서 바로가기: [Backend Framework](#backend-framework), [Database](#database), [API](#api)
+- AI 개발 도구 바로가기: [개발 도구](#ai-dev-tools), [대화형 AI](#conversational-ai), [AI API](#ai-api)
+- 학습/코테 바로가기: [Study](#study), [Coding Test](#coding-test)
+
+## 🆕 최근 변경 로그
+
+- 2026-03-01: README 단일 소스 정책 적용, 기여 가이드 정리
+- 2026-02-28: Kent Beck Substack, Evans Library 링크 추가
+- 2026-02-28: Roy Fielding REST API 논문 링크 최신화
 
 ## 🎯 어떤 저장소인가요?
 
 > 개발자가 참고하면 좋은 **대표적인 웹사이트를 모아놓은 북마크 저장소**입니다.
-> 많은 분들에게 도움이 되었으면 좋겠습니다! 🙏
+> 검색 시간을 줄이고, 검증된 링크를 빠르게 찾을 수 있도록 관리합니다.
 
 ## 🏷️ 라벨 가이드
 - 🌟 **오픈소스**: <sub>Ο</sub>
