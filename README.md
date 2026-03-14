@@ -36,12 +36,6 @@
 - AI 개발 도구 바로가기: [개발 도구](#ai-dev-tools), [대화형 AI](#conversational-ai), [AI API](#ai-api)
 - 학습/코테 바로가기: [Study](#study), [Coding Test](#coding-test)
 
-## 🆕 최근 변경 로그
-
-- 2026-03-01: README 단일 소스 정책 적용, 기여 가이드 정리
-- 2026-02-28: Kent Beck Substack, Evans Library 링크 추가
-- 2026-02-28: Roy Fielding REST API 논문 링크 최신화
-
 ## 🎯 어떤 저장소인가요?
 
 > 개발자가 참고하면 좋은 **대표적인 웹사이트를 모아놓은 북마크 저장소**입니다.
