@@ -1,4 +1,4 @@
-# 개발자들의 첫 번째 북마크 🔖
+# 🌎💎 개발자들의 첫 번째 북마크
 
 <p align="center">
   <img src="resources/icons/header_base/576x157/header_base.svg" alt="Site for Developers">
