@@ -22,16 +22,16 @@
 
 ---
 
+## 🎯 어떤 저장소인가요?
+
+> 개발자가 참고하면 좋은 **대표적인 웹사이트를 모아놓은 북마크 저장소**입니다.
+> 검색 시간을 줄이고, 검증된 링크를 빠르게 찾을 수 있도록 관리합니다.
+
 ## ⚡ Quick Start
 
 - 백엔드 문서 바로가기: [Backend Framework](#backend-framework), [Database](#database), [API](#api)
 - AI 개발 도구 바로가기: [개발 도구](#ai-dev-tools), [대화형 AI](#conversational-ai), [AI API](#ai-api)
 - 학습/코테 바로가기: [Study](#study), [Coding Test](#coding-test)
-
-## 🎯 어떤 저장소인가요?
-
-> 개발자가 참고하면 좋은 **대표적인 웹사이트를 모아놓은 북마크 저장소**입니다.
-> 검색 시간을 줄이고, 검증된 링크를 빠르게 찾을 수 있도록 관리합니다.
 
 ## 🏷️ 라벨 가이드
 - 🌟 **오픈소스**: <sub>Ο</sub>
