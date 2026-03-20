@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/currenjin/site-for-developers">⭐ 유용하다면 Star로 응원해주세요</a>
+</p>
+
+<p align="center">
   <a href="https://github.com/currenjin/site-for-developers/stargazers">
     <img src="https://img.shields.io/github/stars/currenjin/site-for-developers?style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars">
   </a>
@@ -14,10 +18,6 @@
   <a href="https://github.com/currenjin/site-for-developers/issues">
     <img src="https://img.shields.io/github/issues/currenjin/site-for-developers?style=for-the-badge&logo=github&color=red" alt="GitHub Issues">
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/currenjin/site-for-developers">⭐ 유용하다면 Star로 응원해주세요</a>
 </p>
 
 ---
