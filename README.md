@@ -1,4 +1,4 @@
-# 📚 개발자를 위한 필수 사이트 모음 ⭐
+# 개발자들의 첫 번째 북마크 🔖
 
 <p align="center">
   <img src="resources/icons/header_base/576x157/header_base.svg" alt="Site for Developers">
@@ -89,6 +89,18 @@
 </details>
 
 <details>
+<summary><b>🤖 AI & 개발 도구</b> - AI 시대 필수 도구들</summary>
+
+- [**AI 개발 도구**](#ai-dev-tools) - Cursor, Claude Code, bolt.new 등
+- [**AI 디자인 도구**](#ai-design-tools) - Figma AI, Galileo 등
+- [**대화형 AI**](#conversational-ai) - ChatGPT, Claude, Gemini, DeepSeek 등
+- [**API & 모델**](#ai-api) - OpenAI, Anthropic, Groq, Hugging Face 등
+- [**에이전트 & 프레임워크**](#ai-agent) - LangChain, CrewAI, n8n 등
+- [**로컬 AI 도구**](#ai-local-tools) - Ollama, LM Studio, Jan 등
+
+</details>
+
+<details>
 <summary><b>📚 문서 & 레퍼런스</b> - 공식 문서와 학습 자료</summary>
 
 - [**Web**](#web) - HTML, CSS, JavaScript 관련
@@ -108,15 +120,6 @@
 
 </details>
 
-<details>
-<summary><b>🤖 AI & 개발 도구</b> - 인공지능으로 개발 생산성 향상</summary>
-
-- [**개발 도구**](#ai-dev-tools) - Copilot, Cursor, Claude 등
-- [**대화형 AI**](#conversational-ai) - ChatGPT, Claude, Gemini 등  
-- [**로컬 AI 도구**](#ai-local-tools) - 오프라인에서 사용 가능한 AI
-- [**AI API**](#ai-local-tools) - 오프라인에서 사용 가능한 AI
-
-</details>
 
 <details>
 <summary><b>👥 커뮤니티 & 학습</b> - 함께 성장하는 개발자 공간</summary>
@@ -173,6 +176,72 @@
   - [Gemini <sub>F</sub>](https://gemini.google.com/app?hl=ko) - Google의 대화형 AI로 Google 서비스와 통합
   - [Cursor <sub>F</sub>](https://cursor.sh) - AI 기반 차세대 코드 에디터
   - [Roadmap.sh <sub>EN, O</sub>](https://roadmap.sh) - 개발자 성장을 위한 커뮤니티 기반 로드맵
+
+- <span id="ai">AI 🤖</span>
+
+  - <span id="ai-dev-tools">개발 도구</span>
+    - [GitHub Copilot <sub>$</sub>](https://github.com/features/copilot) - GitHub에서 개발한 프로그래밍 AI 보조 도구
+    - [Cursor <sub>F</sub>](https://cursor.sh/) - AI 기반 코드 에디터로 실시간 코드 생성 및 편집 지원
+    - [Windsurf <sub>F</sub>](https://www.windsurf.io/) - AI 기반 통합 개발 환경으로 코드 생성 및 리팩토링 지원
+    - [Claude Code <sub>F</sub>](https://claude.ai/code) - Anthropic의 Claude를 활용한 개발자 전용 코딩 도구
+    - [v0.dev <sub>F</sub>](https://v0.dev) - Vercel의 AI 기반 UI 컴포넌트 생성 도구
+    - [bolt.new <sub>F</sub>](https://bolt.new) - 프롬프트만으로 풀스택 웹 앱을 즉시 생성하는 AI 빌더
+    - [Lovable <sub>F, $</sub>](https://lovable.dev) - AI로 웹 애플리케이션을 빠르게 만드는 노코드 빌더
+    - [Replit <sub>F, $</sub>](https://replit.com) - AI 기반 브라우저 개발 환경으로 코딩, 실행, 배포까지 한 곳에서
+    - [Aider <sub>F, O</sub>](https://aider.chat) - 터미널에서 사용하는 AI 페어 프로그래밍 도구
+    - [Continue <sub>F, O</sub>](https://continue.dev) - VS Code & JetBrains용 오픈소스 AI 코딩 어시스턴트
+    - [Cody AI <sub>F</sub>](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai) - VS Code AI 플러그인으로 코드 생성 및 개선 지원
+    - [Tabnine <sub>$</sub>](https://www.tabnine.com/) - AI 기반 코드 자동완성 도구
+    - [Codeium <sub>F</sub>](https://codeium.com/) - 무료 AI 코드 생성 도구로 다양한 IDE 통합
+    - [Amazon CodeWhisperer <sub>F</sub>](https://aws.amazon.com/ko/codewhisperer/) - AWS의 AI 코딩 도구
+    - [Qodo <sub>F, $</sub>](https://www.qodo.ai) - AI 기반 코드 품질 및 테스트 자동화 도구
+
+  - <span id="ai-design-tools">디자인 도구</span>
+    - [Canva AI <sub>F, $</sub>](https://www.canva.com/ai-image-generator/) - AI 이미지 생성 및 디자인 도구
+    - [Figma AI <sub>$</sub>](https://www.figma.com/ai/) - Figma의 AI 기반 디자인 도구
+    - [Galileo AI <sub>$</sub>](https://www.usegalileo.ai) - 텍스트로 UI 디자인을 즉시 생성하는 AI 도구
+    - [Locofy <sub>F, $</sub>](https://www.locofy.ai) - 디자인을 프론트엔드 코드로 변환하는 AI 도구
+    - [Shopify Logo Maker <sub>F</sub>](https://www.shopify.com/tools/logo-maker) - AI 기반 로고 자동 생성 도구
+
+  - <span id="conversational-ai">대화형 AI</span>
+    - [ChatGPT <sub>F, $</sub>](https://chatgpt.com/) - OpenAI의 대화형 AI로 프로그래밍부터 일반 질문까지 다양한 작업 지원
+    - [Claude <sub>F, $</sub>](https://claude.ai) - Anthropic의 대화형 AI로 문서 분석 및 복잡한 추론에 특화
+    - [Gemini <sub>F</sub>](https://gemini.google.com/app?hl=ko) - Google의 대화형 AI로 Google 서비스와 통합
+    - [Grok <sub>F, $</sub>](https://grok.com) - xAI의 대화형 AI로 실시간 웹 검색과 추론 지원
+    - [DeepSeek <sub>F</sub>](https://chat.deepseek.com) - 강력한 추론 능력을 갖춘 오픈소스 기반 대화형 AI
+    - [Perplexity AI <sub>F, $</sub>](https://www.perplexity.ai/) - 실시간 정보 검색과 AI 답변을 결합한 검색 엔진
+    - [NotebookLM <sub>F</sub>](https://notebooklm.google.com/) - Google의 AI 기반 연구 및 노트 작성 도구
+    - [Mistral Le Chat <sub>F</sub>](https://chat.mistral.ai) - Mistral AI의 대화형 AI 플랫폼
+    - [Poe <sub>F, $</sub>](https://poe.com) - Quora의 다양한 AI 모델을 한 곳에서 사용할 수 있는 플랫폼
+
+  - <span id="ai-api">API & 모델</span>
+    - [OpenAI API <sub>$</sub>](https://platform.openai.com/docs/concepts) - OpenAI API 문서로, GPT 모델을 애플리케이션에 통합하는 방법을 제공
+    - [Anthropic Developer Docs <sub>F, $</sub>](https://docs.anthropic.com/en/docs/initial-setup) - Claude API 문서로, Claude AI를 애플리케이션에 통합하는 방법을 제공
+    - [Google AI Studio <sub>F</sub>](https://aistudio.google.com) - Gemini API를 실험하고 프로토타입을 빠르게 만드는 개발 환경
+    - [Groq <sub>F, $</sub>](https://console.groq.com) - 초고속 LLM 추론 API, 오픈소스 모델 지원
+    - [Together AI <sub>F, $</sub>](https://www.together.ai) - 오픈소스 AI 모델을 클라우드에서 실행하는 추론 플랫폼
+    - [Replicate <sub>$</sub>](https://replicate.com) - 수천 개의 AI 모델을 API로 즉시 실행할 수 있는 플랫폼
+    - [Hugging Face <sub>F, $</sub>](https://huggingface.co) - AI 모델 허브 및 추론 API, 세계 최대 AI 커뮤니티
+    - [Mistral AI <sub>F, $</sub>](https://mistral.ai) - 유럽 대표 LLM, 고성능 오픈소스 모델 제공
+    - [DeepSeek API <sub>F, $</sub>](https://platform.deepseek.com) - DeepSeek 모델 API, GPT-4급 성능을 저렴하게
+    - [Cohere <sub>F, $</sub>](https://cohere.com) - 기업용 LLM API 및 임베딩 모델
+
+  - <span id="ai-agent">에이전트 & 프레임워크</span>
+    - [LangChain <sub>F, O</sub>](https://www.langchain.com) - LLM 애플리케이션 개발을 위한 대표 프레임워크
+    - [LangGraph <sub>F, O</sub>](https://www.langchain.com/langgraph) - 그래프 기반 AI 에이전트 워크플로우 구축 도구
+    - [LlamaIndex <sub>F, O</sub>](https://www.llamaindex.ai) - LLM과 데이터를 연결하는 RAG 프레임워크
+    - [CrewAI <sub>F, O</sub>](https://www.crewai.com) - 멀티 에이전트 협업 프레임워크
+    - [AutoGen <sub>F, O</sub>](https://microsoft.github.io/autogen) - Microsoft의 멀티 에이전트 대화 프레임워크
+    - [n8n <sub>F, O</sub>](https://n8n.io) - AI 워크플로우 자동화 도구, 셀프호스팅 가능
+    - [Vercel AI SDK <sub>F, O</sub>](https://sdk.vercel.ai) - Next.js 등 웹 앱에 AI 기능을 빠르게 통합하는 SDK
+
+  - <span id="ai-local-tools">로컬 AI 도구</span>
+    - [Ollama <sub>F, O</sub>](https://ollama.ai/) - 로컬 환경에서 다양한 오픈소스 AI 모델을 쉽게 실행할 수 있는 도구
+    - [LM Studio <sub>F</sub>](https://lmstudio.ai/) - 로컬 컴퓨터에서 대규모 언어 모델을 테스트하고 실행할 수 있는 데스크톱 애플리케이션
+    - [Jan <sub>F, O</sub>](https://jan.ai) - 오픈소스 ChatGPT 대안, 완전한 오프라인 AI 실행 환경
+    - [LocalAI <sub>F, O</sub>](https://github.com/go-skynet/LocalAI) - OpenAI API와 호환되는 로컬 REST API를 제공하는 자체 호스팅 가능한 오픈소스 솔루션
+    - [GPT4All <sub>F, O</sub>](https://gpt4all.io/) - 로컬 환경에서 실행되는 오픈소스 대화형 AI 생태계로, 개인정보 보호에 중점을 둠
+    - [PrivateGPT <sub>F, O</sub>](https://github.com/imartinez/privateGPT) - 로컬 환경에서 문서와 상호작용할 수 있는 프라이버시 중심의 AI 솔루션
 
 - <span id="document">문서 📃</span>
 
@@ -278,46 +347,6 @@
     - [Refactoring.Guru<sub>$, EN, KR</sub>](https://refactoring.guru/ko/design-patterns) - 리팩토링, 디자인 패턴과 관련된 다양한 정보를 담은 문서
     - [Patterns.dev <sub>EN</sub>](https://www.patterns.dev/) - 디자인, 렌더링 및 성능 패턴에 대한 내용을 담은 문서
     - [공공데이터포털 <sub>KR</sub>](https://www.data.go.kr/) - 대한민국 공공기관이 만들어내는 공적인 정보가 담긴 포털
-
-- <span id="ai">AI 🤖</span>
-
-  - <span id="ai-dev-tools">개발 도구</span>
-    - [GitHub Copilot <sub>$</sub>](https://github.com/features/copilot) - GitHub에서 개발한 프로그래밍 AI 보조 도구
-    - [Cursor <sub>F</sub>](https://cursor.sh/) - AI 기반 코드 에디터로 실시간 코드 생성 및 편집 지원
-    - [Windsurf <sub>F</sub>](https://www.windsurf.io/) - AI 기반 통합 개발 환경으로 코드 생성 및 리팩토링 지원
-    - [Claude Code <sub>F</sub>](https://claude.ai/code) - Anthropic의 Claude를 활용한 개발자 전용 코딩 도구
-    - [v0.dev <sub>F</sub>](https://v0.dev) - Vercel의 AI 기반 UI 컴포넌트 생성 도구
-    - [Cody AI <sub>F</sub>](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai) - VS Code AI 플러그인으로 코드 생성 및 개선 지원
-    - [Tabnine <sub>$</sub>](https://www.tabnine.com/) - AI 기반 코드 자동완성 도구
-    - [Codeium <sub>F</sub>](https://codeium.com/) - 무료 AI 코드 생성 도구로 다양한 IDE 통합
-    - [Amazon CodeWhisperer <sub>F</sub>](https://aws.amazon.com/ko/codewhisperer/) - AWS의 AI 코딩 도구
-
-  - <span id="ai-design-tools">디자인 도구</span>
-    - [Shopify Logo Maker <sub>F</sub>](https://www.shopify.com/tools/logo-maker) - AI 기반 로고 자동 생성 도구
-    - [Hatchful <sub>F</sub>](https://hatchful.shopify.com/) - 간편한 로고 제작 도구
-    - [Canva AI <sub>F, $</sub>](https://www.canva.com/ai-image-generator/) - AI 이미지 생성 및 디자인 도구
-    - [Figma AI <sub>$</sub>](https://www.figma.com/ai/) - Figma의 AI 기반 디자인 도구
-
-
-  - <span id="conversational-ai">대화형 AI</span>
-    - [ChatGPT <sub>F, $</sub>](https://chatgpt.com/) - OpenAI의 대화형 AI로 프로그래밍부터 일반 질문까지 다양한 작업 지원
-    - [Claude <sub>F, $</sub>](https://claude.ai) - Anthropic의 대화형 AI로 문서 분석 및 복잡한 추론에 특화
-    - [Gemini <sub>F</sub>](https://gemini.google.com/app?hl=ko) - Google의 대화형 AI로 Google 서비스와 통합
-    - [Perplexity AI <sub>F, $</sub>](https://www.perplexity.ai/) - 실시간 정보 검색과 AI 답변을 결합한 검색 엔진
-    - [NotebookLM <sub>F</sub>](https://notebooklm.google.com/) - Google의 AI 기반 연구 및 노트 작성 도구
-    - [Poe <sub>F, $</sub>](https://poe.com) - Quora의 다양한 AI 모델을 한 곳에서 사용할 수 있는 플랫폼
-
-  - <span id="ai-local-tools">로컬 AI 도구</span>
-    - [Ollama <sub>F, O</sub>](https://ollama.ai/) - 로컬 환경에서 다양한 오픈소스 AI 모델을 쉽게 실행할 수 있는 도구
-    - [LM Studio <sub>F</sub>](https://lmstudio.ai/) - 로컬 컴퓨터에서 대규모 언어 모델을 테스트하고 실행할 수 있는 데스크톱 애플리케이션
-    - [LocalAI <sub>F, O</sub>](https://github.com/go-skynet/LocalAI) - OpenAI API와 호환되는 로컬 REST API를 제공하는 자체 호스팅 가능한 오픈소스 솔루션
-    - [GPT4All <sub>F, O</sub>](https://gpt4all.io/) - 로컬 환경에서 실행되는 오픈소스 대화형 AI 생태계로, 개인정보 보호에 중점을 둠
-    - [PrivateGPT <sub>F, O</sub>](https://github.com/imartinez/privateGPT) - 로컬 환경에서 문서와 상호작용할 수 있는 프라이버시 중심의 AI 솔루션
-
-  - <span id="ai-api">AI API</span>
-    - [OpenAI API](https://platform.openai.com/docs/concepts) - OpenAI API 문서로, AI 모델을 애플리케이션에 통합하는 방법을 제공
-    - [Anthropic Developer Docs](https://docs.anthropic.com/en/docs/initial-setup) - Claude API 문서로, Claude AI를 애플리케이션에 통합하는 방법을 제공
-
 
 - <span id="community">커뮤니티 💬</span>
 
