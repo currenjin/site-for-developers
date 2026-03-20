@@ -24,8 +24,8 @@
 
 ## 🎯 어떤 저장소인가요?
 
-> 개발자가 참고하면 좋은 **대표적인 웹사이트를 모아놓은 북마크 저장소**입니다.
-> 검색 시간을 줄이고, 검증된 링크를 빠르게 찾을 수 있도록 관리합니다.
+> 개발을 시작하는 모든 사람의 **첫 번째 북마크**입니다.
+> AI 도구부터 공식 문서, 커뮤니티까지 — 개발자가 필요한 모든 리소스를 한 곳에서.
 
 ## ⚡ Quick Start
 
@@ -88,6 +88,7 @@
 - [**대화형 AI**](#conversational-ai) - ChatGPT, Claude, Gemini, DeepSeek 등
 - [**API & 모델**](#ai-api) - OpenAI, Anthropic, Groq, Hugging Face 등
 - [**에이전트 & 프레임워크**](#ai-agent) - LangChain, CrewAI, n8n 등
+- [**빌드 & 배포**](#ai-infra) - Vercel, Supabase, Stripe, Railway 등
 - [**로컬 AI 도구**](#ai-local-tools) - Ollama, LM Studio, Jan 등
 
 </details>
@@ -193,7 +194,6 @@
     - [Figma AI <sub>$</sub>](https://www.figma.com/ai/) - Figma의 AI 기반 디자인 도구
     - [Galileo AI <sub>$</sub>](https://www.usegalileo.ai) - 텍스트로 UI 디자인을 즉시 생성하는 AI 도구
     - [Locofy <sub>F, $</sub>](https://www.locofy.ai) - 디자인을 프론트엔드 코드로 변환하는 AI 도구
-    - [Shopify Logo Maker <sub>F</sub>](https://www.shopify.com/tools/logo-maker) - AI 기반 로고 자동 생성 도구
 
   - <span id="conversational-ai">대화형 AI</span>
     - [ChatGPT <sub>F, $</sub>](https://chatgpt.com/) - OpenAI의 대화형 AI로 프로그래밍부터 일반 질문까지 다양한 작업 지원
@@ -226,6 +226,17 @@
     - [AutoGen <sub>F, O</sub>](https://microsoft.github.io/autogen) - Microsoft의 멀티 에이전트 대화 프레임워크
     - [n8n <sub>F, O</sub>](https://n8n.io) - AI 워크플로우 자동화 도구, 셀프호스팅 가능
     - [Vercel AI SDK <sub>F, O</sub>](https://sdk.vercel.ai) - Next.js 등 웹 앱에 AI 기능을 빠르게 통합하는 SDK
+
+  - <span id="ai-infra">빌드 & 배포</span>
+    - [Vercel <sub>F, $</sub>](https://vercel.com) - 프론트엔드 & 풀스택 앱 배포 플랫폼, Next.js 최적화
+    - [Supabase <sub>F, $, O</sub>](https://supabase.com) - 오픈소스 Firebase 대안, DB·인증·스토리지 올인원
+    - [Railway <sub>F, $</sub>](https://railway.app) - 코드 푸시만으로 배포되는 간편한 클라우드 플랫폼
+    - [Render <sub>F, $</sub>](https://render.com) - 웹 서비스, DB, 크론잡을 쉽게 배포하는 클라우드
+    - [Stripe <sub>$</sub>](https://stripe.com/kr) - 개발자 친화적인 결제 API, 글로벌 표준
+    - [Clerk <sub>F, $</sub>](https://clerk.com) - 손쉽게 통합하는 인증 & 사용자 관리 서비스
+    - [PlanetScale <sub>F, $</sub>](https://planetscale.com) - 서버리스 MySQL 플랫폼, 브랜치 기반 스키마 관리
+    - [Upstash <sub>F, $</sub>](https://upstash.com) - 서버리스 Redis & Kafka, 사용한 만큼만 과금
+    - [Resend <sub>F, $</sub>](https://resend.com) - 개발자를 위한 이메일 API
 
   - <span id="ai-local-tools">로컬 AI 도구</span>
     - [Ollama <sub>F, O</sub>](https://ollama.ai/) - 로컬 환경에서 다양한 오픈소스 AI 모델을 쉽게 실행할 수 있는 도구

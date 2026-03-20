@@ -2,16 +2,13 @@
 
 이 저장소는 **README.md 단일 소스**로 링크를 관리합니다.
 
-- 사이트 추가/수정/삭제는 `README.md`에서만 진행합니다.
-- `data.json`은 더 이상 사용하지 않습니다.
-
 ---
 
 ## 기여 전 체크
 
 추가/수정하려는 사이트가 아래 조건을 만족하는지 확인해주세요.
 
-- 개발자에게 실질적으로 도움이 되는 사이트
+- 개발자에게 실질적으로 도움이 되는 사이트 또는 도구
 - 정상 접속 가능한 사이트
 - 기존 목록과 중복되지 않는 사이트
 - 광고/스팸 목적이 아닌 사이트
@@ -36,13 +33,14 @@ git checkout -b docs/update-links
 
 ### 4) README 수정
 - 적절한 카테고리에 사이트를 추가/수정/삭제
+- AI 도구는 `AI 🤖` 섹션의 해당 서브카테고리에 추가
 - 기존 라벨 표기 방식(`<sub>KR</sub>`, `<sub>EN</sub>`, `<sub>F</sub>`, `<sub>$</sub>`, `<sub>O</sub>`)을 맞춰주세요.
 - 링크/설명 문구 톤은 주변 항목과 일관되게 유지해주세요.
 
 ### 5) Commit
 ```bash
 git add README.md
-git commit -m "docs: update developer site links"
+git commit -m "docs: add [사이트명]"
 ```
 
 ### 6) Push

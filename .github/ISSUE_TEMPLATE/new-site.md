@@ -1,29 +1,40 @@
 ---
-name: 💬 아이디어 및 제안
-about: 새로운 아이디어나 개선 제안을 해주세요
-title: '[IDEA] 제안 내용'
-labels: ['enhancement', 'discussion']
+name: 🔗 사이트 / 도구 추가 제안
+about: 새로운 사이트나 AI 도구를 추가하고 싶으신가요?
+title: '[ADD] 사이트명'
+labels: ['enhancement']
 assignees: ''
 
 ---
 
-## 💡 제안하고 싶은 내용
+## 🔗 추가하고 싶은 사이트 / 도구
 
-간단히 설명해주세요.
+**이름:**
 
----
+**URL:**
 
-## 🎯 더 나은 방법이 있어요!
-
-**새 사이트를 추천하고 싶으시다면:**
-
-1. **[Discussions](https://github.com/currenjin/site-for-developers/discussions)** 에서 먼저 의견을 나누어 보세요
-2. 또는 바로 **Pull Request**를 만들어서 기여해보세요!
-   - Repository Fork → 사이트 추가 → PR 생성
-   - 더 빠르고 체계적인 기여가 가능합니다 🚀
-
-**문제점을 발견하셨다면:** Bug Report 이슈를 사용해주세요
+**한 줄 설명:**
 
 ---
 
-💬 **더 자유롭게 소통하고 싶다면 [Discussions](https://github.com/currenjin/site-for-developers/discussions)를 활용해주세요!**
+## 📂 추가할 카테고리
+
+해당하는 카테고리를 선택해주세요.
+
+- [ ] 🤖 AI 개발 도구 (Cursor, Claude Code 류)
+- [ ] 💬 대화형 AI
+- [ ] 🔌 AI API & 모델
+- [ ] 🤝 AI 에이전트 & 프레임워크
+- [ ] 🚀 빌드 & 배포
+- [ ] 📖 공식 문서
+- [ ] 👥 커뮤니티 & 학습
+- [ ] 🛠️ 개발 도구
+- [ ] 기타:
+
+---
+
+## ✅ 체크리스트
+
+- [ ] 현재 정상 접속 가능한 사이트입니다
+- [ ] 기존 목록에 없는 사이트입니다
+- [ ] 개발자에게 실질적으로 도움이 되는 사이트입니다
