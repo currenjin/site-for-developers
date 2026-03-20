@@ -5,14 +5,6 @@
 </p>
 
 <p align="center">
-  <strong>실무에 바로 쓰는 개발자 사이트를 카테고리별로 빠르게 찾는 오픈소스 큐레이션</strong>
-</p>
-
-<p align="center">
-  🔄 지속 업데이트 · ✅ 링크 검수 · 🤝 누구나 기여 가능
-</p>
-
-<p align="center">
   <a href="https://github.com/currenjin/site-for-developers/stargazers">
     <img src="https://img.shields.io/github/stars/currenjin/site-for-developers?style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars">
   </a>
@@ -25,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/currenjin/site-for-developers">⭐ 이 저장소가 유용했다면 Star로 응원해주세요</a>
+  <a href="https://github.com/currenjin/site-for-developers">⭐ 유용하다면 Star로 응원해주세요</a>
 </p>
 
 ---
