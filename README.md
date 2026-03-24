@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/currenjin/site-for-developers">⭐ 유용하다면 Star로 응원해주세요</a>
-</p>
-
-<p align="center">
   <a href="https://github.com/currenjin/site-for-developers/stargazers">
     <img src="https://img.shields.io/github/stars/currenjin/site-for-developers?style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars">
   </a>
@@ -19,6 +15,21 @@
     <img src="https://img.shields.io/github/issues/currenjin/site-for-developers?style=for-the-badge&logo=github&color=red" alt="GitHub Issues">
   </a>
 </p>
+
+<p align="center">
+  <a href="https://www.star-history.com/?repos=currenjin%2Fsite-for-developers&type=date&legend=top-left">
+   <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=currenjin/site-for-developers&type=date&theme=dark&legend=top-left" />
+     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=currenjin/site-for-developers&type=date&legend=top-left" />
+     <img alt="Star History Chart" src="https://api.star-history.com/image?repos=currenjin/site-for-developers&type=date&legend=top-left" width="600" />
+   </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/currenjin/site-for-developers">⭐ 유용하다면 Star로 응원해주세요</a>
+</p>
+
 
 ---
 
@@ -43,24 +54,7 @@
 
 ---
 
-## 🤝 함께 만들어가요!
-
-### ⭐ Star
-이 프로젝트가 도움이 되셨다면 **Star ⭐**를 눌러주세요. 더 많은 개발자들에게 도움이 됩니다!
-
-### 🚀 Contribute
-새로운 사이트 추천이나 개선사항이 있으시면 언제든 참여해주세요!
-
-**🌟 PR**
-1. 이 리포지토리를 **Fork** 하세요
-2. `README.md`에 새 사이트를 추가하세요
-3. [Pull Request](https://github.com/currenjin/site-for-developers/blob/main/HOW-TO-CONTRIBUTE.md)를 생성하여 리뷰를 요청하세요
-4. 리뷰 후 승인되면 반영됩니다!
-
-**📝 Issue**
-- 🐛 [Issue](https://github.com/currenjin/site-for-developers/issues/new?template=bug-report.md)  
-
-### 👥 Contributors
+## 👥 Contributors
 
 <img src="https://img.shields.io/badge/maintainer-currenjin-5c7cfa" width="130" />
 
