@@ -484,7 +484,7 @@
 
   - [팔만코딩경 <sub>KR</sub>](https://80000coding.oopy.io/) - 개발 관련 자료모음
   - [토리맘의 한글라이즈 프로젝트 <sub>KR</sub>](https://godekdls.github.io/) - Spring Boot 한글 번역 문서
-  - [Google Labs <sub>EN</sub>](https://haebom.dev/51q3vdn2p96kmxy49prk) - Google 실험실
+  - [Google Labs <sub>EN</sub>]((https://labs.google/)) - Google 실험실
 
   - <span id="awesome">Awesome</span>
     - [Awesome <sub>EN, O</sub>](https://github.com/sindresorhus/awesome) - 프로그래밍 관련 자료모음
