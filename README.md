@@ -146,6 +146,7 @@
 - [**API 도구**](#api-request) - Postman, Swagger 등
 - [**JSON 도구**](#json) - JSON 포맷터 등
 - [**정규표현식**](#regex) - 정규식 테스터
+- [**온라인 유틸리티**](#online-utilities) - 브라우저 기반 범용 도구 모음
 - [**디자인 도구**](#design-tool) - Figma, Canva 등
 - [**IDE & 에디터**](#ide) - VSCode, IntelliJ 등
 
@@ -534,6 +535,9 @@
     - [Building Secure & Reliable Systems](https://google.github.io/building-secure-and-reliable-systems/raw/toc.html) - <Building Secure & Reliable Systems> by Betsy Beyer + 6 people
 
 - <span id="tool">도구 🔨</span>
+
+  - <span id="online-utilities">Online Utilities</span>
+    - [All Tools Verse <sub>EN, F</sub>](https://alltoolsverse.com/) - 개발, 파일, 이미지, 텍스트, 데이터 변환 등 1,000개 이상의 무료 브라우저 도구 모음
 
   - <span id="search-tool">Search</span>
     - [Google](https://www.google.com/) - 검색 엔진
