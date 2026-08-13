@@ -19,9 +19,9 @@
 <p align="center">
   <a href="https://www.star-history.com/?repos=currenjin%2Fsite-for-developers&type=date&legend=top-left">
    <picture>
-     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=currenjin/site-for-developers&type=date&theme=dark&legend=top-left" />
-     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=currenjin/site-for-developers&type=date&legend=top-left" />
-     <img alt="Star History Chart" src="https://api.star-history.com/image?repos=currenjin/site-for-developers&type=date&legend=top-left" width="600" />
+     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=currenjin/site-for-developers&type=date&theme=dark&legend=top-left&sealed_token=sYdbIqkMtXbFBuSXSJ9S6bNakbg05jwAW1DZXVCoCWtGp8249C7uROx_5LzVhsfU8aqChyy-r5r0K-m5x8k9bOeL1ofVHIn1Df6g8Vj0U8A9CZyOgU8gqg" />
+     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=currenjin/site-for-developers&type=date&legend=top-left&sealed_token=sYdbIqkMtXbFBuSXSJ9S6bNakbg05jwAW1DZXVCoCWtGp8249C7uROx_5LzVhsfU8aqChyy-r5r0K-m5x8k9bOeL1ofVHIn1Df6g8Vj0U8A9CZyOgU8gqg" />
+     <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=currenjin/site-for-developers&type=date&legend=top-left&sealed_token=sYdbIqkMtXbFBuSXSJ9S6bNakbg05jwAW1DZXVCoCWtGp8249C7uROx_5LzVhsfU8aqChyy-r5r0K-m5x8k9bOeL1ofVHIn1Df6g8Vj0U8A9CZyOgU8gqg" width="600" />
    </picture>
   </a>
 </p>
