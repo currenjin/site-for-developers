@@ -238,6 +238,7 @@
     - [Ollama <sub>F, O</sub>](https://ollama.ai/) - 로컬 환경에서 다양한 오픈소스 AI 모델을 쉽게 실행할 수 있는 도구
     - [LM Studio <sub>F</sub>](https://lmstudio.ai/) - 로컬 컴퓨터에서 대규모 언어 모델을 테스트하고 실행할 수 있는 데스크톱 애플리케이션
     - [Jan <sub>F, O</sub>](https://jan.ai) - 오픈소스 ChatGPT 대안, 완전한 오프라인 AI 실행 환경
+    - [DSH Studio <sub>EN, F, O</sub>](https://github.com/Moresyl/dsh-studio) - DeepSeek Harness를 로컬에서 설치·실행·감독하는 오픈소스 크로스플랫폼 데스크톱 앱
     - [LocalAI <sub>F, O</sub>](https://github.com/go-skynet/LocalAI) - OpenAI API와 호환되는 로컬 REST API를 제공하는 자체 호스팅 가능한 오픈소스 솔루션
     - [GPT4All <sub>F, O</sub>](https://gpt4all.io/) - 로컬 환경에서 실행되는 오픈소스 대화형 AI 생태계로, 개인정보 보호에 중점을 둠
     - [PrivateGPT <sub>F, O</sub>](https://github.com/imartinez/privateGPT) - 로컬 환경에서 문서와 상호작용할 수 있는 프라이버시 중심의 AI 솔루션
