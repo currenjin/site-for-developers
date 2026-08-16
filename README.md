@@ -214,6 +214,7 @@
     - [Mistral AI <sub>F, $</sub>](https://mistral.ai) - 유럽 대표 LLM, 고성능 오픈소스 모델 제공
     - [DeepSeek API <sub>F, $</sub>](https://platform.deepseek.com) - DeepSeek 모델 API, GPT-4급 성능을 저렴하게
     - [Cohere <sub>F, $</sub>](https://cohere.com) - 기업용 LLM API 및 임베딩 모델
+    - [AI Router <sub>KR, $</sub>](https://ai-router.dev/ko) - OpenAI 호환 API 게이트웨이로 개인 API 키, 키별 사용량 확인, 인증된 모델 조회를 지원
 
   - <span id="ai-agent">에이전트 & 프레임워크</span>
     - [LangChain <sub>F, O</sub>](https://www.langchain.com) - LLM 애플리케이션 개발을 위한 대표 프레임워크
