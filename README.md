@@ -541,6 +541,7 @@
 
   - <span id="online-utilities">Online Utilities</span>
     - [All Tools Verse <sub>EN, F</sub>](https://alltoolsverse.com/) - 개발, 파일, 이미지, 텍스트, 데이터 변환 등 1,000개 이상의 무료 브라우저 도구 모음
+    - [A Box of Tools <sub>KR, F, O</sub>](https://abox.tools/ko/) - 이미지·영상·오디오·PDF·텍스트를 다루는 35개의 브라우저 도구, 파일을 업로드하지 않고 오프라인에서도 동작
 
   - <span id="search-tool">Search</span>
     - [Google](https://www.google.com/) - 검색 엔진
