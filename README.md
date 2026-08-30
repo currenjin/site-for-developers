@@ -184,7 +184,7 @@
     - [Codeium <sub>F</sub>](https://codeium.com/) - 무료 AI 코드 생성 도구로 다양한 IDE 통합
     - [Amazon CodeWhisperer <sub>F</sub>](https://aws.amazon.com/ko/codewhisperer/) - AWS의 AI 코딩 도구
     - [Qodo <sub>F, $</sub>](https://www.qodo.ai) - AI 기반 코드 품질 및 테스트 자동화 도구
-    - [Agent QA <sub>EN, F, O</sub>](https://github.com/vostride/agent-qa) - 자연어로 웹·모바일 테스트를 실행하고, 메모리로 학습하며 실패를 스스로 복구하는 오픈소스 QA 에이전트
+    - [Agent QA <sub>EN, F</sub>](https://github.com/vostride/agent-qa) - 자연어로 웹·모바일 테스트를 실행하고 실행 메모리로 UI 변화에 적응하는 FSL-1.1-ALv2 소스 사용 가능 QA 도구로, 허용된 사용에 대한 소프트웨어 비용은 없지만 사용자가 설정한 외부 모델·브라우저·기기 서비스는 별도 과금될 수 있음
 
   - <span id="ai-design-tools">디자인 도구</span>
     - [Canva AI <sub>F, $</sub>](https://www.canva.com/ai-image-generator/) - AI 이미지 생성 및 디자인 도구
