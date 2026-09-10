@@ -185,6 +185,7 @@
     - [Amazon CodeWhisperer <sub>F</sub>](https://aws.amazon.com/ko/codewhisperer/) - AWS의 AI 코딩 도구
     - [Qodo <sub>F, $</sub>](https://www.qodo.ai) - AI 기반 코드 품질 및 테스트 자동화 도구
     - [Agent QA <sub>EN, F</sub>](https://github.com/vostride/agent-qa) - 자연어로 웹·모바일 테스트를 실행하고 실행 메모리로 UI 변화에 적응하는 FSL-1.1-ALv2 소스 사용 가능 QA 도구로, 허용된 사용에 대한 소프트웨어 비용은 없지만 사용자가 설정한 외부 모델·브라우저·기기 서비스는 별도 과금될 수 있음
+    - [YYLO <sub>EN, F, O</sub>](https://www.yylo.dev) - 코딩 에이전트를 명령줄에서 조율하는 오픈소스 오케스트레이터로, 작업별 브랜치·워크트리와 리스크 기반 머지 큐, 영수증으로 검증되는 저장소 변경을 제공
 
   - <span id="ai-design-tools">디자인 도구</span>
     - [Canva AI <sub>F, $</sub>](https://www.canva.com/ai-image-generator/) - AI 이미지 생성 및 디자인 도구
