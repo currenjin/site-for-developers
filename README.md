@@ -202,6 +202,7 @@
     - [NotebookLM <sub>F</sub>](https://notebooklm.google.com/) - Google의 AI 기반 연구 및 노트 작성 도구
     - [Mistral Le Chat <sub>F</sub>](https://chat.mistral.ai) - Mistral AI의 대화형 AI 플랫폼
     - [Poe <sub>F, $</sub>](https://poe.com) - Quora의 다양한 AI 모델을 한 곳에서 사용할 수 있는 플랫폼
+    - [StudyArena <sub>EN, F, $</sub>](https://studyarena.com) - 학습 질문에 대한 AI 답변 세 개를 모델 이름 없이 비교하고, 투표한 뒤 모델을 확인하는 무료 웹 도구
 
   - <span id="ai-api">API & 모델</span>
     - [OpenAI API <sub>$</sub>](https://platform.openai.com/docs/concepts) - OpenAI API 문서로, GPT 모델을 애플리케이션에 통합하는 방법을 제공
