@@ -176,6 +176,7 @@
     - [v0.dev <sub>F</sub>](https://v0.dev) - Vercel의 AI 기반 UI 컴포넌트 생성 도구
     - [bolt.new <sub>F</sub>](https://bolt.new) - 프롬프트만으로 풀스택 웹 앱을 즉시 생성하는 AI 빌더
     - [Lovable <sub>F, $</sub>](https://lovable.dev) - AI로 웹 애플리케이션을 빠르게 만드는 노코드 빌더
+    - [Taskade Genesis <sub>F, $</sub>](https://www.taskade.com/create) - 프롬프트로 앱·에이전트·자동화를 한 워크스페이스에서 만드는 AI 빌더
     - [Replit <sub>F, $</sub>](https://replit.com) - AI 기반 브라우저 개발 환경으로 코딩, 실행, 배포까지 한 곳에서
     - [Aider <sub>F, O</sub>](https://aider.chat) - 터미널에서 사용하는 AI 페어 프로그래밍 도구
     - [Continue <sub>F, O</sub>](https://continue.dev) - VS Code & JetBrains용 오픈소스 AI 코딩 어시스턴트
