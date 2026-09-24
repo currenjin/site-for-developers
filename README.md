@@ -580,6 +580,7 @@
   - <span id="api-request">API Request</span>
     - [Postman](https://www.postman.com/downloads) - API 디버그 도구
     - [Swagger](https://swagger.io/) - API Documentation 도구
+    - [Cortex <sub>EN, F, O</sub>](https://cortexdocs.dev/) - API 명세와 Markdown에서 대화형 문서, 타입이 지정된 SDK 및 MCP Server를 생성하는 오픈소스 CLI
 
   - <span id="json">JSON</span>
     - [Formatter](https://formatter.org/json-formatter) - CSS/JSON/HTML 포맷 도구
