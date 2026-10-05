@@ -416,6 +416,7 @@
     - [더북(TheBook) <sub>KR</sub>](https://thebook.io/) - (주)도서출판 길벗에서 제공하는 IT 도서 열람 서비스
     - [K-MOOC <sub>KR</sub>](https://www.kmooc.kr/) - 한국형 대학 공개강좌
     - [Harvard Free Courses <sub>EN</sub>](https://pll.harvard.edu/catalog/free) - 하버드 대학교 공개 강의
+    - [WebTerm Learn <sub>EN, F</sub>](https://learn.webterm.app/en/courses) - 브라우저 속 모의 터미널에서 직접 실습하며 Linux, Git, Vim, tmux를 배우는 무료 학습 사이트 (첫 레슨 이후 무료 계정 필요)
 
   - <span id="coding-test">문제풀이</span>
     - [Baekjoon Online Judge <sub>KR, F</sub>](https://www.acmicpc.net) - 프로그래밍 문제를 풀고 온라인으로 채점받을 수 있는 곳
