@@ -240,6 +240,7 @@
     - [PlanetScale <sub>F, $</sub>](https://planetscale.com) - 서버리스 MySQL 플랫폼, 브랜치 기반 스키마 관리
     - [Upstash <sub>F, $</sub>](https://upstash.com) - 서버리스 Redis & Kafka, 사용한 만큼만 과금
     - [Resend <sub>F, $</sub>](https://resend.com) - 개발자를 위한 이메일 API
+    - [Cohesivity <sub>EN, F, $</sub>](https://cohesivity.ai) - AI 코딩 에이전트가 가입 없이 Postgres, 호스팅, 이메일, 스토리지, LLM API를 직접 준비해 쓰는 백엔드 인프라 (MCP 지원)
 
   - <span id="ai-local-tools">로컬 AI 도구</span>
     - [Ollama <sub>F, O</sub>](https://ollama.ai/) - 로컬 환경에서 다양한 오픈소스 AI 모델을 쉽게 실행할 수 있는 도구
