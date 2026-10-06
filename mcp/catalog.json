@@ -1,0 +1,6564 @@
+{
+  "source": {
+    "url": "https://github.com/currenjin/site-for-developers/blob/main/README.md",
+    "version": "sha256:9fa9c27efa551bab109a35314f4c6ef6b60fc413f36d2582ba1330d1a7becb02",
+    "verified": false,
+    "note": "README snapshot provenance only; not live URL, language, price or license verification."
+  },
+  "categories": [
+    {
+      "id": "recommend",
+      "name": "추천",
+      "parent": null
+    },
+    {
+      "id": "ai",
+      "name": "AI 🤖",
+      "parent": null
+    },
+    {
+      "id": "ai-dev-tools",
+      "name": "개발 도구",
+      "parent": "ai"
+    },
+    {
+      "id": "ai-design-tools",
+      "name": "디자인 도구",
+      "parent": "ai"
+    },
+    {
+      "id": "conversational-ai",
+      "name": "대화형 AI",
+      "parent": "ai"
+    },
+    {
+      "id": "ai-api",
+      "name": "API & 모델",
+      "parent": "ai"
+    },
+    {
+      "id": "ai-agent",
+      "name": "에이전트 & 프레임워크",
+      "parent": "ai"
+    },
+    {
+      "id": "ai-local-tools",
+      "name": "로컬 AI 도구",
+      "parent": "ai"
+    },
+    {
+      "id": "agent-management",
+      "name": "코딩 에이전트 관리 도구",
+      "parent": "ai"
+    },
+    {
+      "id": "document",
+      "name": "문서 📃",
+      "parent": null
+    },
+    {
+      "id": "web",
+      "name": "Web",
+      "parent": "document"
+    },
+    {
+      "id": "design",
+      "name": "Design",
+      "parent": "document"
+    },
+    {
+      "id": "programming-language",
+      "name": "Programming Language",
+      "parent": "document"
+    },
+    {
+      "id": "runtime",
+      "name": "Runtime",
+      "parent": "document"
+    },
+    {
+      "id": "javascript-framework",
+      "name": "JavaScript Framework & Library",
+      "parent": "document"
+    },
+    {
+      "id": "backend-framework",
+      "name": "Backend Framework",
+      "parent": "document"
+    },
+    {
+      "id": "public-cloud",
+      "name": "Public Cloud",
+      "parent": "document"
+    },
+    {
+      "id": "mobile",
+      "name": "Mobile",
+      "parent": "document"
+    },
+    {
+      "id": "database",
+      "name": "Database",
+      "parent": "document"
+    },
+    {
+      "id": "search",
+      "name": "Search",
+      "parent": "document"
+    },
+    {
+      "id": "linux",
+      "name": "Linux",
+      "parent": "document"
+    },
+    {
+      "id": "infra",
+      "name": "Infra",
+      "parent": "document"
+    },
+    {
+      "id": "api",
+      "name": "API",
+      "parent": "document"
+    },
+    {
+      "id": "git",
+      "name": "Git",
+      "parent": "document"
+    },
+    {
+      "id": "other",
+      "name": "Other",
+      "parent": "document"
+    },
+    {
+      "id": "community",
+      "name": "커뮤니티 💬",
+      "parent": null
+    },
+    {
+      "id": "tech-community",
+      "name": "기술 커뮤니티",
+      "parent": "community"
+    },
+    {
+      "id": "education-community",
+      "name": "교육 커뮤니티",
+      "parent": "community"
+    },
+    {
+      "id": "news",
+      "name": "뉴스",
+      "parent": "community"
+    },
+    {
+      "id": "study",
+      "name": "학습",
+      "parent": "community"
+    },
+    {
+      "id": "coding-test",
+      "name": "문제풀이",
+      "parent": "community"
+    },
+    {
+      "id": "blog",
+      "name": "블로그 📚",
+      "parent": null
+    },
+    {
+      "id": "team-blog",
+      "name": "팀 블로그",
+      "parent": "blog"
+    },
+    {
+      "id": "personal-blog",
+      "name": "개인 블로그",
+      "parent": "blog"
+    },
+    {
+      "id": "video",
+      "name": "동영상 🎦",
+      "parent": null
+    },
+    {
+      "id": "collection-of-data",
+      "name": "자료모음 🧾",
+      "parent": null
+    },
+    {
+      "id": "awesome",
+      "name": "Awesome",
+      "parent": "collection-of-data"
+    },
+    {
+      "id": "thesis",
+      "name": "논문",
+      "parent": "collection-of-data"
+    },
+    {
+      "id": "book",
+      "name": "책",
+      "parent": "collection-of-data"
+    },
+    {
+      "id": "tool",
+      "name": "도구 🔨",
+      "parent": null
+    },
+    {
+      "id": "development-infra",
+      "name": "배포·인프라·서비스 API",
+      "parent": "tool"
+    },
+    {
+      "id": "online-utilities",
+      "name": "Online Utilities",
+      "parent": "tool"
+    },
+    {
+      "id": "search-tool",
+      "name": "Search",
+      "parent": "tool"
+    },
+    {
+      "id": "network",
+      "name": "Network",
+      "parent": "tool"
+    },
+    {
+      "id": "git-tool",
+      "name": "Git",
+      "parent": "tool"
+    },
+    {
+      "id": "no-code",
+      "name": "No Code",
+      "parent": "tool"
+    },
+    {
+      "id": "api-request",
+      "name": "API Request",
+      "parent": "tool"
+    },
+    {
+      "id": "json",
+      "name": "JSON",
+      "parent": "tool"
+    },
+    {
+      "id": "regex",
+      "name": "정규 표현식",
+      "parent": "tool"
+    },
+    {
+      "id": "design-tool",
+      "name": "Design",
+      "parent": "tool"
+    },
+    {
+      "id": "backend-framework-tool",
+      "name": "Backend Framework",
+      "parent": "tool"
+    },
+    {
+      "id": "code-formatter",
+      "name": "Code Formatter & Linter",
+      "parent": "tool"
+    },
+    {
+      "id": "testing-tool",
+      "name": "Testing",
+      "parent": "tool"
+    },
+    {
+      "id": "ide",
+      "name": "IDE",
+      "parent": "tool"
+    },
+    {
+      "id": "jetbrains",
+      "name": "Jetbrains",
+      "parent": "ide"
+    },
+    {
+      "id": "other-ide-tool",
+      "name": "Other",
+      "parent": "ide"
+    },
+    {
+      "id": "other-tool",
+      "name": "Other",
+      "parent": "tool"
+    }
+  ],
+  "sites": [
+    {
+      "id": "site_013d459b8c01d0e824e39a6c",
+      "name": "StudyArena",
+      "url": "https://studyarena.com/",
+      "description": "학습 질문에 대한 AI 답변 세 개를 모델 이름 없이 비교하고, 투표한 뒤 모델을 확인하는 무료 웹 도구",
+      "categories": [
+        "ai",
+        "conversational-ai"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN",
+        "F",
+        "$"
+      ],
+      "cost": "free-and-paid",
+      "openSource": false
+    },
+    {
+      "id": "site_02571a5c515115e926b29470",
+      "name": "Biome",
+      "url": "https://biomejs.dev/",
+      "description": "Web을 위한 통합 툴체인",
+      "categories": [
+        "tool",
+        "code-formatter"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_037c846dace60c555ca518c8",
+      "name": "Rspack",
+      "url": "https://www.rspack.dev/",
+      "description": "빠른 Rust 기반 웹 번들러",
+      "categories": [
+        "document",
+        "web"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_03874667540e5c733782d3fd",
+      "name": "Ruby On Rails Guide",
+      "url": "https://guides.rubyonrails.org/",
+      "description": "Ruby On Rails 공식 가이드",
+      "categories": [
+        "document",
+        "backend-framework"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_04a206ac6593789eb40c3bb5",
+      "name": "LangGraph",
+      "url": "https://www.langchain.com/langgraph",
+      "description": "그래프 기반 AI 에이전트 워크플로우 구축 도구",
+      "categories": [
+        "ai",
+        "ai-agent"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "O"
+      ],
+      "cost": "free",
+      "openSource": true
+    },
+    {
+      "id": "site_0526bc13009877115fa73e69",
+      "name": "Claude Code",
+      "url": "https://code.claude.com/docs/en/setup",
+      "description": "Anthropic의 코딩 도구. 유료 Claude 플랜 또는 API 과금 계정이 필요하며 무료 claude.ai 플랜에는 포함되지 않음",
+      "categories": [
+        "ai",
+        "ai-dev-tools"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "$"
+      ],
+      "cost": "paid-or-freemium",
+      "openSource": false
+    },
+    {
+      "id": "site_05ffc80681d744e0e31d2707",
+      "name": "Awesome .NET",
+      "url": "https://github.com/quozd/awesome-dotnet",
+      "description": ".NET 관련 자료모음 (Awesome 계열)",
+      "categories": [
+        "collection-of-data",
+        "awesome"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN",
+        "O"
+      ],
+      "cost": "unknown",
+      "openSource": true
+    },
+    {
+      "id": "site_06338055fda0c391ac1e6683",
+      "name": "AWS Documentation",
+      "url": "https://docs.aws.amazon.com/ko_kr/",
+      "description": "AWS 공식 문서",
+      "categories": [
+        "document",
+        "public-cloud"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_06cb31f22c8a2f9ceb5a02fb",
+      "name": "Prettier",
+      "url": "https://prettier.io/",
+      "description": "여러 언어의 코드 스타일을 자동 정리하는 포매터",
+      "categories": [
+        "tool",
+        "code-formatter"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_06db41ac8b3ee763df57a721",
+      "name": "React",
+      "url": "https://ko.react.dev/",
+      "description": "React 현행 공식 한국어 문서",
+      "categories": [
+        "document",
+        "javascript-framework"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_07e1584b5b9ad401cace353f",
+      "name": "펫프렌즈 기술블로그",
+      "url": "https://techblog.pet-friends.co.kr/",
+      "description": "펫프렌즈 기술블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_08da5f834fc2533e83a71e23",
+      "name": "Formatter",
+      "url": "https://formatter.org/json-formatter",
+      "description": "CSS/JSON/HTML 포맷 도구",
+      "categories": [
+        "tool",
+        "json"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_08dfb3fa51b70bfb3a9185bd",
+      "name": "Awesome Deep Learning",
+      "url": "https://github.com/ChristosChristofidis/awesome-deep-learning",
+      "description": "딥 러닝 자료모음 (Awesome 계열)",
+      "categories": [
+        "collection-of-data",
+        "awesome"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_09a8b930c8b79e7c313e5e74",
+      "name": "GitHub",
+      "url": "https://github.com/",
+      "description": "Git 플랫폼",
+      "categories": [
+        "tool",
+        "git-tool"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "$"
+      ],
+      "cost": "paid-or-freemium",
+      "openSource": false
+    },
+    {
+      "id": "site_0c8de9b6b0437e28f4aa0ce8",
+      "name": "카카오페이 기술블로그",
+      "url": "https://tech.kakaopay.com/",
+      "description": "카카오페이 기술블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_0dfbd933f3b329b40edf7c40",
+      "name": "MIT Theory of Computation",
+      "url": "https://www.youtube.com/watch?v=9syvZr-9xwk&list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY&index=1",
+      "description": "MIT에서 제공하는 Michael Sipser의 CS 강의",
+      "categories": [
+        "video"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_0e4e2e76fadd6a88c14a5bb5",
+      "name": "OpenAI API",
+      "url": "https://platform.openai.com/docs/concepts",
+      "description": "OpenAI API 문서로, GPT 모델을 애플리케이션에 통합하는 방법을 제공",
+      "categories": [
+        "ai",
+        "ai-api"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "$"
+      ],
+      "cost": "paid-or-freemium",
+      "openSource": false
+    },
+    {
+      "id": "site_0e6a92e25c7fe5e445250f61",
+      "name": "Ollama",
+      "url": "https://ollama.ai/",
+      "description": "로컬 환경에서 다양한 오픈소스 AI 모델을 쉽게 실행할 수 있는 도구",
+      "categories": [
+        "ai",
+        "ai-local-tools"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "O"
+      ],
+      "cost": "free",
+      "openSource": true
+    },
+    {
+      "id": "site_0eb77fb97d40c8ec6f7c449f",
+      "name": "Slack Engineering",
+      "url": "https://slack.engineering/",
+      "description": "슬랙 엔지니어링 블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_0f3f47da20864910a807a691",
+      "name": "생활코딩",
+      "url": "https://www.youtube.com/@coohde",
+      "description": "일반인에게 프로그래밍을 알려주는 온라인/오프라인 활동",
+      "categories": [
+        "video"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_11217e97399022d963ebaf46",
+      "name": "Shadcn UI",
+      "url": "https://ui.shadcn.com/",
+      "description": "Tailwind CSS 기반의 접근성 높은 구성 요소를 유연하게 커스터마이징할 수 있는 현대적인 UI 라이브러리",
+      "categories": [
+        "document",
+        "design"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_117bffc44ec3eb768e5eecd1",
+      "name": "Stack Exchange",
+      "url": "https://stackexchange.com/",
+      "description": "주제별 질문·답변 커뮤니티 네트워크",
+      "categories": [
+        "community",
+        "tech-community"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_1241972e680bbc91157430a6",
+      "name": "Algolia Docs",
+      "url": "https://www.algolia.com/doc",
+      "description": "Algolia 공식 문서",
+      "categories": [
+        "document",
+        "search"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_12f75bd3ebdc6fd020e8e96e",
+      "name": "Devstu",
+      "url": "https://devstu.co.kr/howto",
+      "description": "모두가 함께하는, 지식을 지식으로 갚아나가는 한국 개발 커뮤니티",
+      "categories": [
+        "community",
+        "tech-community"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_14a59b4498389073cd3eee7e",
+      "name": "agent-manager",
+      "url": "https://agent-manager.dev/",
+      "description": "설치된 코딩 에이전트 CLI를 tmux 세션으로 관리하는 터미널 UI. 세션 상태, 선택적 Git 워크트리와 diff 리뷰 지원",
+      "categories": [
+        "ai",
+        "agent-management"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN",
+        "F",
+        "O"
+      ],
+      "cost": "free",
+      "openSource": true
+    },
+    {
+      "id": "site_15cd85fdd0a91f0d76397e4c",
+      "name": "Aider",
+      "url": "https://aider.chat/",
+      "description": "터미널에서 사용하는 AI 페어 프로그래밍 도구",
+      "categories": [
+        "ai",
+        "ai-dev-tools"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "O"
+      ],
+      "cost": "free",
+      "openSource": true
+    },
+    {
+      "id": "site_160b9b79e3c7fad3cbc20556",
+      "name": "CentOS Wiki Archive",
+      "url": "https://wiki.centos.org/",
+      "description": "읽기 전용 구문서 아카이브. 현행 CentOS Stream 안내와 구분하여 참고",
+      "categories": [
+        "document",
+        "linux"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_177f0934751badde8cc4b6dd",
+      "name": "Visual Studio Code",
+      "url": "https://code.visualstudio.com/",
+      "description": "Microsoft에서 개발한 텍스트 에디터",
+      "categories": [
+        "tool",
+        "ide",
+        "other-ide-tool"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "O",
+        "F"
+      ],
+      "cost": "free",
+      "openSource": true
+    },
+    {
+      "id": "site_17ff9b80d45da9a7416a061a",
+      "name": "sublime Text",
+      "url": "https://www.sublimetext.com/",
+      "description": "크로스 플랫폼의 텍스트 에디터",
+      "categories": [
+        "tool",
+        "ide",
+        "other-ide-tool"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "$"
+      ],
+      "cost": "paid-or-freemium",
+      "openSource": false
+    },
+    {
+      "id": "site_1800197746466231fe507fe0",
+      "name": "Stack Overflow",
+      "url": "https://stackoverflow.com/",
+      "description": "프로그래밍 질문과 답변을 공유하는 커뮤니티",
+      "categories": [
+        "recommend",
+        "community",
+        "tech-community"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_184cd1c6cddf590169fe744f",
+      "name": "X (구 Twitter) Engineering",
+      "url": "https://blog.twitter.com/engineering/en_us",
+      "description": "X (구 Twitter) 엔지니어링 블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_1a2568b358206d7782b5346f",
+      "name": "Awesome Svelte",
+      "url": "https://github.com/TheComputerM/awesome-svelte",
+      "description": "Svelte 관련 자료모음 (Awesome 계열)",
+      "categories": [
+        "collection-of-data",
+        "awesome"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN",
+        "O"
+      ],
+      "cost": "unknown",
+      "openSource": true
+    },
+    {
+      "id": "site_1c5ee5226f7ef923fee2d176",
+      "name": "Emojipedia",
+      "url": "https://emojipedia.org/",
+      "description": "이모지 저장소",
+      "categories": [
+        "tool",
+        "design-tool"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_1d8cd64020500eb75ae85bd1",
+      "name": "Awesome Computer Vision",
+      "url": "https://github.com/jbhuang0604/awesome-computer-vision",
+      "description": "컴퓨터 비전 자료모음 (Awesome 계열)",
+      "categories": [
+        "collection-of-data",
+        "awesome"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_1da604b7e292069632c74858",
+      "name": "Engineering at Meta",
+      "url": "https://engineering.fb.com/",
+      "description": "메타 엔지니어링 블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_1f7c69b8fe1281b1845de21b",
+      "name": "Manjaro Linux Docs",
+      "url": "https://docs.manjaro.org/",
+      "description": "Manjaro Linux 공식 문서",
+      "categories": [
+        "document",
+        "linux"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_205e3d0fb4bc38d9550e724b",
+      "name": "HexEd.it",
+      "url": "https://hexed.it/",
+      "description": "브라우저 기반의 Hex Editor",
+      "categories": [
+        "tool",
+        "other-tool"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_21c36a6ace2468d35f42ec70",
+      "name": "Upstash",
+      "url": "https://upstash.com/",
+      "description": "서버리스 데이터 서비스. 지원 제품과 사용량별 요금은 공식 페이지 확인",
+      "categories": [
+        "tool",
+        "development-infra"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "$"
+      ],
+      "cost": "free-and-paid",
+      "openSource": false
+    },
+    {
+      "id": "site_2298e1b8a9c3254155c37ba2",
+      "name": "Pinterest Engineering",
+      "url": "https://medium.com/@Pinterest_Engineering",
+      "description": "핀터레스트 엔지니어링 블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_22b8e2f973dd407130973d72",
+      "name": "Cody AI",
+      "url": "https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai",
+      "description": "VS Code AI 플러그인으로 코드 생성 및 개선 지원",
+      "categories": [
+        "ai",
+        "ai-dev-tools"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F"
+      ],
+      "cost": "free",
+      "openSource": false
+    },
+    {
+      "id": "site_22c9d8dd89733511b71d45f0",
+      "name": "GitHub Webhook",
+      "url": "https://docs.github.com/ko/webhooks",
+      "description": "깃허브 Webhook 공식 문서",
+      "categories": [
+        "document",
+        "git"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_23948c7b21243f037125e6a1",
+      "name": "Glide",
+      "url": "https://www.glideapps.com/",
+      "description": "노코드 툴 Glide",
+      "categories": [
+        "tool",
+        "no-code"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_23c250a06c2c5134182a880c",
+      "name": "Awesome CSS",
+      "url": "https://github.com/awesome-css-group/awesome-css",
+      "description": "CSS 관련 자료모음 (Awesome 계열)",
+      "categories": [
+        "collection-of-data",
+        "awesome"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN",
+        "O"
+      ],
+      "cost": "unknown",
+      "openSource": true
+    },
+    {
+      "id": "site_247147cb7e21d6a4b641c12c",
+      "name": "Geany",
+      "url": "https://www.geany.org/",
+      "description": "빠르고 가벼운 통합 개발 환경",
+      "categories": [
+        "tool",
+        "ide",
+        "other-ide-tool"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "O",
+        "F"
+      ],
+      "cost": "free",
+      "openSource": true
+    },
+    {
+      "id": "site_24e27b0b155ee82d46d5fbac",
+      "name": "GitHub GraphQL API",
+      "url": "https://docs.github.com/ko/graphql",
+      "description": "깃허브 GraphQL API 공식 문서",
+      "categories": [
+        "document",
+        "git"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_252c4ce9e15336e8d83e35a2",
+      "name": "Poiemaweb",
+      "url": "https://poiemaweb.com/",
+      "description": "HTML, CSS, JavaScript 등 웹 개발 기초 학습 자료",
+      "categories": [
+        "community",
+        "study"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_2537f966fac7c705cc567578",
+      "name": "Ktlint",
+      "url": "https://ktlint.github.io/ktlint/latest/",
+      "description": "Kotlin 코드 포매터와 린터의 공식 문서",
+      "categories": [
+        "tool",
+        "code-formatter"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_2550aa5022ffb67e1c709835",
+      "name": "Java Docs",
+      "url": "https://docs.oracle.com/en/java",
+      "description": "Java 공식 문서",
+      "categories": [
+        "document",
+        "programming-language"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_25d13aa22bc08a8c58bc4c85",
+      "name": "Kubernetes Docs",
+      "url": "https://kubernetes.io/ko/docs/home",
+      "description": "kubernetes 공식 문서",
+      "categories": [
+        "document",
+        "infra"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_2620c93f1397169397fec885",
+      "name": "PostgreSQL Docs",
+      "url": "https://www.postgresql.org/docs",
+      "description": "PostgreSQL 공식 문서",
+      "categories": [
+        "document",
+        "database"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_26bd9ac779086797ad03efc5",
+      "name": "Flask Docs",
+      "url": "https://flask.palletsprojects.com/en/stable/",
+      "description": "Flask 안정 버전의 공식 문서",
+      "categories": [
+        "document",
+        "backend-framework"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_26e5f93b15551e878e871057",
+      "name": "Awesome Microservices",
+      "url": "https://github.com/mfornos/awesome-microservices",
+      "description": "마이크로서비스 자료모음 (Awesome 계열)",
+      "categories": [
+        "collection-of-data",
+        "awesome"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_27f9113a74b6ec629f48ed5d",
+      "name": "Roy fielding Rest API",
+      "url": "https://roy.gbiv.com/pubs/dissertation/fielding_dissertation.pdf",
+      "description": "로이필딩 rest api 논문",
+      "categories": [
+        "collection-of-data",
+        "thesis"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_28160215470a6c6b5704bf3f",
+      "name": "Clerk",
+      "url": "https://clerk.com/",
+      "description": "인증·사용자 관리 서비스",
+      "categories": [
+        "tool",
+        "development-infra"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "$"
+      ],
+      "cost": "free-and-paid",
+      "openSource": false
+    },
+    {
+      "id": "site_2861902bc304d4394da4b13f",
+      "name": "Softr",
+      "url": "https://softr.io/",
+      "description": "노코드 툴 Softr",
+      "categories": [
+        "tool",
+        "no-code"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_286fb7050a8ba6bcd525e2ea",
+      "name": "Ktor Project Generator",
+      "url": "https://start.ktor.io/#/settings",
+      "description": "Ktor 프로젝트 생성기",
+      "categories": [
+        "tool",
+        "backend-framework-tool"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_28c2ac4eb25b53b6a0a6c792",
+      "name": "Qodo",
+      "url": "https://www.qodo.ai/",
+      "description": "AI 기반 코드 품질 및 테스트 자동화 도구",
+      "categories": [
+        "ai",
+        "ai-dev-tools"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "$"
+      ],
+      "cost": "free-and-paid",
+      "openSource": false
+    },
+    {
+      "id": "site_2a664980fda57e1c1bc2c28a",
+      "name": "Free for Developers",
+      "url": "https://free-for.dev/",
+      "description": "개발자를 위한 무료 서비스 큐레이션",
+      "categories": [
+        "recommend"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_2bc05cc7e125e897e2d32e34",
+      "name": "online gdb",
+      "url": "https://www.onlinegdb.com/",
+      "description": "온라인 컴파일러 및 디버거 도구",
+      "categories": [
+        "tool",
+        "ide",
+        "other-ide-tool"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_2c11ff36e9f987de3184a2e4",
+      "name": "Amazon Q Developer (구 CodeWhisperer)",
+      "url": "https://aws.amazon.com/q/developer/",
+      "description": "AWS의 AI 개발 보조 도구. IDE 플러그인 지원은 2027-04-30 종료 예정이므로 공식 지원 공지 확인",
+      "categories": [
+        "ai",
+        "ai-dev-tools"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "$"
+      ],
+      "cost": "free-and-paid",
+      "openSource": false
+    },
+    {
+      "id": "site_2c477f1b3c560108e170d0a2",
+      "name": "Site Reliability Engineering",
+      "url": "https://sre.google/sre-book/table-of-contents/",
+      "description": "<Site Reliability Engineering> by Betsy Beyer + 3 people",
+      "categories": [
+        "collection-of-data",
+        "book"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_2cbd17da7c119dfc4e6d35f0",
+      "name": "NotebookLM",
+      "url": "https://notebooklm.google.com/",
+      "description": "Google의 AI 기반 연구 및 노트 작성 도구",
+      "categories": [
+        "ai",
+        "conversational-ai"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F"
+      ],
+      "cost": "free",
+      "openSource": false
+    },
+    {
+      "id": "site_2cd5069bf3784333003efc65",
+      "name": "GitLab",
+      "url": "https://about.gitlab.com/",
+      "description": "Git 플랫폼 (GitHub와 유사)",
+      "categories": [
+        "tool",
+        "git-tool"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "$"
+      ],
+      "cost": "paid-or-freemium",
+      "openSource": false
+    },
+    {
+      "id": "site_2d1c25882762ee1d7d08262b",
+      "name": "CrewAI",
+      "url": "https://www.crewai.com/",
+      "description": "멀티 에이전트 협업 프레임워크",
+      "categories": [
+        "ai",
+        "ai-agent"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "O"
+      ],
+      "cost": "free",
+      "openSource": true
+    },
+    {
+      "id": "site_2d5e80ffdb1d5ffc10636c16",
+      "name": "Azure Documentation",
+      "url": "https://learn.microsoft.com/ko-kr/azure/?product=popular",
+      "description": "Azure 공식문서",
+      "categories": [
+        "document",
+        "public-cloud"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_2e98d4b3ecf1ecbf05a89073",
+      "name": "Udemy",
+      "url": "https://www.udemy.com/",
+      "description": "개발을 포함한 여러 분야의 온라인 강의 마켓플레이스",
+      "categories": [
+        "community",
+        "study"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_2eb542b6efc86050d2ff7832",
+      "name": "LocalAI",
+      "url": "https://github.com/go-skynet/LocalAI",
+      "description": "OpenAI API와 호환되는 로컬 REST API를 제공하는 자체 호스팅 가능한 오픈소스 솔루션",
+      "categories": [
+        "ai",
+        "ai-local-tools"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "O"
+      ],
+      "cost": "free",
+      "openSource": true
+    },
+    {
+      "id": "site_2f50a1994b989f241fa7a955",
+      "name": "Aqua",
+      "url": "https://www.jetbrains.com/ko-kr/aqua",
+      "description": "Jetbrains에서 개발한 통합 개발 환경 (Testing)",
+      "categories": [
+        "tool",
+        "ide",
+        "jetbrains"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "$"
+      ],
+      "cost": "paid-or-freemium",
+      "openSource": false
+    },
+    {
+      "id": "site_2fcf6978668a1f8ed0b92e37",
+      "name": "Jsdev",
+      "url": "https://jsdev.kr/",
+      "description": "자바스크립트 개발자 포럼",
+      "categories": [
+        "community",
+        "tech-community"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_30f024e38cc0d1aefe170a46",
+      "name": "라포랩스 기술블로그",
+      "url": "https://blog.rapportlabs.kr/category/product",
+      "description": "라포랩스 기술블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_313de9d66c415b6f7cb1be59",
+      "name": "Notepad++",
+      "url": "https://notepad-plus-plus.org/",
+      "description": "윈도우 전용 텍스트 에디터",
+      "categories": [
+        "tool",
+        "ide",
+        "other-ide-tool"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "O",
+        "F"
+      ],
+      "cost": "free",
+      "openSource": true
+    },
+    {
+      "id": "site_3186d36fbee4d51010934e89",
+      "name": "왓챠 팀블로그",
+      "url": "https://medium.com/watcha",
+      "description": "왓챠 팀블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_33711997423abbb0bfa53eff",
+      "name": "Regex101",
+      "url": "https://regex101.com/",
+      "description": "온라인 정규 표현식 학습 및 테스트",
+      "categories": [
+        "tool",
+        "regex"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_33c6a43b25a5ec83433ae570",
+      "name": "0to255",
+      "url": "https://0to255.com/",
+      "description": "유사 색상의 음영도 확인 도구",
+      "categories": [
+        "tool",
+        "design-tool"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_34aaa69b6a96f9a59567dec4",
+      "name": "Dzone",
+      "url": "https://dzone.com/",
+      "description": "프로그래밍, 웹 개발 및 DevOps 뉴스, 초보자부터 전문가를 위한 튜토리얼 및 도구",
+      "categories": [
+        "community",
+        "news"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_34b630d8eb0863c4b0d83dcf",
+      "name": "Cohesivity",
+      "url": "https://cohesivity.ai/",
+      "description": "코딩 에이전트용 백엔드 인프라와 MCP 연동 제공. 계정 요구사항과 서비스별 비용은 이용 전 확인",
+      "categories": [
+        "tool",
+        "development-infra"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN",
+        "F",
+        "$"
+      ],
+      "cost": "free-and-paid",
+      "openSource": false
+    },
+    {
+      "id": "site_34ea67d75a31b4177a530978",
+      "name": "bolt.new",
+      "url": "https://bolt.new/",
+      "description": "프롬프트로 웹 앱의 코드를 생성·편집하는 AI 빌더",
+      "categories": [
+        "ai",
+        "ai-dev-tools"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F"
+      ],
+      "cost": "free",
+      "openSource": false
+    },
+    {
+      "id": "site_35795a54effa701635a74089",
+      "name": "Kent Beck",
+      "url": "https://substack.com/@kentbeck/posts",
+      "description": "Kent Beck의 글 목록. 영어 원문을 참고하려는 독자를 위한 구독형 콘텐츠",
+      "categories": [
+        "blog",
+        "personal-blog"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_36c1fa9f996a1a9d4067b602",
+      "name": "Render",
+      "url": "https://render.com/",
+      "description": "웹 서비스, DB, 예약 작업 등을 배포하는 클라우드",
+      "categories": [
+        "tool",
+        "development-infra"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "$"
+      ],
+      "cost": "free-and-paid",
+      "openSource": false
+    },
+    {
+      "id": "site_36d53b908933d24cba576520",
+      "name": "solved.ac",
+      "url": "https://solved.ac/",
+      "description": "알고리즘 문제해결 학습의 이정표 Baekjoon Online Judge 문제들의 난이도 및 티어 정보를 제공하는 사이트",
+      "categories": [
+        "community",
+        "coding-test"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_388fada1d9782c739f5ccbde",
+      "name": "Ebay Tech Blog",
+      "url": "https://innovation.ebayinc.com/tech/",
+      "description": "이베이 기술블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_39625eb27383b4d92d3ead6f",
+      "name": "Bitbucket",
+      "url": "https://bitbucket.org/",
+      "description": "Atlassian에 의해 운영되는 Git 저장소",
+      "categories": [
+        "tool",
+        "git-tool"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "$"
+      ],
+      "cost": "paid-or-freemium",
+      "openSource": false
+    },
+    {
+      "id": "site_397e202379a5afebf579a29f",
+      "name": "ExpressJS",
+      "url": "https://expressjs.com/ko",
+      "description": "ExpressJS 공식 홈페이지",
+      "categories": [
+        "document",
+        "backend-framework"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_3b7f0693c2fe4e9389779a64",
+      "name": "Webflow",
+      "url": "https://webflow.com/",
+      "description": "노코드 툴 Webflow",
+      "categories": [
+        "tool",
+        "no-code"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_3b8b001c9f8ebe713f0a1534",
+      "name": "Oracle",
+      "url": "https://www.oracle.com/kr",
+      "description": "Oracle 공식 홈페이지",
+      "categories": [
+        "document",
+        "database"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_3bd77bc5c23e181ba4ea21f0",
+      "name": "Awesome Tailwind CSS",
+      "url": "https://github.com/aniftyco/awesome-tailwindcss",
+      "description": "Tailwind CSS 관련 자료모음 (Awesome 계열)",
+      "categories": [
+        "collection-of-data",
+        "awesome"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN",
+        "O"
+      ],
+      "cost": "unknown",
+      "openSource": true
+    },
+    {
+      "id": "site_3cc7d6e16e4309ce85b0f771",
+      "name": "RubyMine",
+      "url": "https://www.jetbrains.com/ko-kr/ruby",
+      "description": "Jetbrains에서 개발한 통합 개발 환경 (Ruby)",
+      "categories": [
+        "tool",
+        "ide",
+        "jetbrains"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "$"
+      ],
+      "cost": "paid-or-freemium",
+      "openSource": false
+    },
+    {
+      "id": "site_3cc894177defaba12f387ab6",
+      "name": "Tabnine",
+      "url": "https://www.tabnine.com/",
+      "description": "AI 기반 코드 자동완성 도구",
+      "categories": [
+        "ai",
+        "ai-dev-tools"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "$"
+      ],
+      "cost": "paid-or-freemium",
+      "openSource": false
+    },
+    {
+      "id": "site_3d89c8f8a486c0856c0dfbf5",
+      "name": "MongoDB Docs",
+      "url": "https://www.mongodb.com/docs",
+      "description": "MongoDB 공식 문서",
+      "categories": [
+        "document",
+        "database"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_3d99440d3db47249d9b67337",
+      "name": "web.dev",
+      "url": "https://web.dev/",
+      "description": "모든 브라우저에서 작동하는 최신 웹 환경을 빌드하기 위한 안내",
+      "categories": [
+        "document",
+        "web"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR",
+        "F"
+      ],
+      "cost": "free",
+      "openSource": false
+    },
+    {
+      "id": "site_3eb14a2b16109cf4d02e361d",
+      "name": "NestJS",
+      "url": "https://docs.nestjs.com/",
+      "description": "NestJS 공식 문서",
+      "categories": [
+        "document",
+        "backend-framework"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_3f111078f72eb1ff1cacb031",
+      "name": "openSUSE Docs",
+      "url": "https://doc.opensuse.org/",
+      "description": "openSUSE 공식 문서",
+      "categories": [
+        "document",
+        "linux"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_404b0752ca77c31034c94044",
+      "name": "Awesome Learn Data Science",
+      "url": "https://github.com/siboehm/awesome-learn-datascience",
+      "description": "데이터 사이언스 학습 자료모음 (Awesome 계열)",
+      "categories": [
+        "collection-of-data",
+        "awesome"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_40de3a6cdc2905fc3c7b81fa",
+      "name": "K-MOOC",
+      "url": "https://www.kmooc.kr/",
+      "description": "한국형 대학 공개강좌",
+      "categories": [
+        "community",
+        "study"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_41531850c10dc1d12d6c1b0b",
+      "name": "Supabase",
+      "url": "https://supabase.com/",
+      "description": "DB·인증·스토리지를 제공하는 백엔드 플랫폼",
+      "categories": [
+        "tool",
+        "development-infra"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "$",
+        "O"
+      ],
+      "cost": "free-and-paid",
+      "openSource": true
+    },
+    {
+      "id": "site_41c3abb95fd47633f7a6fe59",
+      "name": "Writerside",
+      "url": "https://www.jetbrains.com/ko-kr/writerside",
+      "description": "Jetbrains에서 개발한 통합 개발 환경 (Document)",
+      "categories": [
+        "tool",
+        "ide",
+        "jetbrains"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "$"
+      ],
+      "cost": "paid-or-freemium",
+      "openSource": false
+    },
+    {
+      "id": "site_425d3e3566ae16731142ec91",
+      "name": "Android Guide",
+      "url": "https://developer.android.com/docs?hl=ko",
+      "description": "Android 공식 가이드",
+      "categories": [
+        "document",
+        "mobile"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_42d61ff2d2d4bf7c562825a7",
+      "name": "W3schools",
+      "url": "https://www.w3schools.com/",
+      "description": "웹 기술과 여러 언어의 문법 예제·브라우저 실습 튜토리얼",
+      "categories": [
+        "community",
+        "study"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_42e1ddae8c69bef7ede03130",
+      "name": "JUnit User Guide",
+      "url": "https://docs.junit.org/current/user-guide/",
+      "description": "Java·JVM 테스트 작성·실행을 위한 현행 JUnit 가이드",
+      "categories": [
+        "tool",
+        "testing-tool"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_4350554459a10ade87fb1931",
+      "name": "Resend",
+      "url": "https://resend.com/",
+      "description": "애플리케이션의 이메일 발송 API",
+      "categories": [
+        "tool",
+        "development-infra"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "$"
+      ],
+      "cost": "free-and-paid",
+      "openSource": false
+    },
+    {
+      "id": "site_43535cbf9089144e18991da8",
+      "name": "TTSMaker",
+      "url": "https://ttsmaker.com/ko",
+      "description": "음성 UI 프로토타입이나 테스트용 음성 자료 제작에 활용할 수 있는 텍스트 음성 변환 도구. 음성별 이용 조건 확인 필요",
+      "categories": [
+        "tool",
+        "other-tool"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_436e328c7ca6e19405f1e2f3",
+      "name": "Waveon",
+      "url": "https://www.waveon.io/",
+      "description": "노코드 툴 Wave on",
+      "categories": [
+        "tool",
+        "no-code"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_43e98c38a6c67f47395ec5af",
+      "name": "LangChain",
+      "url": "https://www.langchain.com/",
+      "description": "LLM 애플리케이션 개발 프레임워크",
+      "categories": [
+        "ai",
+        "ai-agent"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "O"
+      ],
+      "cost": "free",
+      "openSource": true
+    },
+    {
+      "id": "site_4452215d8fb4abc1a8553b2c",
+      "name": "Awesome Functional Programming",
+      "url": "https://github.com/lucasviola/awesome-functional-programming",
+      "description": "함수형 프로그래밍 자료모음 (Awesome 계열)",
+      "categories": [
+        "collection-of-data",
+        "awesome"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_453cb49f45b2d3e3003607d9",
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/",
+      "description": "AI 모델·데이터셋 허브, 추론 API와 커뮤니티",
+      "categories": [
+        "ai",
+        "ai-api"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "$"
+      ],
+      "cost": "free-and-paid",
+      "openSource": false
+    },
+    {
+      "id": "site_45856e682185485bf4c91726",
+      "name": "Pexels",
+      "url": "https://www.pexels.com/ko-kr",
+      "description": "고화질 무료이미지 모음",
+      "categories": [
+        "tool",
+        "design-tool"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_48057e7d1f346f3b703143a2",
+      "name": "Building Secure & Reliable Systems",
+      "url": "https://google.github.io/building-secure-and-reliable-systems/raw/toc.html",
+      "description": "<Building Secure & Reliable Systems> by Betsy Beyer + 6 people",
+      "categories": [
+        "collection-of-data",
+        "book"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_48154e455e67a52814c75ec7",
+      "name": "PlanetScale",
+      "url": "https://planetscale.com/",
+      "description": "관리형 Postgres와 Vitess/MySQL 데이터베이스 플랫폼",
+      "categories": [
+        "tool",
+        "development-infra"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "$"
+      ],
+      "cost": "paid-or-freemium",
+      "openSource": false
+    },
+    {
+      "id": "site_499707070971becc44ac054c",
+      "name": "My ip address",
+      "url": "https://whatismyipaddress.com/ip-lookup",
+      "description": "IP 주소 조회",
+      "categories": [
+        "tool",
+        "network"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_4ad19cde19a1f697394b0f45",
+      "name": "Awesome Interview Questions",
+      "url": "https://github.com/DopplerHQ/awesome-interview-questions",
+      "description": "인터뷰 질문 자료모음 (Awesome 계열)",
+      "categories": [
+        "collection-of-data",
+        "awesome"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_4c1282370971cad9188c4673",
+      "name": "Claude",
+      "url": "https://claude.ai/",
+      "description": "문서 분석과 코딩 질문에 활용할 수 있는 대화형 AI",
+      "categories": [
+        "recommend",
+        "ai",
+        "conversational-ai"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "$"
+      ],
+      "cost": "free-and-paid",
+      "openSource": false
+    },
+    {
+      "id": "site_4c5273bb295edff739500b66",
+      "name": "요기요 기술블로그",
+      "url": "https://techblog.yogiyo.co.kr/",
+      "description": "요기요 기술블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_4d9002fcd7384555b471ab16",
+      "name": "Adalo",
+      "url": "https://adalo.com/",
+      "description": "노코드 툴 Adalo",
+      "categories": [
+        "tool",
+        "no-code"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_4dbe4fad1c9c63f86279d2e1",
+      "name": "하이퍼커넥트 기술블로그",
+      "url": "https://hyperconnect.github.io/",
+      "description": "하이퍼커넥트 기술블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_4e51d0df2081132d085be071",
+      "name": "Flexbox Froggy",
+      "url": "https://flexboxfroggy.com/#ko",
+      "description": "CSS Flexbox 학습용 게임",
+      "categories": [
+        "document",
+        "design"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_4fa1ea18515943ae83f085b8",
+      "name": "Disquiet",
+      "url": "https://disquiet.io/",
+      "description": "IT 서비스 메이커들의 소셜 네트워크",
+      "categories": [
+        "community",
+        "tech-community"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_516ab21353151ff7d669935f",
+      "name": "RiotGames Tech Blog",
+      "url": "https://technology.riotgames.com/",
+      "description": "라이엇 게임즈 기술블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_51b340fec760f96b0d7149a9",
+      "name": "DSH Studio",
+      "url": "https://github.com/Moresyl/dsh-studio",
+      "description": "DeepSeek Harness를 설치·실행·감독하는 데스크톱 앱. 로컬 앱 실행과 모델의 로컬/오프라인 실행은 다르며 모델 제공자 비용은 별도 확인",
+      "categories": [
+        "ai",
+        "agent-management"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN",
+        "F",
+        "O"
+      ],
+      "cost": "free",
+      "openSource": true
+    },
+    {
+      "id": "site_52699eae2d3031c4d130cb50",
+      "name": "Spring Docs",
+      "url": "https://docs.spring.io/spring-framework/docs/current/reference/html",
+      "description": "Spring 공식 문서",
+      "categories": [
+        "document",
+        "backend-framework"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_52b7b40ca3c85f9da0948e08",
+      "name": "팔만코딩경",
+      "url": "https://80000coding.oopy.io/",
+      "description": "개발 관련 자료모음",
+      "categories": [
+        "collection-of-data"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_53b34e43081a2251c75cc15c",
+      "name": "Django Docs",
+      "url": "https://docs.djangoproject.com/ko/stable/intro/",
+      "description": "Django 안정 버전의 공식 입문 문서",
+      "categories": [
+        "document",
+        "backend-framework"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_5506ef5e4e0a9e925f64bce0",
+      "name": "n8n",
+      "url": "https://n8n.io/",
+      "description": "소스가 공개된 워크플로우 자동화 도구. Sustainable Use License의 사용 제한이 있는 셀프호스팅과 유료 Cloud를 제공하며 OSI 오픈소스와 구분",
+      "categories": [
+        "ai",
+        "ai-agent"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "$"
+      ],
+      "cost": "free-and-paid",
+      "openSource": false
+    },
+    {
+      "id": "site_5555d930d90ea3e65c7835c0",
+      "name": "Slack API",
+      "url": "https://api.slack.com/",
+      "description": "Slack API 공식 문서",
+      "categories": [
+        "document",
+        "api"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_561b4078010f62e3ca19dda6",
+      "name": "GitHub Copilot",
+      "url": "https://github.com/features/copilot",
+      "description": "GitHub에서 개발한 프로그래밍 AI 보조 도구",
+      "categories": [
+        "ai",
+        "ai-dev-tools"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "$"
+      ],
+      "cost": "free-and-paid",
+      "openSource": false
+    },
+    {
+      "id": "site_5765168ebb93e8ba93904048",
+      "name": "Awesome C++",
+      "url": "https://github.com/fffaraz/awesome-cpp",
+      "description": "C++ 관련 자료모음 (Awesome 계열)",
+      "categories": [
+        "collection-of-data",
+        "awesome"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN",
+        "O"
+      ],
+      "cost": "unknown",
+      "openSource": true
+    },
+    {
+      "id": "site_58590b379b765bd31db69b77",
+      "name": "InfoQ",
+      "url": "https://www.infoq.com/",
+      "description": "개발 팀이 새로운 기술과 관행을 채택할 수 있도록 도움",
+      "categories": [
+        "community",
+        "news"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_586a75a5fce7c3111f3f9382",
+      "name": "부스트코스",
+      "url": "https://www.boostcourse.org/",
+      "description": "네이버 커넥트재단의 개발·데이터 분야 온라인 강좌 플랫폼",
+      "categories": [
+        "community",
+        "study"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_5cc07a782374cd4e384f4134",
+      "name": "요즘IT",
+      "url": "https://yozm.wishket.com/magazine/list/develop/",
+      "description": "개발 관련 실무 경험과 기술 콘텐츠",
+      "categories": [
+        "community",
+        "news"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_5d9354f7cb0eac0c0506ad03",
+      "name": "ChatGPT",
+      "url": "https://chatgpt.com/",
+      "description": "AI 기반 프로그래밍 도우미 및 코드 생성",
+      "categories": [
+        "recommend",
+        "ai",
+        "conversational-ai"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "$"
+      ],
+      "cost": "free-and-paid",
+      "openSource": false
+    },
+    {
+      "id": "site_5e9b08d82be684a3f53ff32f",
+      "name": "Cortex",
+      "url": "https://cortexdocs.dev/",
+      "description": "API 명세와 Markdown에서 대화형 문서, 타입이 지정된 SDK 및 MCP Server를 생성하는 오픈소스 CLI",
+      "categories": [
+        "tool",
+        "api-request"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN",
+        "F",
+        "O"
+      ],
+      "cost": "free",
+      "openSource": true
+    },
+    {
+      "id": "site_5f175323d1bb2d188a10cf8c",
+      "name": "우아한테크",
+      "url": "https://www.youtube.com/@woowatech",
+      "description": "우아한형제들의 기술조직 동영상",
+      "categories": [
+        "video"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_5ffdbebc84eef5c9ad0e5f1b",
+      "name": "DaisyUI",
+      "url": "https://daisyui.com/",
+      "description": "Tailwind CSS용 컴포넌트와 테마로 버튼·폼 등 UI를 구성하는 라이브러리",
+      "categories": [
+        "document",
+        "design"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_61a57c93de29a25207803ffa",
+      "name": "Awesome Mcp Servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "description": "MCP Server 관련 자료모음 (Awesome 계열)",
+      "categories": [
+        "collection-of-data",
+        "awesome"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN",
+        "O"
+      ],
+      "cost": "unknown",
+      "openSource": true
+    },
+    {
+      "id": "site_61ba43658ff71fa0ddfbf42b",
+      "name": "Taskade Genesis",
+      "url": "https://www.taskade.com/create",
+      "description": "프롬프트로 앱·에이전트·자동화를 한 워크스페이스에서 만드는 AI 빌더",
+      "categories": [
+        "ai",
+        "ai-dev-tools"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "$"
+      ],
+      "cost": "free-and-paid",
+      "openSource": false
+    },
+    {
+      "id": "site_622c72f1aab3ee6d47b6f0e9",
+      "name": "All Tools Verse",
+      "url": "https://alltoolsverse.com/",
+      "description": "파일·이미지·텍스트·데이터 변환 등 브라우저 도구 모음",
+      "categories": [
+        "tool",
+        "online-utilities"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN",
+        "F"
+      ],
+      "cost": "free",
+      "openSource": false
+    },
+    {
+      "id": "site_6278dd0bf9129060b332b2ab",
+      "name": "기계인간 기억 보조용 위키",
+      "url": "https://johngrib.github.io/",
+      "description": "John Grib의 위키 겸 블로그. 주제별 기록과 연결된 참고 자료를 찾아보는 독자를 위한 자료",
+      "categories": [
+        "blog",
+        "personal-blog"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_64792faf7f1dea5a50919c29",
+      "name": "당근마켓 기술블로그",
+      "url": "https://medium.com/daangn/development/home",
+      "description": "당근마켓 기술블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_65b7ed759943489f31d2e6cb",
+      "name": "속성 스프링 클라우드와 서비스 메시",
+      "url": "https://wikidocs.net/book/18401",
+      "description": "say828의 책 <속성 스프링 클라우드와 서비스 메시>",
+      "categories": [
+        "collection-of-data",
+        "book"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_6723a6af013d653c648f836d",
+      "name": "Devin Desktop (구 Windsurf)",
+      "url": "https://devin.ai/desktop",
+      "description": "IDE에서 여러 코딩 에이전트의 작업과 코드 변경을 관리하는 개발 환경",
+      "categories": [
+        "ai",
+        "ai-dev-tools"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_6731246cc26679f2523ae006",
+      "name": "Mustache",
+      "url": "https://mustache.github.io/",
+      "description": "로직이 없는 템플릿",
+      "categories": [
+        "document",
+        "web"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_6751d818724ffdd34db94495",
+      "name": "LM Studio",
+      "url": "https://lmstudio.ai/",
+      "description": "로컬 컴퓨터에서 대규모 언어 모델을 테스트하고 실행할 수 있는 데스크톱 애플리케이션",
+      "categories": [
+        "ai",
+        "ai-local-tools"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F"
+      ],
+      "cost": "free",
+      "openSource": false
+    },
+    {
+      "id": "site_67e7f515b7bbd756e6ccc121",
+      "name": "DuckDuckGo",
+      "url": "https://duckduckgo.com/",
+      "description": "개인정보 보호 검색 엔진",
+      "categories": [
+        "tool",
+        "search-tool"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_6a850be56515cfc1ffbcc365",
+      "name": "Naver",
+      "url": "https://www.naver.com/",
+      "description": "국내 검색 엔진(네이버)",
+      "categories": [
+        "tool",
+        "search-tool"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_6b4baf31be6dc76d050676fd",
+      "name": "Thymeleaf",
+      "url": "https://www.thymeleaf.org/",
+      "description": "Thymeleaf는 웹 및 독립형 환경 모두를 위한 최신 Server Side Java 템플릿 엔진",
+      "categories": [
+        "document",
+        "web"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_6c342111a5125aa0c9df8a59",
+      "name": "LeetCode",
+      "url": "https://leetcode.com/",
+      "description": "알고리즘 문제 풀이와 기술 면접 대비를 위한 연습 플랫폼",
+      "categories": [
+        "community",
+        "coding-test"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN",
+        "$"
+      ],
+      "cost": "paid-or-freemium",
+      "openSource": false
+    },
+    {
+      "id": "site_6c3d37657607e3c7a5f451c3",
+      "name": "NHN 클라우드 밋업",
+      "url": "https://meetup.nhncloud.com/",
+      "description": "NHN 클라우드 밋업",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_6c547d0b7e0e1c0f5c135506",
+      "name": "The Site Reliability Workbook",
+      "url": "https://sre.google/workbook/table-of-contents/",
+      "description": "<The Site Reliability Workbook> by Betsy Beyer + 4 people",
+      "categories": [
+        "collection-of-data",
+        "book"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_6e465a3b2c5c187631c44490",
+      "name": "Harvard Free Courses",
+      "url": "https://pll.harvard.edu/catalog/free",
+      "description": "하버드 대학교 공개 강의",
+      "categories": [
+        "community",
+        "study"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_708664850dafd1a4d212810b",
+      "name": "Ant Design",
+      "url": "https://ant.design/",
+      "description": "웹, 앱 디자인을 위한 React UI 프레임워크",
+      "categories": [
+        "document",
+        "design"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_70938d8a3e3a79a440b02a0c",
+      "name": "개발자스럽다",
+      "url": "https://blog.gaerae.com/",
+      "description": "블로그와 SNS에서 주기적으로 기술 정보를 찾고 분류하여 가치를 더해 공유",
+      "categories": [
+        "community",
+        "news"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_710b632a7db0df85b95efd7b",
+      "name": "GitHub REST API",
+      "url": "https://docs.github.com/ko/rest",
+      "description": "GitHub REST API 공식 문서",
+      "categories": [
+        "document",
+        "api"
+      ],
+      "languages": [
+        "EN",
+        "KR"
+      ],
+      "rawLabels": [
+        "KR",
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_71b52a74781add20e39b5cd5",
+      "name": "Laravel",
+      "url": "https://laravel.kr/",
+      "description": "laravel korea community 라라벨 코리아",
+      "categories": [
+        "community",
+        "tech-community"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_722f1c5535fdcd19675be752",
+      "name": "Tailwind CSS",
+      "url": "https://tailwindcss.com/",
+      "description": "HTML의 유틸리티 클래스를 조합해 UI를 구성하는 CSS 프레임워크",
+      "categories": [
+        "document",
+        "design"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_7281247c7c93ea5f95ebd4e3",
+      "name": "쏘카 기술블로그",
+      "url": "https://tech.socarcorp.kr/",
+      "description": "쏘카 기술블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_7339a54c20569a5cb39ade32",
+      "name": "Continue",
+      "url": "https://continue.dev/",
+      "description": "VS Code & JetBrains용 오픈소스 AI 코딩 어시스턴트",
+      "categories": [
+        "ai",
+        "ai-dev-tools"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "O"
+      ],
+      "cost": "free",
+      "openSource": true
+    },
+    {
+      "id": "site_73ea06ae358c9a30d6338773",
+      "name": "Google Labs",
+      "url": "https://labs.google/",
+      "description": "Google 실험실",
+      "categories": [
+        "collection-of-data"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_7669c8466200061415830afe",
+      "name": "Canva AI",
+      "url": "https://www.canva.com/ai-image-generator/",
+      "description": "AI 이미지 생성 및 디자인 도구",
+      "categories": [
+        "ai",
+        "ai-design-tools"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "$"
+      ],
+      "cost": "free-and-paid",
+      "openSource": false
+    },
+    {
+      "id": "site_774b469f5ab9c40653c77a7d",
+      "name": "컬리 기술블로그",
+      "url": "https://helloworld.kurly.com/",
+      "description": "컬리 기술블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_7840b105235bdff6eac58994",
+      "name": "Visual Studio",
+      "url": "https://visualstudio.microsoft.com/ko",
+      "description": "Microsoft에서 개발한 통합 개발 환경",
+      "categories": [
+        "tool",
+        "ide",
+        "other-ide-tool"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "$"
+      ],
+      "cost": "paid-or-freemium",
+      "openSource": false
+    },
+    {
+      "id": "site_78ce5f762e801313df2ceae6",
+      "name": "PrivateGPT",
+      "url": "https://github.com/imartinez/privateGPT",
+      "description": "로컬 환경에서 문서와 상호작용할 수 있는 프라이버시 중심의 AI 솔루션",
+      "categories": [
+        "ai",
+        "ai-local-tools"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "O"
+      ],
+      "cost": "free",
+      "openSource": true
+    },
+    {
+      "id": "site_79b90a44f8fcb00c0fda2ba9",
+      "name": "coolors",
+      "url": "https://coolors.co/",
+      "description": "색상추천 도구",
+      "categories": [
+        "tool",
+        "design-tool"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_7a6f8284dc534dc1f38bd58a",
+      "name": "Amazon Alexa Blogs",
+      "url": "https://developer.amazon.com/en-US/blogs/alexa",
+      "description": "아마존 알렉사 블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_7a9fde9586aa7c335cc58a21",
+      "name": "LGTM Gifs",
+      "url": "https://www.lgtmgifs.com/",
+      "description": "Git Commit LGTM GIF 모음",
+      "categories": [
+        "tool",
+        "git-tool"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_7aa56c980a99ef3638584231",
+      "name": "Docker Docs",
+      "url": "https://docs.docker.com/",
+      "description": "Docker 공식 문서",
+      "categories": [
+        "document",
+        "infra"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_7b263d7a92f1a9609d7fb860",
+      "name": "Awesome Web Icons",
+      "url": "https://github.com/vkarampinis/awesome-icons",
+      "description": "웹 아이콘 관련 자료모음 (Awesome 계열)",
+      "categories": [
+        "collection-of-data",
+        "awesome"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN",
+        "O"
+      ],
+      "cost": "unknown",
+      "openSource": true
+    },
+    {
+      "id": "site_7bc4b5a6a09b11171d365952",
+      "name": "The Airbnb Tech Blog",
+      "url": "https://medium.com/airbnb-engineering",
+      "description": "에어비앤비 기술블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_7d31265ec4685ff8d916b95d",
+      "name": "URL Encode and Decode",
+      "url": "https://www.urlencoder.org/",
+      "description": "URL 인코딩·디코딩을 확인하는 개발 보조 도구",
+      "categories": [
+        "tool",
+        "other-tool"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_7df6969b3754737def7edb03",
+      "name": "벨로퍼스",
+      "url": "https://www.velopers.kr/",
+      "description": "기술블로그 모음",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_7ea330ae999c9e2b2bd8f4ae",
+      "name": "DeepSeek",
+      "url": "https://chat.deepseek.com/",
+      "description": "DeepSeek 모델을 이용하는 대화형 AI 서비스",
+      "categories": [
+        "ai",
+        "conversational-ai"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F"
+      ],
+      "cost": "free",
+      "openSource": false
+    },
+    {
+      "id": "site_7eb11b6a6b2250c47387756f",
+      "name": "Lovable",
+      "url": "https://lovable.dev/",
+      "description": "AI로 웹 애플리케이션을 빠르게 만드는 노코드 빌더",
+      "categories": [
+        "ai",
+        "ai-dev-tools"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "$"
+      ],
+      "cost": "free-and-paid",
+      "openSource": false
+    },
+    {
+      "id": "site_7ff2c4c77fbe3ae7a91c3199",
+      "name": "코딩도장",
+      "url": "https://codingdojang.com/",
+      "description": "프로그래밍 문제풀이를 통해서 코딩 실력을 수련",
+      "categories": [
+        "community",
+        "coding-test"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_80fc9f8c216ab83f66acbc76",
+      "name": "WebStorm",
+      "url": "https://www.jetbrains.com/ko-kr/webstorm",
+      "description": "Jetbrains에서 개발한 통합 개발 환경 (JavaScript)",
+      "categories": [
+        "tool",
+        "ide",
+        "jetbrains"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "$"
+      ],
+      "cost": "paid-or-freemium",
+      "openSource": false
+    },
+    {
+      "id": "site_81c4e3e69e4a26063b0bd555",
+      "name": "YYLO",
+      "url": "https://www.yylo.dev/",
+      "description": "코딩 에이전트를 명령줄에서 조율하고 작업별 브랜치·워크트리와 머지 큐를 관리하는 도구",
+      "categories": [
+        "ai",
+        "agent-management"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN",
+        "F",
+        "O"
+      ],
+      "cost": "free",
+      "openSource": true
+    },
+    {
+      "id": "site_82df813edb535084d13d462e",
+      "name": "thenounproject",
+      "url": "https://thenounproject.com/",
+      "description": "ppt용 백터 이미지",
+      "categories": [
+        "tool",
+        "design-tool"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_83e043b92ce7abe7c183cafe",
+      "name": "Jan",
+      "url": "https://jan.ai/",
+      "description": "로컬 모델 실행을 지원하는 대화형 AI 앱. 오프라인 사용에는 모델 준비와 설정 확인 필요",
+      "categories": [
+        "ai",
+        "ai-local-tools"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "O"
+      ],
+      "cost": "free",
+      "openSource": true
+    },
+    {
+      "id": "site_843a793e92e9847ea8924cfa",
+      "name": "Vercel",
+      "url": "https://vercel.com/",
+      "description": "프론트엔드·풀스택 앱 배포 플랫폼",
+      "categories": [
+        "tool",
+        "development-infra"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "$"
+      ],
+      "cost": "free-and-paid",
+      "openSource": false
+    },
+    {
+      "id": "site_85794320b9feb680be86cb4f",
+      "name": "Excalidraw",
+      "url": "https://excalidraw.com/",
+      "description": "간편한 다이어그램 작성 도구",
+      "categories": [
+        "tool",
+        "design-tool"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_85aa8de2718395e7ef9b99bc",
+      "name": "Refactoring.Guru",
+      "url": "https://refactoring.guru/ko/design-patterns",
+      "description": "리팩토링, 디자인 패턴과 관련된 다양한 정보를 담은 문서",
+      "categories": [
+        "document",
+        "other"
+      ],
+      "languages": [
+        "EN",
+        "KR"
+      ],
+      "rawLabels": [
+        "$",
+        "EN",
+        "KR"
+      ],
+      "cost": "paid-or-freemium",
+      "openSource": false
+    },
+    {
+      "id": "site_85d7be03c9d5049a1f3032a7",
+      "name": "Colab",
+      "url": "https://colab.research.google.com/?hl=ko#",
+      "description": "호스팅된 Jupyter 노트북 서비스. 사용 가능한 컴퓨팅 자원과 한도는 플랜·가용성에 따라 달라짐",
+      "categories": [
+        "tool",
+        "ide",
+        "other-ide-tool"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_86e7d7fc8c8bb4ba3190fcf3",
+      "name": "Google AI Studio",
+      "url": "https://aistudio.google.com/",
+      "description": "Gemini API를 실험하고 프로토타입을 빠르게 만드는 개발 환경",
+      "categories": [
+        "ai",
+        "ai-api"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F"
+      ],
+      "cost": "free",
+      "openSource": false
+    },
+    {
+      "id": "site_877dd23fbcca6368ad3fd3b2",
+      "name": "Opentutorials",
+      "url": "https://opentutorials.org/",
+      "description": "생활코딩 등 프로그래밍 입문 학습 콘텐츠를 공유하는 플랫폼",
+      "categories": [
+        "community",
+        "study"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_87a7e34ef4591884f7afa3c6",
+      "name": "Python 3 Docs",
+      "url": "https://docs.python.org/ko/3",
+      "description": "Python3 공식 문서",
+      "categories": [
+        "document",
+        "programming-language"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_87e3ded4aa722fb3ec57fa2a",
+      "name": "안영회 습작",
+      "url": "https://brunch.co.kr/@graypool",
+      "description": "소프트웨어 개발과 일하는 방식에 관한 글을 찾아보는 브런치",
+      "categories": [
+        "blog",
+        "personal-blog"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_87f92f6fd7a421da2207272d",
+      "name": "Codeforces",
+      "url": "https://codeforces.com/",
+      "description": "Codeforces, 프로그래밍 대회 및 경연대회, 프로그래밍 커뮤니티",
+      "categories": [
+        "community",
+        "coding-test"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_88a8172343f1d02016f584f1",
+      "name": "재그지그의 개발 블로그",
+      "url": "https://wormwlrm.github.io/",
+      "description": "재그지그의 개발 경험 기록을 찾아보는 독자를 위한 블로그",
+      "categories": [
+        "blog",
+        "personal-blog"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_89ce8b4808f199e2d135ec27",
+      "name": "Awesome Empirical Software Engineering",
+      "url": "https://github.com/dspinellis/awesome-msr",
+      "description": "경험적 소프트웨어 엔지니어링 자료모음 (Awesome 계열)",
+      "categories": [
+        "collection-of-data",
+        "awesome"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_8a0dfd09d444f0726ce9c248",
+      "name": "MDN Docs",
+      "url": "https://developer.mozilla.org/ko/docs/Web/HTML",
+      "description": "MDN Web Docs 사이트는 웹 사이트와 프로그레시브 웹 앱 모두를 위한 HTML, CSS 및 API를 포함한 Open Web 기술에 대한 정보를 제공",
+      "categories": [
+        "document",
+        "web"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_8b41415a2fce953b6eb29b80",
+      "name": "WebTerm Learn",
+      "url": "https://learn.webterm.app/en/courses",
+      "description": "브라우저 속 모의 터미널에서 직접 실습하며 Linux, Git, Vim, tmux를 배우는 무료 학습 사이트 (첫 레슨 이후 무료 계정 필요)",
+      "categories": [
+        "community",
+        "study"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN",
+        "F"
+      ],
+      "cost": "free",
+      "openSource": false
+    },
+    {
+      "id": "site_8b86069deac79a41323f6f72",
+      "name": "Let's Encrypt",
+      "url": "https://letsencrypt.org/ko/",
+      "description": "무료 SSL/TLS 인증서 발급 사이트",
+      "categories": [
+        "tool",
+        "other-tool"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_8bd1014872727381a44ecf13",
+      "name": "IntelliJ IDEA",
+      "url": "https://www.jetbrains.com/ko-kr/idea",
+      "description": "Jetbrains에서 개발한 통합 개발 환경 (Java, Kotlin)",
+      "categories": [
+        "tool",
+        "ide",
+        "jetbrains"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "$"
+      ],
+      "cost": "paid-or-freemium",
+      "openSource": false
+    },
+    {
+      "id": "site_8bd10dd31c0023b5df06a10b",
+      "name": "RustRover",
+      "url": "https://www.jetbrains.com/ko-kr/rust",
+      "description": "Jetbrains에서 개발한 통합 개발 환경 (Rust)",
+      "categories": [
+        "tool",
+        "ide",
+        "jetbrains"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "$"
+      ],
+      "cost": "paid-or-freemium",
+      "openSource": false
+    },
+    {
+      "id": "site_8be445c790595529ddf3b0cf",
+      "name": "NCP (Naver Cloud Platform) Guide",
+      "url": "https://guide.ncloud-docs.com/docs/home",
+      "description": "Naver Cloud Platform 사용 가이드",
+      "categories": [
+        "document",
+        "public-cloud"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_8cb19452b5dde577dce4c73f",
+      "name": "DataGrip",
+      "url": "https://www.jetbrains.com/ko-kr/datagrip",
+      "description": "Jetbrains에서 개발한 통합 개발 환경 (SQL)",
+      "categories": [
+        "tool",
+        "ide",
+        "jetbrains"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "$"
+      ],
+      "cost": "paid-or-freemium",
+      "openSource": false
+    },
+    {
+      "id": "site_8dbfcf37decaf4d99116a831",
+      "name": "Kotlin Docs",
+      "url": "https://kotlinlang.org/docs/home.html",
+      "description": "코틀린 공식 문서",
+      "categories": [
+        "document",
+        "programming-language"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_8ee380875f00a252de61b4e9",
+      "name": "Javascript.info",
+      "url": "https://ko.javascript.info/",
+      "description": "모던 자바스크립트 튜토리얼은 클로저, 문서 객체 모델, 이벤트, 객체 지향 프로그래밍 등의 다양한 주제에 대한 설명과 예시, 과제를 담고 있음",
+      "categories": [
+        "document",
+        "web"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_8f6dd1dbb34797e339f90666",
+      "name": "Eclipse",
+      "url": "https://www.eclipse.org/",
+      "description": "자바 기반의 통합 개발 환경",
+      "categories": [
+        "tool",
+        "ide",
+        "other-ide-tool"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_8ffd62c8aa789ede4ee4d21d",
+      "name": "Awesome Generative AI",
+      "url": "https://github.com/steven2358/awesome-generative-ai",
+      "description": "생성형 AI 자료모음 (Awesome 계열)",
+      "categories": [
+        "collection-of-data",
+        "awesome"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_914d659219e96fb20704e512",
+      "name": "Awesome Vue",
+      "url": "https://github.com/vuejs/awesome-vue",
+      "description": "Vue.js 관련 자료모음 (Awesome 계열)",
+      "categories": [
+        "collection-of-data",
+        "awesome"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN",
+        "O"
+      ],
+      "cost": "unknown",
+      "openSource": true
+    },
+    {
+      "id": "site_932b9e6bf4079a346381ee5a",
+      "name": "LlamaIndex",
+      "url": "https://www.llamaindex.ai/",
+      "description": "LLM과 데이터를 연결하는 RAG 프레임워크",
+      "categories": [
+        "ai",
+        "ai-agent"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "O"
+      ],
+      "cost": "free",
+      "openSource": true
+    },
+    {
+      "id": "site_935a44a5d1cb030a36d188b1",
+      "name": "GeekNews",
+      "url": "https://news.hada.io/",
+      "description": "개발 뉴스, 기술 관련 새소식, 스타트업 정보와 노하우, 세상의 재미난 것들을 좋아하는 사람들을 위한 뉴스 사이트. 이메일 뉴스레터/트위터/슬랙 봇으로 구독 가능",
+      "categories": [
+        "community",
+        "news"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_93fd8520b81310bedce92349",
+      "name": "Swexpertacademy",
+      "url": "https://swexpertacademy.com/main/learn/course/courseList.do",
+      "description": "SW 프로그래밍 역량 강화에 도움이 되는 다양한 학습 컨텐츠를 확인",
+      "categories": [
+        "community",
+        "education-community"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_946708b7690617ff1ccb6f8c",
+      "name": "React Native Docs",
+      "url": "https://reactnative.dev/docs/getting-started",
+      "description": "React Native 공식 문서",
+      "categories": [
+        "document",
+        "mobile"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_94c5655da22a143da4d63cdd",
+      "name": "Git",
+      "url": "https://git-scm.com/",
+      "description": "Git 공식 문서",
+      "categories": [
+        "document",
+        "git"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_953ba0b2d5d9d02b5f4ed8a1",
+      "name": "Next.js Docs",
+      "url": "https://nextjs.org/docs/getting-started",
+      "description": "Next.js 공식 문서",
+      "categories": [
+        "document",
+        "javascript-framework"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_99369c502acd895fce4a9961",
+      "name": "Figma AI",
+      "url": "https://www.figma.com/ai/",
+      "description": "Figma의 AI 기반 디자인 도구",
+      "categories": [
+        "ai",
+        "ai-design-tools"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "$"
+      ],
+      "cost": "paid-or-freemium",
+      "openSource": false
+    },
+    {
+      "id": "site_9bb71ccc0836d4c4d28b0187",
+      "name": "Flowbite",
+      "url": "https://flowbite.com/",
+      "description": "Tailwind CSS 기반 UI 컴포넌트 라이브러리",
+      "categories": [
+        "document",
+        "design"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_9c0c1c916cdbef732de4565c",
+      "name": "Groq",
+      "url": "https://console.groq.com/",
+      "description": "LLM 추론 API 플랫폼",
+      "categories": [
+        "ai",
+        "ai-api"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "$"
+      ],
+      "cost": "free-and-paid",
+      "openSource": false
+    },
+    {
+      "id": "site_9c2fc9400582a47a2b4e6044",
+      "name": "GCP Documentation",
+      "url": "https://cloud.google.com/docs?hl=ko",
+      "description": "GCP 공식문서",
+      "categories": [
+        "document",
+        "public-cloud"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_9ccbb75bf47f64b753066916",
+      "name": "Linkedin Engineering Blog",
+      "url": "https://www.linkedin.com/blog/engineering",
+      "description": "링크드인 엔지니어링 블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_9ef555cc18d87b7cb4841bfc",
+      "name": "Xcode",
+      "url": "https://developer.apple.com/kr/xcode/",
+      "description": "Apple에서 개발한 통합 개발 환경",
+      "categories": [
+        "tool",
+        "ide",
+        "other-ide-tool"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_9f79c3f8f1a759944b6bd94b",
+      "name": "개발 관련 유튜브 모음",
+      "url": "https://mp4.okdevtv.com/",
+      "description": "OKdevTV 국내 개발 관련 유튜버 영상 모음",
+      "categories": [
+        "video"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_9fb8e6d8352403581acad855",
+      "name": "카카오 기술블로그",
+      "url": "https://tech.kakao.com/blog/",
+      "description": "카카오 기술블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_9fd3a2e650ef47db95db9753",
+      "name": "Argo CD Docs",
+      "url": "https://argo-cd.readthedocs.io/en/stable/",
+      "description": "Argo CD 공식 문서",
+      "categories": [
+        "document",
+        "infra"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_a021e81d65b027b31cd1de65",
+      "name": "Coderanch",
+      "url": "https://coderanch.com/",
+      "description": "프로그래밍 질문과 토론을 위한 포럼",
+      "categories": [
+        "community",
+        "tech-community"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_a25f149fd42736fad1837785",
+      "name": "AutoGen",
+      "url": "https://microsoft.github.io/autogen",
+      "description": "Microsoft의 멀티 에이전트 대화 프레임워크",
+      "categories": [
+        "ai",
+        "ai-agent"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "O"
+      ],
+      "cost": "free",
+      "openSource": true
+    },
+    {
+      "id": "site_a2ba5e3726374205a2d790f5",
+      "name": "Discord API",
+      "url": "https://discord.com/developers/docs/intro",
+      "description": "Discord API 공식 문서",
+      "categories": [
+        "document",
+        "api"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_a3127ac3f1e2350d0e751ea2",
+      "name": "JSCODE",
+      "url": "https://www.jscode.kr/",
+      "description": "개발 멘토링 프로그램",
+      "categories": [
+        "community",
+        "education-community"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_a3540edc951f161e83c0b372",
+      "name": "Zoom Developer Blog",
+      "url": "https://medium.com/zoom-developer-blog",
+      "description": "줌 개발자 블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_a3de915cfc62d5bb6919252e",
+      "name": "Hashnode",
+      "url": "https://hashnode.com/",
+      "description": "Hashnode는 무료 개발자 블로그 플랫폼으로 자신의 도메인에 기사를 게시할 수 있으며 글로벌 개발자 커뮤니티와 연결될 수 있도록 도와줌",
+      "categories": [
+        "community",
+        "tech-community"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_a6e50d0d244fbd2aa3dbba21",
+      "name": "Vercel AI SDK",
+      "url": "https://sdk.vercel.ai/",
+      "description": "Next.js 등 웹 앱에 AI 기능을 빠르게 통합하는 SDK",
+      "categories": [
+        "ai",
+        "ai-agent"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "O"
+      ],
+      "cost": "free",
+      "openSource": true
+    },
+    {
+      "id": "site_a6f4a48a6de9c1cf59201162",
+      "name": "Github Engineering",
+      "url": "https://github.blog/engineering/",
+      "description": "Github 엔지니어링 블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_a706e45651e5080cb4ed6968",
+      "name": "Inflearn",
+      "url": "https://www.inflearn.com/",
+      "description": "개발·데이터 등 실무 강의와 강의별 질문 게시판을 제공하는 학습 플랫폼",
+      "categories": [
+        "community",
+        "education-community"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "$",
+        "KR"
+      ],
+      "cost": "paid-or-freemium",
+      "openSource": false
+    },
+    {
+      "id": "site_a792d6e9873c2864e12c3f50",
+      "name": "Algovis",
+      "url": "https://github.com/enjalot/algovis",
+      "description": "알고리즘 시각화 자료모음 (Awesome 계열)",
+      "categories": [
+        "collection-of-data",
+        "awesome"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN",
+        "O"
+      ],
+      "cost": "unknown",
+      "openSource": true
+    },
+    {
+      "id": "site_a92754c2312abbf75044c598",
+      "name": "CLion",
+      "url": "https://www.jetbrains.com/ko-kr/clion",
+      "description": "Jetbrains에서 개발한 통합 개발 환경 (C, C++)",
+      "categories": [
+        "tool",
+        "ide",
+        "jetbrains"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "$"
+      ],
+      "cost": "paid-or-freemium",
+      "openSource": false
+    },
+    {
+      "id": "site_a9d1304d7ed8cf3169d84321",
+      "name": "Awesome Data Science",
+      "url": "https://github.com/academic/awesome-datascience",
+      "description": "데이터 사이언스 자료모음 (Awesome 계열)",
+      "categories": [
+        "collection-of-data",
+        "awesome"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_aa1786bb9025867eec7132b6",
+      "name": "Mistral AI",
+      "url": "https://mistral.ai/",
+      "description": "LLM 모델과 API 제공. 모델별 라이선스 확인 필요",
+      "categories": [
+        "ai",
+        "ai-api"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "$"
+      ],
+      "cost": "free-and-paid",
+      "openSource": false
+    },
+    {
+      "id": "site_aac597fc68a65138d5a08ef6",
+      "name": "Awesome",
+      "url": "https://github.com/sindresorhus/awesome",
+      "description": "프로그래밍 관련 자료모음",
+      "categories": [
+        "collection-of-data",
+        "awesome"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN",
+        "O"
+      ],
+      "cost": "unknown",
+      "openSource": true
+    },
+    {
+      "id": "site_aaf72f6712019712ca29f561",
+      "name": "Awesome GeoJson",
+      "url": "https://github.com/tmcw/awesome-geojson",
+      "description": "Geo JSON 자료모음 (Awesome 계열)",
+      "categories": [
+        "collection-of-data",
+        "awesome"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_ab98adeb7694ac98f1f9c6ab",
+      "name": "Awesome Bootstrap",
+      "url": "https://github.com/awesome-bootstrap-org/awesome-bootstrap",
+      "description": "Bootstrap 관련 자료모음 (Awesome 계열)",
+      "categories": [
+        "collection-of-data",
+        "awesome"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN",
+        "O"
+      ],
+      "cost": "unknown",
+      "openSource": true
+    },
+    {
+      "id": "site_aba62af2e748591176c9e4a1",
+      "name": "ZDNet",
+      "url": "https://www.zdnet.com/",
+      "description": "IT 제품·산업 뉴스와 분석",
+      "categories": [
+        "community",
+        "news"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_ac97bb721e69bd668952d6b1",
+      "name": "Elasticsearch Docs",
+      "url": "https://www.elastic.co/guide/en/elasticsearch/reference/current/docs.html#docs",
+      "description": "Elasticsearch 공식 문서",
+      "categories": [
+        "document",
+        "search"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_acd4162607b6413af344634a",
+      "name": "Awesome Courses",
+      "url": "https://github.com/prakhar1989/awesome-courses",
+      "description": "무료 CS 강좌 모음 (Awesome 계열)",
+      "categories": [
+        "collection-of-data",
+        "awesome"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_ad6788349702e10b2317a27f",
+      "name": "Awesome Docker",
+      "url": "https://github.com/veggiemonk/awesome-docker",
+      "description": "도커 자료모음 (Awesome 계열)",
+      "categories": [
+        "collection-of-data",
+        "awesome"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_adcab3e86f376abc96f498c3",
+      "name": "Jsonformatter",
+      "url": "https://jsonformatter.curiousconcept.com/",
+      "description": "JSON 포맷 도구",
+      "categories": [
+        "tool",
+        "json"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_ae3673f96df6cf10afd1efd2",
+      "name": "Headless UI",
+      "url": "https://headlessui.com/",
+      "description": "접근성을 고려한 스타일 없는 UI 컴포넌트 모음",
+      "categories": [
+        "document",
+        "design"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_aec16d8969ede5aefc621602",
+      "name": "Flutter Docs",
+      "url": "https://docs.flutter.dev/",
+      "description": "Flutter 설치·학습·개발을 위한 현행 공식 문서",
+      "categories": [
+        "document",
+        "mobile"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_aec2fe40b19b8b40dae6c90d",
+      "name": "Codecademy",
+      "url": "https://www.codecademy.com/",
+      "description": "브라우저 실습과 학습 경로를 제공하는 프로그래밍 교육 플랫폼",
+      "categories": [
+        "community",
+        "study"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_aed0418619153c24d99f079b",
+      "name": "Figma",
+      "url": "https://figma.com/",
+      "description": "UI/UX 디자인 및 프로토타이핑 도구",
+      "categories": [
+        "tool",
+        "design-tool"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "$"
+      ],
+      "cost": "paid-or-freemium",
+      "openSource": false
+    },
+    {
+      "id": "site_af7aa76e9c155f2a183de5dc",
+      "name": "Google Developers Docs",
+      "url": "https://developers.google.com/",
+      "description": "구글 개발자 공식 문서",
+      "categories": [
+        "document",
+        "other"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_af7b28c6351f16704318d20f",
+      "name": "Okky",
+      "url": "https://okky.kr/",
+      "description": "개발 질문과 경험을 공유하는 커뮤니티",
+      "categories": [
+        "community",
+        "tech-community"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_afb6ec30db94bcf4316e9522",
+      "name": "Grab Tech",
+      "url": "https://engineering.grab.com/",
+      "description": "Grab 엔지니어링 블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_b00beaae7c58ed7e7490a561",
+      "name": "Nutilz",
+      "url": "https://nutilz.com/",
+      "description": "정규식 테스트·JSON 포맷 등 개발 보조 유틸리티. 도구에 따라 서버 처리가 포함되므로 업로드 여부 확인 필요",
+      "categories": [
+        "tool",
+        "online-utilities"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN",
+        "F"
+      ],
+      "cost": "free",
+      "openSource": false
+    },
+    {
+      "id": "site_b011df3387177b4b1bd808bf",
+      "name": "GPT4All",
+      "url": "https://gpt4all.io/",
+      "description": "로컬 환경에서 실행되는 오픈소스 대화형 AI 생태계로, 개인정보 보호에 중점을 둠",
+      "categories": [
+        "ai",
+        "ai-local-tools"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "O"
+      ],
+      "cost": "free",
+      "openSource": true
+    },
+    {
+      "id": "site_b208d0f2ab53c41acfd04b1b",
+      "name": "Poe",
+      "url": "https://poe.com/",
+      "description": "Quora의 다양한 AI 모델을 한 곳에서 사용할 수 있는 플랫폼",
+      "categories": [
+        "ai",
+        "conversational-ai"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "$"
+      ],
+      "cost": "free-and-paid",
+      "openSource": false
+    },
+    {
+      "id": "site_b2aeb96d5fed1ee7551865c0",
+      "name": "colorhunt",
+      "url": "https://colorhunt.co/",
+      "description": "색상추천 도구",
+      "categories": [
+        "tool",
+        "design-tool"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_b2c02bfdc70bab03c8d90c10",
+      "name": "Awesome CodeRabbit",
+      "url": "https://github.com/coderabbitai/awesome-coderabbit",
+      "description": "코드래빗 자료모음 (Awesome 계열)",
+      "categories": [
+        "collection-of-data",
+        "awesome"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_b2f30b8ca0dd850e32cf1fa9",
+      "name": "Techcrunch",
+      "url": "https://techcrunch.com/",
+      "description": "TechCrunch. 기술, 스타트업, 벤처캐피탈 펀딩, 실리콘밸리 사업 보고",
+      "categories": [
+        "community",
+        "news"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_b36e44218fe3bf7a2cec6455",
+      "name": "Awesome Fonts",
+      "url": "https://github.com/brabadu/awesome-fonts",
+      "description": "폰트 관련 자료모음 (Awesome 계열)",
+      "categories": [
+        "collection-of-data",
+        "awesome"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN",
+        "O"
+      ],
+      "cost": "unknown",
+      "openSource": true
+    },
+    {
+      "id": "site_b3a67370836804181ae491ce",
+      "name": "Anthropic Developer Docs",
+      "url": "https://docs.anthropic.com/en/docs/initial-setup",
+      "description": "Claude API 문서로, Claude AI를 애플리케이션에 통합하는 방법을 제공",
+      "categories": [
+        "ai",
+        "ai-api"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "$"
+      ],
+      "cost": "free-and-paid",
+      "openSource": false
+    },
+    {
+      "id": "site_b4679ea7d70abb56ef124563",
+      "name": "Context Engineering for Large Language Models",
+      "url": "https://arxiv.org/pdf/2507.13334",
+      "description": "Context Engineering for Large Language Models",
+      "categories": [
+        "collection-of-data",
+        "thesis"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_b673c23ce13f7963445dc04c",
+      "name": "removebg",
+      "url": "https://www.remove.bg/ko",
+      "description": "간편한 누끼 제거 도구",
+      "categories": [
+        "tool",
+        "design-tool"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_b693d00e6ee681a4dbb765a6",
+      "name": "Careerly",
+      "url": "https://careerly.co.kr/",
+      "description": "개발 관련 콘텐츠 공유와 Q&A 커뮤니티",
+      "categories": [
+        "community",
+        "tech-community"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_b7198706b585cecc7383d88a",
+      "name": "기억보단 기록을",
+      "url": "https://jojoldu.tistory.com/",
+      "description": "jojoldu의 개발 기록. 개별 글의 문제 상황과 해결 과정을 참고하려는 독자를 위한 블로그",
+      "categories": [
+        "blog",
+        "personal-blog"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_b829fabaec241d96f7ebabda",
+      "name": "Draw.io",
+      "url": "https://app.diagrams.net/",
+      "description": "다이어그램 작성 도구",
+      "categories": [
+        "tool",
+        "design-tool"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_b8dc840fe34230025b1f431b",
+      "name": "Replit",
+      "url": "https://replit.com/",
+      "description": "AI 기반 브라우저 개발 환경으로 코딩, 실행, 배포까지 한 곳에서",
+      "categories": [
+        "ai",
+        "ai-dev-tools"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "$"
+      ],
+      "cost": "free-and-paid",
+      "openSource": false
+    },
+    {
+      "id": "site_b996c7201a1d3e0e74d77014",
+      "name": "NEXTSTEP",
+      "url": "https://edu.nextstep.camp/",
+      "description": "NEXTSTEP에서 개발자들을 위해 디자인된 강의를 수강",
+      "categories": [
+        "community",
+        "education-community"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "$"
+      ],
+      "cost": "paid-or-freemium",
+      "openSource": false
+    },
+    {
+      "id": "site_b9fd71f9db04bb8ae10535f0",
+      "name": "Velog",
+      "url": "https://velog.io/",
+      "description": "개발자들을 위한 블로그 서비스",
+      "categories": [
+        "community",
+        "tech-community"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_baa04a00b83e15b9a7d3cb46",
+      "name": "GoLand",
+      "url": "https://www.jetbrains.com/ko-kr/go",
+      "description": "Jetbrains에서 개발한 통합 개발 환경 (Go)",
+      "categories": [
+        "tool",
+        "ide",
+        "jetbrains"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "$"
+      ],
+      "cost": "paid-or-freemium",
+      "openSource": false
+    },
+    {
+      "id": "site_bbba856f6f33851163b0e4b3",
+      "name": "Cursor",
+      "url": "https://cursor.com/",
+      "description": "AI 기반 코드 에디터",
+      "categories": [
+        "recommend",
+        "ai",
+        "ai-dev-tools",
+        "tool",
+        "ide",
+        "other-ide-tool"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "$"
+      ],
+      "cost": "free-and-paid",
+      "openSource": false
+    },
+    {
+      "id": "site_bbd092581e46db42ab987f42",
+      "name": "Dropbox Tech Blog",
+      "url": "https://dropbox.tech/",
+      "description": "Dropbox 기술블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_bc6e60a60a317b00dd9489bc",
+      "name": "msaez",
+      "url": "https://www.msaez.io/",
+      "description": "마이크로서비스 아키텍처 다이어그램 작성 도구",
+      "categories": [
+        "tool",
+        "design-tool"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_bd687578ef655f768fe27654",
+      "name": "Perplexity AI",
+      "url": "https://www.perplexity.ai/",
+      "description": "실시간 정보 검색과 AI 답변을 결합한 검색 엔진",
+      "categories": [
+        "ai",
+        "conversational-ai"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "$"
+      ],
+      "cost": "free-and-paid",
+      "openSource": false
+    },
+    {
+      "id": "site_bdb0bdd9c47f5445d035598e",
+      "name": "freeCodeCamp",
+      "url": "https://www.freecodecamp.org/",
+      "description": "함께 코딩을 배우는 전 세계 사람들의 커뮤니티이자, 다양한 개발 커리큘럼을 제공하는 온라인 무료 학습플랫폼",
+      "categories": [
+        "community",
+        "education-community"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN",
+        "F"
+      ],
+      "cost": "free",
+      "openSource": false
+    },
+    {
+      "id": "site_be07f3bee6b1af08b17e7c40",
+      "name": "A Box of Tools",
+      "url": "https://abox.tools/ko/",
+      "description": "이미지·영상·오디오·PDF·텍스트를 처리하는 브라우저 도구 모음. 코드는 MIT 라이선스로 공개",
+      "categories": [
+        "tool",
+        "online-utilities"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR",
+        "F",
+        "O"
+      ],
+      "cost": "free",
+      "openSource": true
+    },
+    {
+      "id": "site_bf4f8b9fdc54adae56176d39",
+      "name": "토스 기술블로그",
+      "url": "https://toss.tech/tech",
+      "description": "토스 기술블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_bf9594a58f86cc545676f806",
+      "name": "Product Hunt",
+      "url": "https://www.producthunt.com/",
+      "description": "제품 소개와 사용자 의견을 살펴보는 커뮤니티",
+      "categories": [
+        "community",
+        "tech-community"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_bfec30b66e518aa215bf6f82",
+      "name": "Redis Docs",
+      "url": "https://redis.io/docs",
+      "description": "Redis 공식 문서",
+      "categories": [
+        "document",
+        "database"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_c09d8d739a204cb1df883ae9",
+      "name": "Android Studio",
+      "url": "https://developer.android.com/studio?hl=ko",
+      "description": "Google이 배포하는 IntelliJ 플랫폼 기반 Android 개발 IDE",
+      "categories": [
+        "tool",
+        "ide",
+        "other-ide-tool"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F"
+      ],
+      "cost": "free",
+      "openSource": false
+    },
+    {
+      "id": "site_c0b2ac8da5266ccc079709fd",
+      "name": "Awesome Node.js",
+      "url": "https://github.com/sindresorhus/awesome-nodejs",
+      "description": "Node.js 관련 자료모음 (Awesome 계열)",
+      "categories": [
+        "collection-of-data",
+        "awesome"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN",
+        "O"
+      ],
+      "cost": "unknown",
+      "openSource": true
+    },
+    {
+      "id": "site_c1bb57d65458fdc1d29e037d",
+      "name": "GooglePlay Engineering",
+      "url": "https://medium.com/googleplaydev",
+      "description": "구글 플레이 엔지니어링 블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_c25b8c49c0af11f2099dbb0f",
+      "name": "Rider",
+      "url": "https://www.jetbrains.com/ko-kr/rider/",
+      "description": "Jetbrains에서 개발한 통합 개발 환경 (C#, .NET)",
+      "categories": [
+        "tool",
+        "ide",
+        "jetbrains"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "$"
+      ],
+      "cost": "paid-or-freemium",
+      "openSource": false
+    },
+    {
+      "id": "site_c27815cf2d987889c20789c3",
+      "name": "리디 기술블로그",
+      "url": "https://ridicorp.com/story-category/tech-blog/",
+      "description": "리디 기술블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_c2f354d7b0d2fbc909ae33ca",
+      "name": "라인 기술블로그",
+      "url": "https://techblog.lycorp.co.jp/ko",
+      "description": "라인 기술블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_c3f6cb01330331137f8b54fd",
+      "name": "Mistral Le Chat",
+      "url": "https://chat.mistral.ai/",
+      "description": "Mistral AI의 대화형 AI 플랫폼",
+      "categories": [
+        "ai",
+        "conversational-ai"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F"
+      ],
+      "cost": "free",
+      "openSource": false
+    },
+    {
+      "id": "site_c44262d55de7056b32e5ab39",
+      "name": "HTML DOM",
+      "url": "https://phuoc.ng/collection/html-dom",
+      "description": "바닐라 자바스크립트를 사용한 DOM 조작 마스터링",
+      "categories": [
+        "document",
+        "web"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_c4af2c263a8f6eeb5a8a680a",
+      "name": "OrcaReplay",
+      "url": "https://github.com/Continuum-AI-Corp/OrcaReplay",
+      "description": "코딩 에이전트와 모델 제공자 사이의 HTTP 호출을 기록하고 저장된 실행을 재생하는 CLI",
+      "categories": [
+        "ai",
+        "agent-management"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN",
+        "F",
+        "O"
+      ],
+      "cost": "free",
+      "openSource": true
+    },
+    {
+      "id": "site_c6167798a09f5eb779a0d8c9",
+      "name": "Gitmoji",
+      "url": "https://gitmoji.dev/",
+      "description": "깃 커밋 이모지 모음",
+      "categories": [
+        "tool",
+        "git-tool"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_c64aedb998e6285a16ce2eb7",
+      "name": "Vuejs Guide",
+      "url": "https://vuejs.org/guide/introduction.html",
+      "description": "Vuejs 공식 가이드",
+      "categories": [
+        "document",
+        "javascript-framework"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_c6502dd343d62996fd04e231",
+      "name": "Apple Developer",
+      "url": "https://developer.apple.com/",
+      "description": "애플 개발자 블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_c7c8ab9f968ec2ff779327fc",
+      "name": "FastAPI Docs",
+      "url": "https://fastapi.tiangolo.com/ko/",
+      "description": "FastAPI 공식 문서",
+      "categories": [
+        "document",
+        "backend-framework"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_c897ce73fa0580620e724dd6",
+      "name": "Awesome Next.js",
+      "url": "https://github.com/unicodeveloper/awesome-nextjs",
+      "description": "Next.js 관련 자료모음 (Awesome 계열)",
+      "categories": [
+        "collection-of-data",
+        "awesome"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN",
+        "O"
+      ],
+      "cost": "unknown",
+      "openSource": true
+    },
+    {
+      "id": "site_c9bd03b2e2b978ae6f4ebd55",
+      "name": "공공데이터포털",
+      "url": "https://www.data.go.kr/",
+      "description": "대한민국 공공기관이 만들어내는 공적인 정보가 담긴 포털",
+      "categories": [
+        "document",
+        "other"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_ca7741cdfe6e3c5eb26d3e4f",
+      "name": "Fast.com",
+      "url": "https://fast.com/ko/",
+      "description": "넷플릭스에서 제공하는 인터넷 속도 측정기 (브라우저)",
+      "categories": [
+        "tool",
+        "network"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F"
+      ],
+      "cost": "free",
+      "openSource": false
+    },
+    {
+      "id": "site_cadaa6343ad2748670d23121",
+      "name": "GraphQL",
+      "url": "https://graphql.org/learn/",
+      "description": "GraphQL의 쿼리, 스키마와 API 설계를 배우는 공식 문서",
+      "categories": [
+        "document",
+        "backend-framework"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_cb388cbc5886ac6f6120720c",
+      "name": "grep",
+      "url": "https://grep.app/search",
+      "description": "GitHub 공개 저장소 전체를 대상으로 코드를 검색할 수 있는 도구",
+      "categories": [
+        "tool",
+        "git-tool"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "$"
+      ],
+      "cost": "paid-or-freemium",
+      "openSource": false
+    },
+    {
+      "id": "site_cb54df126bff175ee5e5bce0",
+      "name": "Replicate",
+      "url": "https://replicate.com/",
+      "description": "AI 모델을 API로 실행하는 플랫폼",
+      "categories": [
+        "ai",
+        "ai-api"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "$"
+      ],
+      "cost": "paid-or-freemium",
+      "openSource": false
+    },
+    {
+      "id": "site_cc16864ffebc291c28513b9a",
+      "name": "IOS",
+      "url": "https://developer.apple.com/kr",
+      "description": "iOS 공식 개발자 홈페이지",
+      "categories": [
+        "document",
+        "mobile"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_cd560a68164e0221ed2774aa",
+      "name": "Grok",
+      "url": "https://grok.com/",
+      "description": "xAI의 대화형 AI로 실시간 웹 검색과 추론 지원",
+      "categories": [
+        "ai",
+        "conversational-ai"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "$"
+      ],
+      "cost": "free-and-paid",
+      "openSource": false
+    },
+    {
+      "id": "site_cd6914ef92970b0576a9e429",
+      "name": "Google Cloud API",
+      "url": "https://cloud.google.com/apis?hl=ko",
+      "description": "구글 클라우드 API 공식 문서",
+      "categories": [
+        "document",
+        "api"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_cd73693daa287f8c057a9d2c",
+      "name": "Substack",
+      "url": "https://substack.com/home?",
+      "description": "뉴스레터·글 발행과 구독 플랫폼",
+      "categories": [
+        "community",
+        "tech-community"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_cd9e0c222d3ec022ee60bba1",
+      "name": "Roadmap.sh",
+      "url": "https://roadmap.sh/",
+      "description": "개발자 성장을 위한 커뮤니티 기반 로드맵",
+      "categories": [
+        "recommend"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN",
+        "O"
+      ],
+      "cost": "unknown",
+      "openSource": true
+    },
+    {
+      "id": "site_cdcbef7daed0e794a4eefedf",
+      "name": "Spring Initializr",
+      "url": "https://start.spring.io/",
+      "description": "Spring 프로젝트 생성기",
+      "categories": [
+        "tool",
+        "backend-framework-tool"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_cfdc27b64809a16854d6e506",
+      "name": "우아한형제들 기술블로그",
+      "url": "https://techblog.woowahan.com/",
+      "description": "우아한형제들 기술블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_d08fb6636034b01c5e5c0e5d",
+      "name": "Flutterflow",
+      "url": "https://flutterflow.io/",
+      "description": "노코드 툴 Flutterflow",
+      "categories": [
+        "tool",
+        "no-code"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_d0a782202624b237237e03b8",
+      "name": "Debian Docs",
+      "url": "https://www.debian.org/index.ko.html",
+      "description": "Debian 공식 문서",
+      "categories": [
+        "document",
+        "linux"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_d0e196a0c25d35dd0a84593c",
+      "name": "Google",
+      "url": "https://www.google.com/",
+      "description": "검색 엔진",
+      "categories": [
+        "tool",
+        "search-tool"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_d334f1f0a40c70937a63502d",
+      "name": "PyCharm",
+      "url": "https://www.jetbrains.com/ko-kr/pycharm",
+      "description": "JetBrains의 Python 개발 IDE. 데이터 과학·분석 기능과 플랜별 이용 조건은 공식 페이지 참고",
+      "categories": [
+        "tool",
+        "ide",
+        "jetbrains"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "$"
+      ],
+      "cost": "paid-or-freemium",
+      "openSource": false
+    },
+    {
+      "id": "site_d36b2a4de4c3385d74da6b6f",
+      "name": "내도메인.한국",
+      "url": "https://xn--220b31d95hq8o.xn--3e0b707e/",
+      "description": "무료 한국 도메인 발급",
+      "categories": [
+        "tool",
+        "network"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_d39f8dfd35420d41a11284fe",
+      "name": "강남언니 기술블로그",
+      "url": "https://blog.gangnamunni.com/blog/tech/",
+      "description": "강남언니 기술블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_d505e88fe2c2e4a5bd716a31",
+      "name": "Awesome Playwright",
+      "url": "https://github.com/mxschmitt/awesome-playwright",
+      "description": "플레이라이트 자료모음 (Awesome 계열)",
+      "categories": [
+        "collection-of-data",
+        "awesome"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_d7501700d568e005e1048722",
+      "name": "스포카 기술블로그",
+      "url": "https://spoqa.github.io/",
+      "description": "스포카 기술블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_d799af7ef698c0445db53fea",
+      "name": "Node.js Docs",
+      "url": "https://nodejs.org/en/docs",
+      "description": "서버 등 브라우저 밖에서 JavaScript를 실행하는 런타임의 공식 문서",
+      "categories": [
+        "document",
+        "runtime"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_d7adbe568673e57bd88b0baf",
+      "name": "Bootstrap",
+      "url": "https://getbootstrap.com/",
+      "description": "강력하고 확장 가능하며 기능이 풍부한 프론트엔드 툴킷",
+      "categories": [
+        "document",
+        "design"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_d7ec1836f9bcf15a873a43a1",
+      "name": "Awesome Computer Science",
+      "url": "https://github.com/ossu/computer-science",
+      "description": "컴퓨터 사이언스 자료모음 (Awesome 계열)",
+      "categories": [
+        "collection-of-data",
+        "awesome"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_d875f40f208d32b1eb0fe7c5",
+      "name": "PayPal Tech Blog",
+      "url": "https://medium.com/paypal-tech",
+      "description": "페이팔 기술블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_d91fd96fbb65c8bb2c76943a",
+      "name": "쿠팡 기술블로그",
+      "url": "https://medium.com/@coupang-engineering-kr",
+      "description": "쿠팡 기술블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_d96d4ee9837e5ca369cc9520",
+      "name": "DGM",
+      "url": "https://dgm.sh/home",
+      "description": "다이어그램 작성 도구",
+      "categories": [
+        "tool",
+        "design-tool"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_d9768b5192923d8e3e5bb1cd",
+      "name": "Storybook",
+      "url": "https://storybook.js.org/",
+      "description": "UI 컴포넌트를 체계적이고 효율적으로 구축할 수 있는 UI 컴포넌트 개발 도구로, UI 컴포넌트 라이브러리의 문서화 또는 디자인 시스템을 개발하기 위한 플랫폼 등으로 활용",
+      "categories": [
+        "document",
+        "design"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN",
+        "F",
+        "O"
+      ],
+      "cost": "free",
+      "openSource": true
+    },
+    {
+      "id": "site_d99373dc732c3c32dc8f5609",
+      "name": "코딩애플",
+      "url": "https://codingapple.com/",
+      "description": "웹 개발 프로젝트 중심 온라인 프로그래밍 강좌",
+      "categories": [
+        "community",
+        "education-community"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "$",
+        "KR"
+      ],
+      "cost": "paid-or-freemium",
+      "openSource": false
+    },
+    {
+      "id": "site_d9ee8202eefe6098fd56e13f",
+      "name": "Agent QA",
+      "url": "https://github.com/vostride/agent-qa",
+      "description": "자연어 기반 웹·모바일 테스트 도구. FSL-1.1-ALv2의 허용된 사용은 소프트웨어 비용이 없으나 외부 모델·브라우저·기기 서비스 비용은 별도",
+      "categories": [
+        "ai",
+        "ai-dev-tools"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN",
+        "F"
+      ],
+      "cost": "free",
+      "openSource": false
+    },
+    {
+      "id": "site_daaab32c73e74ee924193c2f",
+      "name": "Postman",
+      "url": "https://www.postman.com/downloads",
+      "description": "API 디버그 도구",
+      "categories": [
+        "tool",
+        "api-request"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_dc80e753eff544b76bbd2cb8",
+      "name": "ESLint",
+      "url": "https://eslint.org/",
+      "description": "자바스크립트 린터",
+      "categories": [
+        "tool",
+        "code-formatter"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_dd1b3a12db954b06c77f281d",
+      "name": "StyleX",
+      "url": "https://stylexjs.com/blog/introducing-stylex",
+      "description": "JavaScript에서 스타일을 정의하고 빌드 시 CSS를 생성하는 스타일링 도구",
+      "categories": [
+        "document",
+        "design"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_ddb5b00981eda0c84b105153",
+      "name": "Patterns.dev",
+      "url": "https://www.patterns.dev/",
+      "description": "디자인, 렌더링 및 성능 패턴에 대한 내용을 담은 문서",
+      "categories": [
+        "document",
+        "other"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_dec892a9ddcd8795bdfbe30d",
+      "name": "Awesome JVM",
+      "url": "https://github.com/deephacks/awesome-jvm",
+      "description": "JVM 자료모음 (Awesome 계열)",
+      "categories": [
+        "collection-of-data",
+        "awesome"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_e173c09a7713b5b0a417ec56",
+      "name": "IT Tools",
+      "url": "https://it-tools.tech/",
+      "description": "개발자를 위한 온라인 유틸리티 모음",
+      "categories": [
+        "recommend",
+        "tool",
+        "other-tool"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_e175ed3231b1d1263ef8a950",
+      "name": "Nomadcoders",
+      "url": "https://nomadcoders.co/",
+      "description": "웹 서비스를 따라 만드는 프로젝트 중심 코딩 강의",
+      "categories": [
+        "community",
+        "education-community"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "$",
+        "KR"
+      ],
+      "cost": "paid-or-freemium",
+      "openSource": false
+    },
+    {
+      "id": "site_e19a78ddbcc675b3f9d02fa2",
+      "name": "CodeCrafters",
+      "url": "https://app.codecrafters.io/catalog",
+      "description": "Redis, DNS 서버 등 실제 소프트웨어 재구현 프로젝트를 통해 프로그래밍을 학습할 수 있는 사이트",
+      "categories": [
+        "community",
+        "study"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_e2dbd53fb05612263f8cc13c",
+      "name": "Spring Boot Docs",
+      "url": "https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle",
+      "description": "Spring Boot 공식 문서",
+      "categories": [
+        "document",
+        "backend-framework"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_e2edf7406b9afdc2130bb764",
+      "name": "Cikorea",
+      "url": "https://www.cikorea.net/",
+      "description": "CodeIgniter 한국사용자포럼, PHP Framework",
+      "categories": [
+        "community",
+        "tech-community"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_e457ba40b76e4c195d11fb23",
+      "name": "Fedora Docs",
+      "url": "https://docs.fedoraproject.org/ko/docs",
+      "description": "Fedora 공식 문서",
+      "categories": [
+        "document",
+        "linux"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_e496175ffccef407dfbab692",
+      "name": "AI Router",
+      "url": "https://ai-router.dev/ko",
+      "description": "제3자가 운영하는 OpenAI 호환 API 게이트웨이. 키의 종류와 데이터 처리 정책은 사용 전 별도 확인 필요",
+      "categories": [
+        "ai",
+        "ai-api"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR",
+        "$"
+      ],
+      "cost": "paid-or-freemium",
+      "openSource": false
+    },
+    {
+      "id": "site_e512e355fe7a020bceb61811",
+      "name": "Together AI",
+      "url": "https://www.together.ai/",
+      "description": "오픈소스 AI 모델을 클라우드에서 실행하는 추론 플랫폼",
+      "categories": [
+        "ai",
+        "ai-api"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "$"
+      ],
+      "cost": "free-and-paid",
+      "openSource": false
+    },
+    {
+      "id": "site_e559114825bc6226b0e526b3",
+      "name": "Stripe",
+      "url": "https://stripe.com/",
+      "description": "애플리케이션에 결제 기능을 통합하는 API",
+      "categories": [
+        "tool",
+        "development-infra"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "$"
+      ],
+      "cost": "paid-or-freemium",
+      "openSource": false
+    },
+    {
+      "id": "site_e5739500cd751318e9d766be",
+      "name": "채널톡 기술블로그",
+      "url": "https://channel.io/ko/team/blog/topics/3efe1448",
+      "description": "채널톡 기술블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_e6f517a44b43d6589592157b",
+      "name": "Canva",
+      "url": "https://www.canva.com/ko_kr",
+      "description": "무료 디자인 툴",
+      "categories": [
+        "tool",
+        "design-tool"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_e6fc85da7f353ddb4c72741c",
+      "name": "Awesome Maintainers",
+      "url": "https://github.com/nayafia/awesome-maintainers",
+      "description": "Open source maintainer 모음 (Awesome 계열)",
+      "categories": [
+        "collection-of-data",
+        "awesome"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN",
+        "O"
+      ],
+      "cost": "unknown",
+      "openSource": true
+    },
+    {
+      "id": "site_e7b2a2641f66c0d85eadd055",
+      "name": "Gemini",
+      "url": "https://gemini.google.com/app?hl=ko",
+      "description": "Google의 대화형 AI로 Google 서비스와 통합",
+      "categories": [
+        "recommend",
+        "ai",
+        "conversational-ai"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F"
+      ],
+      "cost": "free",
+      "openSource": false
+    },
+    {
+      "id": "site_e7fdd6324157738c7ef28d3a",
+      "name": "GitDiagram",
+      "url": "https://gitdiagram.com/",
+      "description": "Git Repository 내 파일을 Diagram으로 시각화해주는 도구",
+      "categories": [
+        "tool",
+        "git-tool"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_e814f353c24fd36a0be8fe72",
+      "name": "뱅크샐러드 기술블로그",
+      "url": "https://blog.banksalad.com/tech/",
+      "description": "뱅크샐러드 기술블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_e8a1ec389d0bc3ed9eea3310",
+      "name": "네이버 D2",
+      "url": "https://d2.naver.com/home",
+      "description": "네이버 기술블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_e8b28fd1c0bb081b09921579",
+      "name": "v0.dev",
+      "url": "https://v0.dev/",
+      "description": "Vercel의 AI 기반 UI 컴포넌트 생성 도구",
+      "categories": [
+        "ai",
+        "ai-dev-tools"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F"
+      ],
+      "cost": "free",
+      "openSource": false
+    },
+    {
+      "id": "site_e9cc4e80c981893fdc9e5361",
+      "name": "TCP School (Java)",
+      "url": "https://www.tcpschool.com/java/intro",
+      "description": "예제와 함께 Java 기초 문법을 학습하는 튜토리얼",
+      "categories": [
+        "community",
+        "study"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_e9f2fa9b871e466e9fb3174c",
+      "name": "Awesome Ruby",
+      "url": "https://github.com/markets/awesome-ruby",
+      "description": "Ruby 관련 자료모음 (Awesome 계열)",
+      "categories": [
+        "collection-of-data",
+        "awesome"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN",
+        "O"
+      ],
+      "cost": "unknown",
+      "openSource": true
+    },
+    {
+      "id": "site_ea51d172ae4af170dc43bb9d",
+      "name": "Awesome Angular",
+      "url": "https://github.com/PatrickJS/awesome-angular",
+      "description": "Angular 관련 자료모음 (Awesome 계열)",
+      "categories": [
+        "collection-of-data",
+        "awesome"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN",
+        "O"
+      ],
+      "cost": "unknown",
+      "openSource": true
+    },
+    {
+      "id": "site_ea99b9cca4647d0c0c8c2de8",
+      "name": "ZDNet",
+      "url": "https://zdnet.co.kr/",
+      "description": "국내외 IT 산업 뉴스",
+      "categories": [
+        "community",
+        "news"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_ead9d03d25434288ece2157a",
+      "name": "DeepSeek API",
+      "url": "https://platform.deepseek.com/",
+      "description": "DeepSeek 모델을 애플리케이션에서 호출하는 API",
+      "categories": [
+        "ai",
+        "ai-api"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "$"
+      ],
+      "cost": "free-and-paid",
+      "openSource": false
+    },
+    {
+      "id": "site_eaf0881cdbd68bd1d1f2ebd3",
+      "name": "올리브영 기술블로그",
+      "url": "https://oliveyoung.tech/",
+      "description": "올리브영 기술블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_eb2943a476c4d17de1b9324b",
+      "name": "Awesome Icons",
+      "url": "https://github.com/notlmn/awesome-icons",
+      "description": "아이콘 관련 자료모음 (Awesome 계열)",
+      "categories": [
+        "collection-of-data",
+        "awesome"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN",
+        "O"
+      ],
+      "cost": "unknown",
+      "openSource": true
+    },
+    {
+      "id": "site_eb44d756013f2ff8478af292",
+      "name": "Regexr",
+      "url": "https://regexr.com/",
+      "description": "온라인 정규 표현식 도구",
+      "categories": [
+        "tool",
+        "regex"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_eb83253577d16baad3ba7efd",
+      "name": "Locofy",
+      "url": "https://www.locofy.ai/",
+      "description": "디자인을 프론트엔드 코드로 변환하는 AI 도구",
+      "categories": [
+        "ai",
+        "ai-design-tools"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "$"
+      ],
+      "cost": "free-and-paid",
+      "openSource": false
+    },
+    {
+      "id": "site_ebbb72e8599bd922518d90f8",
+      "name": "플랫팜 기술블로그",
+      "url": "https://medium.com/platfarm/technology/home",
+      "description": "플랫팜 기술블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_ece50f0e084d6ed9c6b9323b",
+      "name": "Ubuntu Korea",
+      "url": "https://ubuntu-kr.org/",
+      "description": "Ubuntu 한국 지역 커뮤니티 (공식 제품 문서와 구분)",
+      "categories": [
+        "community",
+        "tech-community"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_ece7b8b63c9787ad9ded7721",
+      "name": "Spotify Engineering",
+      "url": "https://engineering.atspotify.com/",
+      "description": "Spotify 엔지니어링 블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_ed80430b74b8ba6e8be0a24a",
+      "name": "Rocky Linux Docs",
+      "url": "https://docs.rockylinux.org/",
+      "description": "Rocky Linux 공식 문서",
+      "categories": [
+        "document",
+        "linux"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_ededc2a7c3f0ffb50b4c6b41",
+      "name": "Evans Library",
+      "url": "https://evan-moon.github.io/",
+      "description": "Evan Moon의 개발 기록을 찾아보는 독자를 위한 블로그",
+      "categories": [
+        "blog",
+        "personal-blog"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_f0a6160f0c4639a91ab441ed",
+      "name": "currenjin 공개 아카이브",
+      "url": "https://currenjin.github.io/",
+      "description": "개발 학습 기록과 위키, 리뷰를 모은 공개 아카이브",
+      "categories": [
+        "blog",
+        "personal-blog"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_f198aaf6adaec2e010905042",
+      "name": "Swagger",
+      "url": "https://swagger.io/",
+      "description": "API Documentation 도구",
+      "categories": [
+        "tool",
+        "api-request"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_f35700f02fb6054f58fc5071",
+      "name": "토리맘의 한글라이즈 프로젝트",
+      "url": "https://godekdls.github.io/",
+      "description": "Spring Boot 한글 번역 문서",
+      "categories": [
+        "collection-of-data"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_f48138a2164514b23c33637b",
+      "name": "Learn Git Branching",
+      "url": "https://learngitbranching.js.org/",
+      "description": "시각화된 화면과 함께 튜토리얼과 레벨별 게임을 제공하여 손쉽게 Git을 학습할 수 있는 사이트",
+      "categories": [
+        "community",
+        "study"
+      ],
+      "languages": [
+        "EN",
+        "KR"
+      ],
+      "rawLabels": [
+        "KR",
+        "EN",
+        "F"
+      ],
+      "cost": "free",
+      "openSource": false
+    },
+    {
+      "id": "site_f5a82bc0e33224d2dc9f7974",
+      "name": "Awesome .NET Core",
+      "url": "https://github.com/thangchung/awesome-dotnet-core",
+      "description": ".NET Core 관련 자료모음 (Awesome 계열)",
+      "categories": [
+        "collection-of-data",
+        "awesome"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN",
+        "O"
+      ],
+      "cost": "unknown",
+      "openSource": true
+    },
+    {
+      "id": "site_f5cb490223ad42059a067a8c",
+      "name": "Galileo AI",
+      "url": "https://www.usegalileo.ai/",
+      "description": "텍스트 입력을 활용한 UI 디자인 생성 도구",
+      "categories": [
+        "ai",
+        "ai-design-tools"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "$"
+      ],
+      "cost": "paid-or-freemium",
+      "openSource": false
+    },
+    {
+      "id": "site_f606e86b12eec42822fde8a1",
+      "name": "Vagrant Docs",
+      "url": "https://developer.hashicorp.com/vagrant/docs",
+      "description": "Vagrant 공식 문서",
+      "categories": [
+        "document",
+        "infra"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_f69881bc1dc2ab4338d0e566",
+      "name": "Github App API",
+      "url": "https://docs.github.com/ko/apps",
+      "description": "깃허브 애플리케이션 API 공식 문서",
+      "categories": [
+        "document",
+        "git"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_f6d9d55e515253b97e4fbd60",
+      "name": "Bubble",
+      "url": "https://bubble.io/",
+      "description": "노코드 툴 Bubble",
+      "categories": [
+        "tool",
+        "no-code"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_f715f9956a39212a5ec67d09",
+      "name": "Baekjoon Online Judge",
+      "url": "https://www.acmicpc.net/",
+      "description": "프로그래밍 문제를 풀고 온라인으로 채점받을 수 있는 곳",
+      "categories": [
+        "community",
+        "coding-test"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR",
+        "F"
+      ],
+      "cost": "free",
+      "openSource": false
+    },
+    {
+      "id": "site_f7594b7c730bffba3dbd30c5",
+      "name": "Daum",
+      "url": "https://www.daum.net/",
+      "description": "국내 검색 엔진(다음)",
+      "categories": [
+        "tool",
+        "search-tool"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_f7a59c043f8227ec0e6a6939",
+      "name": "Cohere",
+      "url": "https://cohere.com/",
+      "description": "기업용 LLM API 및 임베딩 모델",
+      "categories": [
+        "ai",
+        "ai-api"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "$"
+      ],
+      "cost": "free-and-paid",
+      "openSource": false
+    },
+    {
+      "id": "site_f825597b16315e52547b904e",
+      "name": "AWS 기술블로그",
+      "url": "https://aws.amazon.com/ko/blogs/korea/",
+      "description": "AWS 한국 블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_f83092337551c66e1a29e5fc",
+      "name": "pixlr",
+      "url": "https://pixlr.com/kr/x/",
+      "description": "포토샵 같은 이미지 편집 도구",
+      "categories": [
+        "tool",
+        "design-tool"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_f9c54fe1585ef1f2a93ec452",
+      "name": "Railway",
+      "url": "https://railway.app/",
+      "description": "애플리케이션과 데이터베이스를 배포하는 클라우드 플랫폼",
+      "categories": [
+        "tool",
+        "development-infra"
+      ],
+      "languages": [],
+      "rawLabels": [
+        "F",
+        "$"
+      ],
+      "cost": "free-and-paid",
+      "openSource": false
+    },
+    {
+      "id": "site_fa54078a9d21d4bd5a107b57",
+      "name": "Spring Guides",
+      "url": "https://github.com/spring-guides",
+      "description": "Spring 튜토리얼 예제",
+      "categories": [
+        "document",
+        "backend-framework"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_fb5bf96a817968dba8482bbc",
+      "name": "Netflix Tech Blog",
+      "url": "https://netflixtechblog.com/",
+      "description": "넷플릭스 기술블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_fb8d8497601cc193c714dca3",
+      "name": "조코딩 JoCoding",
+      "url": "https://www.youtube.com/@jocoding",
+      "description": "프로그래밍에 대해 아무것도 모르더라도 개발이 가능하도록 기초부터 차근차근 쉽게 설명",
+      "categories": [
+        "video"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_fc36a48eb8c568ea8b787f41",
+      "name": "Ubuntu Server Docs",
+      "url": "https://ubuntu.com/server/docs",
+      "description": "Ubuntu 서버 공식 문서 진입점",
+      "categories": [
+        "document",
+        "linux"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_fe29db11e4021929950d8e97",
+      "name": "Programmers",
+      "url": "https://school.programmers.co.kr/learn/challenges",
+      "description": "알고리즘 문제 풀이와 코딩테스트 연습 플랫폼",
+      "categories": [
+        "community",
+        "coding-test"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_feb3b72c7f4e77ba9d76d384",
+      "name": "Google Developer Blog",
+      "url": "https://developers.googleblog.com/",
+      "description": "구글 개발자 블로그",
+      "categories": [
+        "blog",
+        "team-blog"
+      ],
+      "languages": [
+        "EN"
+      ],
+      "rawLabels": [
+        "EN"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_fecf5233543b9d452b04faf6",
+      "name": "GraphQL 한국어 번역",
+      "url": "https://graphql-kr.github.io/",
+      "description": "커뮤니티 번역 문서. 현행 공식 문서와의 차이를 확인하며 참고",
+      "categories": [
+        "document",
+        "backend-framework"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_ff0fd56f8b765a03bbd227b2",
+      "name": "MySQL Docs",
+      "url": "https://dev.mysql.com/doc",
+      "description": "MySQL 공식 문서",
+      "categories": [
+        "document",
+        "database"
+      ],
+      "languages": [],
+      "rawLabels": [],
+      "cost": "unknown",
+      "openSource": false
+    },
+    {
+      "id": "site_ffc7614d3b249f4cf14ed02f",
+      "name": "더북(TheBook)",
+      "url": "https://thebook.io/",
+      "description": "(주)도서출판 길벗에서 제공하는 IT 도서 열람 서비스",
+      "categories": [
+        "community",
+        "study"
+      ],
+      "languages": [
+        "KR"
+      ],
+      "rawLabels": [
+        "KR"
+      ],
+      "cost": "unknown",
+      "openSource": false
+    }
+  ],
+  "stats": {
+    "entries": 376,
+    "uniqueSites": 370,
+    "categoryCount": 57
+  }
+}

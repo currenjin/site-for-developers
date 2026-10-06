@@ -2,3 +2,7 @@
 .vs/
 .vscode/
 .DS_Store
+
+# Local MCP dependencies and pack artifacts
+mcp/node_modules/
+mcp/*.tgz

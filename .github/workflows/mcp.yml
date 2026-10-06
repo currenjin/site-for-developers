@@ -1,0 +1,26 @@
+name: Read-only MCP
+on:
+  push:
+    paths: ['README.md', 'mcp/**', 'docs/MCP.md', '.github/workflows/mcp.yml', '.dockerignore']
+  pull_request:
+    paths: ['README.md', 'mcp/**', 'docs/MCP.md', '.github/workflows/mcp.yml', '.dockerignore']
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: mcp
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+          cache-dependency-path: mcp/package-lock.json
+      - run: npm ci --ignore-scripts
+      - run: npm run catalog:check
+      - run: npm run catalog:generate && git diff --exit-code -- catalog.json
+      - run: npm test
+      - run: npm audit --omit=dev
