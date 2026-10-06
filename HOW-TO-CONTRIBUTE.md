@@ -75,4 +75,21 @@ git push origin docs/update-links
 - 새로운 사이트 제안: `🔗 사이트 / 도구 추가 제안`
 - 오류·오타·죽은 링크: `🐛 버그 신고`
 
+## 함께 알리기 (선택)
+
+이 목록이 유용하다면 [Star로 저장](https://github.com/currenjin/site-for-developers)하고, 필요한 다른 개발자에게 소개해주세요. 머지된 기여는 본인의 블로그·프로젝트·SNS에서 해당 PR이나 목록 링크와 함께 공유하셔도 좋습니다.
+
+Star와 공유는 선택이며 PR 검토·머지 조건이 아닙니다. AI 사용 여부나 Star 여부가 아니라 제출한 자료의 품질로 검토합니다.
+
+<details>
+<summary>관리자용: 머지 후 감사 댓글 예시</summary>
+
+실제로 머지한 PR에만 사용하며, 기여 내용에 맞게 감사 인사를 조정합니다. 보완 요청·거절 댓글에는 Star 안내를 넣지 않고 같은 PR에 반복해서 요청하지 않습니다.
+
+> 기여해주셔서 감사합니다! 변경 사항을 머지했습니다. 이 목록이 유용하다면 Star로 저장해두시고, 필요한 다른 개발자에게도 소개해주세요. 이번 기여도 해당 PR 링크와 함께 자유롭게 공유하셔도 좋습니다.
+
+> Thank you for contributing! Your changes have been merged. If this list is useful to you, consider starring it for future reference and sharing it with other developers. You're also welcome to share your contribution with a link to this PR.
+
+</details>
+
 감사합니다 🙌

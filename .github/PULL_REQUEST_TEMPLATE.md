@@ -45,3 +45,9 @@
 **관련 이슈:**
 
 **보류한 링크 / 추가 의견:**
+
+---
+
+기여해주셔서 감사합니다! 목록이 유용하다면 [Star로 저장](https://github.com/currenjin/site-for-developers)하거나 다른 개발자에게 소개해주세요. Star·공유는 선택이며 검토·머지 조건이 아닙니다.
+
+Thank you for contributing! If this list is useful, consider starring or sharing it. Both are optional and do not affect review or merge decisions.
