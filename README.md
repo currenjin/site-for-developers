@@ -533,6 +533,7 @@
     - [Awesome Deep Learning <sub>EN</sub>](https://github.com/ChristosChristofidis/awesome-deep-learning) - 딥 러닝 자료모음 (Awesome 계열)
     - [Awesome GeoJson <sub>EN</sub>](https://github.com/tmcw/awesome-geojson) - Geo JSON 자료모음 (Awesome 계열)
     - [Awesome Microservices <sub>EN</sub>](https://github.com/mfornos/awesome-microservices) - 마이크로서비스 자료모음 (Awesome 계열)
+    - [Awesome DevTools KO <sub>KR, O</sub>](https://github.com/BraveCat79/awesome-devtools-ko) - 직접 설치해 본 개발·AI 도구 표, 설치 한 줄·라이선스·사용기 포함 (Awesome 계열)
 
   - <span id="thesis">논문</span>
     - [Roy fielding Rest API](https://roy.gbiv.com/pubs/dissertation/fielding_dissertation.pdf) - 로이필딩 rest api 논문
