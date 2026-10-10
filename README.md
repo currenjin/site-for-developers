@@ -660,6 +660,7 @@
       - [Colab](https://colab.research.google.com/?hl=ko#) - 호스팅된 Jupyter 노트북 서비스. 사용 가능한 컴퓨팅 자원과 한도는 플랜·가용성에 따라 달라짐
       - [Xcode](https://developer.apple.com/kr/xcode/) - Apple에서 개발한 통합 개발 환경
       - [online gdb](https://www.onlinegdb.com) - 온라인 컴파일러 및 디버거 도구
+      - [MacMD Viewer <sub>EN, $</sub>](https://macmdviewer.com) - README·문서·코딩 에이전트가 작성한 계획 파일 같은 로컬 Markdown 파일을 읽기 위한 macOS 14 이상용 읽기 전용 뷰어. Finder 빠른 보기(Quick Look), Mermaid 다이어그램, 코드 구문 강조, 파일 변경 시 자동 새로고침, PDF 내보내기 지원. 편집 기능은 없으며 19.99달러 일회성 구매
 
   - <span id="other-tool">Other</span>
     - [TTSMaker](https://ttsmaker.com/ko) - 음성 UI 프로토타입이나 테스트용 음성 자료 제작에 활용할 수 있는 텍스트 음성 변환 도구. 음성별 이용 조건 확인 필요
