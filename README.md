@@ -201,6 +201,7 @@
     - [Amazon Q Developer (구 CodeWhisperer) <sub>F, $</sub>](https://aws.amazon.com/q/developer/) - AWS의 AI 개발 보조 도구. IDE 플러그인 지원은 2027-04-30 종료 예정이므로 공식 지원 공지 확인
     - [Qodo <sub>F, $</sub>](https://www.qodo.ai) - AI 기반 코드 품질 및 테스트 자동화 도구
     - [Agent QA <sub>EN, F</sub>](https://github.com/vostride/agent-qa) - 자연어 기반 웹·모바일 테스트 도구. FSL-1.1-ALv2의 허용된 사용은 소프트웨어 비용이 없으나 외부 모델·브라우저·기기 서비스 비용은 별도
+    - [Archcore <sub>EN, F, O</sub>](https://github.com/archcore-ai/archcore) - AI 코딩 에이전트를 위한 Git 네이티브 컨텍스트 엔지니어링과 스펙 기반 개발
 
   - <span id="ai-design-tools">디자인 도구</span>
     - [Canva AI <sub>F, $</sub>](https://www.canva.com/ai-image-generator/) - AI 이미지 생성 및 디자인 도구
