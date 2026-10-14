@@ -555,6 +555,7 @@
     - [Upstash <sub>F, $</sub>](https://upstash.com) - 서버리스 데이터 서비스. 지원 제품과 사용량별 요금은 공식 페이지 확인
     - [Resend <sub>F, $</sub>](https://resend.com) - 애플리케이션의 이메일 발송 API
     - [Cohesivity <sub>EN, F, $</sub>](https://cohesivity.ai) - 코딩 에이전트용 백엔드 인프라와 MCP 연동 제공. 계정 요구사항과 서비스별 비용은 이용 전 확인
+    - [CurlShot <sub>EN, F, $</sub>](https://curlshot.com) - URL·HTML·Markdown을 PNG·JPEG·WebP·PDF로 만드는 스크린샷 API. API 키 필요, 무료 플랜 월 100장. 홈페이지의 온라인 도구는 계정 없이 사용 가능
 
   - <span id="online-utilities">Online Utilities</span>
     - [All Tools Verse <sub>EN, F</sub>](https://alltoolsverse.com/) - 파일·이미지·텍스트·데이터 변환 등 브라우저 도구 모음
