@@ -671,6 +671,7 @@
     - [IT Tools](https://it-tools.tech) - 개발할 때 유용한 Crypto, Converter, Parser 기능이 있는 웹사이트
     - [HexEd.it](https://hexed.it/) - 브라우저 기반의 Hex Editor
     - [Let's Encrypt](https://letsencrypt.org/ko/) - 무료 SSL/TLS 인증서 발급 사이트
+    - [Online Mini Tools <sub>EN</sub>](https://onlineminitools.com) - 개발자를 위한 2,300여 개의 무료 브라우저 도구 모음. JSON·XML 포맷터, 인코더, 검증 도구, CSS·색상 생성기, 변환기, 계산기를 제공하며 대부분 브라우저에서 로컬로 실행되고 계정이 필요하지 않습니다.
 
 ---
 
