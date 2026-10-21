@@ -564,6 +564,7 @@
   - <span id="online-utilities">Online Utilities</span>
     - [All Tools Verse <sub>EN, F</sub>](https://alltoolsverse.com/) - 파일·이미지·텍스트·데이터 변환 등 브라우저 도구 모음
     - [A Box of Tools <sub>KR, F, O</sub>](https://abox.tools/ko/) - 이미지·영상·오디오·PDF·텍스트를 처리하는 브라우저 도구 모음. 코드는 MIT 라이선스로 공개
+    - [Stayput <sub>EN, F, O</sub>](https://stayput.dev) - 이미지·PDF·오디오·영상 파일을 브라우저에서 처리하는 무료 도구 모음. 파일을 업로드하지 않고 계정이 필요 없으며, 코드는 MIT 라이선스로 공개
     - [Nutilz <sub>EN, F</sub>](https://nutilz.com/) - 정규식 테스트·JSON 포맷 등 개발 보조 유틸리티. 도구에 따라 서버 처리가 포함되므로 업로드 여부 확인 필요
 
   - <span id="search-tool">Search</span>
