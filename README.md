@@ -258,6 +258,7 @@
     - [agent-manager <sub>EN, F, O</sub>](https://agent-manager.dev) - 설치된 코딩 에이전트 CLI를 tmux 세션으로 관리하는 터미널 UI. 세션 상태, 선택적 Git 워크트리와 diff 리뷰 지원
     - [DSH Studio <sub>EN, F, O</sub>](https://github.com/Moresyl/dsh-studio) - DeepSeek Harness를 설치·실행·감독하는 데스크톱 앱. 로컬 앱 실행과 모델의 로컬/오프라인 실행은 다르며 모델 제공자 비용은 별도 확인
     - [Frink <sub>EN, F, O</sub>](https://frink.dev) - AI 코딩 에이전트를 시각적 워크플로우로 실행하는 데스크톱 앱. 티켓·오류·일정에 따라 에이전트가 작업하고 변경 전에 먼저 확인을 요청하며, Claude Code, Codex, OpenCode, GitHub Copilot, Cursor와 함께 사용. MIT 라이선스, macOS·Linux 로컬 실행. 모델 제공자 비용은 별도
+    - [Orbi <sub>EN, F, $, O</sub>](https://orbi.build/?ref=dir-site-for-developers) - GitHub Issue에 ai-ready 라벨을 붙이면 격리된 작업 공간에서 구현·테스트 후 PR을 만들고, 별도 AI 세션 리뷰를 거쳐 머지하는 오픈소스(AGPL-3.0) 도구 (자체 호스팅 무료, Orbi Cloud 유료)
 
 - <span id="document">문서 📃</span>
 
