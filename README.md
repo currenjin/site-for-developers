@@ -676,6 +676,7 @@
     - [HexEd.it](https://hexed.it/) - 브라우저 기반의 Hex Editor
     - [Let's Encrypt](https://letsencrypt.org/ko/) - 무료 SSL/TLS 인증서 발급 사이트
     - [Online Mini Tools <sub>EN</sub>](https://onlineminitools.com) - 개발자를 위한 2,300여 개의 무료 브라우저 도구 모음. JSON·XML 포맷터, 인코더, 검증 도구, CSS·색상 생성기, 변환기, 계산기를 제공하며 대부분 브라우저에서 로컬로 실행되고 계정이 필요하지 않습니다.
+    - [vhr-bench <sub>EN, F, O</sub>](https://github.com/vpshostreview/vhr-vps-benchmark) - Linux 서버의 CPU·메모리(sysbench)와 디스크 4K 랜덤 읽기/쓰기 IOPS(fio)를 약 1분 만에 측정하는 MIT 라이선스 단일 Bash 스크립트. sysbench·fio 설치 전에 확인을 요청하고, 업로드 토큰을 지정하지 않으면 결과를 외부로 보내지 않으며, --cleanup 옵션으로 스크립트가 설치한 패키지를 제거함
 
 ---
 
