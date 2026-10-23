@@ -561,6 +561,7 @@
     - [Resend <sub>F, $</sub>](https://resend.com) - 애플리케이션의 이메일 발송 API
     - [Cohesivity <sub>EN, F, $</sub>](https://cohesivity.ai) - 코딩 에이전트용 백엔드 인프라와 MCP 연동 제공. 계정 요구사항과 서비스별 비용은 이용 전 확인
     - [CurlShot <sub>EN, F, $</sub>](https://curlshot.com) - URL·HTML·Markdown을 PNG·JPEG·WebP·PDF로 만드는 스크린샷 API. API 키 필요, 무료 플랜 월 100장. 홈페이지의 온라인 도구는 계정 없이 사용 가능
+    - [deed.page <sub>EN, F, $</sub>](https://deed.page) - HTML 파일이나 정적 사이트 폴더를 PUT 요청 한 번으로 고정 HTTPS 주소(`이름.deed.page`)에 게시하는 정적 호스팅 API. 원격 MCP 서버로 코딩 에이전트에서도 사용 가능. 첫 게시는 계정·API 키 없이 가능하고 응답으로 받은 토큰으로 같은 주소를 갱신. 무료 플랜은 사이트 25개·사이트당 25MB, 서버 측 코드·DB는 지원하지 않음
 
   - <span id="online-utilities">Online Utilities</span>
     - [All Tools Verse <sub>EN, F</sub>](https://alltoolsverse.com/) - 파일·이미지·텍스트·데이터 변환 등 브라우저 도구 모음
