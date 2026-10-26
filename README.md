@@ -674,6 +674,7 @@
   - <span id="other-tool">Other</span>
     - [TTSMaker](https://ttsmaker.com/ko) - 음성 UI 프로토타입이나 테스트용 음성 자료 제작에 활용할 수 있는 텍스트 음성 변환 도구. 음성별 이용 조건 확인 필요
     - [URL Encode and Decode](https://www.urlencoder.org/) - URL 인코딩·디코딩을 확인하는 개발 보조 도구
+    - [Benchvale URL Encoder <sub>EN, F</sub>](https://benchvale.com/dev/url-encode) - 입력한 텍스트를 브라우저 안에서 퍼센트 인코딩·디코딩하고, encodeURI, encodeURIComponent, 폼 인코딩(application/x-www-form-urlencoded) 세 결과를 나란히 보여주는 도구. 입력 텍스트는 서버로 전송되지 않으며, 사이트 방문 통계에 Google Analytics 4를 사용
     - [IT Tools](https://it-tools.tech) - 개발할 때 유용한 Crypto, Converter, Parser 기능이 있는 웹사이트
     - [HexEd.it](https://hexed.it/) - 브라우저 기반의 Hex Editor
     - [Let's Encrypt](https://letsencrypt.org/ko/) - 무료 SSL/TLS 인증서 발급 사이트
