@@ -37,6 +37,28 @@ class SiteBrowserTests(unittest.TestCase):
                 self.assertTrue(page.evaluate('document.documentElement.scrollWidth===innerWidth'))
                 actual=page.locator('.resource a').evaluate_all('(es)=>es.map(e=>e.getAttribute("href"))')
                 self.assertEqual(actual,[r['url'] for r in self.data['resources']])
+    def test_star_link_matches_existing_header_links(self):
+        for width in [1440,320]:
+            page=self.open_page(viewport={'width':width,'height':900},reduced_motion='reduce')
+            styles=page.evaluate('''()=>{
+                const nav=document.querySelector('.top-links');
+                const peer=getComputedStyle(nav.querySelector('a'));
+                const link=getComputedStyle(document.querySelector('#github-star-button'));
+                const count=getComputedStyle(document.querySelector('#github-star-count'));
+                const basic=s=>({fontSize:s.fontSize,fontWeight:s.fontWeight,color:s.color});
+                return {peer:basic(peer),link:basic(link),count:basic(count),
+                    background:link.backgroundColor,border:link.borderTopWidth,
+                    countBackground:count.backgroundColor,countPadding:count.padding,
+                    overflow:document.documentElement.scrollWidth>innerWidth};
+            }''')
+            self.assertEqual(styles['link'],styles['peer'])
+            self.assertEqual(styles['count'],styles['peer'])
+            self.assertEqual(styles['background'],'rgba(0, 0, 0, 0)')
+            self.assertEqual(styles['countBackground'],'rgba(0, 0, 0, 0)')
+            self.assertEqual(styles['border'],'0px')
+            self.assertEqual(styles['countPadding'],'0px')
+            self.assertFalse(styles['overflow'])
+
     def test_search_categories_url_reload_and_reset(self):
         page=self.open_page(reduced_motion='reduce');page.locator('#search').fill('Cursor')
         self.assertGreater(page.locator('.resource').count(),0);self.assertIn('q=Cursor',page.url)
