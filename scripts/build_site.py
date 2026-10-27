@@ -13,6 +13,7 @@ import subprocess
 from pathlib import Path
 from xml.sax.saxutils import escape
 from readme_catalog import parse_readme
+from github_stats import compact_stars, read_snapshot
 from site_i18n import load_translations, load_ui, localize_catalogue, render_template
 
 ROOT=Path(__file__).resolve().parents[1]
@@ -41,7 +42,9 @@ def build(output, revision=None):
     translations=load_translations(ROOT/'web/i18n/en.json')
     ui=load_ui(ROOT/'web/i18n/ui.json')
     template=(ROOT/'web/index.html').read_text(encoding='utf-8')
-    pages={locale:render_template(template,locale,ui[locale],SITE_URL) for locale in ('ko','en')}
+    stars=read_snapshot(ROOT/'web/github.json')
+    star_context={'github_stars':compact_stars(stars) if stars is not None else '—','github_stars_full':format(stars,',') if stars is not None else '—'}
+    pages={locale:render_template(template,locale,{**ui[locale],**star_context},SITE_URL) for locale in ('ko','en')}
     catalogues={locale:localize_catalogue(data,locale,translations,ui[locale]) for locale in ('ko','en')}
     output.mkdir(parents=True,exist_ok=True)
     for name in ASSETS:

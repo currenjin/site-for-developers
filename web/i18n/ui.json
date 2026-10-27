@@ -8,7 +8,6 @@
     "brand_home": "SFD 홈",
     "brand_alt": "Site for Developers",
     "suggest_resource": "리소스 제안하기 ↗",
-    "github_link": "GitHub ↗",
     "switch_label": "EN",
     "switch_aria": "Switch to English",
     "hero_eyebrow": "SITE FOR DEVELOPERS",
@@ -19,11 +18,9 @@
     "intro_line_two": "개발에 활용할 수 있는 리소스를 모았습니다.",
     "search_label": "어떤 리소스가 필요한가요?",
     "search_placeholder": "이름, 설명, 카테고리 검색",
-    "hero_note": "README가 원본입니다. 목록은 자동으로 생성됩니다.",
     "gem_aria": "SFD 보석 3D",
     "gem_alt": "SFD 보석",
     "gem_title": "SFD 로고를 바탕으로 한 3D 보석",
-    "art_caption": "SFD / YOUR FIRST BOOKMARK",
     "categories_heading": "카테고리",
     "categories_aria": "리소스 카테고리",
     "directory_eyebrow": "EXPLORE THE DIRECTORY",
@@ -50,7 +47,9 @@
     "subcategory_aria": "{name} 하위 카테고리",
     "source_revision_prefix": "원본 ",
     "pending_note": "영어 번역 대기: 리소스 {resources}개 · 카테고리 {categories}개. 미번역 필드는 한국어 원문으로 표시합니다.",
-    "korean_original": "한국어 원문"
+    "korean_original": "한국어 원문",
+    "star_button_label": "GitHub Star",
+    "star_button_aria": "GitHub에서 저장소를 열어 Star로 응원하기"
   },
   "en": {
     "page_title": "SFD — Your first bookmark for development",
@@ -61,7 +60,6 @@
     "brand_home": "SFD home",
     "brand_alt": "Site for Developers",
     "suggest_resource": "Suggest a resource ↗",
-    "github_link": "GitHub ↗",
     "switch_label": "한국어",
     "switch_aria": "한국어로 보기",
     "hero_eyebrow": "SITE FOR DEVELOPERS",
@@ -72,11 +70,9 @@
     "intro_line_two": "Resources to help you build.",
     "search_label": "What resource do you need?",
     "search_placeholder": "Search names, descriptions, categories",
-    "hero_note": "The Korean README is the source. This directory is generated automatically.",
     "gem_aria": "SFD 3D gem",
     "gem_alt": "SFD gem",
     "gem_title": "3D gem based on the SFD logo",
-    "art_caption": "SFD / YOUR FIRST BOOKMARK",
     "categories_heading": "Categories",
     "categories_aria": "Resource categories",
     "directory_eyebrow": "EXPLORE THE DIRECTORY",
@@ -103,6 +99,8 @@
     "subcategory_aria": "Subcategories of {name}",
     "source_revision_prefix": "Source ",
     "pending_note": "English translation pending: {resources} resources · {categories} categories. Untranslated fields show the Korean original.",
-    "korean_original": "Korean original"
+    "korean_original": "Korean original",
+    "star_button_label": "Star on GitHub",
+    "star_button_aria": "Open the repository on GitHub to give it a star"
   }
 }

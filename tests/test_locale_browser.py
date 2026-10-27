@@ -69,6 +69,7 @@ class LocaleBrowserTests(unittest.TestCase):
             dest = cls.site / ('en' if locale == 'en' else '')
             dest.mkdir(exist_ok=True)
             values = {**ui[locale], 'lang': locale, 'canonical_url': CANONICAL + ('en/' if locale == 'en' else ''), 'alternate_ko_url': CANONICAL, 'alternate_en_url': CANONICAL + 'en/', 'asset_prefix': '../' if locale == 'en' else '', 'locale_switch_href': '../' if locale == 'en' else 'en/', 'locale_switch_lang': 'ko' if locale == 'en' else 'en'}
+            values.update(github_stars='1.2k', github_stars_full='1,179')
             rendered = re.sub(r'\{\{([a-z_]+)\}\}', lambda m: html.escape(values[m[1]], quote=True), template)
             (dest / 'index.html').write_text(rendered)
             cls.datasets[locale] = fixture(locale, ui[locale])

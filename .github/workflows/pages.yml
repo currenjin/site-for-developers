@@ -6,6 +6,8 @@ on:
   pull_request:
     branches: [main]
   workflow_dispatch:
+  schedule:
+    - cron: '17 3 * * *'
 
 permissions:
   contents: read
@@ -31,6 +33,11 @@ jobs:
         run: |
           python -m pip install playwright==1.58.0
           python -m playwright install --with-deps chromium
+      - name: Refresh GitHub Stars snapshot
+        if: github.event_name != 'pull_request'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python scripts/github_stats.py
       - name: Generate catalogue and website
         run: python scripts/build_site.py
       - name: Test parser, publication boundary and browser behavior
