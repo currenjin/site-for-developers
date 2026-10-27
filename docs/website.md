@@ -26,7 +26,7 @@ python3 -m unittest discover -s tests -p 'test_readme_catalog.py' -v
 python3 -m unittest discover -s tests -p 'test_site_build.py' -v
 ```
 
-브라우저 검증에는 Playwright가 필요하다. CI는 아래 버전을 고정해 사용한다.
+브라우저 검증에는 Playwright가 필요하다. CI는 Playwright 1.58.0이 지원하는 Ubuntu 24.04와 아래 버전을 고정해 사용한다. `ubuntu-latest`가 새 OS로 이동해 브라우저 설치가 깨지는 일을 피한다.
 
 ```sh
 python3 -m pip install playwright==1.58.0
