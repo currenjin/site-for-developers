@@ -13,13 +13,15 @@ import subprocess
 from pathlib import Path
 from xml.sax.saxutils import escape
 from readme_catalog import parse_readme
+from site_i18n import load_translations, load_ui, localize_catalogue, render_template
 
 ROOT=Path(__file__).resolve().parents[1]
 SITE_URL='https://currenjin.github.io/site-for-developers/'
 ASSETS=['index.html','styles.css','app.js','art/scene.html','art/poster.png','art/three.min.js','art/THREE-LICENSE.txt']
-GENERATED=['resources.json','logo.svg','favicon.svg','LICENSE','.nojekyll','404.html','sitemap.xml']
+GENERATED=['resources.json','logo.svg','favicon.svg','LICENSE','.nojekyll','404.html','sitemap.xml','en/index.html','en/resources.json']
 
 def build(output, revision=None):
+    if Path(output).is_symlink():raise ValueError('Output must not be a symlink')
     output=Path(output).resolve()
     protected=[ROOT,ROOT/'web',ROOT/'scripts',ROOT/'tests',ROOT/'.git']
     if any(output==p or (p!=ROOT and output.is_relative_to(p)) for p in protected):
@@ -36,9 +38,20 @@ def build(output, revision=None):
     for name in ASSETS:
         source=ROOT/'web'/name
         if not source.is_file() or source.is_symlink():raise ValueError('Missing or unsafe website asset: '+name)
+    translations=load_translations(ROOT/'web/i18n/en.json')
+    ui=load_ui(ROOT/'web/i18n/ui.json')
+    template=(ROOT/'web/index.html').read_text(encoding='utf-8')
+    pages={locale:render_template(template,locale,ui[locale],SITE_URL) for locale in ('ko','en')}
+    catalogues={locale:localize_catalogue(data,locale,translations,ui[locale]) for locale in ('ko','en')}
     output.mkdir(parents=True,exist_ok=True)
     for name in ASSETS:
+        if name=='index.html':continue
         dest=output/name;dest.parent.mkdir(parents=True,exist_ok=True);shutil.copyfile(ROOT/'web'/name,dest)
+    for locale in ('ko','en'):
+        directory=output if locale=='ko' else output/'en'
+        directory.mkdir(parents=True,exist_ok=True)
+        (directory/'index.html').write_text(pages[locale],encoding='utf-8')
+        (directory/'resources.json').write_text(json.dumps(catalogues[locale],ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     shutil.copyfile(ROOT/'resources/icons/header_base/576x157/header_base.svg',output/'logo.svg')
     # Reuse the original gem path and gradients, never the wordmark, at tab-icon scale.
     ns='{http://www.w3.org/2000/svg}'
@@ -52,10 +65,10 @@ def build(output, revision=None):
     if defs is not None:icon.append(copy.deepcopy(defs))
     (output/'favicon.svg').write_text(ET.tostring(icon,encoding='unicode')+'\n',encoding='utf-8')
     shutil.copyfile(ROOT/'LICENSE',output/'LICENSE')
-    (output/'resources.json').write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+
     (output/'.nojekyll').write_text('',encoding='utf-8')
     (output/'404.html').write_text('<!doctype html><html lang="ko"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>페이지를 찾을 수 없습니다 · SFD</title><style>body{margin:12vh auto;padding:24px;max-width:600px;font:16px/1.7 system-ui;color:#242332}a{color:#4f39f6}</style><h1>페이지를 찾을 수 없습니다.</h1><p>주소를 확인하거나 리소스 목록으로 돌아가세요.</p><a href="'+SITE_URL+'">Site for Developers로 돌아가기 ↗</a></html>',encoding='utf-8')
-    (output/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>'+escape(SITE_URL)+'</loc></url></urlset>\n',encoding='utf-8')
+    (output/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>'+escape(url)+'</loc></url>' for url in (SITE_URL,SITE_URL+'en/'))+'</urlset>\n',encoding='utf-8')
     return {'resources':len(data['resources']),'categories':len(data['categories']),'revision':revision,'output':str(output)}
 
 if __name__=='__main__':
