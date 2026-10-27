@@ -1,5 +1,7 @@
 # 🌎💎 개발자들의 첫 번째 북마크
 
+[웹에서 검색하기 ↗](https://currenjin.github.io/site-for-developers/) · 목록 수정은 이 README에서 합니다. [웹 빌드·배포 안내](docs/website.md)
+
 <p align="center">
   <img src="resources/icons/header_base/576x157/header_base.svg" alt="Site for Developers">
 </p>

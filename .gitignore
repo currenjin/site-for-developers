@@ -2,3 +2,6 @@
 .vs/
 .vscode/
 .DS_Store
+_site/
+__pycache__/
+*.pyc
