@@ -4,6 +4,8 @@ No runtime network calls, package dependencies or second editable catalogue.
 Only the explicit file allowlist is emitted into the Pages artifact.
 """
 import argparse
+import copy
+import xml.etree.ElementTree as ET
 import json
 import os
 import shutil
@@ -15,7 +17,7 @@ from readme_catalog import parse_readme
 ROOT=Path(__file__).resolve().parents[1]
 SITE_URL='https://currenjin.github.io/site-for-developers/'
 ASSETS=['index.html','styles.css','app.js','art/scene.html','art/poster.png','art/three.min.js','art/THREE-LICENSE.txt']
-GENERATED=['resources.json','logo.svg','LICENSE','.nojekyll','404.html','sitemap.xml']
+GENERATED=['resources.json','logo.svg','favicon.svg','LICENSE','.nojekyll','404.html','sitemap.xml']
 
 def build(output, revision=None):
     output=Path(output).resolve()
@@ -38,6 +40,17 @@ def build(output, revision=None):
     for name in ASSETS:
         dest=output/name;dest.parent.mkdir(parents=True,exist_ok=True);shutil.copyfile(ROOT/'web'/name,dest)
     shutil.copyfile(ROOT/'resources/icons/header_base/576x157/header_base.svg',output/'logo.svg')
+    # Reuse the original gem path and gradients, never the wordmark, at tab-icon scale.
+    ns='{http://www.w3.org/2000/svg}'
+    original=ET.parse(ROOT/'resources/icons/header_base/576x157/header_base.svg').getroot()
+    paths=original.findall(ns+'path')
+    if len(paths)!=2:raise ValueError('Logo structure changed; verify the favicon gem selection')
+    ET.register_namespace('',ns[1:-1])
+    icon=ET.Element(ns+'svg',{'width':'64','height':'64','viewBox':'22 12 128 128','fill':'none'})
+    icon.append(copy.deepcopy(paths[1]))
+    defs=original.find(ns+'defs')
+    if defs is not None:icon.append(copy.deepcopy(defs))
+    (output/'favicon.svg').write_text(ET.tostring(icon,encoding='unicode')+'\n',encoding='utf-8')
     shutil.copyfile(ROOT/'LICENSE',output/'LICENSE')
     (output/'resources.json').write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     (output/'.nojekyll').write_text('',encoding='utf-8')

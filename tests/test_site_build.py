@@ -23,11 +23,26 @@ class SiteBuildTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as tmp:
             dest=Path(tmp)/'site';self.run_build(dest)
             actual={str(p.relative_to(dest)) for p in dest.rglob('*') if p.is_file()}
-            self.assertEqual(actual,{'index.html','styles.css','app.js','logo.svg','resources.json','LICENSE','.nojekyll','404.html','sitemap.xml','art/scene.html','art/poster.png','art/three.min.js','art/THREE-LICENSE.txt'})
+            self.assertEqual(actual,{'index.html','styles.css','app.js','logo.svg','favicon.svg','resources.json','LICENSE','.nojekyll','404.html','sitemap.xml','art/scene.html','art/poster.png','art/three.min.js','art/THREE-LICENSE.txt'})
             self.assertEqual((dest/'logo.svg').read_bytes(),(ROOT/'resources/icons/header_base/576x157/header_base.svg').read_bytes())
             html=(dest/'index.html').read_text()
             self.assertNotIn('noindex',html);self.assertNotIn('비공개 미리보기',html)
             self.assertIn('https://currenjin.github.io/site-for-developers/',html)
+    def test_favicon_is_original_gem_without_wordmark(self):
+        import xml.etree.ElementTree as ET
+        with tempfile.TemporaryDirectory() as tmp:
+            dest=Path(tmp)/'site';self.run_build(dest)
+            ns='{http://www.w3.org/2000/svg}'
+            icon=ET.parse(dest/'favicon.svg').getroot()
+            original=ET.parse(ROOT/'resources/icons/header_base/576x157/header_base.svg').getroot()
+            paths=icon.findall(ns+'path')
+            self.assertEqual(len(paths),1)
+            self.assertEqual(paths[0].attrib,original.findall(ns+'path')[1].attrib)
+            self.assertEqual(icon.get('viewBox'),'22 12 128 128')
+            self.assertEqual(len(icon.findall('.//'+ns+'text')),0)
+            self.assertIn('href="favicon.svg"',(dest/'index.html').read_text())
+            self.assertEqual((dest/'logo.svg').read_bytes(),(ROOT/'resources/icons/header_base/576x157/header_base.svg').read_bytes())
+
     def test_unknown_output_is_not_erased(self):
         with tempfile.TemporaryDirectory() as tmp:
             dest=Path(tmp);(dest/'unrelated.txt').write_text('keep')
