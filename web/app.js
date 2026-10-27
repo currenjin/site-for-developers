@@ -89,7 +89,11 @@ function render(){
     if(r.labels.length){const labels=element('span','labels');for(const label of r.labels)labels.append(element('span','label',label));meta.append(labels);}
     link.append(meta);card.append(link);fragment.append(card);
   }
-  $('results').replaceChildren(fragment);$('empty').hidden=matches.length!==0;
+  const results=$('results');
+  // Keep the static DOM when it already matches; replace, never append, on filters.
+  const preview=results.cloneNode(false);preview.append(fragment.cloneNode(true));
+  if(!results.isEqualNode(preview))results.replaceChildren(fragment);
+  $('empty').hidden=matches.length!==0;
   document.querySelectorAll('[data-category]').forEach(a=>{
     a.setAttribute('aria-current',String(a.dataset.category===selected));
     const u=new URL(a.href);query?u.searchParams.set('q',query):u.searchParams.delete('q');a.href=u.pathname+u.search+u.hash;
@@ -138,6 +142,12 @@ async function init(){
     $('reset').addEventListener('click',()=>{query='';selected='';$('search').value='';updateURL();render();});
     addEventListener('popstate',()=>{readState();render();});
     addEventListener('keydown',e=>{if(e.key==='/'&&!/INPUT|TEXTAREA|SELECT/.test(document.activeElement.tagName)&&!e.metaKey&&!e.ctrlKey){e.preventDefault();$('search').focus();}});
-  }catch(error){$('load-error').hidden=false;$('result-count').textContent=document.body.dataset.loadErrorStatus;console.error(error);}
+  }catch(error){
+    $('load-error').hidden=false;
+    if($('results').children.length&&document.body.dataset.staticLoadError){
+      $('load-error').firstChild.textContent=document.body.dataset.staticLoadError+' ';
+    }else $('result-count').textContent=document.body.dataset.loadErrorStatus;
+    console.error(error);
+  }
 }
 init();

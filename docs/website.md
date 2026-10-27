@@ -85,6 +85,35 @@ python3 scripts/translation_status.py
 
 `scripts/github_stats.py`가 빌드 시 GitHub API에서 숫자를 확인한다. README 변경에 따른 배포 외에도 하루 한 번 예약 빌드로 갱신한다. 요청이 실패하면 `web/github.json`의 마지막 확인값을 유지하며 검색·목록 배포를 막지 않는다. 방문자 브라우저에서 외부 API를 호출하거나 인증 정보를 전달하지 않는다. `web/github.json`은 빌드 입력이며 배포 파일로 복사하지 않는다.
 
+## 검색엔진 노출과 정적 목록
+
+`static_render.py`는 같은 README 파싱·번역 결과에서 모든 리소스 카드를 두 언어의 초기 HTML에 생성한다. 검색엔진이나 JavaScript를 끈 브라우저도 실제 제목·설명·분류·라벨과 외부 `a[href]` 링크를 읽을 수 있다. 별도 편집 목록이나 검색엔진 전용 콘텐츠는 없다. 미번역 영어 필드는 한국어 원문과 `lang="ko"` 표시를 유지한다.
+
+초기 리소스·분류 수는 생성 데이터 기준이다. JavaScript가 같은 카드를 확인하면 기존 DOM을 유지하고, 검색·분류 변경 시 목록을 교체한다. JSON 로딩 실패 시 정적 전체 목록과 링크는 남기되 검색·필터 실패를 안내한다. 검색·필터 자체는 JavaScript가 필요하다.
+
+기존 `index,follow`, 언어별 canonical/hreflang, Open Graph, 파비콘과 두 URL의 sitemap을 유지한다. 검색어·분류 쿼리 URL도 해당 언어 루트를 canonical로 쓴다. 제목과 설명은 개발 리소스의 내용을 설명하며 항목 수나 Star 수를 넣지 않는다. `WebSite`·`CollectionPage` JSON-LD만 제공하고, Star를 리뷰·평점으로 표현하거나 검색 리치 결과를 약속하지 않는다. 일반 404 문서는 `noindex`이며 실제 잘못된 URL의 HTTP 404 응답은 배포 호스트에서 확인해야 한다.
+
+검색 가능하도록 만든 것과 **실제 검색엔진에 색인된 것**은 다르다. 배포 후 운영자가 해야 할 확인:
+
+1. 한국어·영어 URL이 UTF-8 HTML과 HTTP 200을 반환하고, 잘못된 URL은 404인지 확인한다.
+2. Search Console에서 소유권을 확인한 URL-prefix 속성에 `https://currenjin.github.io/site-for-developers/`를 등록한다. 다른 사이트 속성이나 토큰을 추정해서 사용하지 않는다.
+3. Search Console의 Sitemaps에 `https://currenjin.github.io/site-for-developers/sitemap.xml`을 제출한다. 레거시 sitemap ping 주소는 사용하지 않는다.
+4. 두 언어 루트를 URL 검사하여 실시간 테스트·렌더링 HTML·선택된 canonical·색인 상태를 확인한다. 필요하면 색인 생성을 요청하고 이후 결과를 다시 확인한다. 사이트맵 제출이나 요청은 색인·순위를 보장하지 않는다.
+
+`robots.txt`의 유효 위치는 호스트 루트다. 프로젝트 하위 `robots.txt`는 추가하지 않으며 다른 저장소의 루트 파일도 수정하지 않는다. sitemap은 실제 두 언어 루트만 담고, 일일 Star 갱신을 콘텐츠 변경처럼 보이게 하는 빌드 시각 `lastmod`는 넣지 않는다. 분류별 얇은 페이지나 존재하지 않는 리소스 상세 URL도 생성하지 않는다.
+
+Google 공식 참고:
+- JavaScript SEO: https://developers.google.com/search/docs/crawling-indexing/javascript/javascript-seo-basics
+- Sitemap 작성·제출: https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap
+- Search Console 소유권: https://support.google.com/webmasters/answer/9008080
+
+전체 회귀 검증은 반드시 최신 빌드 후 실행한다. `test_static_seo.py`는 실제 브라우저의 JavaScript 비활성 모드에서 두 언어의 전체 ID·URL·라벨·분류와 수를 검사하고, 초기 DOM 재사용·검색·초기화·로딩 실패·HTML/JSON-LD 삽입 안전성을 검증한다.
+
+```sh
+python3 scripts/build_site.py
+python3 -m unittest discover -s tests -v
+```
+
 ## 되돌리기
 
 디자인 변경은 `web/`에서, 목록 변경은 README에서 수정한다. 문제가 생기면 해당 변경을 Git에서 되돌리고 `main`의 검증·배포가 끝난 뒤 실제 공개 파일을 확인한다. README와 기여 기록을 삭제하거나 별도의 목록으로 옮겨 복구하지 않는다.

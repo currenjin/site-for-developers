@@ -22,12 +22,17 @@ README = '''# Fixture
 CACHE = {'도구': 'Tools', '이름': 'Name', '설명': 'Description'}
 UI = {'ko': {'title': '제목', 'message': '한국어'},
       'en': {'title': 'Title', 'message': '<safe "quoted"> & text'}}
+# Minimal fixture shell still supplies the real static renderer's UI contracts.
+for values in UI.values():
+    values.update(result_count='{count} / {total}', loading='Loading…',
+                  korean_original='Korean original', static_load_error='Search unavailable.',
+                  page_title=values['title'], meta_description=values['message'])
 TEMPLATE = '''<!doctype html><html lang="{{lang}}"><head><title>{{title}}</title>
 <link rel="canonical" href="{{canonical_url}}">
 <link rel="alternate" hreflang="ko" href="{{alternate_ko_url}}">
 <link rel="alternate" hreflang="en" href="{{alternate_en_url}}">
 <link rel="icon" href="{{asset_prefix}}favicon.svg"></head>
-<body data-message="{{message}}"><a href="{{locale_switch_href}}" lang="{{locale_switch_lang}}">switch</a>
+<body data-message="{{message}}"><div id="results" class="results"></div><span id="category-total"></span><p id="result-count">{{loading}}</p><a href="{{locale_switch_href}}" lang="{{locale_switch_lang}}">switch</a>
 <script src="{{asset_prefix}}app.js"></script></body></html>'''
 
 

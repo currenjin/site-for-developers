@@ -15,6 +15,7 @@ from xml.sax.saxutils import escape
 from readme_catalog import parse_readme
 from github_stats import compact_stars, read_snapshot
 from site_i18n import load_translations, load_ui, localize_catalogue, render_template
+from static_render import render_snapshot
 
 ROOT=Path(__file__).resolve().parents[1]
 SITE_URL='https://currenjin.github.io/site-for-developers/'
@@ -46,6 +47,7 @@ def build(output, revision=None):
     star_context={'github_stars':compact_stars(stars) if stars is not None else '—','github_stars_full':format(stars,',') if stars is not None else '—'}
     pages={locale:render_template(template,locale,{**ui[locale],**star_context},SITE_URL) for locale in ('ko','en')}
     catalogues={locale:localize_catalogue(data,locale,translations,ui[locale]) for locale in ('ko','en')}
+    pages={locale:render_snapshot(pages[locale],catalogues[locale],SITE_URL) for locale in ('ko','en')}
     output.mkdir(parents=True,exist_ok=True)
     for name in ASSETS:
         if name=='index.html':continue
@@ -70,7 +72,7 @@ def build(output, revision=None):
     shutil.copyfile(ROOT/'LICENSE',output/'LICENSE')
 
     (output/'.nojekyll').write_text('',encoding='utf-8')
-    (output/'404.html').write_text('<!doctype html><html lang="ko"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>페이지를 찾을 수 없습니다 · SFD</title><style>body{margin:12vh auto;padding:24px;max-width:600px;font:16px/1.7 system-ui;color:#242332}a{color:#4f39f6}</style><h1>페이지를 찾을 수 없습니다.</h1><p>주소를 확인하거나 리소스 목록으로 돌아가세요.</p><a href="'+SITE_URL+'">Site for Developers로 돌아가기 ↗</a></html>',encoding='utf-8')
+    (output/'404.html').write_text('<!doctype html><html lang="ko"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>페이지를 찾을 수 없습니다 · SFD</title><meta name="robots" content="noindex"><style>body{margin:12vh auto;padding:24px;max-width:600px;font:16px/1.7 system-ui;color:#242332}a{color:#4f39f6}</style><h1>페이지를 찾을 수 없습니다.</h1><p>주소를 확인하거나 리소스 목록으로 돌아가세요.</p><a href="'+SITE_URL+'">Site for Developers로 돌아가기 ↗</a></html>',encoding='utf-8')
     (output/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>'+escape(url)+'</loc></url>' for url in (SITE_URL,SITE_URL+'en/'))+'</urlset>\n',encoding='utf-8')
     return {'resources':len(data['resources']),'categories':len(data['categories']),'revision':revision,'output':str(output)}
 
