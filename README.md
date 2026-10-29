@@ -284,6 +284,7 @@
     - [Shadcn UI](https://ui.shadcn.com/) - Tailwind CSS 기반의 접근성 높은 구성 요소를 유연하게 커스터마이징할 수 있는 현대적인 UI 라이브러리
     - [Ant Design](https://ant.design/) - 웹, 앱 디자인을 위한 React UI 프레임워크
     - [Storybook <sub>EN,F,O</sub>](https://storybook.js.org/) - UI 컴포넌트를 체계적이고 효율적으로 구축할 수 있는 UI 컴포넌트 개발 도구로, UI 컴포넌트 라이브러리의 문서화 또는 디자인 시스템을 개발하기 위한 플랫폼 등으로 활용
+    - [qodesign-free <sub>EN,F,O</sub>](https://github.com/teodoravadani/qodesign-free) - Tailwind CSS와 Motion으로 만든 MIT 라이선스 React 애니메이션 컴포넌트(Toast Stack, Pricing Switch, Upload Dropzone, Day/Night Toggle)와 대시보드(Orbit, Ledger). shadcn CLI로 설치하거나 단일 HTML 파일로 사용
 
   - <span id="programming-language">Programming Language</span>
     - [Kotlin Docs](https://kotlinlang.org/docs/home.html) - 코틀린 공식 문서
