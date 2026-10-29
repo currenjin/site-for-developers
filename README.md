@@ -564,7 +564,7 @@
     - [Cohesivity <sub>EN, F, $</sub>](https://cohesivity.ai) - 코딩 에이전트용 백엔드 인프라와 MCP 연동 제공. 계정 요구사항과 서비스별 비용은 이용 전 확인
     - [CurlShot <sub>EN, F, $</sub>](https://curlshot.com) - URL·HTML·Markdown을 PNG·JPEG·WebP·PDF로 만드는 스크린샷 API. API 키 필요, 무료 플랜 월 100장. 홈페이지의 온라인 도구는 계정 없이 사용 가능
     - [deed.page <sub>EN, F, $</sub>](https://deed.page) - HTML 파일이나 정적 사이트 폴더를 PUT 요청 한 번으로 고정 HTTPS 주소(`이름.deed.page`)에 게시하는 정적 호스팅 API. 원격 MCP 서버로 코딩 에이전트에서도 사용 가능. 첫 게시는 계정·API 키 없이 가능하고 응답으로 받은 토큰으로 같은 주소를 갱신. 무료 플랜은 사이트 25개·사이트당 25MB, 서버 측 코드·DB는 지원하지 않음
-    - [npmscan <sub>EN, F, O</sub>](https://npmscan.com/) - AI 에이전트 및 개발자가 npm 패키지를 설치하기 전에 악성코드, 신뢰도, 취약점을 검사할 수 있게 해주는 원격 공급망 보안 서비스이자 오픈소스 원격 MCP 서버. 가입 없이 무료로 사용 가능
+    - [npmscan <sub>EN, F, O</sub>](https://npmscan.com/) - npm 패키지의 알려진 취약점·악성 패키지 정보와 신뢰 신호를 조회하는 원격 API·MCP 서비스. 계정·API 키 없이 사용 가능하며 MCP는 IP당 분당 30회 제한. MIT 라이선스 클라이언트 플러그인 제공
 
   - <span id="online-utilities">Online Utilities</span>
     - [All Tools Verse <sub>EN, F</sub>](https://alltoolsverse.com/) - 파일·이미지·텍스트·데이터 변환 등 브라우저 도구 모음
