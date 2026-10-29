@@ -405,6 +405,7 @@
     - [InfoQ <sub>EN</sub>](https://www.infoq.com) - 개발 팀이 새로운 기술과 관행을 채택할 수 있도록 도움
     - [Techcrunch <sub>EN</sub>](https://techcrunch.com) - TechCrunch. 기술, 스타트업, 벤처캐피탈 펀딩, 실리콘밸리 사업 보고
     - [개발자스럽다 <sub>KR</sub>](https://blog.gaerae.com/) - 블로그와 SNS에서 주기적으로 기술 정보를 찾고 분류하여 가치를 더해 공유
+    - [테크곳간 <sub>KR</sub>](https://www.techgotgan.co.kr/?utm_source=site_for_developers&utm_medium=resource_list&utm_campaign=developer_discovery_2026w44) - 여러 회사의 기술 블로그 글을 검색하고 주제·블로그별로 다시 찾는 공개 아카이브. 검색하다 탭만 수확하는 일을 줄여줍니다
     - [요즘IT <sub>KR</sub>](https://yozm.wishket.com/magazine/list/develop/) - 개발 관련 실무 경험과 기술 콘텐츠
     - [GeekNews <sub>KR</sub>](https://news.hada.io/) - 개발 뉴스, 기술 관련 새소식, 스타트업 정보와 노하우, 세상의 재미난 것들을 좋아하는 사람들을 위한 뉴스 사이트. 이메일 뉴스레터/트위터/슬랙 봇으로 구독 가능
 
