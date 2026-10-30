@@ -572,6 +572,7 @@
     - [A Box of Tools <sub>KR, F, O</sub>](https://abox.tools/ko/) - 이미지·영상·오디오·PDF·텍스트를 처리하는 브라우저 도구 모음. 코드는 MIT 라이선스로 공개
     - [Stayput <sub>EN, F, O</sub>](https://stayput.dev) - 이미지·PDF·오디오·영상 파일을 브라우저에서 처리하는 무료 도구 모음. 파일을 업로드하지 않고 계정이 필요 없으며, 코드는 MIT 라이선스로 공개
     - [Nutilz <sub>EN, F</sub>](https://nutilz.com/) - 정규식 테스트·JSON 포맷 등 개발 보조 유틸리티. 도구에 따라 서버 처리가 포함되므로 업로드 여부 확인 필요
+    - [imgmov Last Frame Extractor <sub>EN, F</sub>](https://imgmov.com/extract-last-frame-from-video) - Browser tool for saving a video's ending frame as a PNG for demo references or bug reports. No account or video upload; clips up to 512 MB and two minutes, subject to browser codec support.
 
   - <span id="search-tool">Search</span>
     - [Google](https://www.google.com/) - 검색 엔진
