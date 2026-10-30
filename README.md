@@ -681,7 +681,7 @@
     - [Let's Encrypt](https://letsencrypt.org/ko/) - 무료 SSL/TLS 인증서 발급 사이트
     - [Online Mini Tools <sub>EN</sub>](https://onlineminitools.com) - 개발자를 위한 2,300여 개의 무료 브라우저 도구 모음. JSON·XML 포맷터, 인코더, 검증 도구, CSS·색상 생성기, 변환기, 계산기를 제공하며 대부분 브라우저에서 로컬로 실행되고 계정이 필요하지 않습니다.
     - [vhr-bench <sub>EN, F, O</sub>](https://github.com/vpshostreview/vhr-vps-benchmark) - Linux 서버의 CPU·메모리(sysbench)와 디스크 4K 랜덤 읽기/쓰기 IOPS(fio)를 약 1분 만에 측정하는 MIT 라이선스 단일 Bash 스크립트. sysbench·fio 설치 전에 확인을 요청하고, 업로드 토큰을 지정하지 않으면 결과를 외부로 보내지 않으며, --cleanup 옵션으로 스크립트가 설치한 패키지를 제거함
-    - [ImagineYourBook <sub>EN, $</sub>](https://www.imagineyourbook.com/) - 기술 블로그 글, 강의 노트, 사내 문서(Word·Markdown·텍스트 업로드)나 개요를 바탕으로 장 구성을 갖춘 기술 전자책·학습 가이드 초안(5,000~120,000 단어)을 만들고 Word·EPUB로 내보내는 AI 책 작성 서비스. 계정과 카드 등록이 필요한 7일 무료 체험 후 유료. 코드 예제와 기술 내용은 직접 검토 필요
+    - [ImagineYourBook <sub>EN, $</sub>](https://www.imagineyourbook.com/) - 공개 기술 글·강의 노트나 업로드 권한이 확인된 자료(Word·Markdown·텍스트 업로드)를 바탕으로 장별 기술 전자책·학습 가이드 초안(5,000~120,000 단어)을 만들고 Word·EPUB로 내보내는 AI 책 작성 서비스. 계정 필요. 7일 체험은 카드 등록 후 미취소 시 유료 전환. 자료는 서버에서 처리하므로 기밀 문서 업로드 전 정책 확인, 코드 예제와 기술 내용은 직접 검토 필요
 
 ---
 
