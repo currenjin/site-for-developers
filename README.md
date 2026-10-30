@@ -235,6 +235,7 @@
     - [Cohere <sub>F, $</sub>](https://cohere.com) - 기업용 LLM API 및 임베딩 모델
     - [AI Router <sub>KR, $</sub>](https://ai-router.dev/ko) - 제3자가 운영하는 OpenAI 호환 API 게이트웨이. 키의 종류와 데이터 처리 정책은 사용 전 별도 확인 필요
     - [PlaceCall <sub>EN, $</sub>](https://voygr.tech/placecall/) - AI 에이전트가 미국 업체에 실제 전화를 걸어 예약·문의·견적을 처리하고 통화 결과와 녹취록을 돌려받는 REST API·원격 MCP 서버. 계정 필요(API 키 또는 MCP OAuth 로그인), 미국 번호만 지원, 통화 녹음·녹취록은 제공사 서버에 저장됨
+    - [Tera Studio MCP <sub>EN, F</sub>](https://terastudio.co/ai-assistants/) - 노래의 키·템포(BPM) 조회와 키 변경 도구를 Claude·ChatGPT 등 AI 어시스턴트에 연결하는 원격 MCP 서버(`https://terastudio.co/mcp`, Streamable HTTP). 계정·API 키·OAuth 없이 연결하며 도구 4개 모두 읽기 전용. 곡 제목 조회는 AcousticBrainz·MusicBrainz 기반 2,000곡 목록에서만 답하고, 음원 파일(MP3·M4A·WAV, 최대 8분)의 키·템포 분석과 키 변경(±6반음)은 브라우저에서 처리되어 서버나 어시스턴트로 전송되지 않음. 요청 내용은 보관하지 않고 어떤 도구가 어느 어시스턴트에서 쓰였는지만 집계. 내 목소리로 노래 듣기 단계는 terastudio.co 가입 필요
 
   - <span id="ai-agent">에이전트 & 프레임워크</span>
     - [LangChain <sub>F, O</sub>](https://www.langchain.com) - LLM 애플리케이션 개발 프레임워크
