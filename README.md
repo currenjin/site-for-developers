@@ -480,6 +480,7 @@
     - [Spotify Engineering <sub>EN</sub>](https://engineering.atspotify.com/) - Spotify 엔지니어링 블로그
     - [Github Engineering <sub>EN</sub>](https://github.blog/engineering/) - Github 엔지니어링 블로그
     - [Grab Tech <sub>EN</sub>](https://engineering.grab.com/) - Grab 엔지니어링 블로그
+    - [Aeneia Signal <sub>F</sub>](https://blog.aeneia.pl/) - 폴란드어로 발행하는 Aeneia의 블로그. 외부 PR을 CI에서 검토하는 코딩 에이전트의 신뢰 경계와 권한 점검 등 개발 실무 글이 있으며, 디자인과 사업 주제도 함께 다룸
 
   - <span id="personal-blog">개인 블로그</span>
     - [기억보단 기록을 <sub>KR</sub>](https://jojoldu.tistory.com/) - jojoldu의 개발 기록. 개별 글의 문제 상황과 해결 과정을 참고하려는 독자를 위한 블로그
