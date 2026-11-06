@@ -1,0 +1,92 @@
+{
+  "reviews": [
+    {
+      "name": "IT Tools",
+      "url": "https://it-tools.tech",
+      "reviewed_description": "인코딩·변환 등 작은 개발 작업을 한곳에서 찾을 때 추천. 자체 호스팅 안내가 있으나 개별 도구의 실행·데이터 전송은 미검증 (문서 확인: 2026-11-06)",
+      "checked_at": "2026-11-06",
+      "method": "document-review",
+      "rationale": "인코딩·변환 등 작은 개발 작업을 한곳에서 찾고, 필요하면 직접 호스팅할 수 있어 선택합니다.",
+      "scope": "공식 저장소 README의 도구 모음 소개와 Docker 자체 호스팅 안내를 확인했습니다.",
+      "limitations": "개별 도구의 실행 결과와 배포 서버의 데이터 전송을 검사하지 않았습니다. 기밀 입력 전 개별 동작을 확인해야 합니다.",
+      "evidence": ["https://github.com/CorentinTh/it-tools"]
+    },
+    {
+      "name": "Free for Developers",
+      "url": "https://free-for.dev",
+      "reviewed_description": "인프라 무료 플랜 후보를 분야별로 비교할 때 추천. 개별 서비스의 현재 가격·한도는 공식 가격표에서 재확인 필요 (문서 확인: 2026-11-06)",
+      "checked_at": "2026-11-06",
+      "method": "document-review",
+      "rationale": "인프라를 구성할 때 무료 플랜 후보를 분야별로 비교하는 출발점으로 선택합니다.",
+      "scope": "공식 목록의 대상 독자, 서비스형 상품 범위와 무료 체험 제외 기준을 확인했습니다.",
+      "limitations": "목록에 실린 각 서비스의 현재 가격·한도는 재검증하지 않았습니다. 가입 전 해당 서비스의 공식 가격표를 확인해야 합니다.",
+      "evidence": ["https://free-for.dev/", "https://github.com/ripienaar/free-for-dev"]
+    },
+    {
+      "name": "Stack Overflow",
+      "url": "https://stackoverflow.com",
+      "reviewed_description": "구체적인 오류와 재현 가능한 코드 문제의 기존 답변을 찾을 때 추천. 답변 작성 시점과 사용 버전 확인 필요 (문서 확인: 2026-11-06)",
+      "checked_at": "2026-11-06",
+      "method": "document-review",
+      "rationale": "구체적인 오류와 재현 가능한 코드 문제에 관한 기존 답변을 찾을 때 선택합니다.",
+      "scope": "공식 질문 가이드의 검색 우선, 질문 범위, 영어 작성과 재현 정보 요구를 확인했습니다.",
+      "limitations": "개별 답변의 정확성·최신성이나 실제 질문 응답률은 확인하지 않았습니다. 사용 버전과 답변 작성 시점을 대조해야 합니다.",
+      "evidence": ["https://stackoverflow.com/help/how-to-ask"]
+    },
+    {
+      "name": "ChatGPT",
+      "url": "https://chatgpt.com",
+      "reviewed_description": "코딩 질문과 설명 초안을 대화로 탐색할 때 사용할 후보. 생성 코드의 정확도·실행·보안은 직접 검증 필요 (문서 확인: 2026-11-06, 응답 품질 미시험)",
+      "checked_at": "2026-11-06",
+      "method": "document-review",
+      "rationale": "코딩 질문과 설명 초안을 대화로 탐색하고 검토할 때 사용할 후보로 선택합니다.",
+      "scope": "공식 무료 플랜 FAQ에서 대화·파일 관련 기능과 기능별 이용 한도 안내를 확인했습니다.",
+      "limitations": "계정으로 코드를 생성·실행하거나 정확도를 비교하지 않았습니다. 생성 코드의 실행·보안 검증과 업로드 자료의 정책 확인이 필요합니다.",
+      "evidence": ["https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq"]
+    },
+    {
+      "name": "Claude",
+      "url": "https://claude.ai",
+      "reviewed_description": "문서·코드 파일을 바탕으로 질문하고 검토할 때 사용할 후보. 기밀 자료 업로드 전 데이터 정책 확인 필요 (문서 확인: 2026-11-06, 응답 품질 미시험)",
+      "checked_at": "2026-11-06",
+      "method": "document-review",
+      "rationale": "문서와 코드 파일을 바탕으로 질문하고 내용을 검토할 때 사용할 후보로 선택합니다.",
+      "scope": "공식 제품 안내에서 문서·코드 파일 지원과 웹 사용 안내를 확인했습니다.",
+      "limitations": "파일 업로드, 코드 실행, 응답 품질과 플랜별 한도를 직접 시험하지 않았습니다. 기밀 자료를 올리기 전 계정·데이터 정책을 확인해야 합니다.",
+      "evidence": ["https://claude.com/product/overview"]
+    },
+    {
+      "name": "Gemini",
+      "url": "https://gemini.google.com/app?hl=ko",
+      "reviewed_description": "Google 서비스와 연결하는 대화형 작업을 검토할 때 사용할 후보. 연결 앱의 데이터 처리·권한 확인 필요 (문서 확인: 2026-11-06, 연동·응답 품질 미시험)",
+      "checked_at": "2026-11-06",
+      "method": "document-review",
+      "rationale": "Google 서비스와 연결하는 대화형 작업의 후보로 검토할 때 선택합니다.",
+      "scope": "공식 개인정보 허브의 Connected Apps, 공유 파일·프롬프트 처리와 데이터 관리 안내를 확인했습니다.",
+      "limitations": "계정 연결·생성 결과·무료 한도를 시험하지 않았습니다. 연결 앱에 따라 데이터가 오가며 기능과 권한은 계정에 따라 확인해야 합니다.",
+      "evidence": ["https://support.google.com/gemini/answer/13594961?hl=en"]
+    },
+    {
+      "name": "Cursor",
+      "url": "https://cursor.com",
+      "reviewed_description": "편집기에서 저장소 이해와 변경 검토를 함께 수행할 도구의 후보. 적용 전 권한·diff·테스트 확인 필요 (문서 확인: 2026-11-06, 설치·에이전트 실행 미시험)",
+      "checked_at": "2026-11-06",
+      "method": "document-review",
+      "rationale": "편집기에서 저장소 이해와 변경 검토를 함께 수행할 도구의 후보로 선택합니다.",
+      "scope": "공식 문서의 코드 이해, 기능 계획·구현, 버그 수정과 변경 리뷰 안내를 확인했습니다.",
+      "limitations": "설치·저장소 인덱싱·에이전트 실행·모델별 비용은 직접 검증하지 않았습니다. 실제 적용 전 권한과 diff, 테스트 결과를 확인해야 합니다.",
+      "evidence": ["https://cursor.com/docs"]
+    },
+    {
+      "name": "Roadmap.sh",
+      "url": "https://roadmap.sh",
+      "reviewed_description": "학습 주제를 나누고 선행 지식을 찾는 출발점으로 추천. 모든 노드가 필수는 아니며 학습 성과는 미검증 (문서 확인: 2026-11-06)",
+      "checked_at": "2026-11-06",
+      "method": "document-review",
+      "rationale": "학습 주제를 나누고 선행 지식을 찾는 출발점으로 선택합니다.",
+      "scope": "공식 홈페이지의 커뮤니티 로드맵 소개와 Git·JavaScript 등 학습 자료 구성을 확인했습니다.",
+      "limitations": "강의 완주·학습 성과·각 경로의 최신성을 검증하지 않았습니다. 모든 노드를 필수 과정으로 보지 말고 목표에 맞게 골라야 합니다.",
+      "evidence": ["https://roadmap.sh/"]
+    }
+  ]
+}

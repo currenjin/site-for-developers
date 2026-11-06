@@ -1,0 +1,71 @@
+name: Catalogue maintenance audit
+
+on:
+  schedule:
+    - cron: '41 4 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+defaults:
+  run:
+    shell: bash
+
+concurrency:
+  group: catalogue-audit-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  audit:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 25
+    steps:
+      - name: Check out source without stored credentials
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          persist-credentials: false
+      - name: Set up Python
+        uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: '3.12'
+      - name: Prepare report directory
+        run: mkdir -p audit-reports .catalog-audit
+      - name: Restore last observed link targets
+        uses: actions/cache/restore@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+        with:
+          path: .catalog-audit/link-snapshot.json
+          key: catalogue-audit-v1-${{ github.ref_name }}-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: |
+            catalogue-audit-v1-${{ github.ref_name }}-
+      - name: Run offline audit tests
+        run: python -m unittest discover -s tests -p test_catalog_audit.py -v 2>&1 | tee audit-reports/tests.log
+      - name: Probe public catalogue links without network credentials
+        run: |
+          args=()
+          if [ -f .catalog-audit/link-snapshot.json ]; then
+            args+=(--previous .catalog-audit/link-snapshot.json)
+          fi
+          python scripts/catalog_audit.py \
+            --readme README.md \
+            --reviews docs/reviews/recommendations.json \
+            --output-dir audit-reports \
+            --max-workers 8 --timeout 10 --max-age-days 90 \
+            "${args[@]}" 2>&1 | tee audit-reports/audit.log
+      - name: Stage successful audit snapshot for next run
+        if: success()
+        run: cp audit-reports/link-snapshot.json .catalog-audit/link-snapshot.json
+      - name: Persist observed link targets
+        if: success()
+        uses: actions/cache/save@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+        with:
+          path: .catalog-audit/link-snapshot.json
+          key: catalogue-audit-v1-${{ github.ref_name }}-${{ github.run_id }}-${{ github.run_attempt }}
+      - name: Upload reports and error logs
+        if: always()
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: catalogue-audit-${{ github.run_id }}-${{ github.run_attempt }}
+          path: audit-reports/
+          if-no-files-found: warn
+          retention-days: 90

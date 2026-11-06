@@ -5,3 +5,4 @@
 _site/
 __pycache__/
 *.pyc
+.audit/

@@ -60,6 +60,8 @@
 
 추천은 편집자의 선택이며 이용량 순위나 필수 도구 목록이 아닙니다. 기본 항목은 가장 적합한 카테고리 한 곳에 두고, 추천에서의 재노출은 허용합니다. 다른 카테고리에서는 내부 링크로 안내합니다. 제작자의 기여와 개인 블로그에도 같은 선정 기준을 적용하며 규모·인지도만으로 배제하지 않습니다.
 
+목록에 등록되었다고 직접 사용이나 품질이 보증되지는 않습니다. 추천은 선택 이유와 제한을 설명하며, **문서 확인**과 **직접 사용**을 구분합니다. [추천별 확인 기록](docs/reviews/recommendations.md)에서 확인일·출처·범위·미확인 사항을 볼 수 있고, 90일이 지난 기록은 재검토 대상으로 보고합니다.
+
 제3자 AI 게이트웨이·온라인 도구에는 API 키, 코드, 개인정보를 입력하기 전에 운영 주체, 키의 종류, 저장·전송·보존 정책과 이용 약관을 확인하세요. 로컬 앱이라는 이유만으로 로컬 모델 실행이나 오프라인 처리를 보장하지 않습니다. 실험적·전문 도구는 자신의 환경에서 검증 후 사용하세요.
 
 ---
@@ -175,14 +177,14 @@
 ## 링크
 
 - <span id="recommend">추천</span>
-  - [IT Tools <sub>EN</sub>](https://it-tools.tech) - 개발자를 위한 온라인 유틸리티 모음
-  - [Free for Developers <sub>EN</sub>](https://free-for.dev) - 개발자를 위한 무료 서비스 큐레이션
-  - [Stack Overflow <sub>EN</sub>](https://stackoverflow.com) - 프로그래밍 질문과 답변을 공유하는 커뮤니티
-  - [ChatGPT <sub>F, $</sub>](https://chatgpt.com) - AI 기반 프로그래밍 도우미 및 코드 생성
-  - [Claude <sub>F, $</sub>](https://claude.ai) - 문서 분석과 코딩 질문에 활용할 수 있는 대화형 AI
-  - [Gemini <sub>F</sub>](https://gemini.google.com/app?hl=ko) - Google의 대화형 AI로 Google 서비스와 통합
-  - [Cursor <sub>F, $</sub>](https://cursor.com) - AI 기반 코드 에디터
-  - [Roadmap.sh <sub>EN, O</sub>](https://roadmap.sh) - 개발자 성장을 위한 커뮤니티 기반 로드맵
+  - [IT Tools <sub>EN</sub>](https://it-tools.tech) - 인코딩·변환 등 작은 개발 작업을 한곳에서 찾을 때 추천. 자체 호스팅 안내가 있으나 개별 도구의 실행·데이터 전송은 미검증 (문서 확인: 2026-11-06)
+  - [Free for Developers <sub>EN</sub>](https://free-for.dev) - 인프라 무료 플랜 후보를 분야별로 비교할 때 추천. 개별 서비스의 현재 가격·한도는 공식 가격표에서 재확인 필요 (문서 확인: 2026-11-06)
+  - [Stack Overflow <sub>EN</sub>](https://stackoverflow.com) - 구체적인 오류와 재현 가능한 코드 문제의 기존 답변을 찾을 때 추천. 답변 작성 시점과 사용 버전 확인 필요 (문서 확인: 2026-11-06)
+  - [ChatGPT <sub>F, $</sub>](https://chatgpt.com) - 코딩 질문과 설명 초안을 대화로 탐색할 때 사용할 후보. 생성 코드의 정확도·실행·보안은 직접 검증 필요 (문서 확인: 2026-11-06, 응답 품질 미시험)
+  - [Claude <sub>F, $</sub>](https://claude.ai) - 문서·코드 파일을 바탕으로 질문하고 검토할 때 사용할 후보. 기밀 자료 업로드 전 데이터 정책 확인 필요 (문서 확인: 2026-11-06, 응답 품질 미시험)
+  - [Gemini <sub>F</sub>](https://gemini.google.com/app?hl=ko) - Google 서비스와 연결하는 대화형 작업을 검토할 때 사용할 후보. 연결 앱의 데이터 처리·권한 확인 필요 (문서 확인: 2026-11-06, 연동·응답 품질 미시험)
+  - [Cursor <sub>F, $</sub>](https://cursor.com) - 편집기에서 저장소 이해와 변경 검토를 함께 수행할 도구의 후보. 적용 전 권한·diff·테스트 확인 필요 (문서 확인: 2026-11-06, 설치·에이전트 실행 미시험)
+  - [Roadmap.sh <sub>EN, O</sub>](https://roadmap.sh) - 학습 주제를 나누고 선행 지식을 찾는 출발점으로 추천. 모든 노드가 필수는 아니며 학습 성과는 미검증 (문서 확인: 2026-11-06)
 
 - <span id="ai">AI 🤖</span>
 

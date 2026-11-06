@@ -1,0 +1,65 @@
+name: SFD PR preflight
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, edited, ready_for_review]
+
+permissions:
+  contents: read
+
+jobs:
+  preflight:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - name: Check out trusted base code only
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          ref: ${{ github.event.pull_request.base.sha }}
+          persist-credentials: false
+      - name: Set up Python
+        uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: '3.12'
+      - name: Read submitted README and body as data
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+          import re
+          import subprocess
+
+          event = json.loads(Path(os.environ['GITHUB_EVENT_PATH']).read_text(encoding='utf-8'))
+          number = event['number']
+          if type(number) is not int or number < 1:
+              raise SystemExit('Invalid PR number')
+          expected = event['pull_request']['head']['sha']
+          if not re.fullmatch(r'[0-9a-f]{40}', expected):
+              raise SystemExit('Invalid head SHA')
+          subprocess.run(['git', 'fetch', '--no-tags', '--depth=1', 'origin', f'refs/pull/{number}/head'], check=True)
+          actual = subprocess.check_output(['git', 'rev-parse', 'FETCH_HEAD'], text=True).strip()
+          if actual != expected:
+              raise SystemExit('PR head SHA changed during fetch; rerun this check')
+          destination = Path(os.environ['RUNNER_TEMP']) / 'sfd-preflight'
+          destination.mkdir(parents=True, exist_ok=True)
+          for name, revision in [('base.md', 'HEAD'), ('head.md', actual)]:
+              blob = subprocess.check_output(['git', 'show', f'{revision}:README.md'])
+              (destination / name).write_bytes(blob)
+          (destination / 'body.md').write_text(event['pull_request'].get('body') or '', encoding='utf-8')
+          PY
+      - name: Validate evidence with trusted base implementation
+        run: |
+          set +e
+          python scripts/pr_preflight.py \
+            --base-readme "$RUNNER_TEMP/sfd-preflight/base.md" \
+            --head-readme "$RUNNER_TEMP/sfd-preflight/head.md" \
+            --body-file "$RUNNER_TEMP/sfd-preflight/body.md" \
+            --format json > "$RUNNER_TEMP/sfd-preflight/result.json"
+          status=$?
+          python scripts/pr_preflight.py \
+            --base-readme "$RUNNER_TEMP/sfd-preflight/base.md" \
+            --head-readme "$RUNNER_TEMP/sfd-preflight/head.md" \
+            --body-file "$RUNNER_TEMP/sfd-preflight/body.md" \
+            --format report >> "$GITHUB_STEP_SUMMARY"
+          exit "$status"
