@@ -163,7 +163,7 @@ class PreflightTests(unittest.TestCase):
             self.assertEqual(result.returncode, expected, report)
 
     def test_current_empty_template_cannot_supply_evidence(self):
-        body = (ROOT / '.github/pull_request_template.md').read_text()
+        body = (ROOT / '.github/PULL_REQUEST_TEMPLATE.md').read_text()
         result, report = self.check(readme(), readme(B), body)
         self.assertEqual(result.returncode, 1, report)
 
