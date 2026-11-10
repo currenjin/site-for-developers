@@ -576,6 +576,7 @@
     - [SiftingIO <sub>EN, F, $</sub>](https://sifting.io/docs) - 미국 주식·ETF, 외환, 원자재·암호화폐의 실시간 데이터를 REST·WebSocket으로, 과거 데이터를 REST로 조회하는 시장 데이터 API. 계정·API 키 필요. 내부·비상업적 평가용 한도형 무료 플랜과 유료 플랜 제공
     - [LogBrew <sub>EN, F, $</sub>](https://logbrew.co/en) - 오류 추적·로그·트레이스·메트릭을 한곳에서 보는 호스팅 모니터링 서비스. OpenTelemetry 데이터를 받으며, 원격 MCP 서버로 코딩 에이전트가 승인한 프로젝트의 이슈와 로그를 읽음(쓰기는 허용한 경우에만). 계정 필요(GitHub·GitLab·Bitbucket·Google 로그인), 무료 플랜은 카드 없이 월 오류 10만 건·로그 50GB·스팬 5천만 개, 보존 기간 30일. 데이터는 제공사 서버에 저장됨
     - [BrewPage <sub>EN, F</sub>](https://brewpage.app/) - HTML·Markdown·파일을 붙여넣거나 업로드하면 공유용 HTTPS 링크로 게시하는 호스팅. REST API와 원격 MCP 서버로 AI 에이전트도 직접 게시 가능. 계정 불필요, 게시물은 기본 15일 후 만료(최대 30일, 무료 프로필 90일), 페이지·파일당 5MB. 데이터는 제공사 서버에 저장됨
+    - [Buddy <sub>EN, F, $</sub>](https://buddy.works) - CI/CD 파이프라인, 클라우드 샌드박스(격리된 Linux VM), 앱·정적 사이트 호스팅을 제공하는 호스팅 DevOps 플랫폼. `bdy` CLI와 원격 MCP 서버로 코딩 에이전트에서도 사용 가능. 계정 필요, 무료 플랜은 1인·동시 실행 2개·월 $1 사용량 크레딧이며 크레딧 소진 시 갱신 전까지 파이프라인과 샌드박스가 중지됨
 
   - <span id="online-utilities">Online Utilities</span>
     - [All Tools Verse <sub>EN, F</sub>](https://alltoolsverse.com/) - 파일·이미지·텍스트·데이터 변환 등 브라우저 도구 모음
