@@ -206,7 +206,7 @@
     - [Qodo <sub>F, $</sub>](https://www.qodo.ai) - AI 기반 코드 품질 및 테스트 자동화 도구
     - [Agent QA <sub>EN, F</sub>](https://github.com/vostride/agent-qa) - 자연어 기반 웹·모바일 테스트 도구. FSL-1.1-ALv2의 허용된 사용은 소프트웨어 비용이 없으나 외부 모델·브라우저·기기 서비스 비용은 별도
     - [Archcore <sub>EN, F, O</sub>](https://github.com/archcore-ai/archcore) - 스펙, 아키텍처, 결정(ADR), 규칙, 계획을 저장소의 `.archcore/`에 Git으로 관리하고 CLI·MCP 서버·플러그인으로 AI 코딩 에이전트에 프로젝트 컨텍스트를 제공. CLI는 끌 수 없는 자동 업데이트를 하며(쓰기 권한이 없는 경로에 설치하면 멈춤), 설치·업데이트 통계를 전송(`DO_NOT_TRACK=1`로 해제)
-    - [Imagera Code <sub>EN, $</sub>](https://imagera.ai/code) - 터미널에서 실행하는 AI 코딩 에이전트. 프로젝트 코드를 읽고 수정하며 명령과 테스트를 실행하고, 한 구독으로 Claude·GPT·Gemini 등 여러 제공사의 코딩 모델 사용. 사용량은 3시간마다 초기화되고 주간 한도가 있으며 월 $20부터, Imagera 계정 필요
+    - [Imagera Code <sub>EN, $</sub>](https://imagera.ai/code) - 터미널에서 실행하는 AI 코딩 에이전트. 프로젝트 코드를 읽고 수정하며 명령과 테스트를 실행하고, 한 구독으로 Claude·GPT·Gemini 등 여러 제공사의 코딩 모델 사용. 주간 사용 한도가 있으며 한도 초과 추가 사용은 크레딧 과금, 월 $20부터. Imagera 계정 필요
 
   - <span id="ai-design-tools">디자인 도구</span>
     - [Canva AI <sub>F, $</sub>](https://www.canva.com/ai-image-generator/) - AI 이미지 생성 및 디자인 도구
