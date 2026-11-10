@@ -239,6 +239,7 @@
     - [AI Router <sub>KR, $</sub>](https://ai-router.dev/ko) - 제3자가 운영하는 OpenAI 호환 API 게이트웨이. 키의 종류와 데이터 처리 정책은 사용 전 별도 확인 필요
     - [PlaceCall <sub>EN, $</sub>](https://voygr.tech/placecall/) - AI 에이전트가 미국 업체에 실제 전화를 걸어 예약·문의·견적을 처리하고 통화 결과와 녹취록을 돌려받는 REST API·원격 MCP 서버. 계정 필요(API 키 또는 MCP OAuth 로그인), 미국 번호만 지원, 통화 녹음·녹취록은 제공사 서버에 저장됨
     - [Jvlang AI (巨浪 AI) <sub>F, $</sub>](https://jvlangai.com/) - 중국어 사용자를 위한 LLM API 공개 견적 조회. 제공사별 그룹·과금 단위·수집 시각·원문 링크를 확인할 때 사용. 조회는 로그인·API 키 없이 무료이며 비공개 소스의 웹 서비스로, 별도 후원·충전 상담은 유료. 수집 가격은 실제 호출 검증이나 제공사 신뢰도 보증이 아님. 제작자 기여.
+    - [UberLLM <sub>EN, $</sub>](https://uberllm.dev/) - 텍스트·이미지·영상·음악 모델을 API 키 하나로 호출하는 OpenAI·Anthropic 호환 API 게이트웨이. 모델은 제3자 공급자가 실행하며 요청이 그 공급자로 전송됨. 계정과 선불 충전 필요(최소 $5, 무료 플랜 없음), 모델별 가격은 공개 목록(uberllm.dev/models)에서 확인. 요청·응답은 제공사 서버에 90일 보관 후 삭제. 제작자 기여.
 
   - <span id="ai-agent">에이전트 & 프레임워크</span>
     - [LangChain <sub>F, O</sub>](https://www.langchain.com) - LLM 애플리케이션 개발 프레임워크
