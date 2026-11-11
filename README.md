@@ -585,6 +585,7 @@
     - [Nutilz <sub>EN, F</sub>](https://nutilz.com/) - 정규식 테스트·JSON 포맷 등 개발 보조 유틸리티. 도구에 따라 서버 처리가 포함되므로 업로드 여부 확인 필요
     - [imgmov Last Frame Extractor <sub>EN, F</sub>](https://imgmov.com/extract-last-frame-from-video) - Browser tool for saving a video's ending frame as a PNG for demo references or bug reports. No account or video upload; clips up to 512 MB and two minutes, subject to browser codec support.
     - [cv.cm JWT Decoder <sub>KR, EN, F, O</sub>](https://cv.cm/ko/jwt/) - 인증 디버깅 때 JWT의 헤더와 페이로드를 브라우저 안에서 읽는 무료 도구. 계정이 필요 없고 토큰을 전송하지 않음. 서명은 검증하지 않으며 페이지에 Google Analytics가 있음
+    - [Nyxiontech PDF Tools <sub>EN, F, O</sub>](https://tools.nyxiontech.com) - PDF 병합·분할·압축·서명·OCR과 이미지 변환을 브라우저에서 처리하는 무료 도구 모음. 파일을 업로드하지 않고 계정이 필요 없으며, 코드는 AGPL-3.0 라이선스로 공개
 
   - <span id="search-tool">Search</span>
     - [Google](https://www.google.com/) - 검색 엔진
