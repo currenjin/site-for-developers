@@ -581,6 +581,7 @@
     - [BrewPage <sub>EN, F</sub>](https://brewpage.app/) - HTML·Markdown·파일을 붙여넣거나 업로드하면 공유용 HTTPS 링크로 게시하는 호스팅. REST API와 원격 MCP 서버로 AI 에이전트도 직접 게시 가능. 계정 불필요, 게시물은 기본 15일 후 만료(최대 30일, 무료 프로필 90일), 페이지·파일당 5MB. 데이터는 제공사 서버에 저장됨
 
   - <span id="online-utilities">Online Utilities</span>
+    - [KaijuConverter <sub>EN, F</sub>](https://kaijuconverter.com/) - 100개 이상의 문서(PDF, Word, Markdown), 이미지, 오디오, 비디오 포맷을 브라우저에서 초고속으로 변환하는 온라인 유틸리티 및 개발자 API
     - [All Tools Verse <sub>EN, F</sub>](https://alltoolsverse.com/) - 파일·이미지·텍스트·데이터 변환 등 브라우저 도구 모음
     - [A Box of Tools <sub>KR, F, O</sub>](https://abox.tools/ko/) - 이미지·영상·오디오·PDF·텍스트를 처리하는 브라우저 도구 모음. 코드는 MIT 라이선스로 공개
     - [Stayput <sub>EN, F, O</sub>](https://stayput.dev) - 이미지·PDF·오디오·영상 파일을 브라우저에서 처리하는 무료 도구 모음. 파일을 업로드하지 않고 계정이 필요 없으며, 코드는 MIT 라이선스로 공개
