@@ -242,6 +242,7 @@
     - [UberLLM <sub>EN, $</sub>](https://uberllm.dev/) - 텍스트·이미지·영상·음악 모델을 API 키 하나로 호출하는 OpenAI·Anthropic 호환 API 게이트웨이. 모델은 제3자 공급자가 실행하며 요청이 그 공급자로 전송됨. 계정과 선불 충전 필요(최소 $5, 무료 플랜 없음), 모델별 가격은 공개 목록(uberllm.dev/models)에서 확인. 요청·응답은 제공사 서버에 90일 보관 후 삭제. 제작자 기여.
     - [CloudGPU <sub>EN, $</sub>](https://cloudgpu.app) - RTX 4090/5090 GPU 대여와 OpenAI 호환 모델 API를 제공하는 웹 서비스. 학습·추론·ComfyUI 작업에 사용. REST와 MCP 도구로 GPU 작업을 요청할 수 있으나, 과금되는 인스턴스 시작은 확인 절차가 필요함. 계정과 API 키(또는 브라우저에서 사용 한도를 설정하는 연결 흐름)가 필요하며 무료 플랜은 없음. 요금은 공식 가격 페이지에서 확인. 작업 파일과 프롬프트는 CloudGPU API로 전송됨. 제작자 기여.
     - [Models Rank <sub>EN, F, O</sub>](https://modelsrank.org/en/) - 주요 AI 모델을 지능·속도·비용 세 가지로만 비교하는 최소한의 리더보드. Artificial Analysis 등 제3자 공개 평가를 모아 주 1회 갱신하며 자체 벤치마크는 하지 않음. 로그인·API 키 없이 무료, 사이트 코드는 MIT(평가 데이터는 각 출처 약관 적용). 제작자 기여.
+    - [AIHOT API Pricing <sub>F</sub>](https://aihot.news/leaderboard/prices) - 중국어로 제공되는 모델 API 가격 비교표. 입력·출력·캐시 적중 가격을 각각 비교하며, 백만 토큰당 위안화와 공급사의 원래 표기를 함께 확인할 수 있음. 로그인과 API 키 없이 열람 가능. 제작자 기여.
 
   - <span id="ai-agent">에이전트 & 프레임워크</span>
     - [LangChain <sub>F, O</sub>](https://www.langchain.com) - LLM 애플리케이션 개발 프레임워크
