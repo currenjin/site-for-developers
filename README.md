@@ -649,6 +649,7 @@
     - [0to255](https://0to255.com/) - 유사 색상의 음영도 확인 도구
     - [msaez](https://www.msaez.io/) - 마이크로서비스 아키텍처 다이어그램 작성 도구
     - [APPLORE <sub>KR, F, $</sub>](https://applore.app/ko/app-icon-generator) - 이미지 한 장으로 iOS·Android(적응형)·웹 앱 아이콘 전체 크기를 ZIP으로 내보내는 도구. 실제 앱 아이콘 18,000개 이상 레퍼런스 라이브러리 포함 (아이콘 내보내기 무료, 일부 기능 유료)
+    - [Iconito <sub>EN, F, $</sub>](https://iconi.to) - 음식·요리 아이콘 900개 이상을 같은 스타일로 모은 라이브러리. 앱·웹·메뉴판용 (아이콘별 PNG 하루 1개 무료·이메일 필요, MIT 라이선스 SVG 120개 무료, 나머지 SVG는 유료 팩·Pro)
 
 
   - <span id="backend-framework-tool">Backend Framework</span>
