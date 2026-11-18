@@ -664,6 +664,7 @@
 
   - <span id="testing-tool">Testing</span>
     - [JUnit User Guide <sub>EN</sub>](https://docs.junit.org/current/user-guide/) - Java·JVM 테스트 작성·실행을 위한 현행 JUnit 가이드
+    - [Spoof Me <sub>KR, EN, F</sub>](https://spoof-me.com/) - 브라우저의 User-Agent·Accept-Language·시간대·화면 정보를 하나의 기기·지역 프로필로 바꿔 다른 국가·언어·기기 사용자 환경에서 사이트를 확인하는 Chrome·Firefox 확장 프로그램. 계정 없이 무료이며 프리셋 제공. 소스 비공개
 
   - <span id="ide">IDE</span>
     - <span id="jetbrains">Jetbrains</span>
