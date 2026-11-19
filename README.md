@@ -590,6 +590,7 @@
     - [imgmov Last Frame Extractor <sub>EN, F</sub>](https://imgmov.com/extract-last-frame-from-video) - Browser tool for saving a video's ending frame as a PNG for demo references or bug reports. No account or video upload; clips up to 512 MB and two minutes, subject to browser codec support.
     - [cv.cm JWT Decoder <sub>KR, EN, F, O</sub>](https://cv.cm/ko/jwt/) - 인증 디버깅 때 JWT의 헤더와 페이로드를 브라우저 안에서 읽는 무료 도구. 계정이 필요 없고 토큰을 전송하지 않음. 서명은 검증하지 않으며 페이지에 Google Analytics가 있음
     - [Nyxiontech PDF Tools <sub>EN, F, O</sub>](https://tools.nyxiontech.com) - PDF 병합·분할·압축·서명·OCR과 이미지 변환을 브라우저에서 처리하는 무료 도구 모음. 파일을 업로드하지 않고 계정이 필요 없으며, 코드는 AGPL-3.0 라이선스로 공개
+    - [KaijuConverter <sub>EN, F, $</sub>](https://kaijuconverter.com/) - 문서·이미지·오디오·비디오·데이터 포맷 변환 웹 도구와 REST API. 일부 이미지(JPG·PNG·WebP·BMP·SVG → JPG·PNG·WebP)·CSV↔JSON·SRT↔VTT는 브라우저 로컬에서 처리하고, PDF·Office·RAW/HEIC·오디오·비디오·바이트 단위 압축과 API 작업은 서버에 업로드해 처리함(보관·삭제 기준은 개인정보처리방침 참고). 웹 기본 변환은 계정 없이 무료(파일당 15MB·일 5회, 브라우저 로컬 모드는 최대 100MB), 대용량·일괄 변환·일부 전문 포맷과 고할당량 REST API(계정·API 키 필요)는 단건 패스·유료 구독 제공. 제작자 기여
 
   - <span id="search-tool">Search</span>
     - [Google](https://www.google.com/) - 검색 엔진
