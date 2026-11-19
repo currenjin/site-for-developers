@@ -242,6 +242,7 @@
     - [UberLLM <sub>EN, $</sub>](https://uberllm.dev/) - 텍스트·이미지·영상·음악 모델을 API 키 하나로 호출하는 OpenAI·Anthropic 호환 API 게이트웨이. 모델은 제3자 공급자가 실행하며 요청이 그 공급자로 전송됨. 계정과 선불 충전 필요(최소 $5, 무료 플랜 없음), 모델별 가격은 공개 목록(uberllm.dev/models)에서 확인. 요청·응답은 제공사 서버에 90일 보관 후 삭제. 제작자 기여.
     - [CloudGPU <sub>EN, $</sub>](https://cloudgpu.app) - RTX 4090/5090 GPU 대여와 OpenAI 호환 모델 API를 제공하는 웹 서비스. 학습·추론·ComfyUI 작업에 사용. REST와 MCP 도구로 GPU 작업을 요청할 수 있으나, 과금되는 인스턴스 시작은 확인 절차가 필요함. 계정과 API 키(또는 브라우저에서 사용 한도를 설정하는 연결 흐름)가 필요하며 무료 플랜은 없음. 요금은 공식 가격 페이지에서 확인. 작업 파일과 프롬프트는 CloudGPU API로 전송됨. 제작자 기여.
     - [Models Rank <sub>EN, F, O</sub>](https://modelsrank.org/en/) - 주요 AI 모델을 지능·속도·비용 세 가지로만 비교하는 최소한의 리더보드. Artificial Analysis 등 제3자 공개 평가를 모아 주 1회 갱신하며 자체 벤치마크는 하지 않음. 로그인·API 키 없이 무료, 사이트 코드는 MIT(평가 데이터는 각 출처 약관 적용). 제작자 기여.
+    - [GetYouTubeTranscript API <sub>EN, $</sub>](https://getyoutubetranscript.com/docs) - YouTube 영상 자막(타임스탬프 선택)·자막 언어 목록·영상/채널 검색·채널/재생목록 영상 목록을 가져오는 REST API와 원격 MCP 서버. RAG·에이전트에 YouTube 내용을 넣을 때 사용. 계정 필요(API 키 또는 MCP OAuth 로그인), 가입 시 100 크레딧 제공 후 유료, 영상에 자막이 없으면 결과 없음
 
   - <span id="ai-agent">에이전트 & 프레임워크</span>
     - [LangChain <sub>F, O</sub>](https://www.langchain.com) - LLM 애플리케이션 개발 프레임워크
@@ -579,6 +580,7 @@
     - [SiftingIO <sub>EN, F, $</sub>](https://sifting.io/docs) - 미국 주식·ETF, 외환, 원자재·암호화폐의 실시간 데이터를 REST·WebSocket으로, 과거 데이터를 REST로 조회하는 시장 데이터 API. 계정·API 키 필요. 내부·비상업적 평가용 한도형 무료 플랜과 유료 플랜 제공
     - [LogBrew <sub>EN, F, $</sub>](https://logbrew.co/en) - 오류 추적·로그·트레이스·메트릭을 한곳에서 보는 호스팅 모니터링 서비스. OpenTelemetry 데이터를 받으며, 원격 MCP 서버로 코딩 에이전트가 승인한 프로젝트의 이슈와 로그를 읽음(쓰기는 허용한 경우에만). 계정 필요(GitHub·GitLab·Bitbucket·Google 로그인), 무료 플랜은 카드 없이 월 오류 10만 건·로그 50GB·스팬 5천만 개, 보존 기간 30일. 데이터는 제공사 서버에 저장됨
     - [BrewPage <sub>EN, F</sub>](https://brewpage.app/) - HTML·Markdown·파일을 붙여넣거나 업로드하면 공유용 HTTPS 링크로 게시하는 호스팅. REST API와 원격 MCP 서버로 AI 에이전트도 직접 게시 가능. 계정 불필요, 게시물은 기본 15일 후 만료(최대 30일, 무료 프로필 90일), 페이지·파일당 5MB. 데이터는 제공사 서버에 저장됨
+    - [Buddy <sub>EN, F, $</sub>](https://buddy.works) - 빌드·테스트·배포 파이프라인과 격리된 Linux VM 샌드박스를 제공하는 호스팅 서비스. 원격 MCP 서버(OAuth 또는 개인 액세스 토큰)와 `bdy` CLI로 AI 에이전트가 파이프라인 실행, 샌드박스 생성, 로그 조회를 직접 수행. 계정 필요, 무료 플랜은 1인·동시 실행 2개·월 $1 사용량 크레딧(소진 시 갱신 전까지 실행 중지), 60일간 활동이 없는 무료 워크스페이스는 동결 후 30일 뒤 삭제. 코드·아티팩트·로그는 제공사 서버(AWS)에 저장됨
 
   - <span id="online-utilities">Online Utilities</span>
     - [All Tools Verse <sub>EN, F</sub>](https://alltoolsverse.com/) - 파일·이미지·텍스트·데이터 변환 등 브라우저 도구 모음
@@ -588,6 +590,7 @@
     - [imgmov Last Frame Extractor <sub>EN, F</sub>](https://imgmov.com/extract-last-frame-from-video) - Browser tool for saving a video's ending frame as a PNG for demo references or bug reports. No account or video upload; clips up to 512 MB and two minutes, subject to browser codec support.
     - [cv.cm JWT Decoder <sub>KR, EN, F, O</sub>](https://cv.cm/ko/jwt/) - 인증 디버깅 때 JWT의 헤더와 페이로드를 브라우저 안에서 읽는 무료 도구. 계정이 필요 없고 토큰을 전송하지 않음. 서명은 검증하지 않으며 페이지에 Google Analytics가 있음
     - [Nyxiontech PDF Tools <sub>EN, F, O</sub>](https://tools.nyxiontech.com) - PDF 병합·분할·압축·서명·OCR과 이미지 변환을 브라우저에서 처리하는 무료 도구 모음. 파일을 업로드하지 않고 계정이 필요 없으며, 코드는 AGPL-3.0 라이선스로 공개
+    - [KaijuConverter <sub>EN, F, $</sub>](https://kaijuconverter.com/) - 문서·이미지·오디오·비디오·데이터 포맷 변환 웹 도구와 REST API. 일부 이미지(JPG·PNG·WebP·BMP·SVG → JPG·PNG·WebP)·CSV↔JSON·SRT↔VTT는 브라우저 로컬에서 처리하고, 일부 변환과 API 작업은 파일을 서버에 업로드해 처리함(보관·삭제 기준은 개인정보처리방침 참고). 웹 기본 변환은 계정 없이 무료(파일당 15MB·일 5회, 브라우저 로컬 모드는 최대 100MB), 대용량·일괄 변환·일부 전문 포맷과 고할당량 REST API(계정·API 키 필요)는 단건 패스·유료 구독 제공. 제작자 기여
     - [Mdpresso <sub>EN, F</sub>](https://mdpresso.com/) - PDF를 범위 또는 개별 페이지로 나누고 원하는 페이지만 추출하는 브라우저 도구. 계정 없이 사용하며 파일은 브라우저에서 처리
 
   - <span id="search-tool">Search</span>
@@ -650,6 +653,7 @@
     - [0to255](https://0to255.com/) - 유사 색상의 음영도 확인 도구
     - [msaez](https://www.msaez.io/) - 마이크로서비스 아키텍처 다이어그램 작성 도구
     - [APPLORE <sub>KR, F, $</sub>](https://applore.app/ko/app-icon-generator) - 이미지 한 장으로 iOS·Android(적응형)·웹 앱 아이콘 전체 크기를 ZIP으로 내보내는 도구. 실제 앱 아이콘 18,000개 이상 레퍼런스 라이브러리 포함 (아이콘 내보내기 무료, 일부 기능 유료)
+    - [Iconito <sub>EN, F, $</sub>](https://iconi.to) - 음식·요리 아이콘 900개 이상을 같은 스타일로 모은 라이브러리. 앱·웹·메뉴판용 (아이콘별 PNG 하루 1개 무료·이메일 필요, MIT 라이선스 SVG 120개 무료, 나머지 SVG는 유료 팩·Pro)
 
 
   - <span id="backend-framework-tool">Backend Framework</span>
@@ -664,6 +668,7 @@
 
   - <span id="testing-tool">Testing</span>
     - [JUnit User Guide <sub>EN</sub>](https://docs.junit.org/current/user-guide/) - Java·JVM 테스트 작성·실행을 위한 현행 JUnit 가이드
+    - [Spoof Me <sub>KR, EN, F</sub>](https://spoof-me.com/) - 브라우저의 User-Agent·Accept-Language·시간대·화면 정보를 하나의 기기·지역 프로필로 바꿔 다른 국가·언어·기기 사용자 환경에서 사이트를 확인하는 Chrome·Firefox 확장 프로그램. 계정 없이 무료이며 프리셋 제공. 소스 비공개
 
   - <span id="ide">IDE</span>
     - <span id="jetbrains">Jetbrains</span>
@@ -702,6 +707,7 @@
     - [Let's Encrypt](https://letsencrypt.org/ko/) - 무료 SSL/TLS 인증서 발급 사이트
     - [Online Mini Tools <sub>EN</sub>](https://onlineminitools.com) - 개발자를 위한 2,300여 개의 무료 브라우저 도구 모음. JSON·XML 포맷터, 인코더, 검증 도구, CSS·색상 생성기, 변환기, 계산기를 제공하며 대부분 브라우저에서 로컬로 실행되고 계정이 필요하지 않습니다.
     - [vhr-bench <sub>EN, F, O</sub>](https://github.com/vpshostreview/vhr-vps-benchmark) - Linux 서버의 CPU·메모리(sysbench)와 디스크 4K 랜덤 읽기/쓰기 IOPS(fio)를 약 1분 만에 측정하는 MIT 라이선스 단일 Bash 스크립트. sysbench·fio 설치 전에 확인을 요청하고, 업로드 토큰을 지정하지 않으면 결과를 외부로 보내지 않으며, --cleanup 옵션으로 스크립트가 설치한 패키지를 제거함
+    - [HumanPen <sub>EN, $</sub>](https://humanpen.net) - 문서 번역·인용 형식 변환·분량 축소·문장 재작성을 제공하는 서비스. [MCP 서버](https://github.com/humanpen/humanpen-mcp)로 에이전트와 연동 가능. 계정과 API 키가 필요하며 가입 시 무료 크레딧 제공, API 작업은 크레딧 과금. 문서는 서비스에 업로드되므로 민감 자료 사용 전 정책 확인. 제작자 측 기여.
     - [ImagineYourBook <sub>EN, $</sub>](https://www.imagineyourbook.com/) - 공개 기술 글·강의 노트나 업로드 권한이 확인된 자료(Word·Markdown·텍스트 업로드)를 바탕으로 장별 기술 전자책·학습 가이드 초안(5,000~120,000 단어)을 만들고 Word·EPUB로 내보내는 AI 책 작성 서비스. 계정 필요. 7일 체험은 카드 등록 후 미취소 시 유료 전환. 자료는 서버에서 처리하므로 기밀 문서 업로드 전 정책 확인, 코드 예제와 기술 내용은 직접 검토 필요
 
 ---
