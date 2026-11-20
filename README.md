@@ -243,7 +243,7 @@
     - [CloudGPU <sub>EN, $</sub>](https://cloudgpu.app) - RTX 4090/5090 GPU 대여와 OpenAI 호환 모델 API를 제공하는 웹 서비스. 학습·추론·ComfyUI 작업에 사용. REST와 MCP 도구로 GPU 작업을 요청할 수 있으나, 과금되는 인스턴스 시작은 확인 절차가 필요함. 계정과 API 키(또는 브라우저에서 사용 한도를 설정하는 연결 흐름)가 필요하며 무료 플랜은 없음. 요금은 공식 가격 페이지에서 확인. 작업 파일과 프롬프트는 CloudGPU API로 전송됨. 제작자 기여.
     - [Models Rank <sub>EN, F, O</sub>](https://modelsrank.org/en/) - 주요 AI 모델을 지능·속도·비용 세 가지로만 비교하는 최소한의 리더보드. Artificial Analysis 등 제3자 공개 평가를 모아 주 1회 갱신하며 자체 벤치마크는 하지 않음. 로그인·API 키 없이 무료, 사이트 코드는 MIT(평가 데이터는 각 출처 약관 적용). 제작자 기여.
     - [GetYouTubeTranscript API <sub>EN, $</sub>](https://getyoutubetranscript.com/docs) - YouTube 영상 자막(타임스탬프 선택)·자막 언어 목록·영상/채널 검색·채널/재생목록 영상 목록을 가져오는 REST API와 원격 MCP 서버. RAG·에이전트에 YouTube 내용을 넣을 때 사용. 계정 필요(API 키 또는 MCP OAuth 로그인), 가입 시 100 크레딧 제공 후 유료, 영상에 자막이 없으면 결과 없음
-    - [Agentik <sub>EN, $</sub>](https://www.agentik.cc) - Claude·ChatGPT·Codex·Cursor 같은 에이전트가 MCP 연결 하나(또는 REST)로 제3자 제공사의 도구(웹 검색, 페이지 읽기, SEO, 공개 데이터, 이미지·영상 생성 등)를 찾고, 실행 전에 입력 스키마와 가격을 확인한 뒤 호출하는 호스팅 서비스. 도구 탐색·조회는 공개, 실행은 계정과 선불 잔액 필요(호출은 제공사 가격, 충전 시 플랫폼 수수료). 요청은 Agentik과 선택한 제공사로 전송됨. 서비스 본체는 비공개 소스이며 SDK·CLI·플러그인은 MIT. 제작자 기여.
+    - [Agentik <sub>EN, F, $</sub>](https://www.agentik.cc) - Claude·ChatGPT·Codex·Cursor 같은 에이전트가 MCP 연결 하나(또는 REST)로 제3자 제공사의 도구(웹 검색, 페이지 읽기, SEO, 공개 데이터, 이미지·영상 생성 등)를 찾고, 실행 전에 입력 스키마와 가격을 확인한 뒤 호출하는 호스팅 서비스. 도구 탐색·조회는 공개. 실행은 인증된 워크스페이스가 필요하며, 가격 0인 무료 도구는 충전하지 않은 워크스페이스에서도 일일 허용량 안에서 실행 가능하고, 선불 잔액은 유료 도구에만 필요(호출은 제공사 가격, 충전 시 플랫폼 수수료). 요청은 Agentik과 선택한 제공사로 전송됨. 서비스 본체는 비공개 소스이며 SDK·CLI·플러그인은 MIT. 제작자 기여.
 
   - <span id="ai-agent">에이전트 & 프레임워크</span>
     - [LangChain <sub>F, O</sub>](https://www.langchain.com) - LLM 애플리케이션 개발 프레임워크
