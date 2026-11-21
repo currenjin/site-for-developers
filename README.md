@@ -252,6 +252,7 @@
     - [AutoGen <sub>F, O</sub>](https://microsoft.github.io/autogen) - Microsoft의 멀티 에이전트 대화 프레임워크
     - [n8n <sub>F, $</sub>](https://n8n.io) - 소스가 공개된 워크플로우 자동화 도구. Sustainable Use License의 사용 제한이 있는 셀프호스팅과 유료 Cloud를 제공하며 OSI 오픈소스와 구분
     - [Vercel AI SDK <sub>F, O</sub>](https://sdk.vercel.ai) - Next.js 등 웹 앱에 AI 기능을 빠르게 통합하는 SDK
+    - [No Stairs Please MCP <sub>EN, F</sub>](https://nostairsplease.com/mcp) - 북미 400석 이하 라이브 음악 공연장 검색 및 부킹용 원격 MCP 서버
 
   - <span id="ai-local-tools">로컬 AI 도구</span>
     - [Ollama <sub>F, O</sub>](https://ollama.ai/) - 로컬 환경에서 다양한 오픈소스 AI 모델을 쉽게 실행할 수 있는 도구
