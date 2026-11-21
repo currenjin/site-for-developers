@@ -511,6 +511,7 @@
 - <span id="collection-of-data">자료모음 🧾</span>
 
   - [팔만코딩경 <sub>KR</sub>](https://80000coding.oopy.io/) - 개발 관련 자료모음
+  - [资料星球 · AI 학습 자료 모음](https://resources.packscena.com/categories/ai/) - 중국어 프롬프트 예제와 AI 개발 입문 자료를 주제별로 찾아보는 색인. 파일 수령 방식은 각 상세 페이지에 표시합니다. 제작자 기여.
   - [토리맘의 한글라이즈 프로젝트 <sub>KR</sub>](https://godekdls.github.io/) - Spring Boot 한글 번역 문서
   - [Google Labs <sub>EN</sub>](https://labs.google/) - Google 실험실
 
