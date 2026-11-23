@@ -637,6 +637,7 @@
   - <span id="regex">정규 표현식</span>
     - [Regex101](https://regex101.com) - 온라인 정규 표현식 학습 및 테스트
     - [Regexr](https://regexr.com) - 온라인 정규 표현식 도구
+    - [Regex Tester <sub>EN, F</sub>](https://bestlatestapps.com/tools/regex-tester/) - JavaScript 정규식을 텍스트에 바로 적용해 보는 브라우저 도구. 일치 항목 강조, 캡처·이름 있는 그룹 표, 치환 미리보기 제공. 계정 없이 무료이며 사이트에 광고가 표시됨. 제작자 기여
 
   - <span id="design-tool">Design</span>
     - [Figma <sub>$</sub>](https://figma.com) - UI/UX 디자인 및 프로토타이핑 도구
