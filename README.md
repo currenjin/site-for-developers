@@ -211,6 +211,7 @@
     - [Canva AI <sub>F, $</sub>](https://www.canva.com/ai-image-generator/) - AI 이미지 생성 및 디자인 도구
     - [Figma AI <sub>$</sub>](https://www.figma.com/ai/) - Figma의 AI 기반 디자인 도구
     - [Galileo AI <sub>$</sub>](https://www.usegalileo.ai) - 텍스트 입력을 활용한 UI 디자인 생성 도구
+    - [Kite <sub>EN, F, $</sub>](https://kite.new) - Claude·ChatGPT·Cursor·Codex 같은 AI 에이전트가 원격 MCP 서버로 팀과 같은 파일에 편집 가능한 레이어(프레임, 텍스트, 컴포넌트, 오토 레이아웃)를 그리는 디자인 도구. 프레임을 HTML·React·Tailwind로 복사 가능. 계정 필요, 무료 플랜은 파일 3개·에이전트 작업 하루 100회 제한
     - [Locofy <sub>F, $</sub>](https://www.locofy.ai) - 디자인을 프론트엔드 코드로 변환하는 AI 도구
 
   - <span id="conversational-ai">대화형 AI</span>
