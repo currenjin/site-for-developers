@@ -444,6 +444,7 @@
     - [코딩도장 <sub>KR</sub>](https://codingdojang.com) - 프로그래밍 문제풀이를 통해서 코딩 실력을 수련
     - [LeetCode <sub>EN, $</sub>](https://leetcode.com/) - 알고리즘 문제 풀이와 기술 면접 대비를 위한 연습 플랫폼
     - [solved.ac <sub>KR</sub>](https://solved.ac) - 알고리즘 문제해결 학습의 이정표 Baekjoon Online Judge 문제들의 난이도 및 티어 정보를 제공하는 사이트
+    - [Aethel <sub>EN, F, $</sub>](https://aethel.pro/practice) - 개발 직무와 레벨별 AI 면접 연습, 답변마다 바로 확인 (연습은 무료, 계정 불필요; 유료는 채용팀용)
 
 - <span id="blog">블로그 📚</span>
   - <span id="team-blog">팀 블로그</span>
