@@ -271,6 +271,7 @@
     - [DSH Studio <sub>EN, F, O</sub>](https://github.com/Moresyl/dsh-studio) - DeepSeek Harness를 설치·실행·감독하는 데스크톱 앱. 로컬 앱 실행과 모델의 로컬/오프라인 실행은 다르며 모델 제공자 비용은 별도 확인
     - [Frink <sub>EN, F, O</sub>](https://frink.dev) - AI 코딩 에이전트를 시각적 워크플로우로 실행하는 데스크톱 앱. 티켓·오류·일정에 따라 에이전트가 작업하고 변경 전에 먼저 확인을 요청하며, Claude Code, Codex, OpenCode, GitHub Copilot, Cursor와 함께 사용. MIT 라이선스, macOS·Linux 로컬 실행. 모델 제공자 비용은 별도
     - [Orbi <sub>EN, F, $, O</sub>](https://orbi.build/?ref=dir-site-for-developers) - GitHub Issue에 ai-ready 라벨을 붙이면 격리된 작업 공간에서 구현·테스트 후 PR을 만들고, 별도 AI 세션 리뷰를 거쳐 머지하는 오픈소스(AGPL-3.0) 도구 (자체 호스팅 무료, Orbi Cloud 유료)
+    - [Sandscale <sub>EN, F, $</sub>](https://sandscale.dev) - AI 코딩 에이전트 실행마다 별도의 Firecracker microVM 샌드박스를 제공하는 호스팅 서비스. 원격 MCP 서버·CLI·TypeScript SDK로 사용하고 도구별 허용/확인/거부 정책, 승인, 감사 로그를 지원. 계정 필요, 깨어 있는 vCPU 시간 단위 과금이며 무료 플랜은 월 100 vCPU 시간
 
 - <span id="document">문서 📃</span>
 
