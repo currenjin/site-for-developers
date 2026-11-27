@@ -607,6 +607,8 @@
     - [Fast.com <sub>F</sub>](https://fast.com/ko/) - 넷플릭스에서 제공하는 인터넷 속도 측정기 (브라우저)
     - [ZoneBI <sub>KR, EN, F, $</sub>](https://zonebi.com/ko/) - 도메인 만료·DNS·SSL 인증서·사이트 가동·메일 설정(SPF·DKIM·DMARC)·Spamhaus 블랙리스트를 외부에서 점검하고 고칠 점을 알려주는 모니터링 서비스. 첫 화면의 간이 진단은 계정 없이 사용 가능하고, 감시 등록은 계정(이메일) 필요. 무료 플랜은 카드 없이 도메인 3개·5분 간격 점검, 유료 플랜은 더 많은 도메인, 더 짧은 점검 간격, SMS 알림을 제공. 데이터는 일본의 서버에 저장됨. 제작자 기여
 
+    - [InboxShield <sub>EN, F, $</sub>](https://inbox.shipbastion.com/) - 발신 도메인의 SPF(10회 DNS 조회 트리 및 무료 평탄화), 24종 DKIM 셀렉터, DMARC(RFC 7489), MTA-STS, TLS-RPT, BIMI 및 5종 DNSBL 블랙리스트를 계정 없이 외부에서 즉시 점검하는 이메일 전달성 진단 도구. 읽기 전용 단건 진단·SPF 평탄화·MIT CLI는 무료이며, 5개 레지스트라 맞춤 수정 레코드·50도메인 일괄 CSV·A4 PDF는 일회성 유료(구독 없음). 제작자 기여
+
   - <span id="git-tool">Git</span>
     - [Gitmoji](https://gitmoji.dev) - 깃 커밋 이모지 모음
     - [GitHub <sub>$</sub>](https://github.com) - Git 플랫폼
